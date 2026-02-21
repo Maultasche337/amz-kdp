@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "book_id": "test_001",
+    "author_pen_name": "Maja Sternberg",
+    "standalone_or_series": "standalone"
+  },
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Cozy",
+    "target_length_chapters": 20
+  },
+  "tropes": [
+    "Second Chance",
+    "Grumpy Sunshine",
+    "Small Town Return"
+  ],
+  "setting": {
+    "type": "Small Town",
+    "description": "Kleines Alpendorf in Österreich (Tirol), Spätsommer / Herbst, Gegenwart"
+  },
+  "protagonist": {
+    "age_range": "51-54",
+    "special_characteristics": [
+      "Geschieden nach 25 Jahren",
+      "Gibt ihren Stadtjob auf und zieht aufs Land",
+      "Hat eine erwachsene Tochter"
+    ],
+    "gender": "Frau"
+  },
+  "love_interest": {
+    "age_range": "55-58",
+    "archetype": "Grumpy but kind — Witwer, Bergbauer, verschlossen aber loyal"
+  },
+  "additional_notes": "Zielgruppe: Frauen 40+. Kein expliziter Inhalt. Warme, humorvolle Sprache mit leichter Melancholie. HEA-Ending (Happily Ever After). Tiroler Lokalkolorit (Dialekt-Einsprengsel, Natur, Jahreszeiten). Nebenfigur: eigensinnige alte Dorfwirtin als Comic-Relief."
+}

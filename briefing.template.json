@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "book_id": "buch_001",
+    "author_pen_name": "Lisa Berger",
+    "standalone_or_series": "standalone"
+  },
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Cozy",
+    "target_length_chapters": 20
+  },
+  "tropes": [
+    "Age Gap",
+    "Enemies to Lovers",
+    "Second Chance"
+  ],
+  "setting": {
+    "type": "Small Town",
+    "description": "Kleines bayerisches Dorf, Gegenwart"
+  },
+  "protagonist": {
+    "age_range": "48-55",
+    "special_characteristics": ["Neurodivergent (ADHS)", "Wiedereinsteigerin ins Berufsleben"],
+    "gender": "Frau"
+  },
+  "love_interest": {
+    "age_range": "35-42",
+    "archetype": "Grumpy but kind"
+  },
+  "additional_notes": "Zielgruppe: Frauen 40+. Kein expliziter Inhalt. Warme, humorvolle Sprache. HEA-Ending (Happily Ever After)."
+}
