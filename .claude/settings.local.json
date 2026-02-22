@@ -5,7 +5,8 @@
       "Bash(python3:*)",
       "Bash(tr ' ,.;:!?\"\"\\(\\)' '\\\\n')",
       "Bash(cat:*)",
-      "Bash(echo === $f ===:*)"
+      "Bash(echo === $f ===:*)",
+      "WebSearch"
     ]
   }
 }
