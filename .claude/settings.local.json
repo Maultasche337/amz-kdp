@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(tr ' ,.;:!?\"\"\\(\\)' '\\\\n')",
+      "Bash(cat:*)",
+      "Bash(echo === $f ===:*)"
     ]
   }
 }
