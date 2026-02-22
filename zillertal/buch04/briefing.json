@@ -1,0 +1,158 @@
+{
+  "book_id": "zillertal_buch04",
+  "series": {
+    "name": "Zillertal-Herzen",
+    "book_number": 4,
+    "previous_books": [
+      {
+        "title": "Wo die Lärchen schweigen",
+        "protagonists": ["Irene Holzner (52)", "Markus Unteregger (57)"],
+        "setting": "Herbst"
+      },
+      {
+        "title": "Solange der Schnee liegt",
+        "protagonists": ["Luise Gamper (36)", "Stefan Brandner (38)"],
+        "setting": "Winter"
+      },
+      {
+        "title": "Wenn die Kirschen blühen",
+        "protagonists": ["Rosina Gamper (74)", "Heinrich Moser (76)"],
+        "setting": "Frühling"
+      }
+    ]
+  },
+  "pseudonym": "Maja Sternberg",
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Cozy/Heimatroman mit Comedy-Elementen",
+    "target_audience": "Frauen 40+",
+    "reading_context": "Kindle Unlimited, abends, Wohlfühl-Lektüre",
+    "unique_angle": "Erster männlicher Protagonist der Serie, Heimkehrer mit Teenagern"
+  },
+  "setting": {
+    "type": "Bergdorf Tirol",
+    "location": "Untergamping, fiktives Dorf im Zillertal",
+    "time": "Gegenwart, Sommer (Schulferien)",
+    "atmosphere": "Sommerwiesen, Bergseen, Almhütten, Wanderungen, Sommer vs. Winter-Kontrast"
+  },
+  "protagonist": {
+    "name": "Jonas Egger",
+    "age": 40,
+    "origin": "Aufgewachsen in Untergamping, mit 20 weggezogen",
+    "current_life": "Lebt in München, arbeitet als Architekt, geschieden seit 3 Jahren",
+    "children": [
+      {"name": "Lena", "age": 16, "personality": "Klug, sarkastisch, steckt in der rebellischen Phase"},
+      {"name": "Max", "age": 14, "personality": "Gamer, introvertiert, vermisst seine Mutter"}
+    ],
+    "core_wound": "Hat das Dorf verlassen um Karriere zu machen, fragt sich ob er das Richtige verpasst hat",
+    "want": "Den Kids zeigen wo er herkommt, Sommer ohne Stress",
+    "need": "Verstehen dass Heimat nicht der Ort ist den man verlässt, sondern der Ort zu dem man zurückkehrt",
+    "special_note": "Hatte als Teenager einen Crush auf Anna, die zwei Klassen über ihm war"
+  },
+  "love_interest": {
+    "name": "Anna Hofer",
+    "age": 42,
+    "role": "Grundschullehrerin in Untergamping, seit 20 Jahren",
+    "origin": "Aus Untergamping, ist geblieben",
+    "backstory": "Beste Skifahrerin des Dorfs, war 'die Unerreichbare' für die jüngeren Jungs",
+    "relationship_history": "Nie verheiratet. Hatte eine Fernbeziehung mit einem Städter — scheiterte weil sie ihre Schüler nicht verlassen wollte",
+    "children": "Keine eigenen. Konnte sich nie vorstellen welche zu haben. Ihre Schüler sind 'ihre Kinder'.",
+    "core_wound": "Fragt sich manchmal ob sie etwas verpasst hat — Familie, Kinder, das andere Leben",
+    "personality": "Warmherzig, selbstbewusst, kennt jeden Winkel der Berge, Sommer und Winter",
+    "dynamic": "Sie erinnert sich kaum an Jonas ('Der Kleine von den Eggers?'), er wird nervös wie ein Teenager"
+  },
+  "tropes": [
+    "Second Chance Romance (einseitiger Teenager-Crush wird erwachsene Liebe)",
+    "Heimkehrer (Rückkehr nach 20 Jahren)",
+    "Single Dad Romance",
+    "Grumpy Teens / Found Family",
+    "City vs. Country"
+  ],
+  "themes": [
+    "Heimat ist nicht der Ort den man verlässt, sondern der zu dem man zurückkehrt",
+    "Familie ist mehr als Blut — es sind die Menschen die man wählt",
+    "Man muss nicht eigene Kinder haben um Kinder zu lieben",
+    "Manchmal muss man weggehen um zu sehen was man hat"
+  ],
+  "conflict": {
+    "external": "Die Teenager hassen das Dorf (kein WLAN, langweilig). Jonas muss Job und Familie balancieren. München ruft zurück.",
+    "internal_jonas": "Hat er das richtige Leben gewählt? Was wäre wenn er geblieben wäre?",
+    "internal_anna": "Will sie wirklich Teil einer fertigen Familie werden? Sie wollte nie Kinder.",
+    "relationship": "Er war der kleine Junge, sie die Unerreichbare. Diese Dynamik müssen sie überwinden."
+  },
+  "comedy_elements": [
+    "Stadtteenager im Bergdorf ohne WLAN",
+    "Jonas wird rot wenn er Anna sieht — die Teenies merken es sofort",
+    "Rosina gibt ungebetene Erziehungstipps",
+    "Maria versteht sich mit den Teenies (ähnliches Alter)",
+    "Die Teenies entdecken dass das Dorf doch cool ist (aber geben es nicht zu)",
+    "Anna als Skilehrerin erklärt Sommerorte: 'Hier ist im Winter die steilste Piste'"
+  ],
+  "ending": {
+    "type": "HEA (Happy Ever After)",
+    "tone": "Warm, verdient, mit Humor",
+    "requirement": "Die Teenies akzeptieren Anna. Jonas entscheidet sich zu bleiben (oder pendeln?). Anna akzeptiert die Familie."
+  },
+  "returning_characters": [
+    {
+      "name": "Rosina Gamper",
+      "role": "Kennt Jonas von früher ('Der kleine Egger-Bub!')",
+      "function": "Weisheit, ungebetene Ratschläge, Comic Relief"
+    },
+    {
+      "name": "Heinrich Moser",
+      "role": "Rosinas Partner (aus Buch 3)",
+      "function": "Vater-Figur für Jonas"
+    },
+    {
+      "name": "Luise Gamper",
+      "role": "Führt jetzt den Gasthof (aus Buch 2/3)",
+      "function": "Gastgeberin, Anker im Dorf"
+    },
+    {
+      "name": "Stefan Brandner",
+      "role": "Zimmermann, Luises Partner",
+      "function": "Männerfreundschaft mit Jonas"
+    },
+    {
+      "name": "Maria",
+      "role": "Kellnerin, 23",
+      "function": "Verbindet sich mit den Teenies, Dorfklatsch"
+    },
+    {
+      "name": "Irene Holzner",
+      "role": "Aus Buch 1, mit Markus",
+      "function": "Cameo, Dorfgemeinschaft"
+    },
+    {
+      "name": "Markus Unteregger",
+      "role": "Bergbauer, aus Buch 1",
+      "function": "Cameo, zeigt den Teenies den Hof"
+    }
+  ],
+  "structure": {
+    "chapters": 20,
+    "words_per_chapter": 2500,
+    "total_words": 50000,
+    "pov": "Dual POV (Jonas 60%, Anna 30%, evtl. Teenager 10%)"
+  },
+  "style": {
+    "prose": "Klar, präzise, wärmer und leichter als Buch 1-3",
+    "dialogue": "Jonas: städtisch aber mit Tiroler Erinnerungen. Anna: Tirolerisch, selbstbewusst. Teenies: Generation Z Slang aber nicht übertrieben",
+    "pacing": "Etwas schneller als Buch 1-3, mehr Szenen, mehr Interaktion",
+    "tone_balance": "80% warmherzig, 20% Comedy — nicht Slapstick, sondern situationskomisch"
+  },
+  "summer_winter_scenes": [
+    "Anna zeigt Skipiste die jetzt Blumenwiese ist",
+    "Bergsee der im Winter zufriert",
+    "Almhütte die im Sommer anders riecht (Heu statt Holzfeuer)",
+    "Wanderweg der im Winter Loipe ist",
+    "Fotos von Anna als Skifahrerin — die Teenies sind beeindruckt"
+  ],
+  "working_title": "Wenn der Sommer bleibt",
+  "alternative_titles": [
+    "Wo die Sonne wartet",
+    "Solange der Sommer währt",
+    "Ein Sommer in Untergamping"
+  ]
+}

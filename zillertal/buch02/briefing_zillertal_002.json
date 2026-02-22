@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "book_id": "zillertal_002",
+    "author_pen_name": "Maja Sternberg",
+    "standalone_or_series": "series",
+    "series_name": "Zillertal-Herzen",
+    "series_number": 2,
+    "series_title": "Solange der Schnee liegt"
+  },
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Cozy",
+    "target_length_chapters": 20
+  },
+  "tropes": [
+    "Forced Proximity",
+    "Slow Burn",
+    "He Falls First"
+  ],
+  "setting": {
+    "type": "Small Town",
+    "description": "Untergamping / Zillertal, Tirol — November bis Februar (erster Schnee, Weihnachten, Tauwetter). Das Dorf ist aus Buch 1 bekannt. Der Gasthof Gamper (Rosinas Wirtschaft) steht im Zentrum."
+  },
+  "protagonist": {
+    "name": "Luise Gamper",
+    "age_range": "36",
+    "gender": "Frau",
+    "special_characteristics": [
+      "Rosinas Nichte aus Innsbruck",
+      "Grundschullehrerin, ausgebrannt nach Jahren des Gebens",
+      "Kommt für den Winter nach Untergamping um Rosina zu helfen (und sich selbst eine Pause zu geben)",
+      "Hat sich ihr ganzes Leben um andere gekümmert — nie um sich selbst",
+      "War in Buch 1 die unauffälligste Figur, bekommt jetzt ihre eigene Geschichte"
+    ]
+  },
+  "love_interest": {
+    "name": "Stefan Brandner",
+    "age_range": "38",
+    "archetype": "Still und verlässlich — Zimmermann aus Zams, renoviert alte Häuser, schon einmal falsch gelegen (war verlobt, wurde verlassen), wenige Worte aber echte Taten"
+  },
+  "returning_characters": [
+    {
+      "name": "Rosina Gamper",
+      "role": "Dreh- und Angelpunkt. Luises Tante. Eigensinnige Wirtin, sieht alles, kommentiert wenig, hat immer recht."
+    },
+    {
+      "name": "Irene Holzner",
+      "role": "Protagonistin aus Buch 1. Jetzt etabliertes Paar mit Markus. Freundin und Vertraute für Luise."
+    },
+    {
+      "name": "Markus Unteregger",
+      "role": "Love Interest aus Buch 1. Bergbauer. Mit Irene zusammen. Respektiert Stefan als Handwerker."
+    }
+  ],
+  "core_conflict": "Luise hat ihr ganzes Leben lang gegeben — als Lehrerin, als Nichte, als die, die immer funktioniert. Stefan ist der erste Mensch, der fragt: Und du? Aber Luise weiß nicht mehr, was sie selbst will. Und Stefan traut seiner eigenen Urteilsfähigkeit nicht mehr — die letzte Frau, der er vertraute, ist gegangen.",
+  "hea_ending": "Luise verlängert ihren Winterurlaub. Auf unbestimmte Zeit. Stefan renoviert nicht mehr nur fremde Häuser — sondern eines für sie beide.",
+  "seasonal_arc": "November (Ankunft, grauer Himmel, Luise erschöpft) → Dezember (erster Schnee, Weihnachten im Gasthof, Annäherung) → Januar (Eingeschneit, Forced Proximity, erstes Eingestehen) → Februar (Tauwetter, Entscheidung: Bleiben oder Gehen)",
+  "additional_notes": "Zielgruppe: Frauen 40+. Kein expliziter Inhalt. HEA. Tiroler Lokalkolorit (Dialekt-Einsprengsel, Schnee, Advent, Weihnachtsmärkte). Serienband 2 der Zillertal-Herzen-Serie. Figuren aus Buch 1 erscheinen als Nebenfiguren — aber Luise steht im Zentrum. Der Leser kennt Untergamping bereits, das Dorf muss nicht neu eingeführt werden. Stil: Maja Sternbergs Stimmprofil — warm, präzise, leicht lakonisch. Emotionen über Objekte und Handlungen. Humor durch Understatement."
+}

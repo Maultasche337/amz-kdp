@@ -76,17 +76,20 @@ Nach Bestätigung:
 - Speichere als `output/[book_id]/07_kdp_listing.md`
 - Update Status
 
-### SCHRITT 9: Cover-Prompts
+### SCHRITT 9: Cover generieren (automatisch)
 - Lese `skills/08_cover.md`
-- Erstelle 3 Cover-Prompt-Varianten
-- Speichere als `output/[book_id]/08_cover_prompts.md`
+- Erstelle 3 Cover-Konzepte/Prompts
+- **GENERIERE die Cover automatisch via Bildgenerations-API** (nicht manuell!)
+- Speichere Prompts als `output/[book_id]/08_cover_prompts.md`
+- Speichere generierte Bilder als `cover_v1.png`, `cover_v2.png`, `cover_v3.png`
+- Frage User welche Variante bevorzugt wird
 - Update Status
 
 ### SCHRITT 10: Abschluss
 - Erstelle `output/[book_id]/FINAL_SUMMARY.md` mit:
   - Buchdetails
   - Dateienübersicht
-  - Nächste Schritte (Kindle Create, KDP Upload, Cover erstellen)
+  - Nächste Schritte (Kindle Create, KDP Upload, Typografie auf Cover)
   - Geschätzte Marktchancen aus Nischenanalyse
 - Melde: "✅ Buch [book_id] vollständig produziert."
 
@@ -105,7 +108,7 @@ Aktueller Schritt: [N/10]
 - [ ] 05 Manuskript (0/20 Kapitel)
 - [ ] 06 Lektorat
 - [ ] 07 KDP Listing (Keywords + Kategorien)
-- [ ] 08 Cover-Prompts
+- [ ] 08 Cover (automatisch generiert)
 ```
 
 ---

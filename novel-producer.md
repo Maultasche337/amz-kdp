@@ -1,14 +1,15 @@
 ---
 name: novel-producer
 description: Produziert vollautomatisch einen deutschsprachigen Nischen-Roman für Amazon KDP. Unterstützt Pseudonyme und Serien. Ausgelöst durch "Neues Buch:", "Roman starten", oder "Buch [N] der [Serienname]-Serie schreiben". Führt alle Schritte automatisch durch.
-metadata: { "openclaw": { "requires": { "env": ["ANTHROPIC_API_KEY"], "bins": ["node"] } } }
+metadata:
 ---
 
 # Novel Producer — Automatische Romanproduktion mit Pseudonym & Serien-Support
 
 ## Wann dieser Skill aktiv wird
+
 - "Neues Buch: [Details]"
-- "Schreib Buch 2 der Bergwald-Serie"
+- "Schreib Buch 2 Zillertal-Serie"
 - "Nächstes Hanni & Beate Buch"
 - "Roman starten für [Pseudonym]"
 
@@ -36,6 +37,7 @@ Bevor irgendetwas anderes passiert:
    Beispiel: `lb_bergwald_buch2_20260301`
 
 Melde via Discord:
+
 > "📚 **[Pseudonym]: [Serienname] — Buch [N]**
 > Lade Kontext... ✅ Pseudonym-Profil geladen | ✅ Vorgänger-Cliffhanger erkannt"
 
@@ -46,12 +48,14 @@ Melde via Discord:
 Falls kein vollständiges Briefing: Ergänze fehlende Felder automatisch aus dem Pseudonym-Dokument.
 
 Aus `PSEUDONYM.md` automatisch übernehmen:
+
 - Stimmprofil → wird bei jedem Kapitel als Referenz mitgegeben
 - Cover-Ästhetik → geht an novel-cover Skill
 - Tonalität, Sprache, Dialekt-Regeln
 - Zielgruppe und KDP-Keywords-Basis
 
 Falls Serien-Folgebuch: Übernehme aus dem Serienplan im Pseudonym-Dokument:
+
 - Protagonistin + Liebesinteresse für dieses Buch
 - Kerntropes
 - Innere Wunden beider Figuren
@@ -65,6 +69,7 @@ Falls Serien-Folgebuch: Übernehme aus dem Serienplan im Pseudonym-Dokument:
 Bei Buch 1 einer Serie: Vollständige Nischenanalyse wie gehabt.
 
 Bei Folgebüchern (Buch 2, 3): Kürzere Analyse — fokussiert auf:
+
 - Sind neue konkurrierende Titel seit Buch 1 erschienen?
 - Welche Keywords aus Buch 1 haben gut funktioniert? (falls bekannt)
 - Wie soll das Listing auf die Serie hinweisen?
@@ -77,6 +82,7 @@ Speichere als `01_niche_analysis.md`.
 
 Nutze den Serienplan aus PSEUDONYM.md als Basis.
 Das Ending ist nicht frei erfunden — es muss:
+
 - Den Cliffhanger aus dem Vorgänger auflösen
 - HEA für das aktuelle Paar liefern
 - Den neuen Cliffhanger für Buch [N+1] einbauen (außer beim letzten Buch der Serie)
@@ -104,11 +110,13 @@ Speichere als `03_characters.md`.
 Save-the-Cat für [20] Kapitel.
 
 **Für Monika Huber zusätzlich:**
+
 - Abwechselnde POVs: Kapitel 1 (Hanni), Kapitel 2 (Beate), etc.
 - Jedes Kapitel endet mit einer kleinen Pointe oder einem Missverständnis
 - Der "All is Lost"-Moment ist immer komisch UND emotional gleichzeitig
 
 **Für Maja Sternberg zusätzlich:**
+
 - Slow Burn: Physische Nähe erst ab Kapitel 12+
 - Mindestens 3 "Beinahe-Momente" die sich auflösen bevor der echte Moment kommt
 - Tiroler Natur-Setting aktiv als Stimmungsträger einsetzen (Lärchen, Jahreszeiten, Almbetrieb)
@@ -142,6 +150,7 @@ Schreibe jetzt Kapitel [N]: "[Titel]"
 ```
 
 **Qualitätsprüfung nach jedem Kapitel (intern):**
+
 - Über 2.000 Wörter? Falls nicht: Regeneriere
 - Klingt es nach dem Pseudonym oder generisch? Falls generisch: Regeneriere mit stärkerem Ton-Prompt
 - Cliffhanger am Kapitelende vorhanden? Falls nicht: Kurzen Schluss-Absatz hinzufügen
@@ -153,11 +162,13 @@ Schreibe jetzt Kapitel [N]: "[Titel]"
 Zusätzlich zu Standardlektorat prüfe:
 
 **Für Monika Huber:**
+
 - Ist der Ton konsistent zwischen Hanni-Kapiteln (kurz, trocken) und Beate-Kapiteln (lang, verschachtelt)?
 - Funktionieren die komödiantischen Missverständnisse?
 - Ist der Humor organisch oder aufgesetzt?
 
 **Für Maja Sternberg:**
+
 - Ist der Slow Burn überzeugend oder zu abrupt?
 - Sind die Bayern-Elemente authentisch oder klischeehaft?
 - Stimmt der emotionale Ton — warm aber nie kitschig?
@@ -169,6 +180,7 @@ Zusätzlich zu Standardlektorat prüfe:
 Nutze die Keywords aus PSEUDONYM.md als Basis.
 
 **Serien-Hinweis im Listing einbauen:**
+
 > "Band [N] der [Serienname]-Reihe — auch als Einzelband lesbar"
 
 **Für Folgebücher:** Erwähne kurz was Leserinnen von Buch 1 erwartet (Dorf-Charaktere, Duo etc.) ohne zu spoilern.
@@ -178,6 +190,7 @@ Nutze die Keywords aus PSEUDONYM.md als Basis.
 ## Schritt 9: Cover-Prompts
 
 Verwende den Basis-Prompt aus PSEUDONYM.md und passe an:
+
 - Setting dieses Buches
 - Jahreszeit (aus der Story)
 - Das Erkennungsmerkmal der Serie (Lärchen-Motiv für Maja / bayerisches Detail für Monika)

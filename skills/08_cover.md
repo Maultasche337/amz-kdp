@@ -1,7 +1,7 @@
-# SKILL: Buchcover-Prompt für Imagen 3 / Nanobanana Pro
+# SKILL: Buchcover generieren (automatisch via API)
 
 ## Zweck
-Erstellt einen präzisen, detaillierten Prompt für die KI-Bildgenerierung um ein professionelles Buchcover zu erstellen das zu Genre, Zielgruppe und Nische passt.
+Generiert automatisch ein professionelles Buchcover via Bildgenerations-API (Imagen 3 / DALL-E / etc.) das zu Genre, Zielgruppe und Nische passt.
 
 ## Input
 - `briefing.json` (Pflicht)
@@ -9,47 +9,74 @@ Erstellt einen präzisen, detaillierten Prompt für die KI-Bildgenerierung um ei
 - `07_kdp_listing.md` (für Titel/Untertitel)
 
 ## Output
-- `08_cover_prompts.md` mit 3 verschiedenen Cover-Varianten
+- `08_cover_prompts.md` mit 3 Cover-Varianten (Prompts + generierte Bilder)
+- Generierte Cover-Bilder im Output-Ordner
 
-## Prompt-Template
+## Workflow
 
-```
-Du bist ein erfahrener Buchcover-Designer mit tiefem Verständnis für Romance-Cover-Konventionen im deutschsprachigen Markt.
-
-BRIEFING:
-[BRIEFING_JSON]
-
-CHARAKTERBESCHREIBUNGEN:
-[CHARACTER_APPEARANCES]
-
-BUCHTITEL: [TITLE]
-UNTERTITEL: [SUBTITLE]
-AUTORENNAME: [PEN_NAME]
-
-Erstelle 3 verschiedene Imagen-3-Prompts für Buchcover-Varianten.
-
-Für jede Variante:
-
-### Variante [N]: [Konzeptname]
-**Imagen 3 Prompt (Englisch):**
-[Detaillierter Prompt in Englisch für Imagen 3, ca. 150-200 Wörter]
-
-**Enthält:**
-- Bildstil (photorealistic / illustrated / painterly etc.)
-- Farbpalette
-- Protagonistin Beschreibung (aus Charakterdokument)
-- Setting/Hintergrund
-- Stimmung/Lichtverhältnisse
-- Typografie-Platzhalter Hinweis
-- Technische Specs: "book cover, vertical format, 1600x2560px, professional publishing quality"
-
-**Warum diese Variante:**
-[Kurze Begründung auf Deutsch]
-
-Varianten sollten sein:
+### Schritt 1: Prompts erstellen
+Erstelle 3 verschiedene Cover-Konzepte:
 1. Klassisches Romance-Cover (Figuren im Vordergrund)
 2. Setting-fokussiert (Atmosphäre, kein Gesicht)
 3. Symbolisch/minimalistisch (für moderneres Erscheinungsbild)
 
-Beachte: Cover für Frauen 40+ — keine Jugendbuch-Ästhetik, keine Teenager-Protagonistinnen im Bild.
+### Schritt 2: Cover generieren (AUTOMATISCH)
+**WICHTIG:** API-Key ist konfiguriert — generiere die Cover direkt via API.
+- Rufe die Bildgenerations-API auf
+- Speichere Bilder als `output/[book_id]/cover_v1.png`, `cover_v2.png`, `cover_v3.png`
+- Zeige dem User die generierten Cover
+
+### Schritt 3: User-Auswahl
+Frage den User welche Variante bevorzugt wird, oder ob Anpassungen nötig sind.
+
+---
+
+## Prompt-Struktur (für jede Variante)
+
 ```
+Professional [STYLE] book cover for German romance novel.
+
+[CHARACTER DESCRIPTION from 03_characters.md]
+[SETTING DESCRIPTION]
+[MOOD & LIGHTING]
+[COLOR PALETTE]
+
+Leave space at top for title text.
+Book cover, vertical format, 1600x2560px, professional publishing quality.
+```
+
+## Cover-Varianten
+
+### Variante 1: Klassisches Romance-Cover
+- Figuren im Vordergrund (Protagonist + Love Interest)
+- Emotionaler Blickkontakt oder Nähe
+- Setting im Hintergrund (soft focus)
+
+### Variante 2: Setting-fokussiert
+- Landschaft/Atmosphäre im Fokus
+- Keine Gesichter (oder nur Silhouetten)
+- Suggestive Elemente (zwei Weingläser, Schuhe, etc.)
+
+### Variante 3: Symbolisch/Minimalistisch
+- Ein zentrales Symbol (Schlüssel, Blume, Hand, etc.)
+- Moderne, cleane Ästhetik
+- Starke Farbkontraste
+
+---
+
+## Technische Specs
+
+| Parameter | Wert |
+|-----------|------|
+| Format | 1600 x 2560 px (Kindle) |
+| Aspect Ratio | 1:1.6 |
+| Stil | Photorealistic oder Painterly |
+| Zielgruppe | Frauen 40+ |
+
+---
+
+## Hinweise für den Orchestrator
+
+- **NICHT** den User bitten, Prompts manuell in externe Tools einzugeben
+- **DIREKT** via verfügbare Bildgenerations-Tools generieren
+- Nach Generierung: User fragen welche Variante, dann ggf. Typografie-Overlay besprechen

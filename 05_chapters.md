@@ -1,15 +1,18 @@
 # SKILL: Kapitel schreiben
 
 ## Zweck
+
 Schreibt ein einzelnes Kapitel basierend auf allen Referenzdokumenten und dem bisherigen Manuskript. Wird für jedes Kapitel einzeln aufgerufen.
 
 ## Input
+
 - `briefing.json` (Pflicht)
 - `03_characters.md` (Pflicht)
 - `04_outline.md` (Pflicht)
 - `05_manuscript_so_far.md` (optional, für Kontinuität ab Kapitel 2)
 
 ## Output
+
 - Neues Kapitel wird an `05_manuscript.md` angehängt
 
 ## Prompt-Template
@@ -35,6 +38,7 @@ Schreibe jetzt Kapitel [CHAPTER_NUMBER]: "[CHAPTER_TITLE]"
 Anforderungen:
 - Länge: 2.500-3.500 Wörter
 - Sprache: Fließendes, warmes Deutsch. Kein Übersetzer-Stil.
+- Schreibe kein Stakkato und versuche natürliche Absätze zu schaffen und vermeide ein-satz-Absätze.
 - POV: [POV_CHARACTER] (enge dritte Person oder erste Person, konsistent mit bisherigen Kapiteln)
 - Zeige, erzähle nicht (Show don't tell)
 - Dialoganteil: ca. 40%
@@ -45,6 +49,7 @@ Schreibe das Kapitel vollständig aus. Kein Kommentar danach nötig.
 ```
 
 ## Hinweise für den Orchestrator
+
 - Diesen Skill [CHAPTER_COUNT] mal aufrufen
 - Nach jedem Kapitel den Output an manuscript.md anhängen
 - Bei Kapitel 1: kein bisheriges Manuskript übergeben

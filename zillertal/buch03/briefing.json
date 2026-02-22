@@ -1,0 +1,117 @@
+{
+  "book_id": "zillertal_buch03",
+  "series": {
+    "name": "Zillertal-Herzen",
+    "book_number": 3,
+    "previous_books": [
+      {
+        "title": "Wo die Lärchen schweigen",
+        "protagonists": ["Irene Holzner (52)", "Markus Unteregger (57)"],
+        "setting": "Herbst"
+      },
+      {
+        "title": "Solange der Schnee liegt",
+        "protagonists": ["Luise Gamper (36)", "Stefan Brandner (38)"],
+        "setting": "Winter"
+      }
+    ]
+  },
+  "pseudonym": "Maja Sternberg",
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Cozy/Heimatroman",
+    "target_audience": "Frauen 40+",
+    "reading_context": "Kindle Unlimited, abends, Wohlfühl-Lektüre",
+    "unique_angle": "74-jährige Protagonistin — späte Liebe, selten aber gefragt"
+  },
+  "setting": {
+    "type": "Bergdorf Tirol",
+    "location": "Untergamping, fiktives Dorf im Zillertal",
+    "time": "Gegenwart, Frühling/Frühsommer",
+    "atmosphere": "Kirschblüte, Almauftrieb, Neuanfang nach langem Winter"
+  },
+  "protagonist": {
+    "name": "Rosina Gamper",
+    "age": 74,
+    "role": "Wirtin des Gamper-Stübl seit 40 Jahren",
+    "core_wound": "Hat nie wieder geliebt nach dem frühen Tod ihres Mannes Franz (vor 35 Jahren). Glaubt, dass ihre Zeit für die Liebe vorbei ist.",
+    "want": "Den Gasthof weitergeben und zur Ruhe kommen",
+    "need": "Verstehen, dass Ruhe nicht Einsamkeit bedeuten muss",
+    "special_note": "Fan-Favorite aus Buch 1 und 2 — direkt, weise, herzlich"
+  },
+  "love_interest": {
+    "name": "Heinrich Moser",
+    "age": 76,
+    "role": "Pensionierter Landarzt, zieht ins Dorf (erbt das Haus seines verstorbenen Bruders)",
+    "core_wound": "Hat seine Frau vor 18 Monaten verloren. Ist zum ersten Mal in seinem Leben ohne Aufgabe.",
+    "personality": "Gesprächig wo Rosina knapp ist, unsicher wo sie fest ist. Fragt viel. Hört zu. Hat Humor.",
+    "dynamic": "Sunshine/Grumpy umgekehrt — er ist der warme, sie die spröde"
+  },
+  "tropes": [
+    "Later-in-Life Romance (70+)",
+    "Grumpy/Sunshine (umgekehrt)",
+    "Forced Proximity (Dorfgemeinschaft)",
+    "Second Chance (am Leben, nicht an alter Liebe)",
+    "Found Family"
+  ],
+  "themes": [
+    "Man ist nie zu alt für einen Neuanfang",
+    "Loslassen vs. Aufgeben — der Unterschied",
+    "Einsamkeit ist eine Entscheidung",
+    "Die Weisheit des Alters und die Offenheit des Herzens"
+  ],
+  "conflict": {
+    "external": "Rosina will den Gasthof übergeben. Aber an wen? Luise ist eine Option, aber zögert. Ein Investor aus Innsbruck interessiert sich auch — würde den Charakter des Gasthofs zerstören.",
+    "internal": "Rosina hat sich 35 Jahre lang eingeredet, dass sie keine Gefährtenschaft braucht. Heinrich stellt das in Frage.",
+    "relationship": "Sie findet ihn zu gesprächig, zu neugierig, zu präsent. Er findet sie faszinierend und lässt nicht locker."
+  },
+  "ending": {
+    "type": "HEA (Happy Ever After)",
+    "tone": "Warm, verdient, berührend",
+    "requirement": "Kein Kitsch. Keine Hochzeit. Eine späte, tiefe Verbindung zweier Menschen, die wissen, dass Zeit kostbar ist."
+  },
+  "returning_characters": [
+    {
+      "name": "Luise Gamper",
+      "role": "Rosinas Nichte (aus Buch 2), jetzt im Dorf",
+      "function": "Spiegelung — hat selbst gelernt zu bleiben"
+    },
+    {
+      "name": "Stefan Brandner",
+      "role": "Luises Partner, Zimmermann",
+      "function": "Praktische Hilfe, stumme Männerfreundschaft mit Heinrich"
+    },
+    {
+      "name": "Irene Holzner",
+      "role": "Freundin (aus Buch 1)",
+      "function": "Vertraute für Rosina — die Einzige, der sie sich anvertraut"
+    },
+    {
+      "name": "Markus Unteregger",
+      "role": "Irenes Partner, Bergbauer",
+      "function": "Respekt-Figur, Dorfgemeinschaft"
+    },
+    {
+      "name": "Maria",
+      "role": "Kellnerin im Gasthof",
+      "function": "Comic Relief, Dorfklatsch"
+    }
+  ],
+  "structure": {
+    "chapters": 20,
+    "words_per_chapter": 2500,
+    "total_words": 50000,
+    "pov": "Dual POV (Rosina 70%, Heinrich 30%)"
+  },
+  "style": {
+    "prose": "Klar, präzise, emotional ohne Kitsch",
+    "dialogue": "Rosina: knapp, trocken, Tiroler Einsprengsel. Heinrich: wärmer, fragend, aber nie geschwätzig",
+    "pacing": "Slow Burn, aber verdichtet — beide wissen, dass Zeit kostbar ist"
+  },
+  "working_title": "Wenn die Kirschen blühen",
+  "alternative_titles": [
+    "Solang das Herz noch klopft",
+    "Der Sommer, der blieb",
+    "Ein Frühling für zwei"
+  ]
+}

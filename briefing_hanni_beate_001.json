@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "book_id": "hanni_beate_001",
+    "author_pen_name": "Monika Huber",
+    "standalone_or_series": "series",
+    "series_name": "Hanni & Beate ermitteln",
+    "series_number": 1,
+    "series_title": "Letzte Brettljause",
+    "series_subtitle": "Ein Unterbach-Krimi"
+  },
+  "market": {
+    "genre": "Krimi",
+    "subgenre_mood": "Cozy Crime / Krimi-Comedy",
+    "target_length_chapters": 20,
+    "target_word_count": "55000-65000",
+    "keywords": [
+      "Bayern Krimi lustig",
+      "Dorfkrimi Frauen Humor",
+      "Cozy Crime deutsch",
+      "Krimi Comedy Serie",
+      "lustiger Krimi Dorf Bayern",
+      "weibliche Ermittlerin Krimi Comedy",
+      "bayerischer Dorfkrimi gemuetlich"
+    ],
+    "price_strategy": {
+      "ebook_launch": "0.99 EUR",
+      "ebook_regular": "3.99 EUR",
+      "taschenbuch": "12.99 EUR",
+      "kdp_select": true
+    }
+  },
+  "genre_elements": {
+    "crime_type": "Mord",
+    "violence_level": "minimal — kein Blut, keine Grausamkeit, Leiche wird gefunden aber nicht graphisch beschrieben",
+    "humor_level": "hoch — Situationskomik, Schlagabtausch, Missverstaendnisse",
+    "romance_subplot": false,
+    "recurring_motif": "Kater Ludwig — streunendes Tier das in Beates altem Bauernhaus lebt, laesst sich von niemandem anfassen ausser (irgendwann) von Hanni. Taucht in Schluesselszenen auf, oft komisch."
+  },
+  "setting": {
+    "type": "Small Town",
+    "description": "Unterbach, 1.200 Einwohner, Niederbayern, 45 Minuten von Muenchen. Gegenwart, Spaetsommer/Herbst. Hauptschauplatz: das jaehrliche Unterbacher Herbstfest — ein kleines Dorffest mit Festzelt, Blasmusik und Brettljausen. Kein Muenchner Oktoberfest, sondern ein bescheidenes, ehrliches Dorffest bei dem alle sich kennen.",
+    "key_locations": [
+      "Gasthof Zur Linde — Zentrum des Dorfklatsches, Wirtin Resi kennt alle Geheimnisse",
+      "Hannis Polizeistation — ein Zimmer, ein Computer der staendig abstuerzt, ein Schreibtisch voller Post-its",
+      "Beates Haus — altes Bauernhaus, Renovierungsbaustelle, Kater Ludwig lebt im Keller",
+      "Herbstfest-Festzelt — Tatort, Festzelt-Kueche wo die Leiche gefunden wird",
+      "Metzgerei Gruber — Laden des Opfers, zentral im Dorf",
+      "Kirche & Friedhof — wo Hanni manchmal nachdenkt (nicht religioes, mag die Ruhe)"
+    ]
+  },
+  "protagonist_1": {
+    "name": "Hannelore 'Hanni' Wimmer",
+    "age": 46,
+    "role": "Dorfpolizistin in Unterbach",
+    "gender": "Frau",
+    "characteristics": [
+      "Seit 20 Jahren im Dienst, kennt jeden im Dorf",
+      "Pragmatisch, direkt, manchmal ruppig",
+      "Kann sich nicht erklaeren warum Leute Dinge tun — Menschen sind ihr ein Raetsel",
+      "Kennt jeden Winkel des Dorfes, jeden Klatsch, jeden alten Streit",
+      "Kurze graue Straehne im braunen Haar (traegt sie mit Stolz), immer leicht zerknittert"
+    ],
+    "voice": "Kurze Saetze. Trocken. Bayerisch wenn sie aufgeregt ist. Wenige Worte, grosse Wirkung.",
+    "pov_style": "Kurz, knapp, lakonisch. Beobachtet die Welt in trockenen Feststellungen. Humor entsteht durch Untertreibung."
+  },
+  "protagonist_2": {
+    "name": "Beatrice 'Beate' Schoenleber",
+    "age": 43,
+    "role": "Neu zugezogene aus Muenchen, True-Crime-Podcasterin",
+    "gender": "Frau",
+    "characteristics": [
+      "Scheidung hinter sich, hat altes Bauernhaus in Unterbach gekauft",
+      "Hobby-Podcast ueber True Crime (hat 340 Hoerer, haelt sich fuer wichtig)",
+      "Versteht Menschen sehr gut, analysiert alles — aber null Praxiserfahrung",
+      "Ueberdramatisiert, recherchiert zu viel, redet zu viel",
+      "Sieht Muster die Hanni uebersieht, kennt True-Crime-Methodik",
+      "Immer etwas overdressed fuers Dorf, gute Schuhe die im Schlamm versinken"
+    ],
+    "voice": "Lange Saetze, viele Nebensaetze, Hochdeutsch mit Muenchner Einschlag. Denkt laut. Referenziert staendig ihren Podcast.",
+    "pov_style": "Verschachtelt, dramatisch, analytisch. Sieht ueberall Muster und Zusammenhaenge — auch wo keine sind. Humor entsteht durch Uebertreibung."
+  },
+  "duo_dynamic": "Odd Couple. Hanni braucht Beate nicht, duldet sie aber. Beate braucht Hanni fuer Zugang und Glaubwuerdigkeit. Sie streiten staendig. Keine Freundschaft — noch nicht. In diesem Band: widerwillige Zusammenarbeit, erste zaghafte Anerkennung am Ende.",
+  "supporting_characters": [
+    {
+      "name": "Buergermeister Franz Anzinger",
+      "age": 62,
+      "role": "Haelt sich fuer wichtiger als er ist. Will den Fall geraeuschlos loesen bevor die Presse kommt. Nervt Hanni."
+    },
+    {
+      "name": "Xaver",
+      "age": 29,
+      "role": "Hannis junger Kollege. Neu auf dem Posten. Versteht die Welt nicht mehr wenn Hanni und Beate ermitteln. Comic Relief."
+    },
+    {
+      "name": "Wirtin Resi (Gasthof Zur Linde)",
+      "age": 58,
+      "role": "Kennt jeden Klatsch, serviert Informationen zusammen mit dem Schweinsbraten. Hannis inoffizielle Informantin."
+    },
+    {
+      "name": "Kater Ludwig",
+      "role": "Streuner in Beates Haus. Grau, zerzaust, eigensinnig. Taucht in Schluesselszenen auf. Laesst sich von niemandem anfassen. Symbolisiert die langsame Annaehrung — wie Hanni und Beate selbst."
+    }
+  ],
+  "victim": {
+    "name": "Sepp Gruber",
+    "age": 71,
+    "description": "Besitzer der groessten Metzgerei in Unterbach. Meistgehasster Mann im Dorf. Hat die Haelfte des Dorfes beim Kartenspiel abgezockt. Bekannt fuer seinen schlechten Charakter und seine noch schlechtere Schufa. Wird tot in der Festzelt-Kueche gefunden — auf dem Brettljausenbrett.",
+    "why_hated": [
+      "Hat beim Kartenspiel geschummelt und Leuten Geld abgenommen",
+      "Hat dem Gasthof Zur Linde die Fleischlieferung gekuendigt aus Rache",
+      "Hat einen Nachbarschaftsstreit um eine Grundstuecksgrenze eskaliert",
+      "War gegen jede Modernisierung im Dorf, hat Bauvorhaben blockiert",
+      "War frueherer Buergermeister-Kandidat — hat Geruechtekampagne gegen Anzinger gefuehrt"
+    ]
+  },
+  "crime_plot": {
+    "discovery": "Herbstfest, Freitagabend. Hanni wird gerufen weil jemand in der Festzelt-Kueche liegt. Sepp Gruber, tot, auf dem Brettljausenbrett. Beate ist natuerlich auch da — mit laufendem Podcast-Mikrofon.",
+    "initial_suspects": [
+      "Resi (Wirtin) — Sepp hat ihr die Fleischlieferung gekuendigt, ihr Gasthof leidet",
+      "Thomas Gruber (Sepps Sohn, 38) — will die Metzgerei modernisieren, Vater war dagegen",
+      "Elfriede Moser (68) — Nachbarin, Grundstuecksstreit seit Jahren",
+      "Buergermeister Anzinger — Sepp hatte Dreck ueber ihn, was genau wissen wir erst spaeter",
+      "Julia Kaltenbrunner (35) — Beates Podcast-Hoererin Nr. 341, arbeitet als Aushilfe in der Festzelt-Kueche"
+    ],
+    "red_herrings": [
+      "Thomas Grubers angebliches Motiv (Erbschaft) — er hat aber ein Alibi und wollte sich tatsaechlich mit dem Vater versoehnen",
+      "Ein mysterioeser Fremder der am Festabend gesehen wurde — ist nur ein harmloser Wanderer",
+      "Resis angebliche Wut — sie war tatsaechlich wuetend, aber haette nie getoetet"
+    ],
+    "actual_solution": "Julia Kaltenbrunner. Beates Podcast-Hoererin Nr. 341. Sepp hatte vor Jahren Julias Mutter beim Kartenspiel um ihr Erspartes gebracht — die Mutter hat sich nie davon erholt. Julia ist nach Unterbach gezogen um Rache zu nehmen, hat sich als Aushilfe ins Festzelt eingeschleust. Die Ironie: Beate hat in ihrem Podcast einmal ueber genau dieses Rachemotiv gesprochen (Folge 47), ohne zu ahnen dass eine Hoererin es in die Tat umsetzt.",
+    "comedic_core": "Beate will professionell ermitteln wie in ihrem Podcast. Hanni will den Fall loesen bevor der Buergermeister die Presse anruft. Beide stoeren sich gegenseitig staendig. Beate analysiert zu viel, Hanni fragt zu wenig nach dem Warum. Zusammen sind sie besser als allein — aber das wuerden beide nie zugeben.",
+    "subplot": "Beates Podcast-Hoererin Nr. 341 (Julia) ist zugleich die Taeterin. Beate ist geschmeichelt endlich eine echte Hoererin kennenzulernen — die Enthuelllung trifft sie persoenlich.",
+    "cliffhanger_book_2": "Beim Renovieren findet Beate einen alten Brief unter den Dielenbrettern ihres Hauses. Adressiert an eine Frau die dort wohnte — und laut Dorfarchiv seit 1987 vermisst wird."
+  },
+  "narrative_structure": {
+    "pov": "Abwechselnd Hanni und Beate. Kapitel 1 Hanni, Kapitel 2 Beate, usw. Leserinnen sehen wie unterschiedlich beide dieselbe Situation interpretieren.",
+    "chapter_count": 20,
+    "chapter_length_words": "2800-3500",
+    "act_structure": {
+      "act_1_chapters": "1-5: Herbstfest, Leichenfund, Ermittlungsbeginn, Hanni und Beate prallen aufeinander",
+      "act_2a_chapters": "6-10: Erste Verdaechtige, falsche Faehrten, Hanni und Beate ermitteln parallel und behindern sich",
+      "act_2b_chapters": "11-15: Verdacht verdichtet sich, persoenliche Konflikte, Beate entdeckt Verbindung zu ihrem Podcast",
+      "act_3_chapters": "16-20: Konfrontation, Aufloesung, Julia wird entlarvt, Hanni und Beate — widerwillige Anerkennung, Cliffhanger"
+    },
+    "ending_tone": "Befriedigend aber offen. Fall geloest, Duo hat bewiesen dass es funktioniert — auch wenn beide das nie sagen wuerden. Letzter Satz deutet an dass es weitergeht.",
+    "last_line": "Hanni schaut Beate an. Beate schaut zurueck. 'Naechstes Mal rufst du mich frueher an', sagt Beate. Hanni seufzt. Aus dem Keller maunzt Ludwig."
+  },
+  "voice_profile": {
+    "tone": "Schlagabtausch-Dialoge, kurze Szenen, schnelles Tempo. Show dont tell. Humor durch Situation und Missverstaendnis, nicht durch Witze.",
+    "hanni_sample": "Der Tote lag auf dem Brettljausenbrett. Das war ungewoehnlich. Normalerweise lagen Tote woanders. Hanni kniete sich hin und schaute ihn an. Sepp Gruber, 71, bekannt fuer seinen schlechten Charakter und seine noch schlechtere Schufa. Jemand hatte ihn nicht gemocht. Das war angesichts seiner Persoenlichkeit keine grosse Eingrenzung.",
+    "beate_sample": "'Das ist nicht irgendein Todesfall', sagte Beate, und sie merkte, dass sie fluesterte, obwohl niemand zuhoerte. 'Das hat Methode. Das hat — Struktur. Ich habe in meiner Folge 47 ueber genau dieses Muster gesprochen, Hanni, ich schwoere dir, das ist kein Zufall.' Hanni schaute sie an. Dann schaute sie auf den Toten. Dann wieder auf Beate. 'Folge 47', sagte sie. 'Mit deinen 340 Hoerern.'"
+  },
+  "kater_ludwig": {
+    "description": "Grauer, zerzauster Kater der in Beates altem Bauernhaus lebt — war schon da als sie eingezogen ist. Niemand weiss wem er gehoert. Laesst sich von niemandem anfassen, kommt und geht wie er will.",
+    "role_in_story": [
+      "Kapitel 2-3: Beate erwaehnt den Kater der in ihrem Keller lebt. Nennt ihn Ludwig (nach Ludwig II, weil er sich fuer koenig haelt).",
+      "Kapitel 7-8: Ludwig taucht auf dem Tatort auf (Festzelt-Kueche). Beate versucht ihn einzufangen. Slapstick-Szene.",
+      "Kapitel 12: Ludwig bringt Beate eine tote Maus und legt sie auf ihre Podcast-Notizen. Beate: 'Sogar die Katze bringt mir Beweise.'",
+      "Kapitel 18-19: Ludwig laesst sich von Hanni kurz streicheln — erste und einzige Person. Hanni tut so als waere es ihr egal.",
+      "Letzter Satz: Ludwigs Maunzen als Abschluss."
+    ],
+    "symbolic_function": "Ludwig ist wie die Beziehung zwischen Hanni und Beate: eigensinning, unberechenbar, laesst sich nicht erzwingen. Die langsame Annaeherung des Katers spiegelt die langsame Annaeherung der beiden Frauen."
+  },
+  "additional_notes": "Zielgruppe: Frauen 40-60. Kein expliziter Inhalt, keine Gewalt. Bayerisches Lokalkolorit (Dialekt-Einsprengsel bei Hanni, aber nicht zu viel — lesbar fuer alle). Humor ist der Kern, aber der Kriminalfall ist solide konstruiert und die Aufloesung logisch. Buch 1 einer 3-Buch-Serie: Hier werden Figuren, Dorf und Dynamik etabliert. Leserinnen sollen Hanni und Beate ins Herz schliessen — trotz (und wegen) ihrer Fehler. Cover-Stil: illustriert, comic-nah, bayerisches Blau-Weiss mit Rot-Akzenten."
+}
