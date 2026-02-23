@@ -259,3 +259,251 @@ Cozy mystery book cover illustration, two women silhouettes from behind in Bavar
 
 **Fall:** Der Täter aus Buch 2 beginnt Hanni und Beate zu bedrohen. Aus der Comedy wird kurz echte Spannung — aber der Humor bleibt. Auflösung des Dreiteilers mit echtem emotionalen Payoff für die Freundschaft.
 **Serienabschluss:** Beates Podcast hat jetzt 4.200 Hörer. Hanni sagt öffentlich sie hört ihn nicht. Privat hat sie alle Folgen zweimal gehört.
+
+---
+---
+
+## Pseudonym 3: Lina Elise Voss
+### Spicy Contemporary Romance · Workplace · Grumpy×Sunshine · eBook-First
+
+---
+
+### Identität & Positionierung
+
+**Pen Name:** Lina Elise Voss
+**Nische:** Spicy Contemporary Romance, Workplace/Office Setting, Grumpy×Sunshine + verwandte Tropes
+**Zielgruppe:** Frauen 20–35, eBook-Leserinnen, BookTok/Bookstagram-affin, lesen englische Trope-Labels
+**Preismodell:** eBook-First bei 4,99 €, TB optional als Zweitverwertung
+
+**Marktposition:**
+Der deutsche Workplace-Romance-Markt explodiert gerade (Susie Tate: ABSR 14, 66.567 €/Mo). Aber Tate ist eine Übersetzung — deutsche Originale fehlen fast komplett. Katrin Emilia Buck bedient Small Town, nicht Workplace. Lina Elise Voss besetzt die Lücke: **deutsche Original-Autorin für Workplace + Grumpy×Sunshine Romance.**
+
+Der Markt für deutsches Original Workplace + Grumpy×Sunshine ist quasi **LEER**. Die gescheiterten deutschen Versuche (Alia Smith, Annabeth Albert) scheiterten wegen Nischen-Splits (Notaufnahme, Rainbow). Layla Hagen beweist mit ~9.353 €/Mo (10 Bücher bei 0,99 €) dass die Kombi funktioniert — aber sie ist eine Übersetzung, kein deutsches Original. Bei 4,99 € braucht Lina Voss nur **6% von Hagens Volumen** für den gleichen Umsatz.
+
+**Keyword-Pool:** ~14.000 Suchen/Mo (Workplace: ~8.000 + Grumpy×Sunshine: ~6.000)
+
+**Was Lina SCHREIBT:**
+- Medium-Steamy (2–3 explizite Szenen pro Buch, emotional eingebettet)
+- Nicht „ab 18" im Untertitel, aber „spicy roman" als Keyword
+- Emotionale Tiefe + Humor + Knistern
+- Moderne, urbane Settings (Werbeagentur als Serienzentrum)
+- Englische Trope-Labels im Untertitel (jeder Band konsequent!)
+- Starke Protagonistinnen die wissen was sie wollen
+- Love Interests die earned sind, nicht instant
+
+**Was Lina NICHT schreibt:**
+- Kein Dark Romance (das ist Lana Stones Lane)
+- Kein Billionaire/CEO-Klischee (die Nische stirbt — siehe Buck: San Antonio vs. Starlight Springs)
+- Kein Small Town (das ist Buck/Maja Sternberg)
+- Keine Übersetzungen (das ist unser Vorteil gegenüber Tate/Hagen)
+- Nichts unter 300 Seiten (Zielgruppe erwartet Substanz, bei 4,99 € → 350–400 Seiten Pflicht)
+- Keine Nischen-Splits (kein Rainbow, keine Notaufnahme, kein Sport — reines Workplace)
+
+**Ton-Unterschied zu den anderen Pseudonymen:**
+- Maja Sternberg: warm, leise, literarisch, slow burn
+- Monika Huber: witzig, chaotisch, bayerisch, krimikomödiantisch
+- **Lina Elise Voss: knisternd, modern, urban, self-aware, mit Witz und Tiefe**
+
+---
+
+### Stimmprofil
+
+**Ton:** Clever, flirty, self-aware. Innere Monologe die ehrlich und manchmal peinlich sind. Dialoge mit Subtext. Humor durch Spannung zwischen dem was Figuren sagen und dem was sie denken.
+
+**Erzählperspektive:** Dual POV — abwechselnd Protagonistin und Love Interest. Beide Stimmen klar unterscheidbar.
+
+**Satzbau:** Modern, leicht atemlos in Spannungsmomenten. Kurze Sätze für Wirkung. Gelegentlich Satzfragmente. Keine blumige Prosa — direkt, sinnlich, präzise.
+
+**Spice-Level:** Medium-Steamy. Offene Tür, aber mit emotionaler Verankerung. Jede Szene dient der Beziehungsentwicklung, nie als reiner Service. 2–3 explizite Szenen pro Buch. Kein „ab 18" im Untertitel — aber „spicy roman" als Keyword nutzen.
+
+**Musterparagraph (Protagonistin):**
+> Drei Dinge wusste ich über meinen neuen Chef: Er trank seinen Kaffee schwarz, er sprach in Meetings nur wenn er musste, und er sah mich an als wäre ich ein Problem das er nicht lösen konnte. Was fair war. Ich war ein Problem das ich selbst nicht lösen konnte.
+
+**Musterparagraph (Love Interest):**
+> Sie stand in der Tür seines Büros und lächelte. Nicht das professionelle Lächeln das alle hier trugen wie Uniformen. Ein echtes Lächeln, die Sorte die Dinge ruinierte. Er schaute auf seinen Bildschirm. Auf die Zahlen die keinen Sinn ergaben. Auf nichts eigentlich.
+
+---
+
+### Cover-Ästhetik
+
+**Stil:** Illustriert, modern, BookTok-tauglich. Illustrierte Figuren (nicht Foto-Cover). Ähnlich wie Katrin Emilia Buck und Susie Tate — der Trend geht klar zu Illustration.
+**Farbpalette:** Kräftig und warm — Korallenrot, Mitternachtsblau, Gold, Creme. Moderner als Maja Sternberg, weniger bunt als Monika Huber.
+**Bildmotiv:** Illustriertes Paar in Arbeitsplatz-Setting, leichte Spannung/Nähe sichtbar. Immer ein workplace-spezifisches Detail (Laptop, Kaffeetasse, Aktenstapel, Bürofenster mit Skyline).
+**Schrift:** Sans-Serif oder moderne Serifenschrift, groß und lesbar auf Thumbnail.
+**Erkennungsmerkmal:** Einheitliches Farbschema über die Serie. Serienname gut sichtbar.
+
+**Figuren-Optik:** NOCH NICHT DEFINIERT — erst Cover-Stil-Tests, dann Looks festlegen. Wichtig:
+- Alle 6 Cover müssen als Serie erkennbar sein (gleicher Illustrations-Stil)
+- Figuren müssen über 6 Bände konsistent darstellbar sein (AI-Herausforderung!)
+- Looks sollten zum Charakter passen aber nicht klischeehaft sein (Leon ≠ Standard-Dark-Brooding-CEO)
+- Hamburger Familie — die Looks müssen zur Hartmann-Welt passen, nicht zu einer Checkliste
+
+---
+
+### Marktdaten (Publisher Rocket, 2026-02-22)
+
+**Stärkste Keywords für KDP-Boxen:**
+
+| Box | Keyword | Suchen/Mo | Ø Einkommen | Diff. | Strategie |
+|-----|---------|-----------|-------------|-------|-----------|
+| 1 | **arbeitsplatz romance** | 1.247 | 1.586 € | 39 🟢 | Spezifik |
+| 2 | **grumpy x sunshine deutsch** | 382 🟢 | 443 € | 48 🟡 | Spezifik |
+| 3 | **office liebesromane deutsch** | 340 🟡 | 576 € | 38 🟢 | Spezifik |
+| 4 | **spicy roman** | 336 | 1.958 € | 40 🟢 | Spezifik (Breit) |
+| 5 | liebesroman büro chef grumpy sunshine | — | — | — | Kombination |
+| 6 | workplace romanze deutsch boss employee | — | — | — | Kombination |
+| 7 | second chance romanze deutsch contemporary | — | — | — | Kombination |
+
+**Referenz-Autorinnen:**
+- Susie Tate: Workplace, 66.567 €/Mo (Übersetzung, ABSR 14)
+- Katrin Emilia Buck: Small Town, ~10.200 €/Mo (Deutsche Autorin)
+- Lana Stone: Boss/Billionaire, ~5.000 €/Mo (Deutsche Autorin)
+
+**Konkurrenz-Erkenntnisse (2026-02-22):**
+- Layla Hagen macht ~9.353 €/Mo mit 10 Büchern bei 0,99 € (Whitley-Brüder + Maxwells)
+- Hagens Band 1 „Den CEO Verführt" (Grumpy×Sunshine + CEO) ist ihr stärkster Titel: ABSR 211, 840 Bewertungen
+- Die Maxwells-Serie (englische Originaltitel als Untertitel, kein Trope) ist 10× schwächer — Trope-Forward-Untertitel machen messbaren Unterschied
+- **Kein einziges deutsches Original** bei 4,99 € in der Nische Workplace + Grumpy×Sunshine
+- Alia Smith (Notaufnahme, 3,5 Sterne): 15 €/Mo — gescheitert wegen Nischen-Split
+- Annabeth Albert (Rainbow, Band 4): 12 €/Mo — gescheitert wegen Nischen-Split
+- Anny Thorn (Eishockey): 57 €/Mo — anderes Keyword-Cluster
+
+**Detaillierte Keyword-Analyse:** `research/publisher_rocket/keyword_auswertung_lina_voss.md`
+**Konkurrenzanalyse Lina Voss:** `research/publisher_rocket/konkurrenz_auswertung_lina_voss.md`
+**Konkurrenzanalyse Layla Hagen:** `research/publisher_rocket/konkurrenz_layla_hagen.md`
+**Trend-Analyse:** `research/publisher_rocket/trend_auswertung_susie_tate.md`
+
+---
+
+### Serie: „Die Hartmann-Agentur" — Cousins-Familie in einer Werbeagentur
+
+**Setting:** Die Hartmann-Agentur — mittelständische Werbeagentur in Hamburg, gegründet von Werner Hartmann in den 70ern. Altbau-Büro, Familienunternehmen mit Geschichte. Kreativ, modern — natürliche Spannung durch Pitches, Deadlines und Hierarchie.
+
+**Warum Werbeagentur?**
+- Kreativ, jung, Pitch-Szenen = natürliche Spannung, Mixed Teams
+- Familienunternehmen gibt emotionalen Unterbau (Erbe, Verantwortung, Geschwisterrivalität)
+- Klinik ist raus (Alia Smith hat dort versagt — Nischen-Split)
+- Kanzlei wäre möglich gewesen, aber Agentur bietet mehr kreative Freiheit und weniger „CEO"-Klischee
+
+**Serien-Struktur: Cousins-Familie (zwei Familienzweige)**
+
+Werner Hartmann (80+) gründete die Agentur. Seine zwei Söhne — Matthias (der Pflichtbewusste) und Henrik (der Freigeist) — gingen verschiedene Wege. Matthias übernahm die Agentur, Henrik verschwand nach einem gescheiterten Restaurant in Berlin. Jetzt arbeiten die Kinder beider Söhne zusammen. Kernfrage: Wem gehört dieses Erbe — und wer zahlt den Preis?
+
+#### Zweig 1: Matthias Hartmann (Der Schuldige, 62)
+Matthias' Frau Katrin (Grafikerin) starb als Leon 16 war. Matthias brach zusammen, Leon übernahm.
+
+| Figur | Alter | Rolle | Archetyp | Wunde |
+|-------|-------|-------|----------|-------|
+| **Leon** | 32 | Creative Director | Der Eingefrorene | Mutter †, Vater brach zusammen → „Wenn ich loslasse, fällt alles auseinander" |
+| **Carla** | 29 | Head of Strategy | Die Perfektionistin | Unsichtbar aufgewachsen → „Wenn ich perfekt bin, sieht mich jemand" |
+| **Nils** | 27 | Junior Creative | Der Rebell | Talent nie anerkannt → „Wenn es was wert wäre, hätte es jemand gesehen" |
+
+#### Zweig 2: Henrik Hartmann (Der Flüchtige, 58 — abwesend)
+Henrik verschwand nach dem Restaurant-Scheitern. Schulden. Seine drei Kinder landen bei der Agentur.
+
+| Figur | Alter | Rolle | Archetyp | Wunde |
+|-------|-------|-------|----------|-------|
+| **Jakob** | 31 | Head of Sales (neu) | Der Charmante | Vater war charmant und hat nichts gehalten → „Bin ich nur die Show?" |
+| **Maren** | 28 | Freelance-Fotografin | Die Wilde | Henrik-Tochter → „Wenn ich bleibe, werde ich gefangen" |
+| **Tom** | 25 | Praktikant/Trainee | Der Stille | Immer unsichtbar → „Wenn ich nichts verlange, verletzt mich nichts" |
+
+**Serien-Dynamik:**
+- Zweig 1 = die „echten" Erben. Zweig 2 = die Ankömmlinge
+- Werner (Opa) als Anker — Sonntagsbrunch, Werbesprüche, Sonderbindung mit Tom
+- Henriks Schulden als Serien-Bogen (Band 1 Teaser → Band 4 Eskalation → Band 5/6 Rückkehr)
+- Agentur-Nachfolge als Finale: nicht Ein-Mann-Show, sondern Führungsteam
+- Jeder Band: eigenständige Liebesgeschichte + Serien-Fortschritt
+
+**Vollständige Serien-Bibel:** `lina-voss/serie/00_serien_bibel.md`
+**Alle Figurenprofile:** `lina-voss/serie/figuren/`
+
+---
+
+### Trope-Progression: 6 Bände mit Trope im Untertitel
+
+Jeder Band hat einen klaren Trope im Untertitel — konsequenter als Layla Hagen (die nur bei 4 von 7 Bänden einen Trope nutzt). Format: „Ein [Trope] Liebesroman (Die Agentur [X])"
+
+| Band | Paar | Trope | Untertitel | Plot-Motor |
+|------|------|-------|------------|------------|
+| 1 | **Leon × Nora** | **Grumpy × Sunshine** | „Ein Grumpy-meets-Sunshine Liebesroman" | Größter Pitch des Jahres |
+| 2 | **Jakob × Pia Kessler** | **Enemies to Lovers** | „Ein Enemies-to-Lovers Liebesroman" | Konkurrenz-Pitch gegen ihre Agentur |
+| 3 | **Carla × Lasse Petersen** | **Forced Proximity** | „Ein Forced-Proximity Liebesroman" | Kampagnen-Dreh on Location |
+| 4 | **Maren × Finn Callsen** | **Forbidden + Deal** | „Ein Forbidden-Love Liebesroman" | Henriks Schulden holen die Familie ein |
+| 5 | **Nils × Janna Lindgren** | **Second Chance** | „Ein Second-Chance Liebesroman" | Ex sitzt auf Kundenseite |
+| 6 | **Tom × Annika Berger** | **He Falls First** | „Ein He-Falls-First Liebesroman" | Agentur-Nachfolge als Serien-Finale |
+
+---
+
+### Konkurrenz vs. Lina Elise Voss — Strategischer Vergleich
+
+| Element | Layla Hagen | Lina Elise Voss |
+|---------|------------|-----------------|
+| **Herkunft** | Übersetzung (EN→DE) | Deutsches Original |
+| **Setting** | Unspezifisch/amerikanisch | Deutsche Werbeagentur |
+| **Serien-Klammer** | „Die Whitley-Brüder" (4→7 Bände) | „Die Agentur" — Cousins-Familie (6 Bände) |
+| **Preis** | 0,99 € (35% Tantieme = ~0,35 €) | 4,99 € (70% Tantieme = ~3,49 €) |
+| **Trope im Untertitel** | Inkonsistent (4 von 7 Bänden) | JEDER Band konsequent |
+| **Seitenanzahl** | ~278–326 (Ø 306) | 350–400 (Mehrwert für DE-Leserinnen) |
+| **Umsatz** | ~9.353 €/Mo (10 Bücher) | Ziel: 3.000–5.000 €/Mo (6 Bücher) |
+| **Verkäufe für 1.000 €/Mo** | ~2.857 | ~287 |
+| **KWT (Ads)** | Nicht sichtbar (EN-Fanbase treibt Traffic) | Pflicht ab Tag 1 (5–10 €/Tag) |
+
+**Hagens Stärken kopieren:**
+- Trope im Untertitel im Format „ein [trope] liebesroman"
+- Band 1 = Grumpy×Sunshine als stärkster Trope für Serienstart
+- Serien-Klammer mit Familienstruktur (bei Hagen: Brüder → bei uns: Cousins)
+- Schnelle Release-Kadenz (Ziel: alle 6–8 Wochen)
+
+**Hagens Schwächen ausnutzen:**
+- Deutsches Setting statt amerikanisches
+- 4,99 € statt 0,99 € (10× mehr Tantieme pro Verkauf)
+- 350–400 Seiten statt 278–326 (Substanz für den Preis)
+- Konsequente Tropes in JEDEM Untertitel
+- Familienstruktur mit mehr Tiefe (zwei Zweige, echte Konflikte)
+
+---
+
+### Umsatz-Projektion
+
+#### Buch 1 allein (Monat 1–3)
+
+| Szenario | ABSR | Verkäufe/Tag | €/Mo (bei 4,99 €) |
+|----------|------|-------------|---------------------|
+| Pessimistisch | 5.000–10.000 | 3–5 | 300–500 € |
+| **Realistisch** | **1.000–3.000** | **8–15** | **800–1.500 €** |
+| Optimistisch | 300–800 | 20–35 | 2.000–3.500 € |
+
+#### Serie (6 Bücher, Monat 12+)
+
+| Szenario | €/Mo gesamt |
+|----------|-------------|
+| Pessimistisch | 1.500–2.500 € |
+| **Realistisch** | **3.000–5.000 €** |
+| Optimistisch | 6.000–10.000 € |
+
+Zum Vergleich: Layla Hagen macht ~9.353 €/Mo mit 10 Büchern bei 0,99 €. Bei 4,99 € und 6 Büchern sind 5.000 €/Mo absolut realistisch — das sind nur ~1.433 Verkäufe/Mo (~48/Tag über 6 Bücher = ~8/Tag/Buch).
+
+---
+
+### Preorder-Strategie
+
+**Preorder-Strategie (à la Tate):** Band 2 als Preorder listen sobald Band 1 live geht. Hagen veröffentlichte die ersten 3 Whitley-Bände gleichzeitig — das ist für Originale nicht realistisch. Stattdessen: Band 1 live + Band 2 Preorder (6–8 Wochen Fenster).
+
+---
+
+### Stand & Nächste Schritte
+
+- [x] Serien-Setting festlegen → **Werbeagentur Hamburg (gegründet vom Opa in den 70ern)**
+- [x] Serien-Struktur definieren → **Cousins-Familie, 6 Bände, 2 Familienzweige**
+- [x] Trope-Reihenfolge festlegen → **G×S → EtL → FP → Forbidden → SC → HFF**
+- [x] Steaminess-Level definieren → **Medium-Steamy, 2–3 Szenen/Buch, emotional eingebettet**
+- [x] Konkurrenzanalyse abschließen → **Hagen, Tate, Buck, Stone, Smith, Albert, Thorn**
+- [x] ALLE 17 Figurenprofile fertig (6 Cousins + Werner + Matthias + Katrin + Henrik + 6 Love Interests)
+- [x] Hintergrund-Figuren in alle LI-Dateien eingebettet
+- [x] Serien-Bibel komplett → `lina-voss/serie/00_serien_bibel.md`
+- [x] Agentur-Referenz → `lina-voss/serie/agentur_rollen.md`
+- [x] Briefing Band 1 → `lina-voss/band01/briefing.json`
+- [ ] Cover-Stil testen (AI-generiert, illustriert) → Figuren-Optik daran anpassen
+- [ ] Figuren-Optik definieren (Haarfarbe, Statur, Stil — abhängig von Cover-Tests)
+- [ ] Produktion Band 1 starten (Phase 0–1)
+- [ ] Amazon Author Central einrichten

@@ -6,7 +6,8 @@
       "Bash(tr ' ,.;:!?\"\"\\(\\)' '\\\\n')",
       "Bash(cat:*)",
       "Bash(echo === $f ===:*)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.amazon.de)"
     ]
   }
 }

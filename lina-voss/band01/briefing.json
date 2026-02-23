@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "book_id": "lina_voss_001",
+    "author_pen_name": "Lina Elise Voss",
+    "standalone_or_series": "series",
+    "series_name": "Die Hartmann-Agentur",
+    "series_number": 1,
+    "series_title": "Tageslicht",
+    "series_subtitle": "Ein Grumpy-meets-Sunshine Liebesroman"
+  },
+  "market": {
+    "genre": "Romance",
+    "subgenre_mood": "Spicy Contemporary Romance / Workplace Romance",
+    "target_length_chapters": 20,
+    "target_word_count": "80000-95000",
+    "keywords": [
+      "arbeitsplatz romance",
+      "grumpy x sunshine deutsch",
+      "office liebesromane deutsch",
+      "spicy roman",
+      "liebesroman büro chef grumpy sunshine",
+      "workplace romanze deutsch boss employee",
+      "grumpy meets sunshine liebesroman"
+    ],
+    "price_strategy": {
+      "ebook_launch": "0.99 EUR",
+      "ebook_regular": "4.99 EUR",
+      "taschenbuch": "14.99 EUR",
+      "kdp_select": true
+    }
+  },
+  "tropes": [
+    "Grumpy x Sunshine",
+    "Workplace Romance",
+    "Boss / Employee (er = Creative Director, sie = Freelancerin mit 6-Monats-Vertrag)",
+    "Forced Proximity (Agentur-Nächte)",
+    "He Falls First (er merkt sich alles — zeigt nichts)"
+  ],
+  "setting": {
+    "type": "Urban / Workplace",
+    "description": "Hamburg, Gegenwart. Die Hartmann-Agentur — mittelständische Werbeagentur, gegründet in den 70ern, Familienunternehmen. Altbau-Büro in der Schanze oder Speicherstadt. Großer Pitch als Plot-Motor. Agentur-Nächte als Forced Proximity.",
+    "key_locations": [
+      "Die Agentur — Altbau-Büro, offene Räume, Leons Büro mit Sofa auf dem er schläft",
+      "Die Agentur-Küche — wo Geheimnisse besprochen werden",
+      "Werners Haus — Sonntagsbrunch, großer Esstisch, alle Cousins",
+      "Leons Wohnung — karg, funktional, fast leer",
+      "Noras Wohnung — klein, warm, Bücher und Post-its überall",
+      "Hafenkneipe oder Bar — für die eine Szene außerhalb der Agentur"
+    ]
+  },
+  "protagonist": {
+    "name": "Leon Hartmann",
+    "age": 32,
+    "gender": "Mann",
+    "role": "Creative Director der Hartmann-Agentur",
+    "archetype": "Der Eingefrorene — nicht grumpy, EINGEFROREN. Kalt aus Selbstschutz, nicht aus Arroganz.",
+    "wound": "Mutter starb als er 16 war. Vater brach zusammen. Leon übernahm die Agentur. Küchenboden-Satz: 'Einer von uns muss es noch schaffen. Und ich schaff es nicht.'",
+    "false_belief": "Wenn ich loslasse, fällt alles auseinander. Gefühle = Kontrollverlust = Zerstörung.",
+    "pov_style": "Kurze Sätze. Wenig Adjektive. Handlung statt Worte. Wenn er redet, zählt jedes Wort.",
+    "character_file": "serie/figuren/leon.md"
+  },
+  "love_interest": {
+    "name": "Nora",
+    "name_note": "Nachname TBD — wird in Phase 2 festgelegt",
+    "age": 28,
+    "gender": "Frau",
+    "role": "Freelance-Texterin, seit 1 Jahr per Mail für die Agentur, jetzt 6-Monats-Vertrag vor Ort",
+    "archetype": "Sunshine — aber nicht naiv. Ihre Wärme ist Überlebensstrategie.",
+    "wound": "Mutter chronisch depressiv. Nora hat gelernt: Wenn ich hell genug bin, kommt Mama zurück. Großmutter (Anker) starb bevor ihre Geschichten aufgeschrieben wurden.",
+    "false_belief": "Wenn ich aufhöre hell zu sein, gehen die Menschen.",
+    "pov_style": "Wärmer, bildhafter, Humor. Wenn die Maske fällt: kürzer, ehrlicher, verletzlich.",
+    "character_file": "serie/figuren/leon_li_nora.md"
+  },
+  "relationship_arc": {
+    "phase_1_act_1": "Agentur-Nächte. Sie bleibt wegen des Pitches. Nachts ist seine Mauer dünner. Spannung durch Nähe im leeren Raum.",
+    "phase_2_act_2": "Erste intime Momente nachts in der Agentur. Nach dem Pitch-Gewinn — roh, dringend. Wird zum Muster: Nacht = echt, Tag = als wäre nichts. Die Leserin merkt: das ist nicht gesund.",
+    "phase_3_act_3": "Sie fordert Tageslicht. 'Ich will dich nicht nur um 2 Uhr nachts.' Der echte Climax: ob er die Agentur um 18 Uhr verlassen kann.",
+    "key_sentence_his": "Einer von uns muss es noch schaffen.",
+    "key_sentence_hers": "Du musst das nicht alleine schaffen. Aber du musst es wollen.",
+    "steamy_texture": "Dunkel, dringend, roh. Nachts in der leeren Agentur. Kontrollverlust der sich gleichzeitig befreiend und erschreckend anfühlt. Langsam → intensiv. 2-3 Szenen, jede emotional verankert."
+  },
+  "plot_motor": {
+    "external": "Größter Pitch des Jahres. Die Agentur braucht den Kunden — finanziell und für die Reputation. Stresstest für alle.",
+    "internal": "Leon muss zum ersten Mal seit 16 Jahren jemanden reinlassen. Nora muss zum ersten Mal aufhören jemandes Sonne zu sein.",
+    "catalyst": "Inhouse-Texterin kündigt. Nora bekommt 6-Monats-Vertrag vor Ort. Leon war dagegen."
+  },
+  "er_hat_es_sich_gemerkt": [
+    {
+      "what": "Er beschützt sie im Meeting — ein Junior lacht über ihren Entwurf. Leon eiskalt: 'Wenn du was Besseres hast, zeig's mir. Bis dahin: Mund halten.' Er hat sich gemerkt dass sie in einer früheren Agentur ausgelacht wurde.",
+      "chapter_approx": 9,
+      "source": "Alte Mail"
+    },
+    {
+      "what": "Keine Sonntagsmail. Leon schickt dem ganzen Team Mails am Sonntag. Nora bekommt nie eine. Sie hat mal geschrieben: Sonntags arbeite ich nicht.",
+      "chapter_approx": "durchgehend",
+      "source": "PS in einer Mail"
+    },
+    {
+      "what": "Review-Meetings von 9 auf 14 Uhr verlegt. Sie arbeitet morgens am besten.",
+      "chapter_approx": "7-20",
+      "source": "Beiläufige Erwähnung in einer Mail"
+    },
+    {
+      "what": "Pro-Bono-Auftrag: Stiftung die Lebensgeschichten von Senioren sammelt. Nora denkt: er gibt ihr den unwichtigen Kram. Er gibt ihr Omas verlorene Geschichten zurück.",
+      "chapter_approx": 15,
+      "source": "23-Uhr-Mail über die Großmutter"
+    },
+    {
+      "what": "Sie entdeckt etwas das er unmöglich wissen kann — außer er hat JEDE Mail gelesen. 'Woher wusstest du das?' — 'Was?' Er geht.",
+      "chapter_approx": "18-19",
+      "source": "Alle Mails zusammen"
+    }
+  ],
+  "supporting_characters": {
+    "family_zweig_1": [
+      {
+        "name": "Carla Hartmann",
+        "role": "Head of Strategy, Leons Schwester. Hält ihm den Rücken frei. Wird Noras echte Freundin. Sagt: 'Irgendwann musst du dich umdrehen und es sehen.'",
+        "file": "serie/figuren/carla.md"
+      },
+      {
+        "name": "Nils Hartmann",
+        "role": "Junior Creative, Leons Bruder. Der Rebell. Sarkastisch, talentiert, versteckt. Leon ist am kältesten zu ihm — weil Nils der Künstler ist den Leon begraben hat.",
+        "file": "serie/figuren/nils.md"
+      },
+      {
+        "name": "Matthias Hartmann",
+        "role": "Vater, 62. Nomineller GF. Der Küchenboden-Satz. Schuld frisst ihn. Reden nur über die Agentur.",
+        "file": "serie/figuren/matthias.md"
+      }
+    ],
+    "family_zweig_2": [
+      {
+        "name": "Jakob Hartmann",
+        "role": "Head of Sales (neu). Henriks Sohn. Charme-Offensive, lernt alle Namen, bringt Kuchen mit. Leon sieht ihn als Eindringling. Flirtet mit Nora (Reflex). Teaser: trifft Pia bei Branchen-Event.",
+        "file": "serie/figuren/jakob.md"
+      },
+      {
+        "name": "Maren Hartmann",
+        "role": "Freelance-Fotografin. Henriks Tochter. Kamera als Schutzschild. Fotografiert Leon/Nora in unbeobachtetem Moment. Schulden-Teaser.",
+        "file": "serie/figuren/maren.md"
+      },
+      {
+        "name": "Tom Hartmann",
+        "role": "Praktikant, 25. Der Stille. Ein Satz bei der Vorstellung — alle vergessen ihn. Sitzt neben Werner beim Brunch.",
+        "file": "serie/figuren/tom.md"
+      }
+    ],
+    "other": [
+      {
+        "name": "Werner Hartmann",
+        "role": "Opa, 80+. Gründer. Denkt in Headlines. Werbesprüche die zum Thema passen. Sonderbindung mit Tom. Führt das Sonntagsbrunch.",
+        "file": "serie/figuren/werner.md"
+      }
+    ]
+  },
+  "teaser_for_future_bands": [
+    {
+      "band": 2,
+      "teaser": "Jakob trifft Pia Kessler bei einem Branchen-Event. Sie sagt: 'Du bist Henrik Hartmanns Sohn, oder? Man sieht's.' Sein Gesicht — die Leserin kann es nicht einordnen.",
+      "characters": ["Jakob", "Pia Kessler"]
+    },
+    {
+      "band": 3,
+      "teaser": "Lasses Name fällt. Die Agentur sucht einen Fotografen. Carla googelt ihn: 'Absolut nicht.' Leon: 'Bucht ihn.'",
+      "characters": ["Carla", "Lasse Petersen"]
+    },
+    {
+      "band": 4,
+      "teaser": "Beim Sonntagsbrunch erwähnt Werner die Schulden. Kurze Stille. Alle gucken weg.",
+      "characters": ["Werner", "Finn Callsen (nur erwähnt)"]
+    },
+    {
+      "band": 5,
+      "teaser": "Nils zeichnet etwas am Schreibtisch. Jemand kommt rein. Er klappt das Buch zu.",
+      "characters": ["Nils"]
+    }
+  ],
+  "narrative_structure": {
+    "pov": "Dual POV — Leon und Nora im Wechsel. Kein Head-Hopping innerhalb eines Kapitels.",
+    "chapter_count": 20,
+    "chapter_length_words": "4000-4750",
+    "act_structure": {
+      "act_1_chapters": "1-5: Ankunft Zweig 2, Nora vor Ort, Pitch-Setup. Agentur-Nächte beginnen. Sonntagsbrunch (steif, Pflicht). Leon zeigt nichts — aber die Mails-Details sickern durch.",
+      "act_2a_chapters": "6-10: Pitch eskaliert. Leon/Nora näher. Erste 'er hat es sich gemerkt'-Momente. Jakob flirtet mit Nora (Leon merkt es). Nils-Konfrontation.",
+      "act_2b_chapters": "11-15: Intimität nachts in der Agentur. Muster wird sichtbar: Nacht = echt, Tag = Eis. Nora erkennt: ich mache das Mama-Muster. Pro-Bono-Auftrag. Carla-Freundschaft.",
+      "act_3_chapters": "16-20: 'Ich will dich nicht nur um 2 Uhr nachts.' Krise. Leon muss wählen: Kontrolle oder Tageslicht. Matthias-Moment. Geht Freitag um 21 Uhr statt um 2."
+    },
+    "ending_tone": "HEA — aber leise. Kein großes Geständnis. Er geht um 21 Uhr. Er ist DA. Für sie. Im Tageslicht. Die große Veränderung ist klein — und genau deshalb real."
+  },
+  "voice_profile": {
+    "tone": "Emotional, subtil, slow burn. Show don't tell. Humor durch Nebencharaktere (Werner, Jakob, Nils), nicht durch die Haupthandlung. Spannung durch das Ungesagte.",
+    "leon_sample": "Die Mail kam um 23:47. Er las sie zweimal. Nicht weil er musste — der Text war klar, die Headline saß. Er las sie weil sie am Ende geschrieben hatte: 'Sonntags arbeite ich nicht. Das ist mein Tag.' Als ob er gefragt hätte. Er hatte nicht gefragt. Er löschte den Satz aus seinem Kopf. Er blieb trotzdem.",
+    "nora_sample": "Der Kaffee war schwarz und zu heiß und Leon Hartmann saß hinter seinem Schreibtisch als hätte er dort geschlafen. Was er wahrscheinlich hatte, wenn man nach den Falten im Hemd ging. 'Morgen', sagte sie. Er nickte. Nicht unhöflich — einfach fertig mit dem Thema Begrüßung. Sie stellte den Kaffee auf seinen Tisch. Er sah sie nicht an. Sie ging zurück an ihren Platz und fragte sich warum sie das getan hatte."
+  },
+  "steaminess": {
+    "level": "Medium-Steamy (Nalini Singh Psy-Changeling Level)",
+    "scenes_count": "2-3",
+    "style": "Sinnlich aber nicht klinisch. Keine Euphemismen, aber auch kein Porno. Emotional verankert — jede Szene markiert einen Wendepunkt.",
+    "reference": "Nalini Singh — steamy, emotional verankert, nie gratuitous",
+    "first_scene_earliest": "Kapitel 12",
+    "emotional_anchors": [
+      "Erste Szene: nach dem Pitch-Gewinn, Adrenalin, allein in der Agentur. Kontrollverlust.",
+      "Zweite Szene: zärtlicher, langsamer. Er lässt sich fallen. Sie hört auf zu performen.",
+      "Optionale dritte Szene: Tageslicht. Morgens. Nicht in der Agentur. Das erste Mal ECHT."
+    ]
+  },
+  "anti_patterns": [
+    "KEINE Mary Sue — Nora hat echte Schwächen (People-Pleasing, Mama-Muster)",
+    "KEIN Manic Pixie Dream Girl — Nora existiert nicht um Leon zu retten",
+    "KEIN Bella-Swan-Syndrom — Eigenschaften als Verhalten zeigen, nicht labeln",
+    "KEIN Insta-Love — jede Annäherung muss verdient sein",
+    "KEIN Big Misunderstanding als einziger Akt-3-Konflikt",
+    "KEIN Billionaire-Klischee — alter Audi, keine Penthouse-Suite",
+    "KEINE 'er hat es sich gemerkt'-Erklärung durch Erzähler oder Dialog",
+    "KEINE Deus-Ex-Machina-Auflösung"
+  ],
+  "series_context": {
+    "series_bible": "serie/00_serien_bibel.md",
+    "agency_reference": "serie/agentur_rollen.md",
+    "production_workflow": "PRODUCTION.md",
+    "note": "Band 1 etabliert die Welt, alle 6 Cousins, Werner, und die Familiendynamik. Teaser für Band 2-5 einbauen. Die Leserin soll am Ende wissen wollen wie es mit ALLEN weitergeht."
+  },
+  "additional_notes": "Zielgruppe: Frauen 25-45. Spicy aber emotional. Kein 'ab 18'-Labeling. Der Plot-Motor (Pitch) gibt Struktur, aber das Buch ist CHARACTER-driven. Die Agentur ist Kulisse und Katalysator — der eigentliche Konflikt ist intern. Noras Nachname muss noch festgelegt werden. Arbeitstitel 'Tageslicht' — kann sich ändern."
+}
