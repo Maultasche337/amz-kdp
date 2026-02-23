@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Dunkles, leicht verwuscheltes Haar. Intensive dunkle Augen mit einem wachsamen, kontrollierten Blick — man sieht ihm an dass er alles registriert und nichts rauslässt. Markante Gesichtszüge, kantiger Kiefer, leichter Dreitagebart. Weißes Hemd mit offenem Kragen, Ärmel hochgekrempelt — sieht aus als hätte er in der Agentur geschlafen (hat er wahrscheinlich). Keine Eitelkeit, keine Marken, kein Aufwand. Die Erschöpfung steht ihm gut — das macht es schlimmer.
+
+*Referenz: Cover-Test `band01/cover_tests/test9b_sd35_leon_watercolor.png` — Ink/Watercolor-Portrait, Farbpalette Stahlblau/Navy/Silber mit Amber-Unterton.*
+
+---
+
 ## Charakter-Kern
 
 Leon ist nicht mürrisch. Leon ist nicht unhöflich. Leon ist **abwesend.** Er sieht durch Menschen durch. Er funktioniert — brillant, effizient, unermüdlich — aber er ist nicht da. Die Lichter sind an, aber die Tür ist zu.

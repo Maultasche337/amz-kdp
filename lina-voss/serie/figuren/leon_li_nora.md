@@ -1,4 +1,4 @@
-# Nora [Nachname TBD]
+# Nora Seufert
 *Band 1: Love Interest | Protagonistin*
 
 ---
@@ -10,6 +10,14 @@
 | **Alter** | 28 |
 | **Beruf** | Freelance-Texterin/Copywriterin, seit 3 Jahren |
 | **Beziehung zur Agentur** | Freelancerin seit 1 Jahr per Mail, dann 6-Monats-Vertrag vor Ort |
+
+---
+
+## Optik
+
+Honigblondes Haar, offen und leicht gewellt — sie bindet es hoch wenn sie arbeitet, lässt es fallen wenn sie denkt. Warme grüne Augen mit einem Blick der Leute zum Reden bringt (und der manchmal zu viel gibt bevor sie es merkt). Sommersprossen über der Nase. Kleidung: warm, weich, lebendig — keine Power-Blazer, eher Pullover und bunte Schals. Sieht aus als würde sie in jedes Café reinpassen und überall sofort Freunde finden. Was sie auch tut. Das ist das Problem.
+
+*Referenz: Cover-Test `band01/cover_tests/test9_sd35_watercolor.png` — Ink/Watercolor-Portrait, Farbpalette Amber/Roségold/Teal.*
 
 ---
 

@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Sandblondes Haar, leicht überwachsen, fällt natürlich und ungezwungen. Hellblaue Augen — der Blick ist das Erste was auffällt: ruhig, wach, aufmerksam, als würde er alles registrieren was andere übersehen. Weiche Gesichtszüge, sanfter Kiefer, jugendlich aber ernst. Schlichter Pullover oder Strickjacke in gedeckten Erdtönen, unauffällig. Man sieht ihn erst beim zweiten Blick — und dann wundert man sich, wie man ihn übersehen konnte.
+
+*Referenz: Cover-Test `band01/cover_tests/test14_tom.png` — Ink/Watercolor-Portrait, Farbpalette Salbei/staubiges Blau/Creme/warmes Grau mit Anthrazit-Akzent.*
+
+---
+
 ## Charakter-Kern
 
 Tom ist der Jüngste der sechs Cousins und der Stillste. Er sagt wenig, fordert nichts, fällt nicht auf. Die Familie denkt: Tom ist schüchtern. Tom ist halt so. Tom kommt schon noch.

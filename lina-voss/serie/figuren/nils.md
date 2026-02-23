@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Dunkles, zerzaustes Haar das ihm ins Gesicht fällt. Intensive dunkle Augen unter starken Augenbrauen — der Blick ist trotzig, fast feindselig, aber darunter liegt Verletzlichkeit. Scharfe Kieferlinie, schmales Gesicht, leichte Schatten unter den Augen. Dunkles Henley oder schwarzes T-Shirt, vielleicht farbverschmierte Finger. Kantig, jung, künstlerisch — eine unruhige Energie die sich nicht bändigen lässt. Er sieht aus wie jemand der in der Nacht malt und am Tag kämpft.
+
+*Referenz: Cover-Test `band01/cover_tests/test12_nils.png` — Ink/Watercolor-Portrait, Farbpalette Anthrazit/tiefes Teal/Waldgrün mit Sienna/Amber-Akzent.*
+
+---
+
 ## Charakter-Kern
 
 Nils ist der Jüngste von Zweig 1 und der, der rebelliert. Aber die Rebellion ist kein Freiheitsdrang — sie ist ein Hilferuf. In einer Familie wo Leon die Krisen-Aufmerksamkeit bekommt und Carla gar keine, hat Nils den einzigen Weg gefunden der noch übrig war: Ärger machen.

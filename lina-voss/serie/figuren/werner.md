@@ -14,6 +14,14 @@
 
 ---
 
+## Optik
+
+Volles silberweißes Haar, gepflegt aber natürlich. Klare blaue Augen die alles gesehen haben und immer noch mit Neugier und Wärme schauen. Tiefe Lachfalten, ein Gesicht voller Charakter und Geschichte. Kräftige Nase, festes Kinn. Klassisches Hemd mit Wollweste oder Fliege — zeitlose Eleganz, nichts Modisches, nichts Unsicheres. Das halbe Lächeln eines Mannes der nicht laut werden muss um gehört zu werden.
+
+*Referenz: Cover-Test `band01/cover_tests/test15_werner.png` — Ink/Watercolor-Portrait, Farbpalette Taupe/warmes Grau/Creme/Salbei mit Gold-Akzenten.*
+
+---
+
 ## Charakter-Kern
 
 Werner ist der Einzige der keine Maske trägt. Er ist zu alt für Bullshit. Er hat eine Agentur gegründet, seine Frau verloren, einen Sohn an die Pflicht und einen an die Flucht. Er hat alles gesehen.

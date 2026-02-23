@@ -155,6 +155,40 @@ Jeder Cousin hat einen Bogen der sich durch die gesamte Serie zieht — nicht nu
 
 ---
 
+## Cover-Ästhetik (Serien-Stil)
+
+**Stil:** Ink/Watercolor-Portraits — lose, expressive Tuschezeichnungen mit Aquarell-Farbflächen. Sichtbare Pinselstriche, abstraktes Auslaufen an den Rändern. NICHT fotorealistisch. Weißer Hintergrund für Titel-Overlay.
+
+**Modell:** Stable Diffusion 3.5 Large (via Replicate). Funktioniert deutlich besser für diesen Stil als FLUX.
+
+**Konzept pro Band:** Ein Portrait — Protagonist ODER Love Interest, je nach Hook des Bands.
+
+**Farbcodierung pro Band:**
+
+| Band | Figur | Farbpalette |
+|------|-------|-------------|
+| 1 | Leon | Stahlblau, Navy, Silber (+ Amber-Unterton) |
+| 2 | Jakob oder Pia | Honiggold, warmes Braun, Creme (+ Grau/Taupe-Schatten) |
+| 3 | Carla oder Lasse | Schiefergrau, kühles Blau, Weiß (+ Rostrot/Bernstein-Akzent) |
+| 4 | Maren oder Finn | Gold, Sonnenuntergang-Orange, Sienna (+ Teal/Waldgrün-Erdung) |
+| 5 | Nils oder Janna | Anthrazit, tiefes Teal, Waldgrün (+ Sienna/Amber-Akzent) |
+| 6 | Tom oder Annika | Salbei, staubiges Blau, Creme (+ Anthrazit-Akzent) |
+
+**Typografie:** Separat gestaltet (Canva/Photoshop). Titel dominant, Autorin konsistent positioniert, Serien-Branding „Die Hartmann-Agentur" als Dachmarke. Max 2 Fonts, starke Hierarchie.
+
+**Referenz-Dateien:**
+- Leon: `band01/cover_tests/test9b_sd35_leon_watercolor.png`
+- Nora: `band01/cover_tests/test9_sd35_watercolor.png`
+- Carla: `band01/cover_tests/test10_carla.png`
+- Jakob: `band01/cover_tests/test11_jakob.png`
+- Nils: `band01/cover_tests/test12_nils.png`
+- Maren: `band01/cover_tests/test13_maren.png`
+- Tom: `band01/cover_tests/test14_tom.png`
+- Werner: `band01/cover_tests/test15_werner.png`
+- Paar-Alternative (Ideogram): `band01/cover_tests/test8b_ideogram_icy.png`
+
+---
+
 ## Dateistruktur für Produktion
 
 ```

@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Sandbraunes welliges Haar, lässig gestylt aber nicht overdone. Warme haselnussbraune Augen mit einem wissenden Funkeln — das Lächeln das sofort Vertrauen aufbaut, sofort Türen öffnet. Markantes Gesicht, Grübchen, offene freundliche Züge. Lässig-elegant gekleidet: gut sitzender Casual-Blazer über weichem Pullover, entspannte Eleganz. Aber wer genau hinsieht, erkennt hinter den Augen etwas Leeres — die Bühne ist perfekt, aber der Darsteller ist erschöpft.
+
+*Referenz: Cover-Test `band01/cover_tests/test11_jakob.png` — Ink/Watercolor-Portrait, Farbpalette Honiggold/warmes Braun/Creme mit Grau/Taupe-Schatten.*
+
+---
+
 ## Charakter-Kern
 
 Jakobs Charme ist kein Persönlichkeitsmerkmal — es ist eine Überlebensstrategie. Genau wie Leons Eis und Carlas Perfektion.

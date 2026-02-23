@@ -1,0 +1,39 @@
+Most self-published authors think becoming a bestseller on Amazon is about luck, huge audiences, or massive ad spend. But in reality it's about understanding how Amazon categories work. The truth is a bestseller in the right category can take just a handful of sales a day while the wrong category can bury your book completely. 
+
+Now in this video I'm going to show you how you can reverse engineer Amazon bestsellers by studying category data and real examples so that you can find places where your book can actually rank instead of getting lost in the competition. And this is an advanced strategy that not a lot of self-publishers use or even know about. Now firstly we need to understand what a bestseller really is on Amazon. 
+
+So Amazon's bestsellers lists are algorithm driven and they are updated hourly. This means that it's dynamic, not permanent, so timing really matters here. Categories are the playing field and not all are created equal. 
+
+A lot of authors think that to get the bestsellers badge you need to be making hundreds of sales a day. But the truth is this, a bestseller in one category might only need one or two sales to actually make it to that bestseller title. Your job is to find those lower competition categories where you can rank. 
+
+It's a strategic skill, not luck. Now I do want to take a quick second to point out the obvious here. The categories that you choose for your book need to be relevant categories. 
+
+You don't want to attempt to game the system by choosing categories strictly because they're low competition, but they don't actually make sense for your book. This just creates a poor shopper experience and Amazon will not allow this. Now you need to start by searching Amazon for books similar to yours. 
+
+So you can use keywords that your readers would type in that search bar and then click on each relevant book and scroll down to the product details section. Write down the categories listed under Amazon bestsellers rank. These are real Amazon categories. 
+
+Next you want to check the number one bestseller in each category. So you're going to click on the category link shown on that book's page. It's going to take you to a list of bestsellers in that category. 
+
+Click on the number one book in that category and scroll to its bestsellers rank. Note that number. That is the rank you need to beat to become the new number one in that category. 
+
+But how do you know how many sales you actually need to make in order to beat that number one book? You're going to go to Kindlepreneur's Amazon KDP sales rank calculator. You'll type in the book's bestsellers rank along with the book type and the marketplace and you're now going to see how many books you need to sell in one day in order to knock that book out of the number one spot. Now when you do this for all of the different categories you've collected and all of the number one books in those categories that you selected you're going to find that some categories are way easier to rank for than others. 
+
+Those are the categories that you want to place your book into. So for example you might have category A and the number one book in that category has a bestsellers rank of 2,000 meaning you might have to sell 43 books in a day to knock that book out and become the new number one. But in category B you might find that the number one book in that category has a bestsellers rank of 70,000 meaning you only need to sell two copies of book in a single day to knock that book out of the number one spot and claim it for yourself. 
+
+Big difference here from these two you can see that choosing category B as your category is going to be way more effective at turning you into a bestseller than choosing category A. Now another way to get lists of categories is to simply browse through Amazon sidebar and do some exploring. If you see a category that looks interesting you can then follow the same method we just outlined clicking into the category finding the number one book in that category entering the sales rank into the Amazon sales rank calculator. This will help you figure out how many books you need to sell in one day to become the new number one. 
+
+Now the simplest and easiest and least time-consuming way to do this is by using a tool like publisher rocket. publisher rocket is going to very quickly show you how many sales you need to hit number one or be in the top ten in that category even if it might be difficult to hit number one if you can even get in that top ten you're gonna be in great shape. publisher rocket also shows you whether or not that category is what's called a ghost category meaning it's not actually directly visible on Amazon and can't actually earn you that bestseller's tag. 
+
+Once you've got your low competition categories and you're inside your KDP dashboard you go to your books book details section click choose categories and add them there. You can select up to three categories during the setup phase. Again make sure your categories are relevant to your book as niche as possible and they are not ghost categories. 
+
+Now a little bonus tip here Amazon might actually place your book into additional categories that you didn't ask for based on your keywords and description so you want to make sure you're optimizing those as well. Now a couple of advanced tips here Firstly build your entire book based on category research that you've done. Now that you know how to choose low competition categories you can intentionally design your book to fit those categories instead of creating your book first and then picking the categories afterward. 
+
+You could start your entire research phase researching low competition categories to come up with an idea for your book in the first place. This is where reverse engineering actually happens. So look for those low competition categories study the top ranking books in those categories and identify the common patterns. 
+
+What is the most popular book format? What type of book consistently ranks in this category? Is it a journal, a workbook, a guide, an activity book, a planner? Think about audience angle. Who are these books clearly written for? What specific problem or need do they need to address? What result does the buyer expect after using the book? Organization, clarity, education, emotional relief, entertainment. You can also get valuable intel by looking at the reviews on some of those books. 
+
+What do people like about the books? What do they not like? What do they think is missing? And then based on all of those observations create the book. You can also take this even one step further by combining two compatible categories. So let's say through your research you find two different categories that have some sort of natural overlap somewhere.
+
+Consider designing one book that can legitimately fit both categories. This can help you to create a really unique book that might be able to easily rank in two different categories. Doubling your chances of becoming a bestseller or at least increasing your chances of becoming a bestseller in two completely different categories. 
+
+You just want to make sure that that one book can genuinely serve both of those categories. Now once you've got your book and it's time to launch click this video here to learn seven secrets to a best-selling book launch on Amazon KDP. Thanks so much for watching.

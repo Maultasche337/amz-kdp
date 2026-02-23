@@ -1,0 +1,51 @@
+Hi, I'm Dave Chesson of Kindlepreneur, and as you probably have heard, Amazon has seemed to have increased the number of accounts they've been terminating or shutting down. Sometimes this happens for ridiculous reasons, and sometimes it just happens by mistake. And if you go to Facebook or you go to forums, you won't find any rhyme or reason.
+
+Well, not exactly. As you will see, there's definitely something going on, and in this video I will explain how Amazon is doing this, what some of the main reasons and triggers are, and also some of my personal take on this as well. But before I get into that, if you'd like more videos about Amazon, KDP, book marketing, be sure to hit that subscribe button, as well as the little bell icon to the right of it so as you get notified when the next video comes out.
+
+And with that, let's begin. Okay, so before we get started, let's talk about the differences between warnings and terminations. Sometimes authors get a warning.
+
+This is an email that states that there is something wrong and generally are given a certain length of time to fix it. If you don't, then they terminate your account, which by the way, now is an important time to make sure that you have access to the email address that you used to create your KDP account and that Amazon's emails are not going to spam. You have no idea how many authors I've talked to where there was an email warning them and they totally didn't get it.
+
+And next thing you know, their account was blocked. However, sometimes instead of getting a warning, you get terminated immediately with an email that gives a broad reason for the infraction. If this has happened to you, there are still some things that you can do to get your account back.
+
+And I'll have a link to an article I wrote showing you exactly how to do that in the description below this video. Okay, so now that we know the difference between a warning and a termination and that process, let's go ahead and look at how Amazon actually handles these and what they do to make that decision. You see, when it comes to Amazon KDP account warning or termination, it's important to note that a mass majority of the time, it wasn't from an Amazon human making the decision.
+
+It was actually an algorithm that made the call. You see, Amazon has a system where it looks at a lot of variables and if enough quote unquote happens, then it triggers an action. As you will see, the Amazon system looks at the likelihood that you are violating it.
+
+Sometimes it is clear and sometimes it's a possibility. But in the end, it sums up and generates a decision. Sometimes this action is to send a warning.
+
+Sometimes it's a termination. And most of the time, it's a publish and good to go. But it is because of this reason that you sometimes hear of one author getting banned for what they claim is something super minute.
+
+And sadly, Amazon, when they send you the email that says your account has been flagged or terminated, they just list one of their copy and paste non-specific reasons and not all the reasons that their system flagged you. I mean, talk about a total killer. So you may be wondering, what are some of these variables? Well, I'm going to start by showing you some of the biggest variables there are.
+
+After this, I will then share with you my opinion. It's very important to me to differentiate what I know and what I think. And by the way, with each of these variables, as you will see, there are differing levels of severity or weight to them.
+
+The first major variable is a violation of their metadata rules. Metadata is the information you enter when you publish your book on KDP. This includes title, subtitle, categories, keywords, descriptions, and more.
+
+There are actually many rules to your book's metadata, and Amazon lists them on a special metadata guidelines page, which I will list and highly recommend you check those out here. And while there are many things to consider when entering your book's metadata, here are some of the common issues I see that trigger violations. Copyright and trademark violations.
+
+This is using copyrighted material or trademark names in the metadata that is popular enough that their system sees it and picks up on it. This also includes using names or properties like Amazon's own Kindle or Kindle Unlimited, etc. Incorrect book cover titles and subtitle.
+
+This one is one of the biggest violators for many authors. It is required that the title and subtitle of your book be on your cover. Many authors will put the title, but not their subtitle.
+
+And yes, their system can pick up on this, although it isn't always the best at this, which is why some get away with it, or some are okay until maybe a couple months later. Misleading information. Ultimately, many of the rules of the metadata is based on ensuring that you aren't misleading authors.
+
+Things like targeting other books or mentioning other authors. With this in mind, remember that Amazon's system is probably grading the likelihood that something could be misleading. And if you have enough of it, it may trigger the violation.
+
+Sexual content. From book covers to inside the book to even your description, if Amazon thinks that your content has sexual content and you didn't label it as such inside of KDP when you published your book, that's a major violation and will get you knocked out pretty quick. Confusing information.
+
+Something I've seen a couple of times is when the system just gets confused as to what your book is about. This can be from having selected categories that don't match your keywords and description, or it could be from conflicting information entered into other places in KDP. Many times I've seen where an author entered the wrong information for the wrong book and suffered the consequences.
+
+Okay, so those are some of the major culprits. Now, this one is one that I think might be affecting a lot of people. You see, on Kindlepreneur, I get a lot of emails from authors, and I've seen over the past couple of years a growing number of account closings for authors who are published on the US market but are located outside of the US.
+
+Mainly I've seen Amazon just go straight to a termination with these. I'll also venture to say that certain locations or countries have a higher chance of automatic shutdown than others. And I mean, if you really think about it, that kind of makes sense.
+
+If you have a certain location that has a propensity of creating problematic books, you would probably move the threshold to account closure even lower for those from that location. And some of me wonders, too, if Amazon has started to crack down on locations as well as other variables with a heavier hand due to the increase in AI books in their marketplace. After all, it's important for Amazon to ensure the quality of books stays put, or else otherwise shoppers will lose faith in their system.
+
+So if you were Amazon, what would you do? Well, the simple answer is increase the sensitivity of your account warnings or termination algorithm and start removing anything that is deemed a possibility. And again, like I said earlier, this is a system that is looking at the likelihood that your book could be problematic. If you clearly violate something, then boom, warning or termination, automatic.
+
+If you are possibly violating enough over a couple, then boom, warning or termination. But if you are solid and maybe have a thing or two that could be, then you'll probably pass. And so as you can see, the system is looking at all the different variables and trying to make one particular decision.
+
+And so there you have it, a breakdown on how Amazon's termination system works, some of the key factors, and a couple of observations of mine. Now, if you did have your account terminated, it's not the end of your writing world. There are some steps that you can take to fix your situation, and like I said earlier, I've got a link to that article listed in the description below.
+
+You can check that out and start taking those actions to hopefully get back your account. And with that, I'm Dave Chessin of Kittlefner signing off. Cheers.

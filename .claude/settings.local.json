@@ -7,7 +7,20 @@
       "Bash(cat:*)",
       "Bash(echo === $f ===:*)",
       "WebSearch",
-      "WebFetch(domain:www.amazon.de)"
+      "WebFetch(domain:www.amazon.de)",
+      "WebFetch(domain:m.media-amazon.com)",
+      "Bash(curl:*)",
+      "Bash(source .env:*)",
+      "Bash(cd:*)",
+      "Bash(git:*)",
+      "Bash(echo:*)",
+      "Bash(env:*)",
+      "Bash(test:*)",
+      "WebFetch(domain:www.helpingwritersbecomeauthors.com)",
+      "WebFetch(domain:racheldacus.net)",
+      "WebFetch(domain:kindlepreneur.com)",
+      "WebFetch(domain:writershelpingwriters.net)",
+      "WebFetch(domain:saganmorrow.com)"
     ]
   }
 }

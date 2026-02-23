@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Wildes kastanienbraunes Haar, leicht sonnengebleicht an den Spitzen, offen und ungezähmt — es weht, als wäre sie immer unterwegs. Warme braune Augen voller Licht und Rastlosigkeit. Sommersprossige, sonnengebräunte Haut. Lockere Leinenschicht oder Bohemian-Layer, vielleicht ein Vintage-Kameragurt über der Schulter angedeutet. Blick zur Seite, halb lächelnd, als würde sie gleich aufbrechen — gefangen zwischen Bleiben und Gehen. Sie sieht aus wie jemand der den Sonnenuntergang fotografiert und dann weiterzieht.
+
+*Referenz: Cover-Test `band01/cover_tests/test13_maren.png` — Ink/Watercolor-Portrait, Farbpalette Gold/Sonnenuntergang-Orange/Sienna mit Teal/Waldgrün-Erdung.*
+
+---
+
 ## Charakter-Kern
 
 Maren ist die Lauteste, die Freieste, die Mutigste der sechs Cousins. Sie reist, sie freelanced, sie bindet sich an nichts. Die Familie sagt: *„Typisch Maren."* Und meint damit: unzuverlässig, rücksichtslos, unkontrollierbar.

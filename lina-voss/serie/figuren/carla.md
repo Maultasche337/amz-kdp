@@ -15,6 +15,14 @@
 
 ---
 
+## Optik
+
+Dunkelbraunes Haar, streng zurückgenommen in einem tiefen Knoten — ein paar Strähnen lösen sich, als könnten sie die Kontrolle nicht ganz halten. Klare graublaue Augen mit einem wachen, analytischen Blick und einer Spur Erschöpfung die sie zu verstecken versucht. Elegante Gesichtszüge, hohe Wangenknochen. Makellose weiße Bluse unter einem strukturierten Blazer — alles sitzt, nichts ist zufällig. Aber die Steifheit verrät sie: das hier ist Rüstung, keine Kleidung.
+
+*Referenz: Cover-Test `band01/cover_tests/test10_carla.png` — Ink/Watercolor-Portrait, Farbpalette Schiefergrau/kühles Blau/Weiß mit Rostrot/Bernstein-Akzent.*
+
+---
+
 ## Charakter-Kern
 
 Carla ist das mittlere Kind. Leon (32) übernahm alles nach dem Tod der Mutter. Nils (27) rebellierte. Und Carla? Carla verschwand. Nicht physisch — aber emotional.

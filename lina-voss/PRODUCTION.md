@@ -74,8 +74,41 @@ lina-voss/
 
 ---
 
+### PHASE 0.5: Cover-Ästhetik & Figuren-Optik (VOR dem Schreiben!)
+Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa (Beschreibungen, erste Eindrücke, steamy Szenen).
+
+- **Bei Band 1:** Cover-Stil festlegen (illustriert, Farbpalette, Komposition). Test-Cover generieren via Replicate/FLUX. Figuren-Optik aller Hauptfiguren definieren und in die Figurendateien eintragen.
+- **Ab Band 2:** Prüfen ob der Serien-Stil beibehalten wird. Nur neue Figuren (Love Interest) optisch definieren.
+- Cover-Prompts speichern als `bandXX/08_cover_prompts.md` (Entwürfe — finale Cover nach Lektorat)
+- Figuren-Optik in `serie/figuren/[name].md` unter Sektion "Optik" eintragen
+
+⚠️ **PAUSE:** User prüft Cover-Tests und bestätigt Figuren-Optik.
+
+---
+
+### Cover-Qualitätscheckliste (gilt für Phase 0.5 UND Phase 7)
+
+#### Die 5 Cover-Todsünden
+1. **Für niemanden designt** — Die Zielleserin (Frauen 25–45, Spicy Romance) muss in 3 Sekunden denken: „Das ist für MICH." Kein generisches Cover das jeden ansprechen will und niemanden trifft.
+2. **Thumbnail-Fail** — Das Cover MUSS bei 100px Breite funktionieren (so groß ist es auf Amazon). Titel lesbar? Bild erkennbar? Wenn nicht → zurück ans Reißbrett.
+3. **Klon-Falle** — Trends kennen, aber differenzieren. Wenn das Cover im Amazon-Suchergebnis neben der Konkurrenz untergeht, verkauft es nicht. Auffallen durch eigenen Stil, nicht durch Kopie.
+4. **Typografie-Fehler** — Max 2 Fonts. Klare Hierarchie: Titel dominant → Autorin → Untertitel/Reihe. Font-Ton muss zum Genre passen. Kein Comic Sans, kein Papyrus, keine unleserlichen Script-Fonts.
+5. **Kompositions-Chaos** — Auge muss wissen wohin: Titel zuerst, dann Rest. Balance prüfen (kein schwerer Rand). Busy ≠ schlecht — aber nur wenn Hierarchie stimmt.
+
+#### 2 Goldene Regeln vor dem Publish
+1. **Thumbnail-Test:** Cover auf 100px verkleinern + Screenshot der Amazon-Suchergebnis-Seite machen + eigenes Cover reinsetzen. Fällt es auf? Ist der Titel lesbar?
+2. **Squint-Test:** Augen zusammenkneifen und aufs Cover schauen. Was sieht man zuerst? Wenn die Antwort nicht „Titel" ist → Hierarchie anpassen.
+
+#### Serien-spezifisch (Hartmann-Agentur)
+- Wiedererkennbarer Serien-Stil über alle 6 Bände
+- Farbcodierung pro Band möglich (vgl. Susie Tate)
+- Autorinnen-Name „Lina Elise Voss" konsistent positioniert
+- Serien-Branding: „Die Hartmann-Agentur" als Dachmarke erkennbar
+
+---
+
 ### PHASE 1: Ending
-- Lese `skills/02_ending.md`
+- *(Ending-Methodik aus v1 deprecated — interaktiv erarbeiten)*
 - Generiere 3 Ending-Varianten basierend auf:
   - Figuren-Dateien (Protagonist + Love Interest)
   - Serien-Bibel (übergreifender Bogen)
@@ -87,7 +120,7 @@ lina-voss/
 ---
 
 ### PHASE 2: Outline
-- Lese `skills/04_outline.md`
+- *(Outline-Methodik aus v1 deprecated — interaktiv erarbeiten)*
 - Erstelle Kapitelstruktur (3-Akt-Struktur) basierend auf:
   - Gewähltes Ending
   - Figuren-Wunden und Bögen
@@ -132,6 +165,7 @@ Jeder Kapitel-Agent bekommt:
 - **Subtilität:** „Er hat es sich gemerkt"-Momente werden NICHT erklärt. Kein Erzählerkommentar. Die Leserin soll es selbst entdecken.
 - **Steamy-Szenen:** Emotional verankert. Keine Szene ohne vorherige Tension-Aufbau über mindestens 2 Kapitel.
 - **Figurenstimmen:** Jeder Cousin spricht anders. Leon = kurze Sätze, keine Adjektive. Nora = wärmer, bildhafter. Carla = präzise, kontrolliert.
+- **Prosa-Stil:** KEIN Stakkato. Kapitel müssen sich lesen wie ein Roman, nicht wie eine Aufzählung kurzer Sätze. Absätze wie in Büchern üblich — Fließtext mit natürlichem Rhythmus. Kurze Sätze sind EIN Stilmittel (Leon-POV, Schockmomente), nicht der Standardton. Variation im Satzbau ist Pflicht: kurze Sätze für Wirkung, längere für Atmosphäre und innere Welt. Absatzwechsel bei Sprecherwechsel, Perspektivwechsel oder Stimmungswechsel — nicht nach jedem Satz.
 
 #### Session-Aufteilung
 ```
@@ -153,7 +187,7 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 ---
 
 ### PHASE 5: Lektorat
-- Lese `skills/06_editing.md`
+- *(Lektorat-Methodik aus v1 deprecated — interaktiv erarbeiten)*
 - Prüfe auf:
   - Konsistenz (Namen, Orte, Zeitabläufe)
   - POV-Brüche
@@ -180,8 +214,8 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 ---
 
 ### PHASE 7: KDP Listing + Cover
-- Lese `skills/07_listing.md` + `skills/07a_keywords.md` + `skills/07b_kategorie_strategie.md`
-- Lese `research/publisher_rocket/keyword_auswertung_lina_voss.md`
+- Lese `research/wissen/kdp-listing-methodik.md` (Listing-Methodik + Amazon-Mechanik)
+- Lese `research/wissen/keywords-lina-voss.md` (Keyword-Strategie)
 - Erstelle Listing mit 7 Keyword-Boxen
 - Erstelle 3 Cover-Konzepte/Prompts
 - Speichere als `bandXX/07_kdp_listing.md` + `bandXX/08_cover_prompts.md`
@@ -271,14 +305,20 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 
 ## Status: WIP
 
+### Figuren & Serie
 - [x] Serien-Bibel erstellt
-- [x] Figur: Leon (komplett)
-- [x] Figur: Nora (komplett)
-- [x] Figur: Carla (komplett inkl. Band-1-Szenen)
-- [ ] Figur: Jakob
-- [ ] Figur: Maren
-- [ ] Figur: Nils
-- [ ] Figur: Tom
-- [ ] Love Interests Band 2–6
-- [ ] Briefing Band 1
-- [ ] Produktion Band 1
+- [x] Alle 6 Cousins + Werner + Matthias + Henrik (komplett)
+- [x] Alle 6 Love Interests (komplett)
+- [x] Cover-Portraits alle 8 Figuren (komplett)
+
+### Band 1 — Tageslicht
+- [x] Briefing (`band01/briefing.json`)
+- [x] Cover-Ästhetik & Portraits (Phase 0.5)
+- [x] Ending: Variante C + Mail-PS aus B (`band01/01_ending.md`)
+- [x] Outline + Kapitelplan: 20 Kapitel (`band01/02_outline.md`)
+- [ ] Schreiben: Session A (Kap 1–5) ← **NÄCHSTER SCHRITT**
+- [ ] Schreiben: Session B (Kap 6–10)
+- [ ] Schreiben: Session C (Kap 11–15)
+- [ ] Schreiben: Session D (Kap 16–20)
+- [ ] Lektorat
+- [ ] KDP Listing + Cover

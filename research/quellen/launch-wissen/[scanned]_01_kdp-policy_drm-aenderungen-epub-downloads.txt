@@ -1,0 +1,39 @@
+Heads up authors, Amazon is making another change. Amazon will now be allowing verified purchasers to download EPUB and PDF files of certain Kindle ebooks. This applies only to DRM-free books published through Kindle Direct Publishing. 
+
+So let's talk about what that means and more specifically what that means for your books. And by the end of this video I'm going to tell you exactly how we plan to approach the new changes going forward. I'm Zach Diamante for Kindlepreneur. 
+
+Let's get into it. For those that don't know, DRM stands for Digital Rights Management, a system used across digital media to control how files can be accessed, copied, and shared after purchase. You'll find DRM everywhere ebooks, movies, music, software, etc. 
+
+It puts guardrails around a digital file so it can only be used in certain ways. The idea is that DRM is supposed to discourage unauthorized sharing of digital content. For example, sharing it with people who didn't pay for it or going so far as sharing it on pirating websites where it can be shared with thousands of people who didn't pay for it. 
+
+And while we might be thinking that's kind of a no-brainer, especially for us as authors because we definitely want to protect ourselves from that kind of thing, let's take a look at some of the potential benefits and potential drawbacks of DRM so we have the whole picture. Potential benefits of DRM include things like it makes casual file sharing less likely, helps creators and publishers maintain control over distribution, it gives platforms a consistent way to enforce usage rules, and it requires little ongoing management once applied. Some potential drawbacks of DRM include things like it restricts how paying customers use their own files. 
+
+It can limit device compatibility or even long-term access. Sometimes it prevent personal backups or easy file portability and it really only acts as a speed bump, not a guarantee, meaning it won't guarantee against pirating as DRM can be stripped from files if someone wants too bad enough. Though it makes for a little friction deterrent. 
+
+All this really comes down to protection versus flexibility. And before even if authors published a Kindle ebook without DRM, Amazon didn't allow readers to download standalone EPUB or PDF files. So from the author's perspective there really wasn't much risk because Amazon still controlled the way that the files were downloaded and accessed. 
+
+But let's look at what's changing. For the first time, readers who buy DRM-free Kindle ebooks will be able to download their purchases as EPUB or PDF files directly from their Amazon account. This gives readers more flexibility in how and where they read, especially outside Amazon's ecosystem, but only for books where DRM is disabled. 
+
+But it's also important to note that this change only affects certain books and it all depends on two things, a book's DRM status and when it was published. Here's a breakdown of how books will be affected by this change. Ebooks with DRM enabled will not be affected. 
+
+Readers won't see download options. DRM-free ebooks published after December 9th, 2025 downloads are enabled automatically. DRM-free ebooks published before December 9th, 2025 downloads are not enabled by default. 
+
+Authors must opt in manually. So technically this update doesn't force us as authors into anything, but it does bring to light a decision that we have to make moving forward. Allowing EPUB and PDF downloads makes life easier for legitimate readers, but it also lowers the friction between copying and redistributing files. 
+
+Now you might be trying to remember what your settings are for your books or you might be wanting to change your book's DRM status. Let me run you through a really quick refresher on how to do just that. First log into your Kindle Direct Publishing account and go to your bookshelf where all of your published titles are listed.
+
+Find the ebook you want to review, click the three dot menu next to the title, then select edit ebook content. This opens the page where Amazon stores the manuscript file and delivery settings for that ebook. On the Kindle ebook content page, scroll down past the manuscript upload area until you reach the DRM or digital rights management section. 
+
+Here you'll see which DRM option is currently selected. Yes, apply digital rights management. DRM is enabled. 
+
+This update does not affect the ebook. Or no, do not apply digital rights management. The ebook is DRM free and may be eligible for EPUB and PDF downloads, depending on when it was published. 
+
+This is a setting Amazon uses to determine whether readers can download your ebook as a standalone file. You decide what you're most comfortable with. If you're really not sure one way or the other, let me share with you what Kindlepreneur founder Dave Cheson has to say on the matter. 
+
+He said, personally, I don't like the idea of giving up DRM. If you do, readers can download your book and read it on their own device, which is nice, but it also makes it easier for people to steal and upload your book elsewhere. Even though DRM can be removed by someone determined enough, I'd rather not make that process easier. 
+
+He'll be keeping his DRM enabled on his books, and I probably will be too. For the Kindlepreneur team, that's probably going to be our default going forward. If you'd like to see our full breakdown of the change and even some frequently asked questions about it, check out our full article on Kindlepreneur.com, and of course I've got that linked in the description for you. 
+
+But for now, keeping our DRM enabled is just what we're choosing. Some authors prioritize reader flexibility and are comfortable with the risks of downloadable files. Others aren't. 
+
+At the end of the day, there's not one right answer here, and we just want to make sure we give you all the information so that you can make a deliberate decision for your books going forward. We'll see you in the next video, but until then, ever onward.
