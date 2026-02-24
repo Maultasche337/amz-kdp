@@ -20,7 +20,11 @@
       "WebFetch(domain:racheldacus.net)",
       "WebFetch(domain:kindlepreneur.com)",
       "WebFetch(domain:writershelpingwriters.net)",
-      "WebFetch(domain:saganmorrow.com)"
+      "WebFetch(domain:saganmorrow.com)",
+      "Bash(tail:*)",
+      "Bash(grep ^Version:*)",
+      "Bash(pandoc:*)",
+      "Bash(chmod +x:*)"
     ]
   }
 }
