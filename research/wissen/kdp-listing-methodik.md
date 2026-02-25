@@ -74,6 +74,10 @@ Trope/Keyword in die Amazon-Kindle-Store-Suche eintippen, **NICHT Enter drücken
 - Ist das mein Genre/Sub-Genre?
 - Passt der Tone zu dem was ich suche?
 
+### Cover-Qualität: kein Canva
+Professionelles Cover ist Pflicht — ersten Eindruck gibt es nur einmal. **Kein Canva-DIY** — professionellen Buch-Designer beauftragen. Cover-Fehler → Konkurrenz gewinnt. [Quelle: 5-Punkte-Checkliste Heike Paschke]
+Cover-Text muss **EXAKT** den KDP-Metadaten entsprechen (Titel + Untertitel) — sonst Account-Risiko.
+
 ### Bewiesene Untertitel-Formel (Hagen/Buck-Muster):
 ```
 "Ein [TROPE] Liebesroman" + (Serienname Band X)

@@ -23,10 +23,10 @@
 | Konkurrenz-Autorinnen | [wissen/konkurrenz-autorinnen.md](wissen/konkurrenz-autorinnen.md) | 2026-02-24 | ✅ Aktuell |
 | Konkurrenz Melanie Lane | [wissen/konkurrenz-melanie-lane.md](wissen/konkurrenz-melanie-lane.md) | 2026-02-24 | ✅ Neu |
 | Konkurrenz Lina Voss | [wissen/konkurrenz-lina-voss.md](wissen/konkurrenz-lina-voss.md) | 2026-02-24 | ✅ Aktuell |
-| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-02-25 | ✅ Erweitert (Social Media) |
+| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-02-25 | ✅ Erweitert (Amazon Ads) |
 | Regionale Settings | [wissen/regionale-settings.md](wissen/regionale-settings.md) | 2026-02-23 | ⏸️ Geparkt (Maja) |
 | Trope-Analyse | [wissen/trope-analyse.md](wissen/trope-analyse.md) | 2026-02-24 | ✅ Aktuell |
-| KDP Listing-Methodik | [wissen/kdp-listing-methodik.md](wissen/kdp-listing-methodik.md) | 2026-02-23 | ✅ Aktuell |
+| KDP Listing-Methodik | [wissen/kdp-listing-methodik.md](wissen/kdp-listing-methodik.md) | 2026-02-25 | ✅ Aktuell |
 
 ---
 
@@ -38,7 +38,8 @@
 - [ ] KDP-Ressourcen PDFs noch nicht zusammengefasst (Book-Description-Formula, book-launch-strategy, amazon-kindle-rankings)
 
 ### Mittel (vor Band 2)
-- [ ] Amazon Ads / KWT Strategie (Bidding, ACoS, Budget-Ramp)
+- [x] Amazon Ads / KWT Grundstrategie (aus Heike Paschke Checkliste) → ✅ in launch-operationen.md
+- [ ] Amazon Ads vertieft: Bidding, ACoS-Ziele, Budget-Ramp (noch offen)
 - [ ] E-Mail-Liste / Newsletter-Strategie
 - [ ] Audiobook-Markt (ACX)
 
@@ -62,5 +63,5 @@
 ### Perplexity (1 Recherche)
 `quellen/perplexity/` — Serienplanung Maja Sternberg (⚠️ Suchvolumina 200-300× übertrieben!)
 
-### KDP-Ressourcen (15 Referenz-Dateien)
-`quellen/kdp-ressourcen/` — PDFs, Vorlagen, Checklisten von Kindlepreneur + Booktok-Checkliste + Bookstagram-Guide
+### KDP-Ressourcen (16 Referenz-Dateien)
+`quellen/kdp-ressourcen/` — PDFs, Vorlagen, Checklisten von Kindlepreneur + Booktok-Checkliste + Bookstagram-Guide + 5-Punkte-Checkliste (Heike Paschke)

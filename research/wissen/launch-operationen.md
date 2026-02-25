@@ -218,6 +218,36 @@ Anleitung für Instagram-Profil als Autorin. [Quelle: Bookstagram-Guide, Hegerma
 
 ---
 
+## Amazon Ads (KDP Sponsored Products)
+
+Ads sind kein Nice-to-have — sie katapultieren das Buch auf Seite 1 der Suchergebnisse und kompensieren fehlende organische Sichtbarkeit, solange der Algorithmus das Buch noch nicht kennt. [Quelle: 5-Punkte-Checkliste Heike Paschke]
+
+### Grundregeln
+- **Erst Reviews, dann Ads.** Mindestens 5-10 positive Bewertungen vor dem ersten Schalten — sonst verpufft das Budget ohne Conversion.
+- **CPC auf Amazon** oft günstiger als auf anderen Plattformen (Meta, Google).
+- Kampagnen laufend optimieren: verschiedene Ansätze testen, Schwacher ACOS → skalieren, hoher ACOS → Keywords killen.
+- Das KWT in der Launch-Woche (5-10€/Tag) ist der Minimalstart — danach skalieren wenn Conversion stimmt.
+
+### Kampagnentypen
+| Typ | Funktion |
+|-----|----------|
+| **Sponsored Products (Auto)** | Amazon wählt Keywords selbst — gut für Entdeckung, was konvertiert |
+| **Sponsored Products (Manuell)** | Eigene Keywords aus Publisher Rocket / Autocomplete eingeben |
+| **Product Targeting** | Auf Konkurrenz-ASINs bieten — sichtbar bei ähnlichen Büchern |
+
+### Ablauf
+1. Launch-Woche: Auto-Kampagne mit 5-10€/Tag starten
+2. Nach 7-14 Tagen: Welche Keywords konvertieren? → Manuelle Kampagne daraus bauen
+3. Product Targeting: Top-5-Konkurrenz-ASINs der eigenen Kategorie targeten
+4. Schlechte Keywords (viele Klicks, 0 Käufe) negativ listen
+
+### Für Lina Voss
+- Ads erst wenn 10 Reviews vorhanden (Launch-Ziel Woche 1)
+- Budget-Start: 5€/Tag Auto → nach 14 Tagen auf manuelle Kampagne umstellen
+- Wichtigste Basis-Keywords für manuelle Kampagne: aus `keywords-lina-voss.md`
+
+---
+
 ## Untertitel = wichtigstes Verkaufselement
 
 - Kunden lesen den Untertitel fast immer, Beschreibung nur selten

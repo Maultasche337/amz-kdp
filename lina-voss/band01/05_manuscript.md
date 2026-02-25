@@ -485,3 +485,539 @@ Oben im zweiten Stock brannte das Licht noch.
 _Ende Kapitel 3_
 
 _Wörter: ca. 2.500_
+
+---
+
+# Kapitel 4 — Sonntagspflicht
+
+_Leon, Woche 1/2_
+
+Werners Esstisch fasste zwölf. Sie waren acht, und trotzdem fühlte er sich voll an.
+
+Nicht mit Menschen — mit Bedeutung. Mit allem was ungesagt blieb und trotzdem Platz wegnahm.
+
+Leon hatte pünktlich geklingelt. Zweiundzwanzig Minuten Fußweg vom Schulterblatt, der Audi stand noch bei der Agentur, er hatte ihn am Samstagabend stehen lassen und war nicht dazu gekommen ihn zu holen. Werner wohnte in Eppendorf, drittes Obergeschoss, kein Aufzug, Teppich auf der Treppe der nach Bohnerwachs und zwanzig Jahren roch. Die Wohnungstür hatte Werners Gesicht zum Vorschein gebracht: das breite Grinsen, die dunklen Augen die nichts verpassten, die Fliege — heute dunkelrot, auf einem weißen Hemd.
+
+„Leon." Kein Kommentar zum Wetter, kein Wie-geht's. Werner sagte Namen wie Empfangsbestätigungen.
+
+Das Porzellan war alt — blaue Randlinie, Golddekor, einige Tassen randlos. Werner hatte es seit zwanzig Jahren, seit Oma Ilka, und er ersetzte die kaputten Teile nicht. Er stellte sie beiseite und ließ die Lücken stehen.
+
+Die Plätze hatten sich über Jahre von selbst geordnet. Niemand hatte es so festgelegt. Zweig eins gegenüber Zweig zwei, Werner am Kopfende, Matthias zu seiner Rechten. Daneben Leon, dann Carla, dann Nils an der Ecke. Auf der anderen Seite: Jakob, Maren, Tom. Acht Stühle. Acht Brötchen, die Werner früh morgens selbst geholt hatte, plus Aufschnitt und Käse und ein Glas Erdbeermarmelade das Leon nie aß.
+
+„Pläne für die Woche?" Jakob lehnte sich vor — zur Mitte des Tisches, kein spezifisches Ziel, Konversation die für alle gedacht war und damit für niemanden.
+
+Carla trank einen Schluck Kaffee. „Erste Konzeptentwürfe Donnerstag."
+
+„Ich mein nach Feierabend."
+
+„Ich weiß was du meinst."
+
+Ein halbes Lächeln, das Jakob beibehielt ohne Aufwand. Er ließ es nicht stören. Das war an ihm — er ließ nichts an sich ran, glitt durch Abweisungen wie Wasser durch offene Finger, und das war das Irritierendste. Hätte er sich geärgert, hätte Leon es verstanden.
+
+„Dann läuft wohl alles auf Freitag." Nils, ohne aufzusehen. Der Ton den er für Familienrunden reservierte: korrekt, sarkastisch, schwer zu kontern.
+
+„Freitag geht." Carla.
+
+Pause.
+
+Das Brötchen in Leons Hand war noch ganz. Er hatte es vor fünfzehn Minuten aufgeschnitten, Butter drauf, Aufschnitt drauf, und seitdem nicht weiter. Sein Kaffee dampfte. Drüben saß Matthias mit einem halben Brötchen das er nicht angerührt hatte und einer Tasse die er zwar eingegossen aber nicht getrunken hatte, und er sah auf die Tischfläche knapp links von Werner. Nie auf Werner. Immer knapp daneben, als wäre der direkte Blick etwas das er sich noch nicht verdient hatte.
+
+Leon brach sein Brötchen in zwei Hälften.
+
+„Tom hat mir von einem Kontakt erzählt." Werner. Zu niemandem, wie immer — er stellte Dinge in den Raum und wartete was damit passierte.
+
+Tom schüttelte kurz den Kopf. „Noch nichts Konkretes."
+
+„Hamburger Haushaltsgeräte-Hersteller." Werner trank. „Social-Kommunikation."
+
+„Ich hab es erwähnt." Tom hob die Tasse. „Nicht versprochen."
+
+Das war es. Werner nickte, die Konversation war vollständig — nicht abgebrochen, vollständig, mit einem Punkt den beide setzten ohne ihn auszusprechen. Zwischen ihnen war kein unangenehmes Schweigen. Kein leeres Schweigen. Zwei Menschen die denselben Raum bewohnten ohne aneinanderzustoßen.
+
+„Tom, wann kommt der Typ in die Stadt?" Jakob hatte alles verfolgt. „Ich kenn jemanden bei Ströhm und Berger, die haben letztes Jahr eine ähnliche Ausschreibung —"
+
+„Ich meld mich."
+
+Jakob registrierte die Grenze, lächelte kurz, gab es auf. Griff nach der Marmelade.
+
+Neben Werner: Maren. Sie hatte die Kamera seit der Ankunft auf dem Tisch liegen — die kleine schwarze, die immer dabei war, die Leon immer erst bemerkte wenn der Auslöser bereits geklackt hatte. Jetzt hob sie sie. Kein Ziel, kein Kommentar. Den Tisch. Das Licht auf dem Porzellan, die Brötchen, Werners Hände um den Kaffeebecher.
+
+Der Auslöser klackte.
+
+„Maren." Leon sagte es ohne Ton.
+
+Sie ließ die Kamera sinken. „Für Werner."
+
+„Für Werner." Er ließ es stehen.
+
+Werner hob kurz die Hand. „Lass sie."
+
+Leon ließ es.
+
+Maren fotografierte weiter. Ruhig, ohne Entschuldigung. Das war das an ihr — sie bat um keine Genehmigung und erklärte nichts, und das war irritierender als wenn sie es täte. Der Auslöser klackte. Noch einmal. Noch einmal.
+
+Das Fenster hinter Werner zeigte auf einen Innenhof — grau wie alles in Hamburg im Februar, eine einzelne Kastanie ohne Blätter, eine Wäscheleine auf der nichts hing. Das Licht war das Licht eines norddeutschen Sonntagvormittags. Gleichgültig. Diffus. Nichts was die Jahreszeit verändern würde.
+
+Leon sah auf sein Handy. Zehn Uhr acht.
+
+Die Konzeptentwürfe lagen in der Cloud. Er hatte sie gestern Nacht noch einmal durchgegangen, Seite für Seite, hatte drei Anmerkungen gemacht und alle drei wieder gestrichen weil sie korrekt gewesen waren, aber nichts verbessert hätten. Donnerstag mussten die Entwürfe stehen — intern, erste Runde, bevor die heiße Phase anfing. Fünf Wochen noch bis zum Pitch selbst. Danach würde er sehen.
+
+„Nils." Werner. Nicht als Frage.
+
+Nils hob den Blick von seinem Kaffee.
+
+„Der Vortrag. Nächsten Monat."
+
+„Abgesagt." Nils.
+
+Stille. Werners Augenbrauen bewegten sich minimal — eine Hundertstel-Geste, unter der ein ganzer Satz steckte.
+
+„Zu viel Pitch." Nils zuckte die Schultern. „Hab Carla Bescheid gegeben."
+
+Carla nickte einmal, trank, nichts.
+
+Werner ließ es eine Sekunde länger stehen als nötig, bis die Stille ihr eigenes Gewicht hatte. Dann: „Macht ihr gut." Ob er den Pitch meinte oder den Vortrag, ließ er offen.
+
+„Noch Kaffee?" Er stand auf ohne die Antwort abzuwarten.
+
+„Gern." Jakob.
+
+„Ich auch." Nils.
+
+Matthias schob seine Tasse vor. Werner füllte nach, der Reihe nach, und als er an Matthias kam, legte er kurz die Hand auf dessen Schulter — eine Sekunde, nicht mehr — bevor er weiterfüllte.
+
+Matthias sah nicht hoch. Er umschloss die frisch gefüllte Tasse mit beiden Händen, die weiße Keramik mit dem fehlenden Goldrand, und sah wieder auf die Tischfläche. Knapp links von Werner.
+
+Leon sah weg.
+
+---
+
+Nach dem Kaffee wurde es stiller.
+
+Das passierte immer, irgendwo um elf — eine Sättigung, wenn die Brötchen fast weg waren und der zweite Kaffee die Energie nicht mehr brachte die der erste versprochen hatte. Jakob hatte seine Konversationsversuche eingestellt. Carla schrieb kurz etwas in ihr Telefon, diskret, dann Telefon weg. Maren trank ihren Kaffee aus, beide Hände in den Schoß, die Kamera unberührt neben dem Teller.
+
+Leon sah auf seine Armbanduhr. Zehn nach elf.
+
+„Henrik hat noch offene Rechnungen." Werner sagte es beiläufig — denselben Ton wie _Noch Kaffee_, wie _Das Wetter wird besser diese Woche_. „Irgendwann müssen wir darüber reden."
+
+Stille.
+
+Nicht die Stille zwischen Sätzen. Die andere. Die Stille die entstand wenn alle gleichzeitig beschlossen, in eine andere Richtung zu schauen.
+
+Carla sah auf ihren Kaffee. Jakobs Hand hielt inne, die Marmelade noch im Griff, dann stellte er sie ab — kein Grund, es gab keinen Grund, aber seine Hände brauchten etwas. Matthias: unverändert. Als hätte er den Satz nicht gehört.
+
+Maren saß still. Ihre Finger schlossen sich um die Kamera ohne sie anzuheben.
+
+Werner ließ es stehen. Er trank, legte die Tasse ab, wartete — nicht auf eine Antwort, sondern einfach. Das war seine Methode mit Dingen die Raum brauchten.
+
+Niemand sagte etwas.
+
+Dann schob Jakob die Marmelade zurück an ihren Platz und fragte Carla, ob sie das Brinkmann-Review Montag früh oder nachmittags wolle.
+
+Der Tisch atmete aus.
+
+Carla antwortete. Nachmittags. Nils griff nach dem letzten Brötchen. Leon hob seinen Kaffee. Die Konversation war zurück, flacher jetzt, ein Meter über der Oberfläche, und Werner saß am Kopfende und sah seinen Kindern zu.
+
+---
+
+Nils hatte irgendwann eine Serviette vom Stapel gezogen.
+
+Leon hatte nicht bemerkt wann — irgendwann war sie da, und Nils' Stift bewegte sich über das Papier, die vertrauten tintenverschmierten Finger, den Blick halb auf den Tisch gerichtet, halb nirgendwo. Er zeichnete wie er immer zeichnete: beiläufig, als wäre es nichts, als würde er nur kritzeln.
+
+Tom sah rüber.
+
+Keine Absicht. Einfach die Bewegung die man machte wenn jemand neben einem still etwas tat. Sein Blick fiel auf die Serviette.
+
+Nils klappte sie zusammen.
+
+Eine Bewegung, ohne Eile, ohne Erklärung — Serviette gefaltet, unter die Handfläche, Stift weggesteckt. Tom sah wieder auf seinen Kaffee. Nils lehnte sich zurück.
+
+Leon hatte das Bild nicht erkannt. Zu kurz, zu weit weg. Aber das Handgelenk — die Art wie Nils' Handgelenk beim Zeichnen lag, leicht angewinkelt, der Stift zwischen Zeige- und Mittelfinger — das kannte er.
+
+Er trank seinen Kaffee aus. Der war kalt geworden.
+
+Carla sagte etwas zu Jakob, Jakob antwortete, das Gespräch lief weiter, und irgendwann erklärte Leon beim nächsten Atemzug das Thema für abgeschlossen, schob den Stuhl zurück, und stand auf.
+
+---
+
+Kein _Ich muss dann mal_. Er nahm die Jacke von der Stuhllehne.
+
+„Pitch-Vorbereitung", sagte er, zu niemandem bestimmt. Stimmte sogar.
+
+Werner sah ihn an. Nickte. „Donnerstag, sagtest du."
+
+„Ja."
+
+Jakob hob kurz die Hand — ein Gruß, ein Tschüss, Jakobs Art der Abweisung ohne Kante. Carla saß gerade und sah auf die Tischfläche, die Art wie sie saß wenn sie wartete dass etwas vorbei war. Matthias hatte den Blick nicht gehoben.
+
+Leon zog die Jacke an. Flur, Wohnungstür — schweres altes Holz, das Schloss musste man zweimal drehen.
+
+„Die beste Werbung macht man nicht im Dunkeln, mein Junge."
+
+Werners Stimme, hinter ihm, ruhig und klar. Kein Nachruf, kein Appell. Einfach ein Satz, abgelegt in den Raum zwischen ihnen.
+
+Leon zog die Tür zu.
+
+Das Schloss klickte.
+
+Im Treppenhaus war es kühl. Er stand eine Sekunde mit der Hand noch an der Türklinke — nicht wartend, nicht denkend, einfach eine Sekunde — dann ließ er los und nahm die Treppe runter. Zweiter Stock, erster Stock, das Licht schaltete sich an und er ließ es brennen.
+
+Auf der Straße zog er die Jacke zu.
+
+Bohnerwachs und Februarluft und irgendwo eine Straßenbahn. Werner meinte die Agentur. Natürlich meinte er die Agentur — sechzig Jahre Branche und er verteilte noch immer Ratschläge wie Visitenkarten, beiläufig, als wäre der Empfänger schon groß genug um selbst zu wissen was damit anzufangen war.
+
+Schulterblatt zwanzig Minuten. Die Konzepte lagen in der Cloud. Der Drucker hatte gestern Abend auf Seite drei des Strategiepapiers gehangen.
+
+Er ging.
+
+---
+
+Im dritten Obergeschoss räumten Tom und Carla den Tisch ab.
+
+Keine Absprache. Tom stand auf und begann die Tassen zu stapeln — Henkel in eine Richtung, systematisch, die kaputten Tassen zuletzt. Carla nahm die Aufschnittplatte und trug sie in die Küche. Als sie zurückkam, hatte Tom schon die Reste zusammengefasst. Sie öffnete die Spülmaschine. Er stellte die Tassen hinein.
+
+Werner saß noch am Kopfende, die leere Kaffeetasse vor sich, und sah zu.
+
+„Ihr beiden", sagte er.
+
+Kein Satzende. Tom klappte die Spülmaschine zu. Carla faltete das Tischtuch, einmal, zweimal, legte es auf den Stuhl neben ihr.
+
+Matthias saß an seinem Platz und sah auf die Tischfläche. Immer noch.
+
+Werner hob seine Tasse, trank den letzten Rest der schon kalt war, und stellte sie ab.
+
+_Ende Kapitel 4_
+
+_Wörter: ca. 2.200_
+
+---
+
+# Kapitel 5 — Wer fragt dich?
+
+_Nora, Woche 2_
+
+Sie hatte Franzbrötchen mitgebracht.
+
+Nicht weil die Schanze-Bäckerei auf dem Weg lag — sie lag zwei Straßen aus dem Weg — sondern weil der Montag schon nach einem Montag aussah, draußen, um acht Uhr morgens, und sie gelernt hatte dass Franzbrötchen die meisten Montage erträglicher machten.
+
+„Moin." Sie ließ die Tüte auf dem freien Tisch in der Mitte landen, dort wo keiner saß und alle vorbeikamen. „Wer will, der will."
+
+Elena sah hoch und lächelte das Lächeln einer Praktikantin die immer noch nicht ganz sicher war ob sie lächeln durfte. Jan griff ohne aufzuschauen. Tom stand drei Sekunden später auf und nahm sich einen, sachlich, als wäre es selbstverständlich — aber er nickte ihr kurz zu bevor er zurückging, und das zählte.
+
+Nils saß schon seit wann auch immer an seinem Platz. Das Notizbuch vor sich, Stift in der Hand, Blick irgendwo zwischen Bildschirm und Fensterfront.
+
+„Gutes Wochenende?" Nora schob ihren Mantel auf die Stuhllehne.
+
+„Geht." Nils.
+
+„Besser als nichts."
+
+Er antwortete nicht mehr, und sie erwartete es auch nicht. Bei Nils stimmte das — man fragte, er antwortete mit dem Mindestmaß, das Mindestmaß war trotzdem ehrlicher als das was die meisten anderen sagten. Das war fast ein Kompliment.
+
+Sie setzte sich, öffnete ihren Laptop, ließ den Brinkmann-Ordner aufgehen.
+
+Die drei Konzept-Entwürfe lagen da wo sie sie Freitagabend gelassen hatte. Daneben — seit heute Morgen, mit dem ersten Kaffee noch in der Hand, hatte sie nachgeschaut — Leons Kommentare. Handschriftlich auf ausgedruckten PDFs, Scan im Ordner.
+
+Konzept A: _Zu weich._
+
+Konzept B: _Schon da gewesen._
+
+Konzept C: Nichts. Kein einziges Wort. Nora hatte das dreimal geöffnet und dreimal wieder zugeklappt bevor sie entschieden hatte: kein Kommentar bedeutete bei Leon entweder dass es gut war oder dass er noch nicht dazu gekommen war, und in beiden Fällen fing sie mit A und B an.
+
+Zweite Woche. Vier noch bis zum Pitch.
+
+Sie öffnete Konzept A und begann.
+
+---
+
+Um zehn war Jakob da. Er kam mit dem Schwung eines Menschen der den Fahrstuhl ignoriert hatte und jetzt diesen Fehler positiv framing wollte, warf seinen Mantel auf den Haken, schlug die Hände zusammen.
+
+„Nora." Er sah die Tüte auf dem Mitteltisch. „Franzbrötchen?"
+
+„War noch einer drin."
+
+Er nahm ihn, biss rein, drehte sich im Gehen zu ihr um. „Gutes Wochenende?"
+
+„Gut genug. Konzepte überarbeitet."
+
+Er grinste. „Ich hab mal wieder vergessen wann ich aufgehört habe Wochenende zu haben."
+
+„Das ist der Brinkmann-Pitch."
+
+„Das ist der Brinkmann-Pitch", wiederholte er, mit dem Ton eines Mannes der das zitiert und gleichzeitig feststellt dass es ihn weniger stört als es sollte. Er ließ sich auf seinen Stuhl fallen und griff zum Telefon — er telefonierte immer, von morgens bis abends, mit einer Energie die Nora ehrlich gesagt bewunderte auch wenn sie wusste dass hinter dieser Energie eine Maschine war, eine sehr gut geölte Maschine für menschliche Verbindung, die funktionierte weil sie funktionieren wollte.
+
+Sie sah kurz rüber.
+
+Am Ende des Raums: Leons Glaskasten. Licht an. Er saß an seinem Schreibtisch, die Haltung wie immer — aufrecht, kein Zurücklehnen, die Bildschirme weiß in seinem Gesicht. Die Tür war zu.
+
+Nora sah wieder auf ihren Bildschirm.
+
+_Zu weich_, stand da, in seiner Handschrift, und sie verstand was er meinte und hasste dass sie es verstand und fing von vorne an.
+
+---
+
+Elena war um elf mit ihrer Zielgruppenanalyse nicht weitergekommen.
+
+Nora sah es bevor Elena etwas sagte — die Art, wie sie die Seite neu lud die sie schon dreimal geladen hatte, die Stirn in Falten, den Cursor wieder an derselben Stelle geparkt. Nora lehnte sich rüber.
+
+„Was hängt?"
+
+Elena zeigte ihr die Seite. Die Zielgruppen-Segmentierung für Brinkmann: drei Cluster, aber der dritte wollte nicht funktionieren — zu breit, zu unklar, kein Profil das einem echten Menschen gehörte.
+
+„Was wenn der dritte Cluster kein Mensch ist, sondern ein Moment?" Nora lehnte den Kopf zur Seite. „Nicht wer die Leute sind, sondern wann sie greifen. Der Nostalgiker kauft anders wenn er allein im Supermarkt steht als wenn er mit Kindern da ist."
+
+Elena schrieb. Las es. Schrieb weiter. „Okay. Das hilft."
+
+„War dein Ansatz." Nora war schon wieder an ihrem Platz.
+
+Sie tippte. Strich einen Satz. Tippte wieder.
+
+Irgendwann zwischen dem vierten und fünften Überarbeitungsversuch von Konzept A blieben ihre Hände auf der Tastatur liegen, ohne dass etwas herauskam. Keine fehlenden Ideen — die Ideen waren da, in einer Art Schlange hinter der Stirn, wartend. Nur der Weg von der Idee zum Wort war gerade länger als sonst.
+
+Sie trank ihren Kaffee. Der war seit Minuten kalt.
+
+„Nora." Nils, ohne aufzusehen. „Konzept C ist gut."
+
+Sie drehte sich um. Er saß an seinem Bildschirm, Stift in der Hand, sah nicht zu ihr.
+
+„Hat Leon das gesagt?"
+
+„Nein."
+
+„Dann woher weißt du —"
+
+„Er hat nichts drauf geschrieben." Nils tippte etwas. „Bei Leon ist kein Kommentar das Beste was dir passieren kann."
+
+Nora lehnte sich zurück. „Das hätte mir jemand früher sagen können."
+
+„Hätte jemand früher fragen müssen." Er sagte es ohne Schärfe — eine Feststellung, kein Vorwurf. Nils sprach so. Immer auf dem kürzesten Weg, ohne den Umweg über Höflichkeit.
+
+Sie drehte sich wieder an ihren Bildschirm. Konzept C war gut. Gut. Das erste _gut_ in zwei Wochen, von jemandem der das Wort nicht inflationär benutzte.
+
+Das sollte reichen.
+
+Es reichte.
+
+---
+
+Um Viertel nach zwölf stand sie auf.
+
+Küche. Kaffee. Fünf Minuten Abstand von der Frage ob der dritte Absatz von Konzept A jetzt besser war oder nur anders.
+
+Die Küche war schmal und roch nach dem Siebträger und nach dem Mittagessen das Jan sich offenbar schon warm gemacht hatte — Nudeln, irgendwas mit Tomate. Nora schaltete die Maschine an, wartete, beobachtete das Wasser.
+
+Schritte. Carla.
+
+Heute: graublaue Bluse, kein Blazer, aber die Haltung die der Blazer einsparte war trotzdem da — aufrecht, präzise, die Art wie Carla einen Raum betrat als hätte der Raum seit ihrer Ankunft auf eine Entscheidung gewartet.
+
+„Alles gut bei dir?" Nora fragte es automatisch, mit der Wärme mit der sie es immer fragte, bevor der Satz fertig gedacht war.
+
+Carla blieb stehen.
+
+Nicht dramatisch — einfach kurz, eine halbe Sekunde länger als nötig, bevor sie zum Regal ging und ihre Tasse nahm. Dann drehte sie sich um und sah Nora an.
+
+„Fragt das hier eigentlich jemals jemand _dich_?"
+
+Nora öffnete den Mund.
+
+Schloss ihn.
+
+Carla sah sie an — nicht herausfordernd, nicht kalt. Einfach direkt. Die Art von direktem Blick der keine Antwort einforderte sondern nur feststellte dass die Frage berechtigt war.
+
+Nora lächelte. Nicht das Lächeln mit dem kleinen Zug an den Augenwinkeln, nicht das das sie für Montage und Maklerinnen und Fremde in der Schlange aufbewahrte.
+
+„Nö."
+
+Carla sah sie noch eine Sekunde an. Dann, kurz und echt und so überraschend dass Nora nicht darauf vorbereitet war: sie lachte.
+
+Kein lautes Lachen — ein kurzes, echtes, das Geräusch das entstand wenn jemand mit Kontrolle die Kontrolle für eine Sekunde abgab und es nicht schlimm war. Nora lachte mit, auch kurz, auch echt, und für diesen einen Moment war die Küche kein Durchgangsraum mehr.
+
+Die Maschine gab einen letzten Zisch von sich. Nora nahm ihre Tasse.
+
+„Danke." Sie wusste nicht genau wofür, und das war vermutlich in Ordnung.
+
+Carla hatte sich schon umgedreht und bediente die Maschine. „Konzept C ist das stärkste." Sachlich, ohne Überleitung, als wäre das die Fortsetzung desselben Gesprächs. „Leon weiß es. Er hat nur noch nicht entschieden ob er will dass du es weißt."
+
+Nora blieb an der Tür stehen.
+
+„Das ist..." Sie suchte nach dem Wort.
+
+„Leon", sagte Carla.
+
+Nora ging zurück an ihren Platz.
+
+---
+
+Am Ende des Raums brannte das Licht im Glaskasten. Leon saß an seinem Schreibtisch, die Haltung wie immer, und sah auf seinen Bildschirm. Die Tür war zu.
+
+Nora öffnete Konzept A. Strich den dritten Absatz. Fing ihn neu an.
+
+Diesmal lief es.
+
+---
+
+Um halb eins aß die Agentur.
+
+Nicht zusammen — einzeln, an Schreibtischen, mit Tupperdosen und Bäckertüten und dem Siebträger als gemeinsamem Nenner. Elena hatte sich Nudeln mitgebracht, Jan irgendwas aus der Dose, Nils eine Stulle aus Pergamentpapier die er schweigend auswickelte und schweigend aß. Das war Nils' Art zu essen: effizient, ohne Aufwand, wie eine Aufgabe die er zwischen zwei anderen erledigte.
+
+Nora hatte einen Sesamring vom Schanzenbäcker und das Konzept A auf dem Bildschirm und die Frage ob der zweite Absatz jetzt besser war oder nur länger.
+
+„Darf ich?" Jakob stand mit einem Tablett neben Nils' Platz. Nils saß dort, aber er aß schon fertig und griff gerade nach seinem Notizbuch.
+
+„Bin gleich weg." Nils stand auf, Notizbuch unter dem Arm, Pergamentpapier in der Hand, und war zwei Sekunden später nicht mehr da.
+
+Jakob setzte sich.
+
+Er hatte sich etwas aus dem Türkischen um die Ecke geholt — Lahmacun, der Geruch kam mit rein, Zitrone und Lammhack — und aß mit der entspannten Selbstverständlichkeit eines Mannes der überall Platz fand, immer, ohne darüber nachdenken zu müssen.
+
+„Geht gut heute." Er nickte zu ihrem Bildschirm. „Ich sehe dich schon seit acht tippen ohne aufzuhören."
+
+„Ich bin beim dritten Versuch." Sie biss in den Sesamring. „Das ist kein Zeichen von Produktivität."
+
+„Hartnäckigkeit ist auch eine Qualität."
+
+„Die sagt man Eseln nach."
+
+Er lachte — kurz, offen, ohne Selbstbewusstsein. Das war das Entwaffnende an Jakob: er lachte über alles was lustig war, ohne zu übertreiben, und das machte es schwer ihn nicht zu mögen. Nora mochte ihn. Das war das Problem mit Jakobs Charme — er war echt genug dass es funktionierte und flächendeckend genug dass man wusste: das gilt nicht nur für einen selbst.
+
+„Sag mir wenn du eine zweite Meinung brauchst." Er tippte gegen die Tischkante, leicht, beiläufig. „Ich bin gut in Kampagnenkonzepten."
+
+„Das glaub ich dir."
+
+„Und in anderen Dingen." Er sah sie an — kurz, mit einem Mundwinkelzug der eindeutig war und gleichzeitig dementierbar, so wie Jakob alles Eindeutige und Dementierbare unter einer Schicht Charme lagerte.
+
+Nora aß den letzten Bissen Sesamring, legte die Tüte zusammen.
+
+„Du bist gut in anderen Dingen", sagte sie, freundlich und klar und mit dem Ton der das Ende einer Konversationsrichtung markierte ohne eine Szene daraus zu machen. „Und ich bin gut darin, Konzept A bis Donnerstag fertig zu kriegen." Sie tippte auf ihre Tastatur. „Meinst du das Angebot ernst mit der zweiten Meinung?"
+
+Eine halbe Sekunde — dann registrierte er die Weiche und fuhr auf dem neuen Gleis. „Vollkommen." Er rückte seinen Stuhl näher und sah auf ihren Bildschirm. „Was macht der zweite Absatz falsch?"
+
+„Er macht nichts falsch. Er macht zu viel."
+
+Jakob las. Nora wartete. Er hatte tatsächlich einen guten Blick für Struktur — das hatte sie schon in der ersten Woche bemerkt, beim Meeting, wie er Dinge auf das Wesentliche herunterdestillierte. Nicht so scharf wie Leon, nicht so präzise wie Carla, aber schnell und intuitiv.
+
+„Der dritte Satz ist der eigentliche erste Satz", sagte er.
+
+Nora sah hin. Las es neu. „Ja."
+
+„Alles davor ist Anlauf."
+
+„Ja." Sie markierte die ersten zwei Sätze, zögerte, löschte sie. Der Absatz begann jetzt direkt mit dem dritten. Besser. Deutlich besser. „Danke."
+
+„Dafür bin ich auch gut." Er grinste, nahm sein Tablett, lehnte sich kurz zurück.
+
+Nora sah auf ihren Bildschirm.
+
+Irgendwo hinter ihrem Bewusstsein, an der Peripherie, registrierte sie: die Glaswand am Ende des Raums. Leon saß an seinem Schreibtisch, das wusste sie ohne hinzuschauen — das war das Muster, sieben Uhr bis zwei Uhr nachts, kein einziger Mittag in der Küche. Aber etwas zog ihren Blick trotzdem rüber.
+
+Er sah nicht auf seine Monitore.
+
+Er saß aufrecht wie immer, die Hand um seine weiße Tasse, und der Blick — sie konnte von hier aus keine Details erkennen, zu weit weg, zu viel Glas dazwischen — aber er zeigte nicht auf den Bildschirm. Er zeigte in den Großraum. In ihre Richtung.
+
+Nora hielt den Blick eine Sekunde.
+
+Dann sah sie zurück auf Konzept A.
+
+„Der vierte Absatz hat dasselbe Problem", sagte Jakob, noch immer neben ihr, noch immer auf ihren Bildschirm schauend.
+
+„Ich weiß." Sie scrollte. „Den nehme ich mir als nächstes vor."
+
+Jakob stand auf, nahm sein Tablett, tippte noch einmal gegen die Tischkante — diesmal wie ein kurzes Lebewohl — und ging zurück zu seinem Platz. Nora hörte sein Telefon klingeln, hörte ihn rangehen, hörte wie seine Stimme sofort in den Modus wechselte: warm, präsent, der Name des Anrufers mit einem Ton ausgesprochen der sagte ich-habe-auf-deinen-Anruf-gewartet.
+
+Sie tippte.
+
+Am Ende des Raums, durch die Glaswand, brannte Licht. Als sie zehn Minuten später kurz hochsah, saß Leon an seinem Schreibtisch und starrte auf seinen Bildschirm.
+
+Als wäre er nie woanders gewesen.
+
+---
+
+Um achtzehn Uhr dreißig ging das Licht in der ersten Reihe aus.
+
+Elena zuerst, dann Jan mit dem Mantel über dem Arm, dann Tom — er nickte ihr beim Rausgehen zu, wie immer, das kurze Nicken das seine ganze Verabschiedung war. Nils stand auf ohne Kommentar, Notizbuch, Schal, Tür. Jakob war schon seit Viertel nach weg, ein Kundentermin irgendwo in der Innenstadt, er hatte es im Vorbeigehen erwähnt mit der Energie eines Mannes für den Abendtermine keine Ausnahme waren sondern ein weiterer Kanal.
+
+Nora arbeitete weiter.
+
+Nicht weil die Konzepte fertig waren — Konzept A war jetzt besser, dank des gelöschten Anlaufs und der Carla-Stunde in der Küche und irgendetwas das zwischen drei Kaffee und einem Gespräch mit Elena über Zielgruppen-Momente passiert war. Aber besser war nicht fertig, und Donnerstag war Donnerstag.
+
+Die Agentur nach achtzehn Uhr war mittlerweile ein bekannter Ort. Nicht mehr fremd wie in der ersten Nacht — das Summen der Neonröhren, das Serverbrummen aus dem Flur, die Straßenbahn draußen in längeren Abständen. Alles war jetzt vertraut auf die Art wie ein Wartezimmer vertraut wird wenn man zu oft darin sitzt.
+
+Ihre Schultern sanken.
+
+Sie bemerkte es erst als es schon passiert war — die Kiefermuskeln die sich entspannten, der Atem der tiefer wurde, das Lächeln das sich einfach auflöste weil kein Raum mehr da war der es brauchte. Sie tippte. Strich. Tippte neu.
+
+Hinter der Glaswand am Ende des Raums: Licht an. Wie immer.
+
+---
+
+Er kam gegen neun.
+
+Nicht angekündigt — sie hörte seine Tür, seine Schritte, das leise Rascheln von Papier. Er stellte sich neben ihren Bildschirm, nicht hinter sie wie beim ersten Mal, sondern seitlich, einen halben Schritt Abstand, die ausgedruckte Version ihres Konzepts in der Hand.
+
+„Der Mittelteil." Er legte das Blatt auf ihren Schreibtisch, mit dem Finger auf den dritten Abschnitt.
+
+Sie las. Der Finger zeigte auf die Zeile die sie am längsten bearbeitet hatte, die die ihr am meisten gehörte: _Brinkmann. Seit du dich erinnerst._
+
+„Was ist damit?"
+
+„Zu passiv." Er tippte einmal auf das Wort _erinnerst_. „Der Verbraucher macht nichts. Er wird erinnert. Das klingt nach Nostalgie-Klischee."
+
+Nora lehnte sich zurück. „Das ist Absicht."
+
+„Ich weiß dass es Absicht ist."
+
+„Dann weißt du auch warum." Sie drehte sich zu ihm. Er stand nah genug dass sie den Geruch von Kaffee und dem langen Tag wahrnahm — nicht unangenehm, nur da, wie alles in der Agentur nach Stunden das eine eigene Schicht bekam. „Brinkmann ist keine Entscheidungs-Marke. Niemand greift nach Brinkmann weil er sich bewusst für Brinkmann entschieden hat. Er greift danach weil er das als Kind getrunken hat und der Geschmack ihn holt bevor er denkt. Das ist involuntäre Erinnerung. Passiv ist hier kein Fehler — das ist der Mechanismus."
+
+Leon sah auf das Blatt.
+
+„Der Vorstand will Stärke."
+
+„Der Vorstand hat ein Briefing geschrieben." Nora öffnete den Brinkmann-Ordner, scrollte zu Seite vier, drehte den Laptop so dass er sehen konnte. _Emotionale Bindung an Kindheitserinnerungen stärken. Marke als Konstante in veränderten Lebenswelten positionieren._ „Ich hab das sechsmal gelesen. Stärke heißt hier nicht Aktivität. Stärke heißt Verlässlichkeit. Etwas das da ist bevor man sucht."
+
+Er las die Zeile.
+
+Nora wartete.
+
+Das war das Seltsamste an diesen Nächten — sie wartete nie bei anderen. Bei Jakob nickte sie und machte schon den nächsten Satz auf. Bei Elena hörte sie zu und antwortete bevor die Stille unbequem wurde. Aber bei Leon wartete sie, weil seine Pausen sich anders anfühlten. Nicht wie Zögern. Wie Prüfen.
+
+Er legte das Blatt hin. Griff nach seinem Stift. Machte einen Kreis um das Wort _erinnerst_ — keinen Strich durch, keinen Kommentar daneben.
+
+Einen Kreis.
+
+Nora sah auf den Kreis. Dann auf ihn. Er hatte sich schon umgedreht und blätterte zur nächsten Seite.
+
+„Seite fünf." Er legte das Blatt vor sie. „Der zweite Absatz hat keine Mitte."
+
+Sie zog den Laptop zu sich, öffnete das Dokument. „Was meinst du mit keine Mitte."
+
+„Er beginnt hier." Er tippte auf den ersten Satz. „Er endet hier." Letzter Satz. „Dazwischen ist Füllung."
+
+Sie las es durch. Er hatte Recht — der Absatz kam von einem Punkt zu einem anderen ohne wirklich irgendwo durchzugehen. Ein Argument das sich selbst umging.
+
+„Ich kann den Mittelsatz rausschmeißen und den Anschluss direkt setzen."
+
+„Zeig."
+
+Sie tippte. Er stand neben ihr und las mit, die Arme nicht verschränkt sondern eine Hand auf der Tischkante neben ihrem Monitor — wie in der ersten Woche, derselbe Griff, als hätte sich das eingeschliffen ohne dass einer von beiden es festgelegt hatte.
+
+Der neue Absatz war drei Sätze kürzer.
+
+„Besser." Er sagte es ohne Pause, ohne Ton. Nahm das Blatt. Ging zur nächsten Seite.
+
+Sie tippten, er korrigierte, sie stritt mit ihm über einen Bindestrich bei _Traditions-Marke_ (sie hatte ihn gesetzt, er wollte ihn nicht, sie ließ ihn stehen und er akzeptierte das mit der Stille eines Mannes der das Argument nicht gewinnen konnte ohne kleinlich zu wirken). Gegen elf war Konzept A eine andere Version seiner selbst — schärfer, direkter, mit dem Wort _erinnerst_ im Kreis und ohne den Mittelsatz auf Seite fünf.
+
+Leon nahm die Blätter. Richtete sie an der Tischkante gerade.
+
+„Bis morgen." Keine Frage.
+
+„Bis morgen", sagte sie.
+
+Er ging. Schritte, Tür, Licht an.
+
+Nora lehnte sich in ihrem Stuhl zurück und sah auf den Bildschirm. Das Konzept leuchtete weiß vor ihr, besser als heute Morgen, besser als gestern, und der Kreis um _erinnerst_ war noch auf dem ausgedruckten Blatt das neben ihrer Tastatur lag.
+
+Sie ließ es liegen.
+
+_Ende Kapitel 5_
+
+_Wörter: ca. 3.600_

@@ -33,7 +33,7 @@
 | 11 | **3 Kategorien wählen** | Woche 2 | 1 Duplikat für Bestseller-Leiter. Leichte bis mittlere Kategorien bevorzugen. Geisterkategorien mit bklink.com ausschließen |
 | 12 | **Amazon Autocomplete-Check** — alle 6-8 Tropes durchtippen, Dropdown notieren | 30 Min | Frische Suchbegriffe für Box 5-7 |
 | 13 | **Cover finalisieren** — Titel + Untertitel EXAKT wie in KDP-Metadaten auf dem Cover | Woche 2 | KRITISCH: Abweichung = Account-Sperrung per Algorithmus |
-| 14 | **3-5 Instagram/TikTok-Posts** vorbereiten (Sneak Peeks, Trope-Ankündigung, „Bald erscheint…") | laufend | Konsistenz wichtiger als Perfektion. Kein Facecam nötig |
+| 14 | **3-5 Instagram/TikTok-Posts** vorbereiten — **themenorientiert, nicht produktorientiert** | laufend | Connection First: 80% geben, 20% bitten. Keine Trope-Ankündigungen, keine „Bald erscheint"-Posts. Stattdessen: Themen aus Band 1 die universell treffen — „Was machst du, wenn jemand alle deine Mauern einreißt, obwohl du ihn dafür hasst?" / Kontrolle loslassen / Vertrauen trotz allem / Sich öffnen obwohl man es nicht will. Maximal 1 von 5 Posts darf das Buch direkt erwähnen. |
 
 ---
 
@@ -55,7 +55,7 @@
 |---|--------|---------|
 | 20 | **Publizieren** — KDP auf „Veröffentlichen" klicken | Geht meist innerhalb 24-72 Std. live |
 | 21 | **ARC-Team aktivieren** — Erinnerung senden | **Ziel: 10 Reviews in 7 Tagen** (= 52% Conversion-Boost) |
-| 22 | **KDP Werbung (KWT) starten** — 5-10 €/Tag | Sponsored Products, Keywords aus der Recherche verwenden. Niedrig starten, nach 3 Tagen optimieren |
+| 22 | **KDP Werbung (KWT) starten** — 5-10 €/Tag | **ERST nach 3-5 eingegangenen Reviews starten** (ca. Tag 3-5) — sonst Budget ohne Conversion. Sponsored Products Auto-Kampagne, Keywords aus der Recherche. |
 | 23 | **Social Media Launch-Push** | Instagram: Launch-Post + Stories. TikTok: „Mein erstes Buch ist da"-Video. In allen Posts: Direktlink zum Buch |
 | 24 | **BookTok-Influencerinnen ansprechen** (5-10 Accounts) | Deutsche Romance-BookTokerinnen, die Grumpy-Sunshine-Content machen. Kostenloses Exemplar anbieten |
 | 25 | **Lovelybooks-Leserunde** starten | Kostenlos, bringt Reviews + Sichtbarkeit in der deutschen Buchcommunity |
@@ -66,7 +66,7 @@
 
 | # | Aktion | Details |
 |---|--------|---------|
-| 26 | **KWT-Daten auswerten** — nach 7 Tagen: welche Keywords konvertieren? Budget dort erhöhen, Rest pausieren | Wöchentlich |
+| 26 | **KWT-Daten auswerten + Eskalation** | **Woche 1:** Auto-Kampagne läuft, Daten sammeln. **Nach 14 Tagen:** Welche Keywords konvertieren? → Manuelle Kampagne mit diesen Keywords aufbauen, Auto-Kampagne pausieren. **Product Targeting:** Zusätzlich auf Top-5-Konkurrenz-ASINs bieten. Schlechte Keywords (viele Klicks, 0 Käufe) negativ listen. |
 | 27 | **Review-Monitoring** — Ziel: 25+ Reviews in 30 Tagen | Bei <10 nach Woche 2: Lovelybooks-Runde pushen, weitere Blogger ansprechen |
 | 28 | **E-Mail-Liste pflegen** — Willkommens-Mail mit Lead-Magnet automatisieren | Einmalig einrichten, dann passiv |
 | 29 | **1-2 professionelle Editorial Reviews** einholen | Buchblogs, Rezensionsdienste. Zitate für die Produktseite |
@@ -90,11 +90,11 @@
 
 ## Die 5 kritischsten Punkte
 
-1. **Cover + Untertitel müssen exakt übereinstimmen** — sonst Sperrung
-2. **10 Reviews in Woche 1** — ohne das kein Algorithmus-Schub
+1. **Serien-Flywheel > alles andere** — Jedes neue Buch pusht alle alten. Band 2 in <6 Monaten ist wichtiger als jede Einzelmaßnahme bei Band 1.
+2. **10 Reviews in Woche 1** — ohne das kein Algorithmus-Schub, kein KWT-Start
 3. **Erste 30 Tage entscheiden** — Amazon indexiert in dieser Phase
 4. **4,99 € nicht unterbieten** — du brauchst nur ~287 Verkäufe/Monat für 1.000 €
-5. **DRM AN + Mature Content AN** — beides vergessen = Probleme
+5. **Cover + Untertitel müssen exakt übereinstimmen** — sonst Sperrung per Algorithmus
 
 ---
 

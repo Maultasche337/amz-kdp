@@ -8,16 +8,16 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | | | | | | | | | | | | | | | | | |
-| Nora | x | x | x | | | | | | | | | | | | | | | | | |
-| Carla | x | x | | | | | | | | | | | | | | | | | | |
-| Werner | | x | | | | | | | | | | | | | | | | | | |
-| Nils | x | x | x | | | | | | | | | | | | | | | | | |
-| Jakob | | x | x | | | | | | | | | | | | | | | | | |
-| Maren | | x | | | | | | | | | | | | | | | | | | |
-| Tom | | x | | | | | | | | | | | | | | | | | | |
-| Matthias | | x | | | | | | | | | | | | | | | | | | |
-| Elena | x | | x | | | | | | | | | | | | | | | | | |
+| Leon | x | x | x | x | x | | | | | | | | | | | | | | | |
+| Nora | x | x | x | | x | | | | | | | | | | | | | | | |
+| Carla | x | x | | x | x | | | | | | | | | | | | | | | |
+| Werner | | x | | x | | | | | | | | | | | | | | | | |
+| Nils | x | x | x | x | x | | | | | | | | | | | | | | | |
+| Jakob | | x | x | x | x | | | | | | | | | | | | | | | |
+| Maren | | x | | x | | | | | | | | | | | | | | | | |
+| Tom | | x | | x | x | | | | | | | | | | | | | | | |
+| Matthias | | x | | x | | | | | | | | | | | | | | | | |
+| Elena | x | | x | | x | | | | | | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
 
@@ -30,8 +30,8 @@
 | 1 | Montag | Morgen → Abend (bis nach 18:30) | Woche 1 | Noras erster Tag. Carla-Onboarding, Nils-Intro, Leon „Ihr Schreibtisch ist dort", Brinkmann-Briefing, Agentur-Nacht beginnt |
 | 2 | Dienstag/Mittwoch | Morgen → Mittag (7 Uhr → ca. 13 Uhr) | Woche 1 | Leon POV. Ritual, Carla-Rückblende (3 Tage vorher), Zweig-2-Ankunft, Werner-Besuch, Matthias-Szene |
 | 3 | Donnerstag | Spätnachmittag → Nacht (~17:30 → ~22 Uhr) | Woche 1 | Noras 4. Tag. Performance-Kontrast (AN/AUS). Tischkante. Schwarzer Kaffee. „Schwarz." Mama-Muster gesät. |
-| 4 | Sonntag | Vormittag | Woche 1/2 | Brunch #1 |
-| 5 | | | Woche 2 | |
+| 4 | Sonntag | Vormittag (~9:30–11:30) | Woche 1/2 | Brunch #1. Werners Wohnung Eppendorf. Schulden-Teaser (Henrik). Nils-Serviette. Leon geht zuerst. Werner-Spruch #2. Tom+Carla räumen ab. |
+| 5 | Montag | Morgen → Nacht (~8–23 Uhr) | Woche 2 | Franzbrötchen. Leons Kommentare (A: „Zu weich", B: „Schon da gewesen", C: kein Kommentar). Carla-Küche: „Fragt das hier eigentlich jemals jemand dich?" Jakob flirtet, Nora blockt, Leon beobachtet. Agentur-Nacht: Streit über _erinnerst_, Kreis statt Streichung. |
 | 6 | | | Woche 3–4 | Pitch heiße Phase |
 | 7 | | | Woche 3–4 | |
 | 8 | Montag | Morgen | Woche 4–5 | Sonntagsmail-Enthüllung |
@@ -60,7 +60,7 @@
 | Leons Büro (Glaswand) | 1 | „Glaskastenbüro am Ende des Raumes", Tür bleibt zu, Licht brennt abends |
 | Agentur-Küche | 1 | Erwähnt (Siebträger, Anleitungszettel), Team isst dort mittags. Ort für Geheimnisse, Carla-Nora-Momente |
 | Dachterrasse | | Noras Rückzugsort (Kap 9) |
-| Werners Wohnung (Brunch) | | Sonntagsbrunch, großer Esstisch |
+| Werners Wohnung (Brunch) | 4 | Eppendorf, 3. OG, kein Aufzug, Teppich (Bohnerwachs). Großer Esstisch, 12 Plätze. Altes Porzellan (blaue Randlinie, Golddekor, einige Tassen randlos — Werner ersetzt sie nicht). Fenster zum Innenhof (Kastanie, Wäscheleine). |
 | Noras Wohnung | | Eingeführt in Kap 20 (Tageslicht-Szene) |
 | Bar in der Schanze | | Team feiert nach Pitch (Kap 11) |
 | Branchen-Event-Location | | Kap 10 |
@@ -192,8 +192,8 @@
 |------|--------|-----|--------|
 | 2 (Jakob/Pia) | Jakob trifft Pia: „Man sieht's." | 10 | ⬜ |
 | 3 (Carla/Lasse) | Lasses Name fällt, Carla: „Absolut nicht." Leon: „Bucht ihn." | 6 | ⬜ |
-| 4 (Maren/Finn) | Werner erwähnt Schulden, Stille | 4 | ⬜ |
-| 5 (Nils) | Nils zeichnet, klappt zu | 4 | ⬜ |
+| 4 (Maren/Finn) | Werner erwähnt Schulden, Stille | 4 | ✏️ |
+| 5 (Nils) | Nils zeichnet, klappt zu | 4 | ✏️ |
 
 ---
 
@@ -209,15 +209,15 @@
 | Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
 | Carla-Stich: Ausnahme für Nora | 8 | 14 | ⬜ | Unausgesprochener Gedanke |
 | Tag=Eis, Nacht=Echt-Muster | 1 (gesät), 3 | 17, 20 | ✏️ | Kap 1: Leon tags kalt, abends Licht = andere Welt. Kap 3: Nachts ist er anders — kommt zu ihr, korrigiert, „Schwarz." Die Mauer ist dünner, nicht offen. |
-| Performance-Kontrast (AN/AUS) | 3 | 5, 7, 17 | ✏️ | Kap 3: Nora performt für Team (Jakob, Elena), Nils SIEHT es. Team geht → Schultern sinken, Lächeln weg, Atem tiefer. Leserin merkt es erst rückwirkend. |
+| Performance-Kontrast (AN/AUS) | 3 | 5, 7, 17 | ✏️ | Kap 3: Nora performt für Team (Jakob, Elena), Nils SIEHT es. Team geht → Schultern sinken, Lächeln weg, Atem tiefer. Kap 5: Carla bricht die Performance mit einer Frage. Nora-Jakob-Szene = Performance an, aber mechanischer. Agentur-Nacht = Maske unten, wartet bei Leon ohne Erklärung. |
 | Agentur-Nacht als eigener Raum | 1 (gesät), 3 | 12, 17, 20 | ✏️ | Kap 1: erstes Mal angedeutet. Kap 3: voll etabliert — Neonröhren summen, Serverbrummen, Straßenbahn in Abständen. Forced Proximity. |
 | Tischkante (Leon auf Noras Revier) | 3 | — | ✏️ | Leons Hand auf Noras Tischkante. Spiegelung zu Noras Stift auf Leons Revier (Kap 2). Keiner merkt die Symmetrie. |
 | Nora nomadisch | 3 | — | ✏️ | „Fünf Jahre, an Küchentischen und in Cafés, in Wohnungen die sie nach drei Monaten wieder verließ." + Wohnung halb ausgepackt. 6-Monats-Vertrag = das Längste. |
 | Maren-Foto (Leon schaut Nora an) | 10 | — | ⬜ | Foto existiert, kein Payoff in Band 1 |
 | Matthias-Leon: nur über Agentur | 2 | 20 | ✏️ | Kap 2: Finkenstein-Vertrag. Nur Zahlen. Keine Gegenfrage, kein Widerspruch. Handschrift unverändert seit 16 Jahren. Payoff Kap 20: Blick (keine Vergebung noch) |
 | Tom wird übersehen | 1 (implizit), 2 | 20 | ✏️ | Kap 1: Tom taucht nicht auf — buchstäblich übersehen. Kap 2: „Tom. Hallo." — alle nicken, weitergemacht. Aber Leon sieht eine Sekunde zu lang hin (gefährliche Erkennung). Payoff Kap 20: Brötchen-Geste |
-| Carla+Tom räumen ab | 4 | — | ⬜ | Wortloses System, Band 6 relevant |
-| Henriks Schulden | 4 | — | ⬜ | Band 4 Setup |
+| Carla+Tom räumen ab | 4 | — | ✏️ | Wortloses System, Band 6 relevant. Ohne Absprache, Henkel in eine Richtung, kaputte Tassen zuletzt. Werner sieht zu. |
+| Henriks Schulden | 4 | — | ✏️ | Band 4 Setup. Werner: „Henrik hat noch offene Rechnungen. Irgendwann müssen wir darüber reden." Stille. Maren: Finger um Kamera ohne sie anzuheben. |
 
 ---
 
@@ -226,7 +226,7 @@
 | # | Spruch | Kap | Status |
 |---|--------|-----|--------|
 | 1 | „Die großartige weiß wann sie aufhören muss zu schreiben." | 2 | ✅ |
-| 2 | „Die beste Werbung macht man nicht im Dunkeln, mein Junge." | 4 | ⬜ |
+| 2 | „Die beste Werbung macht man nicht im Dunkeln, mein Junge." | 4 | ✅ |
 | 3 | „Gute Kampagnen erkennt man daran, dass der Kunde nicht merkt, dass er verkauft wird." | 11 | ⬜ |
 | 4 | „Die beste Werbung ist die, an die man sich erinnert." | 20 | ⬜ |
 
@@ -237,7 +237,7 @@
 | # | Szene | Kap | Status |
 |---|-------|-----|--------|
 | 1 | Holt Nora in die Agentur (Rückblende: Zahlen-Argument) | 2 | ✅ |
-| 2 | „Fragt das eigentlich jemals jemand dich?" | 5 | ⬜ |
+| 2 | „Fragt das eigentlich jemals jemand dich?" | 5 | ✅ |
 | 3 | Sonntagsmail-Lücke bemerkt | 8 | ⬜ |
 | 4 | Masken fallen: Wein, echte Freundschaft | 13 | ⬜ |
 | 5 | Der Stich: „Ich war 15 Jahre neben ihm..." | 14 | ⬜ |
@@ -259,7 +259,7 @@
 
 | # | Kap | Was | Status |
 |---|-----|-----|--------|
-| 1 | 4 | Steif, Pflicht. Zweig 1 vs. 2. Werner-Spruch. Schulden. | ⬜ |
+| 1 | 4 | Steif, Pflicht. Zweig 1 vs. 2. Werner-Spruch. Schulden. | ✅ |
 | 2 | 8 | Kurz erwähnt (Leons Erinnerung). 5 Min. früher. | ⬜ |
 | 3 | 20 | Epilog. Leon pünktlich. Brötchen für Tom. Werner-Spruch. | ⬜ |
 
@@ -313,8 +313,8 @@
 | 1 | ~3.200 | Outline-treu. Szenen 1.1/1.2/1.3 wie geplant. Tom bewusst abwesend (Outline: „Kap 2"). | Noras Performer-Maske + „Leuchten" subtil etabliert (Maklerin, Lächeln). Nils „Drei Wochen"-Messlatte. Leon 3× durchs Büro, Tür immer zu. Post-it-Schichten mit älterer Handschrift = Katrin-Teaser? |
 | 2 | ~3.100 | Outline-treu. Carla-Rückblende = Brinkmann statt Decker (Outline hatte „Decker" im Carla-Profil, Manuskript nutzt korrekt „Brinkmann"). Nils-zeichnet-und-klappt-zu hier schon angedeutet (Setup für Kap 4). | Leon-Ritual (Kaffee, Rundgang, Schreibtisch). Carla-Leon 15J. wortlos. Jakob = Zimtschnecken + Namen + unwichtige Zuarbeit. Maren fotografiert Büro. Tom „eine Sekunde zu lang". Werner-Spruch #1. Matthias nur Agentur (Finkenstein-Vertrag). Nora = Variable, keine Anziehung. Kapitelende = Tür schließen. |
 | 3 | ~2.500 | Outline-treu. „Den nehm ich nicht" → umgebaut zu „Schwarz." (Likability-Fix: abwesend statt mean). Nora-Freelance-Seed ergänzt (Küchentische, 3-Monats-Wohnungen). | Performance-Kontrast (AN: Jakob, Elena / AUS: Schultern sinken). Nils sieht die Performance (1 Blick). Agentur-Nacht voll etabliert. Tischkante = Revierüberschreitung (Spiegel zu Stift Kap 2). Kaffee-Szene: Mama-Muster gezeigt nicht benannt. „Schwarz." = Leons Riss. Leere Tasse = Beweisstück. Verneinungs-Schlusszeile (1× pro Buch verbraucht). „Oben brannte das Licht noch." |
-| 4 | | | |
-| 5 | | | |
+| 4 | ~2.200 | Outline-treu. Szene 4.1/4.2 wie geplant. Werner-Spruch geliefert. Schulden-Teaser (Maren reagiert über Kamera). Nils-Serviette + Handgelenk-Erkennung (Mama). Leon geht zuerst, hält 1 Sek. an Türklinke inne (Werner-Spruch sitzt, nicht benannt). Tom+Carla räumen ab, Werner sieht zu, Matthias sitzt immer noch. | Brunch als Pflichtveranstaltung: zeigen ohne erklären. Werner-Porzellan (kaputt, nicht ersetzt) = Familie in einem Bild. Matthias starrt immer knapp an Werner vorbei — nie auf ihn. Tom+Werner comfortable silence als Kontrast zu Leon+Matthias. |
+| 5 | ~3.600 | Outline-treu. Drei Szenen. Carla-Szene #2 geliefert. Jakob-flirtet-Leon-beobachtet wie geplant. Streit über _erinnerst_ neu — Kreis statt Streichung als Payoff. Bindestrich-Streit als Charaktermoment (Leon akzeptiert Niederlage ohne Kommentar). | Nils: „Bei Leon ist kein Kommentar das Beste" = wichtiges Reader-Info-Beat. Carla: „Leon weiß es. Er hat nur noch nicht entschieden ob er will dass du es weißt." = perfekte Carla-Stimme. Leon beobachtet Glaswand: erste Regung gesät. |
 | 6 | | | |
 | 7 | | | |
 | 8 | | | |

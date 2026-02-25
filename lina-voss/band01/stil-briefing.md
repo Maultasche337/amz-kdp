@@ -8,6 +8,37 @@
 
 ---
 
+## 0. ZEICHENSETZUNG — PFLICHT VOR JEDER SZENE LESEN
+
+### Kommaregeln (Hart — keine Ausnahmen, kein Stilmittel)
+
+**Komma vor einleitenden Nebensätzen. Immer. Ohne Ausnahme.**
+
+| Konjunktion | Beispiel richtig |
+|-------------|-----------------|
+| **dass** | „Er wusste, dass sie recht hatte." |
+| **weil** | „Sie wartete, weil seine Pausen sich anders anfühlten." |
+| **obwohl** | „Er ging, obwohl er noch nicht fertig war." |
+| **als** (temporal/komparativ) | „Sie lachte, als wäre es nichts." / „nah genug, dass —" |
+| **wenn** | „Sie lächelte, wenn jemand sie ansprach." |
+| **sodass** | „Er schwieg, sodass die Stille ihr Gewicht bekam." |
+| **während** | „Sie tippte, während er las." |
+| **ob** | „Sie fragte sich, ob er es gehört hatte." |
+
+**Komma vor Relativsätzen. Immer.**
+
+| Falsch | Richtig |
+|--------|---------|
+| „ein Mann der überall Platz fand" | „ein Mann, der überall Platz fand" |
+| „die Stille die entstand wenn —" | „die Stille, die entstand, wenn —" |
+| „das Geräusch das sagte —" | „das Geräusch, das sagte —" |
+
+**Kein Komma** vor „und", „oder", „aber" bei einfacher Reihung (optional, stilistisch frei).
+
+> ⚠️ **Lektorat-Notiz:** Kap 1–5 enthalten Komma-Fehler dieser Art → werden in der Lektorat-Phase bereinigt.
+
+---
+
 ## 1. DEEP POV — Kein Erzähler, nur Figur
 
 Die Erzählung IST die Wahrnehmung der POV-Figur. Es gibt keinen auktorialen Erzähler, keinen Kommentar von außen, keine Meta-Ebene.
