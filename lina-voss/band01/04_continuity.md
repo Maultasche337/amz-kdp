@@ -8,14 +8,14 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | x | x | | | | | | | | | | | | | | | |
-| Nora | x | x | x | | x | | | | | | | | | | | | | | | |
-| Carla | x | x | | x | x | | | | | | | | | | | | | | | |
+| Leon | x | x | x | x | x | x | | | | | | | | | | | | | | |
+| Nora | x | x | x | | x | x | | | | | | | | | | | | | | |
+| Carla | x | x | | x | x | x | | | | | | | | | | | | | | |
 | Werner | | x | | x | | | | | | | | | | | | | | | | |
 | Nils | x | x | x | x | x | | | | | | | | | | | | | | | |
-| Jakob | | x | x | x | x | | | | | | | | | | | | | | | |
+| Jakob | | x | x | x | x | x | | | | | | | | | | | | | | |
 | Maren | | x | | x | | | | | | | | | | | | | | | | |
-| Tom | | x | | x | x | | | | | | | | | | | | | | | |
+| Tom | | x | | x | x | x | | | | | | | | | | | | | | |
 | Matthias | | x | | x | | | | | | | | | | | | | | | | |
 | Elena | x | | x | | x | | | | | | | | | | | | | | | |
 
@@ -32,7 +32,7 @@
 | 3 | Donnerstag | Spätnachmittag → Nacht (~17:30 → ~22 Uhr) | Woche 1 | Noras 4. Tag. Performance-Kontrast (AN/AUS). Tischkante. Schwarzer Kaffee. „Schwarz." Mama-Muster gesät. |
 | 4 | Sonntag | Vormittag (~9:30–11:30) | Woche 1/2 | Brunch #1. Werners Wohnung Eppendorf. Schulden-Teaser (Henrik). Nils-Serviette. Leon geht zuerst. Werner-Spruch #2. Tom+Carla räumen ab. |
 | 5 | Montag | Morgen → Nacht (~8–23 Uhr) | Woche 2 | Franzbrötchen. Leons Kommentare (A: „Zu weich", B: „Schon da gewesen", C: kein Kommentar). Carla-Küche: „Fragt das hier eigentlich jemals jemand dich?" Jakob flirtet, Nora blockt, Leon beobachtet. Agentur-Nacht: Streit über _erinnerst_, Kreis statt Streichung. |
-| 6 | | | Woche 3–4 | Pitch heiße Phase |
+| 6 | Di + Fr | Abend + Nachmittag | Woche 3 | Heiße Phase. „Kann so raus" (NSeufert_B_KonzeptC_Rev3). Lasse Petersen gebucht. Post-it — Noras Profil — Mülleimer. Tom sieht es durch Glaswand. |
 | 7 | | | Woche 3–4 | |
 | 8 | Montag | Morgen | Woche 4–5 | Sonntagsmail-Enthüllung |
 | 9 | | | Woche 5 | Letzte Pitch-Runde |
@@ -191,7 +191,7 @@
 | Band | Teaser | Kap | Status |
 |------|--------|-----|--------|
 | 2 (Jakob/Pia) | Jakob trifft Pia: „Man sieht's." | 10 | ⬜ |
-| 3 (Carla/Lasse) | Lasses Name fällt, Carla: „Absolut nicht." Leon: „Bucht ihn." | 6 | ⬜ |
+| 3 (Carla/Lasse) | Lasses Name fällt, Carla: „Absolut nicht." Leon: „Bucht ihn." | 6 | ✏️ |
 | 4 (Maren/Finn) | Werner erwähnt Schulden, Stille | 4 | ✏️ |
 | 5 (Nils) | Nils zeichnet, klappt zu | 4 | ✏️ |
 
@@ -205,7 +205,7 @@
 | Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
 | Küchenboden-Parallele | Backstory | 19 | ⬜ | Leon mit 16 → Leon jetzt |
 | Nils zeichnet wie Mama | 4 | 18 | ⬜ | „Du zeichnest auch wie sie" |
-| Leon zeichnet Nora (Post-it) | 6 | — | ⬜ | Tom sieht es, sagt nichts |
+| Leon zeichnet Nora (Post-it) | 6 | — | ✏️ | Tom sieht es durch Glaswand, sagt nichts. Maren war im Außendreh (Wellberg-Auftrag). |
 | Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
 | Carla-Stich: Ausnahme für Nora | 8 | 14 | ⬜ | Unausgesprochener Gedanke |
 | Tag=Eis, Nacht=Echt-Muster | 1 (gesät), 3 | 17, 20 | ✏️ | Kap 1: Leon tags kalt, abends Licht = andere Welt. Kap 3: Nachts ist er anders — kommt zu ihr, korrigiert, „Schwarz." Die Mauer ist dünner, nicht offen. |
@@ -315,7 +315,7 @@
 | 3 | ~2.500 | Outline-treu. „Den nehm ich nicht" → umgebaut zu „Schwarz." (Likability-Fix: abwesend statt mean). Nora-Freelance-Seed ergänzt (Küchentische, 3-Monats-Wohnungen). | Performance-Kontrast (AN: Jakob, Elena / AUS: Schultern sinken). Nils sieht die Performance (1 Blick). Agentur-Nacht voll etabliert. Tischkante = Revierüberschreitung (Spiegel zu Stift Kap 2). Kaffee-Szene: Mama-Muster gezeigt nicht benannt. „Schwarz." = Leons Riss. Leere Tasse = Beweisstück. Verneinungs-Schlusszeile (1× pro Buch verbraucht). „Oben brannte das Licht noch." |
 | 4 | ~2.200 | Outline-treu. Szene 4.1/4.2 wie geplant. Werner-Spruch geliefert. Schulden-Teaser (Maren reagiert über Kamera). Nils-Serviette + Handgelenk-Erkennung (Mama). Leon geht zuerst, hält 1 Sek. an Türklinke inne (Werner-Spruch sitzt, nicht benannt). Tom+Carla räumen ab, Werner sieht zu, Matthias sitzt immer noch. | Brunch als Pflichtveranstaltung: zeigen ohne erklären. Werner-Porzellan (kaputt, nicht ersetzt) = Familie in einem Bild. Matthias starrt immer knapp an Werner vorbei — nie auf ihn. Tom+Werner comfortable silence als Kontrast zu Leon+Matthias. |
 | 5 | ~3.600 | Outline-treu. Drei Szenen. Carla-Szene #2 geliefert. Jakob-flirtet-Leon-beobachtet wie geplant. Streit über _erinnerst_ neu — Kreis statt Streichung als Payoff. Bindestrich-Streit als Charaktermoment (Leon akzeptiert Niederlage ohne Kommentar). | Nils: „Bei Leon ist kein Kommentar das Beste" = wichtiges Reader-Info-Beat. Carla: „Leon weiß es. Er hat nur noch nicht entschieden ob er will dass du es weißt." = perfekte Carla-Stimme. Leon beobachtet Glaswand: erste Regung gesät. |
-| 6 | | | |
+| 6 | ~2.600 | Outline-treu. Szenen 6.1/6.2 wie geplant. Maren im Wellberg-Außendreh (erklärt ihre Abwesenheit bei Fotografen-Diskussion). Lasse Petersen gebucht gegen Carlas „Absolut nicht" — Leon hatte Portfolio schon offen. Post-it-Szene: Tom sieht Noras Profil durch Glaswand. „Kann so raus" — Nora versteht das Gewicht nicht. | „Zweig 2" ist Leons internes Label, kein Figuren-Dialog. Maren: Freelancerin mit eigenem Agentur-Auftrag (Wellberg). |
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |

@@ -28,7 +28,10 @@
       "WebFetch(domain:shop.lyx-verlag.de)",
       "WebFetch(domain:www.thalia.de)",
       "WebFetch(domain:www.goodreads.com)",
-      "WebFetch(domain:www.lovelybooks.de)"
+      "WebFetch(domain:www.lovelybooks.de)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)"
     ]
   }
 }

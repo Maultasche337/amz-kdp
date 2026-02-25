@@ -1,5 +1,5 @@
 # Launch-Operationen
-*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann)*
+*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann), Kindlepreneur: ARC Launch Team, Kindlepreneur: Editorial Reviews*
 
 ---
 
@@ -32,6 +32,102 @@ Amazon's Algorithmus entscheidet in den ersten 30 Tagen, wo das Buch hingehört 
 - [ ] Beziehungen zu Autorinnen für Blurbs (ab Band 2)
 - [ ] Professionelle Editorial Reviews einholen (1-2 reichen)
 - [ ] Social-Media-Präsenz ausbauen
+
+---
+
+## ARC-Team aufbauen
+
+*[Quelle: Kindlepreneur — Building an ARC Launch Team, 2026-02-25]*
+
+### Begriffsklärung
+
+| Begriff | Funktion |
+|---------|----------|
+| **ARC Team** | Erhält Pre-Launch-Exemplar → schreibt Reviews zum Launch-Tag |
+| **Beta Team** | Gibt Feedback während/nach dem Schreiben → verbessert Manuskript |
+| **Street Team** | Promotet aktiv am Launch-Tag (Social Media, Mundpropaganda) |
+
+Empfehlung: Eine Gruppe, die alle drei Funktionen übernimmt — effizienter als drei getrennte Gruppen.
+
+### Rekrutierung: Kostenlos
+
+- Social-Media-Aufruf (Facebook, Instagram, TikTok) in eigenen Kanälen
+- Back Matter: ARC-Einladung ans Ende jedes veröffentlichten Buchs setzen
+- Nischen-Facebook-Gruppen: **erst** authentisch mitmachen, dann anfragen (nie kalt posten)
+- Twitter/X: Callout-Tweets
+- Autorinnen-Netzwerk: gegenseitige Unterstützung im Genre
+
+### Rekrutierung: Bezahlte Plattformen
+
+| Plattform | Besonderheit |
+|-----------|-------------|
+| **NetGalley** | Etablierter Profi-Service; 50% Rabatt über Books Go Social |
+| **Booksprout** | ARC-Management-Tools + Leserzugang |
+| **BookSirens** | Community von 15.000+ ARC-Leserinnen |
+| **Hidden Gems Books** | Breiter aufgestellt als rein ARC |
+| **Booktasters** | Deckt Amazon + Goodreads ab |
+
+### Organisation: Tracking-System
+
+Google Sheets oder Excel mit diesen Spalten:
+
+| Spalte | Inhalt |
+|--------|--------|
+| Name + Kontakt | Bevorzugter Kanal: E-Mail, Facebook, DM |
+| Letzter Kontakt | Datum des letzten Austauschs |
+| Notizen | Tendenzen, Feedback-Stil, Besonderheiten |
+| ARC gesendet | ✓ / – |
+
+### Kritisches Prinzip
+
+> „Viele Autorinnen machen den Fehler, jemanden anzuschreiben, ihn einzuladen — und dann nichts mehr zu tun, bis sie wieder etwas brauchen."
+
+**Laufende Kommunikation** ist wichtiger als Team-Größe. Wer regelmäßig in Kontakt bleibt, bekommt deutlich höhere Folge-Raten beim eigentlichen Launch.
+
+---
+
+## Editorial Reviews — Detailwissen
+
+*[Quelle: Kindlepreneur — Amazon Editorial Reviews, 2026-02-25]*
+
+### Was sind Editorial Reviews?
+
+Professionelle oder Experten-Endorsements auf der Amazon-Produktseite — erscheinen **mittig auf der Buchdetailseite**, separat von Kunden-Reviews. Autorinnen haben bei Inhalt und Gestaltung große Freiheit.
+
+### Warum sie wichtig sind
+
+Heatmap-Studie: Käuferinnen lesen diesen Bereich aktiv — aber: Sie konzentrieren sich **nicht auf den Text** des Reviews, sondern auf den **Qualifier** (wer hat das gesagt?).
+
+**Optimale Menge: 6–10 Reviews**
+- Weniger → wird übersprungen
+- Mehr → wirkt überladen, verliert Glaubwürdigkeit
+
+### Das Qualifier-Prinzip
+
+Der Qualifier (Herkunft/Credentials des Reviewers) ist wichtiger als der Review-Text selbst.
+
+Gute Qualifier-Beispiele:
+- „International Bestselling Author in Fantasy"
+- „Editor in Chief, TopSciFiBooks.com"
+- „#1 Spiegel-Bestseller-Autorin"
+
+Ein unbekannter Name ohne Qualifier = null Wirkung. Derselbe Name mit Qualifier = Kaufimpuls.
+
+### 5 Quellen für Editorial Reviews
+
+| Quelle | Vorgehen |
+|--------|----------|
+| **Genre-Autorinnen** | Facebook-Gruppen → erst authentisch mitmachen → dann anfragen |
+| **Review-Websites** | Buchblog-Suche: „[Genre] + Rezension + Blog"; viele akzeptieren bezahlte Reviews (Amazon-konform, wenn transparent) |
+| **Genre-Nischen-Sites** | Websites mit Leidenschaft für ein spezifisches Genre |
+| **Bookstagrammer** | Instagram-Buchinfluencerinnen; regelmäßig offen für Review-Anfragen |
+| **Pressearbeit** | Zitate aus Pressemitteilungen / Publicity-Aktivitäten |
+
+### Praktisch
+
+- Fiverr: Buchrezensenten suchen (wichtig: darauf achten, dass sie **keine** Amazon-Reviews schreiben — nur Editorial Reviews sind erlaubt)
+- Alle Qualifier müssen überprüfbar und korrekt sein
+- Beziehungen früh aufbauen — nicht erst kurz vor Launch anfragen
 
 ---
 

@@ -1021,3 +1021,215 @@ Sie ließ es liegen.
 _Ende Kapitel 5_
 
 _Wörter: ca. 3.600_
+
+---
+
+# Kapitel 6 — Kann so raus
+
+_Leon, Woche 3_
+
+---
+
+Die dritte Version des Mediaplans hatte dieselbe Lücke wie die zweite.
+
+Leon druckte sie trotzdem aus — Papier half manchmal, wo Bildschirm nicht mehr half — und legte sie neben die erste Version. Woche drei, Tage zwanzig bis vierundzwanzig, die Medienplanung für Brinkmann musste diese Woche stehen, weil die Pitchpräsentation ab Montag in ihre finale Form ging und er keine offenen Stellen in der Struktur brauchte wenn Jakob anfing Folien zu bauen.
+
+Er markierte Abschnitt zwei, schrieb drei Sätze an den Rand. Die Lücke war nicht in den Zahlen — die Zahlen stimmten. Die Lücke war in der Begründung. Wer kaufte Brinkmann nicht, und warum nicht, und was änderte sich, wenn die Kampagne funktionierte. Das fehlte. Er legte den Stift ab.
+
+„Jakob."
+
+Keine Reaktion. Jakob telefonierte — er telefonierte immer, von morgens bis in den späten Nachmittag, und hatte die Gabe, Gespräche so zu führen, dass sie produktiv klangen und gelegentlich es auch waren. Leon stand auf, ging durch den Flur, klopfte zweimal an den Rahmen des Besprechungsbereichs.
+
+Jakob hob den Blick, hob einen Finger.
+
+Leon legte den Mediaplan auf den Tisch. Zeigte auf Abschnitt zwei. Zog einen Strich unter die leere Stelle.
+
+Jakob nickte, ohne das Telefonat zu unterbrechen.
+
+Das war das Funktionierende an Jakob — er las Kontexte schnell, schneller als die meisten, und er wusste seit Woche eins, dass es bei Leon keine zweite Erklärung gab. Entweder man verstand beim ersten Mal, oder man fragte nach. Beides war in Ordnung. Ein drittes Mal gab es nicht.
+
+Leon ging zurück in sein Büro.
+
+---
+
+Zwanzig nach neun.
+
+Die Heizung kämpfte. Das war immer so in diesem Gebäude, Februar gegen Altbausubstanz, und sie verlor meistens knapp. Er hatte die Jacke um neunzehn Uhr ausgezogen, sie lag jetzt über dem Sofa. Auf seinem Bildschirm: Kampagnenstruktur, Slide achtzehn von vierundzwanzig, die Passage über regionale Marktpositionen.
+
+Der Großraum draußen: auf vier Leute geschrumpft. Jan und Elena gegangen, Nils irgendwo verschwunden. Tom saß an seinem kleinen Tisch neben dem Drucker — er war meistens der Letzte der ging, hatte Leon irgendwann registriert, ohne zu wissen wann. Carla war noch in ihrem Büro. Licht unter der Seitentür.
+
+Und Nora.
+
+Er wusste es, ohne hinzusehen. Das Tippen war anders als Toms — schneller in Schüben, dann Pause, dann wieder schnell, das Muster von jemandem, der in Texten dachte. Entwurf raus, bewerten, Entwurf raus, bewerten. Drei Wochen, und er kannte das Muster. Er hatte es nicht gelernt — er hatte es registriert, der Unterschied war kein akademischer.
+
+Er öffnete das nächste Dokument.
+
+---
+
+Eine neue Datei öffnete sich im geteilten Ordner. Er sah es in der unteren Leiste, klein, die Benachrichtigung die er sonst wegklickte.
+
+_NSeufert_B_KonzeptC_Rev3.docx_
+
+Zwanzig nach neun. Die dritte Revision des Tages.
+
+Er klickte.
+
+---
+
+Die erste Seite kannte er — den Aufbau, den Argumentationsgang, die Struktur. Das war die Version, in die er zweimal Kommentare eingetragen hatte. Der erste: _Zu direkt im zweiten Absatz. Regionalität darf nicht zur Entschuldigung werden — das ist keine Stärke wenn der nationale Markt es als provinziell liest._ Der zweite, drei Tage später: _Richtiger Ansatz, falsche Ebene. Die Kampagne argumentiert noch. Sie darf nicht argumentieren. Sie muss einfach da sein._
+
+Beides waren Kommentare, die er nicht weiter erklärt hatte. Wer sie verstand, verstand sie.
+
+Er las den dritten Absatz.
+
+Dann den vierten.
+
+Irgendwo rechts auf dem Schreibtisch lag der rote Stift. Er ließ ihn.
+
+_Brinkmann ist kein Hamburger Produkt. Brinkmann ist das Hamburger Gefühl — und das kennt jeder, der einmal am Fenster saß und rausgeregnet wurde. Wir machen keinen Rebrand. Wir machen eine Erinnerung für alle, die noch nie in Hamburg waren._
+
+Er las den Absatz noch einmal.
+
+Das war der Unterschied, den er nicht erwartet hatte: Sie hatte nicht umformuliert. Sie hatte das Problem anders gestellt. Nicht: Wie verkaufen wir Brinkmann national. Sondern: Was bedeutet Hamburg für jemanden, dem Hamburg fehlt — auch wenn er nie dort war. Ein Heimweh, das man sich nicht verdienen musste. Nostalgie ohne Biografie.
+
+Durchdacht. Unerwartet.
+
+Er las die Struktur darunter — Bildsprache, Tonalität, die vier Formate, wie die Idee sich durch alle hielt, nirgendwo verloren ging. Das war die Stelle, an der die meisten Texte brachen. Starker Ansatz, schwache Ausführung, die Idee verlor sich nach dem dritten Format weil man aufgehört hatte, scharf zu sein, und angefangen hatte, zu füllen. Hier nicht.
+
+Die Schreibtischlampe summte.
+
+---
+
+„Kann so raus."
+
+Er sagte es zur Tür hin, laut genug für den Großraum. Keine Adresse, keine Erklärung.
+
+Tom hob den Kopf.
+
+Nur kurz — eine Sekunde, Blick in Leons Richtung, dann zurück auf den Bildschirm. Aber seine Schultern hatten sich einen Moment verändert, das kleine Zeichen, das Leon bei ihm kannte und bei anderen nicht, das Zeichen, das bei Tom bedeutete, dass er etwas registriert hatte, das er nicht kommentieren würde.
+
+In Carlas Büro: eine Pause. Das Kratzen eines Stifts, der abgesetzt wurde. Dann, nach zwei Sekunden, wieder angesetzt.
+
+Leon öffnete die Kommentarleiste und schrieb: _Rev3 final — morgen zur Gesamtstruktur integrieren._ Klickte auf Senden. Griff nach dem Becher. Leer.
+
+---
+
+Dass Nora aufsah, sah er durch die Glaswand — die Kopfbewegung, kurz, in seine Richtung. Dann auf ihren Bildschirm. Dann wieder zu ihm, länger diesmal, als würde sie etwas prüfen.
+
+Er sah nicht hin.
+
+Irgendwann öffnete sich auf dem geteilten Ordner eine neue Aktivität: sie hatte die Datei geöffnet. Las vermutlich die Kommentare. Einen gab es: _Rev3 final._ Keine Korrekturen, keine roten Markierungen, keine Anmerkungen.
+
+_Kann so raus_ war das Höchste, das er vergab. Die alten Mitarbeiter wussten das — Carla seit fünfzehn Jahren, Tom seit drei, Nils seit immer, auch wenn er nie danach gesucht hatte. Drei Worte, und es bedeutete: fertig. Gut. Besser als erwartet, obwohl er das letzte nicht sagte und es auch nicht musste.
+
+Nora wusste es nicht.
+
+Das war kein Problem. Nils würde es ihr irgendwann sagen, oder Carla, oder sie würde es im Laufe der nächsten Wochen herleiten. Sein Job war nicht, es zu erklären. Sein Job war, die richtige Einschätzung zu geben.
+
+Er stand auf, nahm den Becher, und ging in die Küche.
+
+---
+
+Die Kaffeemaschine war aus. Er füllte sich am Wasserhahn nach — kalt, das reichte für die nächste Stunde. Durch das schmale Fenster zur Flurseite konnte er einen Teil des Großraums sehen.
+
+Nora saß noch an ihrem Platz.
+
+Vorgebeugt, beide Hände neben der Tastatur. Den Blick auf dem Bildschirm — nicht tippend, sondern lesend. Prüfend. Die Haltung von jemandem, der die Kommentare eines Dokuments zum dritten Mal durchging und immer noch nicht fand, was er suchte.
+
+Er trank, stellte den Becher ab, wartete einen Moment, den er nicht hätte benennen können.
+
+Dann sah er weg.
+
+_Kann so raus_ bedeutete, dass die Arbeit an Konzept C erledigt war. Die Gesamtstruktur für morgen lag noch offen. Slide achtzehn war immer noch zu lang. Das Marktpositionierungs-Dokument hatte eine Lücke in Abschnitt drei, die er heute noch schließen wollte.
+
+Er nahm seinen Becher und ging zurück in sein Büro.
+
+---
+
+Carla kam ohne Anklopfen.
+
+Sie hatte eine Mappe dabei, dünn, zwei oder drei Seiten, und schloss die Tür hinter sich.
+
+„Pitch-Fotografie." Sie stellte die Mappe auf seinen Schreibtisch. „Wir brauchen jetzt jemanden. Die Präsentation geht Montag in die finale Runde, und ohne Visuals für die Kampagnenbeispiele sitzen wir mit Platzhaltern drin."
+
+Leon sah auf seinen Bildschirm.
+
+„Ich habe drei Optionen." Sie legte drei Seiten nebeneinander. „Kremer — solide, hat die Feldkamp-Kampagne gemacht letztes Jahr. Strömberg, zuverlässig, teurer, hamburger Schule. Mia Wulf macht normalerweise Editorial, aber sie hat Spielraum und die Ästhetik passt zum Brinkmann-Konzept." Eine kurze Pause. „Maren ist diese Woche im Außendreh für den Wellberg-Auftrag, sonst hätte ich gefragt."
+
+Er schob den Bildschirm zur Seite.
+
+Kremer kannte er — handwerklich einwandfrei und austauschbar, die Art von Arbeit, die niemanden störte und niemanden beeindruckte. Strömberg hatte er einmal getroffen, auf einem Branchenevent vor drei Jahren: ein Mann, der seine eigene Präzision für Kreativität hielt. Mia Wulf: er überflog die Beispielbilder. Gut. Nicht gut genug für das, was Brinkmann brauchte.
+
+„Sonst noch jemand?"
+
+Carla legte die drei Seiten zusammen, einen Moment zu sorgfältig. „Es gibt noch Lasse Petersen." Sie machte keine Pause. Sie sagte es so, wie man etwas sagte, das man der Vollständigkeit halber sagen musste. „War bei Scholz und Friends, die letzten vier Jahre. Sein Portfolio ist gut. Aber er gilt als unzuverlässig — abgegeben zu spät, bei zwei Projekten ausgefallen. Die Leute mit denen ich gesprochen habe, sagen: absolut nicht."
+
+Leon sah auf seinen Bildschirm.
+
+Auf dem Tab, den er schon vor dem Gespräch geöffnet hatte: dreißig Bilder. Kein Hochglanz, keine Agentur-Ästhetik. Die Art von Bildern, die man nicht vergaß.
+
+„Bucht ihn."
+
+Stille.
+
+Carla stand still — die Stille von jemandem, der eine Information verarbeitete und dafür eine halbe Sekunde brauchte. Fünfzehn Jahre. Sie wusste, wann seine Entscheidungen Gründe hatten, die er nicht nannte, und wann weitere Diskussion keinen Sinn ergab. Das hier war dieser Punkt.
+
+Sie nahm die Mappe. Legte die drei Seiten hinein. Schloss sie.
+
+„Ich klär den Vertrag."
+
+Die Tür schloss sich hinter ihr.
+
+---
+
+Das Telefon klingelte um vier.
+
+Brinkmann-Seite, Katharina Brandt, Fragen zu den Marktdaten für die Ostregion. Keine dringenden Fragen — die Art, die jemand stellte, wenn er sich absichern wollte, nicht weil die Daten fehlten, sondern weil er in vier Wochen vor seinem Vorstand sitzen und die Zahlen kennen musste.
+
+Er beantwortete sie.
+
+Während er redete, griff seine linke Hand nach dem Stapel Post-its auf dem Schreibtisch. Das war kein bewusster Vorgang — er tat es immer während er telefonierte, eine Beschäftigung für die Hand damit der Rest arbeiten konnte. Er zog einen Post-it ab. Legte ihn vor sich. Griff nach dem Stift.
+
+Ostregion, Vertriebskanäle der letzten drei Jahre, Supermarktanteile versus Getränkefachhandel. Frau Brandt hatte eine Folgefrage. Er antwortete. Altersgruppen im nördlichen Absatzgebiet, aufgeteilt nach Preissegment.
+
+Die Hand bewegte sich.
+
+Er sah nicht hin.
+
+Noch eine Folgefrage — die Projektionsmodelle für das kommende Geschäftsjahr. Er öffnete das Dokument auf dem zweiten Bildschirm, nannte die Zahlen. Frau Brandt bedankte sich. Er legte auf.
+
+---
+
+Er notierte zwei Punkte auf dem Notizblock. Legte das Telefon ab.
+
+Dann sah er auf den Post-it.
+
+Ein Profil. Die Linie vom Scheitel über die Schläfe, das Ohr, die Stelle, an der das Haar darunter fiel. Den Winkel des Kinns. Die leichte Kurve der Nase von der Seite. Vier, fünf Striche — er arbeitete immer in wenigen Linien, das hatte er früher gelernt, weniger war mehr, und jede zusätzliche Linie war eine Entschuldigung.
+
+Er ließ den Stift los.
+
+Nahm den Post-it, zerknüllte ihn mit einer Bewegung, und warf ihn in den Mülleimer neben dem Schreibtisch. Griff nach dem nächsten Dokument auf dem Bildschirm.
+
+Slide achtzehn. Immer noch drei Sätze zu lang.
+
+---
+
+Tom kam um halb fünf zum Drucker.
+
+Das war sein Weg: kleiner Tisch, Drucker, kleiner Tisch. Er machte es mehrmals täglich, immer ohne Eile, immer mit dem Ausdruck von jemandem, der nirgendwo aufhielt und nichts beanspruchte. Er nahm das Gedruckte aus dem Fach, tippte es gegen die Handfläche um die Seiten zu richten.
+
+Auf dem Rückweg zu seinem Platz verlief seine Route an der Glaswand vorbei — der Glaskasten mit Licht, der Schreibtisch, die zwei Monitore. Er sah nicht rein. Er sah meistens nicht rein.
+
+Aber der Mülleimer stand nahe an der Glaswand, und der zerknüllte Post-it hatte sich an einer Ecke geöffnet — ein kleines weißes Dreieck — und durch das Glas war für eine halbe Sekunde, beim Vorbeigehen, eine Linie zu sehen. Eine Linie, die etwas war. Ein Profil.
+
+Tom verlangsamte sich nicht.
+
+Er ging an seinen Tisch. Legte das Gedruckte ab. Setzte sich. Griff zur Maus.
+
+Er sah nicht mehr in Richtung Glaswand.
+
+Aber er sagte auch nichts.
+
+_Ende Kapitel 6_
+
+_Wörter: ca. 2.600_
