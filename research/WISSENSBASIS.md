@@ -1,5 +1,5 @@
 # Wissensbasis: KDP-Produktion
-*Letzte Aktualisierung: 2026-02-23*
+*Letzte Aktualisierung: 2026-02-25*
 
 ---
 
@@ -20,11 +20,12 @@
 | Goldkeywords (alle) | [wissen/keywords-goldkeywords.md](wissen/keywords-goldkeywords.md) | 2026-02-23 | ✅ Aktuell |
 | Keywords Lina Voss | [wissen/keywords-lina-voss.md](wissen/keywords-lina-voss.md) | 2026-02-23 | ✅ Aktuell |
 | Keywords Maja Sternberg | [wissen/keywords-maja-sternberg.md](wissen/keywords-maja-sternberg.md) | 2026-02-23 | ⏸️ Geparkt |
-| Konkurrenz-Autorinnen | [wissen/konkurrenz-autorinnen.md](wissen/konkurrenz-autorinnen.md) | 2026-02-23 | ✅ Aktuell |
-| Konkurrenz Lina Voss | [wissen/konkurrenz-lina-voss.md](wissen/konkurrenz-lina-voss.md) | 2026-02-23 | ✅ Aktuell |
-| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-02-23 | ✅ Aktuell |
+| Konkurrenz-Autorinnen | [wissen/konkurrenz-autorinnen.md](wissen/konkurrenz-autorinnen.md) | 2026-02-24 | ✅ Aktuell |
+| Konkurrenz Melanie Lane | [wissen/konkurrenz-melanie-lane.md](wissen/konkurrenz-melanie-lane.md) | 2026-02-24 | ✅ Neu |
+| Konkurrenz Lina Voss | [wissen/konkurrenz-lina-voss.md](wissen/konkurrenz-lina-voss.md) | 2026-02-24 | ✅ Aktuell |
+| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-02-25 | ✅ Erweitert (Social Media) |
 | Regionale Settings | [wissen/regionale-settings.md](wissen/regionale-settings.md) | 2026-02-23 | ⏸️ Geparkt (Maja) |
-| Trope-Analyse | [wissen/trope-analyse.md](wissen/trope-analyse.md) | 2026-02-23 | ✅ Aktuell |
+| Trope-Analyse | [wissen/trope-analyse.md](wissen/trope-analyse.md) | 2026-02-24 | ✅ Aktuell |
 | KDP Listing-Methodik | [wissen/kdp-listing-methodik.md](wissen/kdp-listing-methodik.md) | 2026-02-23 | ✅ Aktuell |
 
 ---
@@ -50,16 +51,16 @@
 
 ## Quellen-Verzeichnis
 
-### Launch-Wissen (9 Transkripte + Bericht)
+### Launch-Wissen (10 Transkripte + Bericht)
 `quellen/launch-wissen/` — KDP-Policy, Sales, Reviews, Social Media, Keywords, Kategorien
 
 ### Publisher Rocket (33 CSVs + 7 Analysen)
 `quellen/publisher-rocket/csv/keyword/` — 24 Keyword-Suchen
-`quellen/publisher-rocket/csv/competition/` — 9 Competition-Analysen
+`quellen/publisher-rocket/csv/competition/` — 14 Competition-Analysen
 `quellen/publisher-rocket/analysen/` — 7 Auswertungs-Dateien (die reichsten Quellen)
 
 ### Perplexity (1 Recherche)
 `quellen/perplexity/` — Serienplanung Maja Sternberg (⚠️ Suchvolumina 200-300× übertrieben!)
 
-### KDP-Ressourcen (13 Referenz-Dateien)
-`quellen/kdp-ressourcen/` — PDFs, Vorlagen, Checklisten von Kindlepreneur
+### KDP-Ressourcen (15 Referenz-Dateien)
+`quellen/kdp-ressourcen/` — PDFs, Vorlagen, Checklisten von Kindlepreneur + Booktok-Checkliste + Bookstagram-Guide

@@ -50,6 +50,7 @@ lina-voss/
 │   ├── 02_outline.md
 │   ├── 03_kapitelplan.md            ← NEU: detaillierter Plan pro Kapitel
 │   ├── 04_continuity.md
+│   ├── stil-briefing.md              ← Prosa-Regelwerk für KI-Agenten
 │   ├── 05_manuscript.md
 │   ├── 06_editing_report.md
 │   ├── 07_kdp_listing.md
@@ -148,34 +149,65 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
 
 ### PHASE 4: Schreiben
 
-#### Context-Loading pro Kapitel
-Jeder Kapitel-Agent bekommt:
+#### Szene-für-Szene-Workflow
+
+Jedes Kapitel wird in **2–4 nummerierte Szenen** geschrieben, nicht als Ganzes. Die Outline definiert pro Kapitel die Szenen-Blöcke mit Wortzielen.
+
+**Warum:** Ein ganzes Kapitel (4.000+ Wörter) überschreitet regelmäßig das Output-Limit. Pro Szene (~1.000–1.800 Wörter) bleibt die Qualität hoch und der User kann zwischen Szenen steuern.
+
+**Ablauf pro Kapitel:**
+```
+1. Szene 1 prompten → Output (~1.000–1.800 W)
+2. User checkt / gibt Feedback
+3. Szene 2 prompten (mit letztem Absatz aus Szene 1 als Übergang)
+4. ... bis alle Szenen des Kapitels fertig
+5. Kapitel-Checkliste (stil-briefing.md §12) prüfen
+6. Continuity aktualisieren (04_continuity.md)
+7. → Nächstes Kapitel
+```
+
+#### Context-Loading pro Szene
+Jede Szene bekommt:
 1. `serie/00_serien_bibel.md` (Kurzversion — nur Bögen + Steaminess)
 2. `serie/figuren/[protagonist].md` + `serie/figuren/[love_interest].md`
-3. `serie/figuren/[nebenfiguren die im Kapitel vorkommen].md` (selektiv!)
-4. `bandXX/02_outline.md` (Gesamtstruktur)
-5. `bandXX/03_kapitelplan.md` (Detail für dieses Kapitel)
-6. `bandXX/04_continuity.md` (aktueller Stand)
-7. Letzte 500 Wörter des Vorkapitels (Ton-Übergang)
+3. `serie/figuren/[nebenfiguren die in der Szene vorkommen].md` (selektiv!)
+4. `bandXX/02_outline.md` — Szenen-Block für diese Szene + Kapitel-Kontext
+5. `bandXX/04_continuity.md` (aktueller Stand)
+6. Vorherige Szene(n) des Kapitels (oder letzte 500 Wörter des Vorkapitels bei Szene 1)
+7. **`bandXX/stil-briefing.md`** (Prosa-Regelwerk — PFLICHTLEKTÜRE)
 
-#### Schreibregeln
-- **Mindestlänge:** 2.500 Wörter pro Kapitel (Ziel: 3.000)
+#### Schreibregeln — Struktur
+- **Kapitel-Ziel:** 3.500–4.750 Wörter pro Kapitel, verteilt auf 2–4 Szenen
+- **Szenen-Ziel:** 1.000–1.800 Wörter pro Szene (nie über 2.000)
 - **Gesamtlänge Band:** 350–400 Seiten (~80.000–95.000 Wörter)
 - **POV:** Dual POV (sie + er) im Wechsel, KEIN Head-Hopping innerhalb eines Kapitels
 - **Subtilität:** „Er hat es sich gemerkt"-Momente werden NICHT erklärt. Kein Erzählerkommentar. Die Leserin soll es selbst entdecken.
 - **Steamy-Szenen:** Emotional verankert. Keine Szene ohne vorherige Tension-Aufbau über mindestens 2 Kapitel.
-- **Figurenstimmen:** Jeder Cousin spricht anders. Leon = kurze Sätze, keine Adjektive. Nora = wärmer, bildhafter. Carla = präzise, kontrolliert.
-- **Prosa-Stil:** KEIN Stakkato. Kapitel müssen sich lesen wie ein Roman, nicht wie eine Aufzählung kurzer Sätze. Absätze wie in Büchern üblich — Fließtext mit natürlichem Rhythmus. Kurze Sätze sind EIN Stilmittel (Leon-POV, Schockmomente), nicht der Standardton. Variation im Satzbau ist Pflicht: kurze Sätze für Wirkung, längere für Atmosphäre und innere Welt. Absatzwechsel bei Sprecherwechsel, Perspektivwechsel oder Stimmungswechsel — nicht nach jedem Satz.
+- **Szenen-Übergänge:** Jede Szene endet an einem natürlichen Punkt (Ortswechsel, Zeitsprung, Stimmungswechsel). Die nächste Szene knüpft nahtlos an.
+
+#### Schreibregeln — Prosa-Stil
+→ **Vollständiges Regelwerk: `bandXX/stil-briefing.md`** (PFLICHT — vor dem Schreiben lesen!)
+
+Kurzfassung der wichtigsten Regeln:
+- **Deep POV:** Kein Erzählerkommentar, kein „sie dachte". Leser = Figur.
+- **Emotion zeigen:** Körperreaktion statt Benennung. Nie „sie fühlte Traurigkeit".
+- **Dialog:** 70% Beats, 20% „sagte", 10% ohne Tag. Kein hauchte/zischte/knurrte.
+- **Figurenstimmen:** Leon = knapp, keine Adjektive. Nora = wärmer, Humor als Schutzschild. Carla = präzise, kontrolliert. (Details im Stil-Briefing Abschnitt 3.4)
+- **Rhythmus:** Fließtext als Standard. Kurze Sätze NUR für Wirkung (max. 3 Ein-Wort-Sätze/Kapitel). Absatzwechsel bei Sprecherwechsel oder Stimmungswechsel — nicht nach jedem Satz.
+- **Anti-Patterns:** 20 verbotene Formulierungen + Wort-Wiederholungs-Limits im Stil-Briefing (Abschnitt 10).
+- **Checkliste:** Jedes Kapitel nach der letzten Szene gegen die 10-Punkte-Checkliste im Stil-Briefing prüfen (Abschnitt 12).
 
 #### Session-Aufteilung
 ```
-Session A: Kapitel 1–5 (Akt 1: Setup)
-Session B: Kapitel 6–10 (Akt 2a: Annäherung + Komplikation)
-Session C: Kapitel 11–15 (Akt 2b: Eskalation + Midpoint)
-Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
+Session A: Kapitel 1–5 (Akt 1: Setup)        → ~12–16 Szenen
+Session B: Kapitel 6–10 (Akt 2a: Annäherung)  → ~12–16 Szenen
+Session C: Kapitel 11–15 (Akt 2b: Eskalation) → ~12–16 Szenen
+Session D: Kapitel 16–20 (Akt 3: Resolution)   → ~12–16 Szenen
 ```
 
-⚠️ **PAUSE nach jedem Kapitel:** User liest und gibt Feedback. Änderungen werden vor dem nächsten Kapitel eingearbeitet.
+⚠️ **PAUSE nach jeder Szene:** User kann Feedback geben oder direkt weiter prompten.
+
+⚠️ **PAUSE nach jedem Kapitel:** User liest das fertige Kapitel. Änderungen werden vor dem nächsten Kapitel eingearbeitet.
 
 ⚠️ **PAUSE nach jedem Akt:** Continuity-Review. Alle Figuren-Auftritte, offene Fäden, Ton prüfen.
 
@@ -191,11 +223,13 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 - Prüfe auf:
   - Konsistenz (Namen, Orte, Zeitabläufe)
   - POV-Brüche
-  - Wiederholungen (Wörter, Gesten, Beschreibungen)
+  - Wiederholungen (Wörter, Gesten, Beschreibungen) → Limits in `stil-briefing.md` Abschnitt 10.2
   - Erzählerkommentare die Subtilität zerstören
-  - Figurenstimmen-Konsistenz
+  - Figurenstimmen-Konsistenz → Muster in `stil-briefing.md` Abschnitt 3.4
+  - Anti-Pattern-Scan → Verbotsliste in `stil-briefing.md` Abschnitt 10.1
   - Umlaute/ß
   - Kapitel-Länge (Minimum 2.500 Wörter)
+  - **Abgabe-Checkliste** → `stil-briefing.md` Abschnitt 12
 - Speichere als `bandXX/06_editing_report.md`
 
 ⚠️ **PAUSE:** User entscheidet welche Korrekturen umgesetzt werden.
@@ -273,23 +307,28 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 
 ## Qualitätsregeln (PFLICHT)
 
+> **Vollständiges Prosa-Regelwerk:** → `bandXX/stil-briefing.md`
+> Enthält: Deep-POV-Regeln, Body-Language-Lexikon, Dialog-Mechanik, Anti-Pattern-Verbotsliste (20 Einträge), Wort-Limits, Frequenz-Tabelle, Abgabe-Checkliste.
+
 ### Subtilität
-- KEINE Erzählerkommentare die erklären was die Figur fühlt statt es zu zeigen
+- KEINE Erzählerkommentare die erklären was die Figur fühlt statt es zu zeigen → Details: Stil-Briefing §1 (Deep POV) + §2 (Emotion zeigen)
 - KEINE „sie merkte dass er sich verändert hatte"-Sätze → stattdessen: zeigen WAS sich verändert hat
 - „Er hat es sich gemerkt"-Momente: Plant & Payoff ohne Spotlight. Niemand kommentiert es.
 - Die Leserin soll sich schlauer fühlen als die Protagonistin
+- Die „Fast"-Technik für emotionale Risse: → Stil-Briefing §5
 
 ### Figurenstimmen
 - **Leon:** Kurze Sätze. Wenig Adjektive. Handlung statt Worte. Wenn er redet, zählt jedes Wort.
 - **Nora:** Wärmer, bildhafter, Humor. Aber wenn die Maske fällt: kürzer, ehrlicher, verletzlich.
 - **Carla:** Präzise, kontrolliert, professionell. Innerer Monolog = Selbstkritik auf Dauerschleife.
-- **[weitere Stimmen werden ergänzt wenn Figuren entwickelt sind]**
+- Dialog-Muster pro Figur: → Stil-Briefing §3.4
 
 ### Steamy-Szenen
 - Jede Szene braucht einen emotionalen Auslöser (nicht: „es passierte einfach")
 - Minimum 2 Kapitel Tension-Aufbau vor der ersten Szene
 - Sprache: sinnlich aber nicht klinisch. Keine Euphemismen, aber auch kein Porno.
 - Referenz-Level: Nalini Singh (Psy-Changeling Serie) — steamy, emotional verankert, nie gratuitous
+- Sensorische Spannung aufbauen: → Stil-Briefing §4 (5 Sinneskanäle, Berührungs-Limits, Distanz-Progression)
 
 ### Anti-Patterns (VERBOTEN)
 - ❌ Mary Sue (keine Figur die alles kann, bei allen beliebt ist und keine echten Schwächen hat)
@@ -300,6 +339,7 @@ Session D: Kapitel 16–20 (Akt 3: Krise + Resolution)
 - ❌ Billionaire/CEO-Klischee (Leon ist Chef, kein Milliardär. Alter Audi, keine Penthouse-Suite.)
 - ❌ „Er hat es sich gemerkt" als expliziten Dialog oder Erzählerkommentar
 - ❌ Deus Ex Machina / Zufälle die den Plot lösen
+- ❌ 20 weitere verbotene Formulierungen (KI-typische Klischees): → Stil-Briefing §10.1
 
 ---
 

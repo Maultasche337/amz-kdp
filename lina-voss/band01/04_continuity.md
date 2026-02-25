@@ -8,15 +8,15 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | | | | | | | | | | | | | | | | | | | | |
-| Nora | | | | | | | | | | | | | | | | | | | | |
-| Carla | | | | | | | | | | | | | | | | | | | | |
-| Werner | | | | | | | | | | | | | | | | | | | | |
-| Nils | | | | | | | | | | | | | | | | | | | | |
-| Jakob | | | | | | | | | | | | | | | | | | | | |
-| Maren | | | | | | | | | | | | | | | | | | | | |
-| Tom | | | | | | | | | | | | | | | | | | | | |
-| Matthias | | | | | | | | | | | | | | | | | | | | |
+| Leon | x | x | | | | | | | | | | | | | | | | | | |
+| Nora | x | x | | | | | | | | | | | | | | | | | | |
+| Carla | x | x | | | | | | | | | | | | | | | | | | |
+| Werner | | x | | | | | | | | | | | | | | | | | | |
+| Nils | x | x | | | | | | | | | | | | | | | | | | |
+| Jakob | | x | | | | | | | | | | | | | | | | | | |
+| Maren | | x | | | | | | | | | | | | | | | | | | |
+| Tom | | x | | | | | | | | | | | | | | | | | | |
+| Matthias | | x | | | | | | | | | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
 
@@ -26,8 +26,8 @@
 
 | Kap | Wochentag | Tageszeit | Zeitraum seit Kap 1 | Notizen |
 |-----|-----------|-----------|---------------------|---------|
-| 1 | | | Woche 1 | Noras erster Tag |
-| 2 | | | Woche 1 | |
+| 1 | Montag | Morgen → Abend (bis nach 18:30) | Woche 1 | Noras erster Tag. Carla-Onboarding, Nils-Intro, Leon „Ihr Schreibtisch ist dort", Brinkmann-Briefing, Agentur-Nacht beginnt |
+| 2 | Dienstag/Mittwoch | Morgen → Mittag (7 Uhr → ca. 13 Uhr) | Woche 1 | Leon POV. Ritual, Carla-Rückblende (3 Tage vorher), Zweig-2-Ankunft, Werner-Besuch, Matthias-Szene |
 | 3 | | Abend/Nacht | Woche 1 | Erste Agentur-Nacht |
 | 4 | Sonntag | Vormittag | Woche 1/2 | Brunch #1 |
 | 5 | | | Woche 2 | |
@@ -55,9 +55,9 @@
 
 | Ort | Eingeführt in Kap | Details |
 |-----|-------------------|---------|
-| Hartmann-Agentur (Schanze) | | Altbau, offene Räume, Post-its, Kaffee+Deadline-Geruch |
-| Leons Büro (Glaswand) | | |
-| Agentur-Küche | | Ort für Geheimnisse, Carla-Nora-Momente |
+| Hartmann-Agentur (Schanze) | 1 | Schulterblatt 47, 2. OG über Naturkostladen. Altbau-Klinker, Linoleum-Treppe, Post-its (3 Schichten, unterste verblasst, andere Handschrift), Kaffee-in-den-Wänden-Geruch. Kein Logo an der Klingel, nur „Hartmann" |
+| Leons Büro (Glaswand) | 1 | „Glaskastenbüro am Ende des Raumes", Tür bleibt zu, Licht brennt abends |
+| Agentur-Küche | 1 | Erwähnt (Siebträger, Anleitungszettel), Team isst dort mittags. Ort für Geheimnisse, Carla-Nora-Momente |
 | Dachterrasse | | Noras Rückzugsort (Kap 9) |
 | Werners Wohnung (Brunch) | | Sonntagsbrunch, großer Esstisch |
 | Noras Wohnung | | Eingeführt in Kap 20 (Tageslicht-Szene) |
@@ -65,6 +65,108 @@
 | Branchen-Event-Location | | Kap 10 |
 
 *Beschreibungen ergänzen sobald im Text etabliert.*
+
+---
+
+## Raumplan Agentur — Schulterblatt 47, 2. OG
+
+*Altbau-Schanze. Rechteckiger Grundriss. Straßenseite = Schulterblatt (Fensterfront). Rückseite = Hinterhof.*
+
+### Grundriss
+
+```
+        SCHULTERBLATT (Straßenseite)
+  ══════════ FENSTERFRONT ══════════════
+  ║                                    ║
+  ║            GROSSRAUM               ║
+  ║                                    ║
+  ║   Reihe 1: [Elena] [Jan] [...]     ║
+  ║   Reihe 2: [NORA]  [NILS]         ║
+  ║            (links)  (dahinter)     ║
+  ║                                    ║
+  ║   [TOM + DRUCKER]    Randposition  ║
+  ║   (kleiner Tisch,    an Innenwand) ║
+  ║                                    ║
+  ║   ══ TRENNWAND ══                  ║
+  ║   (Post-its, 3 Schichten)          ║
+  ║           │                        ║
+  ╠═══════════╧════════════════════════╣
+  ║  EINGANG ←── Treppe (Linoleum)     ║
+  ║           │                        ║
+  ║     FLUR  │  (Innenwand/Hinterhof) ║
+  ║           │                        ║
+  ║  ┌────────┤  ┌──────────┐          ║
+  ║  │ KÜCHE  │  │ CARLAS   │          ║
+  ║  │(Sieb-  │  │ BÜRO     │          ║
+  ║  │ träger,│  │(Seitentür│          ║
+  ║  │ Tisch) │  │ zum Flur)│          ║
+  ║  └────────┤  └──────────┘          ║
+  ║  ┌────────┤                        ║
+  ║  │SERVER- │                        ║
+  ║  │RAUM    │                        ║
+  ║  └────────┤                        ║
+  ║           │   ┌════════════════┐   ║
+  ║           │   ║ LEONS GLASKASTEN║  ║
+  ║           │   ║                ║   ║
+  ║           │   ║ Glaswand →     ║   ║
+  ║           │   ║   Großraum     ║   ║
+  ║           │   ║ 2 Monitore,Sofa║   ║
+  ║           │   ╚════════════════╝   ║
+  ╚════════════════════════════════════╝
+              HINTERHOF
+```
+
+### Sichtlinien (BINDEND beim Schreiben)
+
+| Von → Nach | Sichtbar | NICHT sichtbar |
+|------------|----------|----------------|
+| **Leon → Großraum** | Rücken, Silhouetten, Bewegungen, wer wo sitzt, Körperhaltung | Bildschirminhalte (Monitore zeigen Richtung Fenster, Leon sieht die Rückseite) |
+| **Leon → Nora** | Rücken, Kopfneigung, Hände auf Tastatur, Zettel neben Monitor | Noras Bildschirm, was sie tippt |
+| **Leon → Küche** | Nein (um die Ecke, Flur dazwischen) | — |
+| **Nora → Leon** | Glaskasten am Ende des Raums, Licht an/aus, Leons Silhouette, ob Tür offen/zu | Leons Bildschirm (zu weit weg + Winkel) |
+| **Nils → Leon** | Wie Nora, plus direktere Sichtlinie (sitzt weiter hinten) | — |
+| **Flur → Leon** | Durch offene Bürotür direkt einsehbar (Maren fotografiert von hier) | Bei geschlossener Tür: nur durch Glas |
+| **Küche → Großraum** | Durch Türrahmen teilweise einsehbar (Werner beobachtet von hier) | Leons Büro nicht direkt sichtbar |
+
+### Akustik
+
+| Geräusch | Hörbar wo |
+|----------|-----------|
+| Server-Summen | Überall leise, im Flur lauter |
+| Siebträger (Küche) | Großraum gedämpft, Flur klar |
+| Kamera-Auslöser (Flur) | Leon hört es in seinem Büro |
+| Carlas Absätze auf Linoleum | Im ganzen Flur + Großraum |
+| Gespräche Küche | Großraum nur als Murmeln |
+| Leons Tür (auf/zu) | Großraum klar hörbar |
+
+### Licht
+
+| Tageszeit | Fensterfront | Großraum | Leons Büro |
+|-----------|-------------|----------|------------|
+| Morgens (7 Uhr) | Tageslicht, Staub sichtbar | Hell, Neonröhren aus | Licht an (Leon ist da) |
+| Nachmittags | Grauer werdend (Hamburg, Feb) | Neonröhren an | Licht an |
+| Abends (18:30+) | Dunkel | Dunkel (Team weg) | **Licht brennt** — der Kontrast |
+
+### Schreibtisch-Zuordnung
+
+| Person | Platz | Fest/Temporär | Notizen |
+|--------|-------|--------------|---------|
+| Nora | Reihe 2, links, Blick Fenster | Fest (6-Mo-Vertrag) | Ex-Texterin-Platz, Stuhl jetzt tiefer |
+| Nils | Hinter/neben Nora | Fest | Tintenfinger, Notizbuch, kann Nora ansprechen |
+| Elena (Praktikantin) | Reihe 1 | Fest | — |
+| Jan (Grafiker) | Reihe 1, Ecke | Fest | — |
+| Tom | Kleiner Tisch neben Drucker | Provisorisch | Randposition, niemand hat ihm Platz zugewiesen |
+| Jakob | Kein fester Platz etabliert | Wandert | Telefon, Küchentisch, überall gleichzeitig |
+| Maren | Kein fester Platz | Wandert | Freelancerin, Kamera, Flur/Fenster/Treppenhaus |
+
+### Entscheidungen (nicht im Text, aber festgelegt)
+
+- **Fensterfront** geht auf den Schulterblatt raus (Straßenseite). Straßenbahn hörbar.
+- **Carlas Büro** = kleiner eigener Raum, kein Besprechungszimmer. Seitentür zum Flur.
+- **Leons Glaskasten** hat AUCH ein Fenster (Hinterhof-Seite), aber die Glaswand zeigt zum Großraum.
+- **Desks zeigen Richtung Fensterfront** — Leute schauen beim Arbeiten Richtung Straße/Licht. Leon sieht ihre Rücken.
+- **Dachterrasse** erreichbar über eine Tür im Treppenhaus, eine halbe Treppe hoch (Kap 9).
+- **Matthias hat kein eigenes Büro** in der Agentur. Er nutzt Leons Büro oder den Küchentisch wenn er da ist.
 
 ---
 
@@ -99,16 +201,16 @@
 | Faden | Gesät (Kap) | Payoff (Kap) | Status | Notizen |
 |-------|-------------|--------------|--------|---------|
 | Sonntagsmail-Motiv | 3 | 8, 19, 20 | ⬜ | Rahmen des ganzen Buches |
-| Noras Mama-Muster (Leuchten) | 3 | 17 | ⬜ | Nora erkennt + bricht es |
+| Noras Mama-Muster (Leuchten) | 1 (gesät), 3 | 17 | ✏️ | Kap 1: Lächeln/Performer-Maske etabliert (Maklerin-Szene, „sie wusste wie das ging, seit ihrer Kindheit"). Explizit in Kap 3 |
 | Küchenboden-Parallele | Backstory | 19 | ⬜ | Leon mit 16 → Leon jetzt |
 | Nils zeichnet wie Mama | 4 | 18 | ⬜ | „Du zeichnest auch wie sie" |
 | Leon zeichnet Nora (Post-it) | 6 | — | ⬜ | Tom sieht es, sagt nichts |
-| Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ⬜ | „Irgendwann musst du dich umdrehen" |
+| Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
 | Carla-Stich: Ausnahme für Nora | 8 | 14 | ⬜ | Unausgesprochener Gedanke |
-| Tag=Eis, Nacht=Echt-Muster | 12 | 17, 20 | ⬜ | Nora bricht es, Leon löst es |
+| Tag=Eis, Nacht=Echt-Muster | 1 (gesät) | 17, 20 | ✏️ | Kap 1: Leon tags 3× durchs Büro (kalt, „Ihr Schreibtisch ist dort"), abends Licht im Glaskasten = andere Welt. Muster beginnt |
 | Maren-Foto (Leon schaut Nora an) | 10 | — | ⬜ | Foto existiert, kein Payoff in Band 1 |
-| Matthias-Leon: nur über Agentur | 2 | 20 | ⬜ | Blick in Kap 20 (keine Vergebung noch) |
-| Tom wird übersehen | 1 | 20 | ⬜ | Brötchen-Geste = Leon sieht ihn |
+| Matthias-Leon: nur über Agentur | 2 | 20 | ✏️ | Kap 2: Finkenstein-Vertrag. Nur Zahlen. Keine Gegenfrage, kein Widerspruch. Handschrift unverändert seit 16 Jahren. Payoff Kap 20: Blick (keine Vergebung noch) |
+| Tom wird übersehen | 1 (implizit), 2 | 20 | ✏️ | Kap 1: Tom taucht nicht auf — buchstäblich übersehen. Kap 2: „Tom. Hallo." — alle nicken, weitergemacht. Aber Leon sieht eine Sekunde zu lang hin (gefährliche Erkennung). Payoff Kap 20: Brötchen-Geste |
 | Carla+Tom räumen ab | 4 | — | ⬜ | Wortloses System, Band 6 relevant |
 | Henriks Schulden | 4 | — | ⬜ | Band 4 Setup |
 
@@ -118,7 +220,7 @@
 
 | # | Spruch | Kap | Status |
 |---|--------|-----|--------|
-| 1 | „Die großartige weiß wann sie aufhören muss zu schreiben." | 2 | ⬜ |
+| 1 | „Die großartige weiß wann sie aufhören muss zu schreiben." | 2 | ✅ |
 | 2 | „Die beste Werbung macht man nicht im Dunkeln, mein Junge." | 4 | ⬜ |
 | 3 | „Gute Kampagnen erkennt man daran, dass der Kunde nicht merkt, dass er verkauft wird." | 11 | ⬜ |
 | 4 | „Die beste Werbung ist die, an die man sich erinnert." | 20 | ⬜ |
@@ -129,7 +231,7 @@
 
 | # | Szene | Kap | Status |
 |---|-------|-----|--------|
-| 1 | Holt Nora in die Agentur (Rückblende: Zahlen-Argument) | 2 | ⬜ |
+| 1 | Holt Nora in die Agentur (Rückblende: Zahlen-Argument) | 2 | ✅ |
 | 2 | „Fragt das eigentlich jemals jemand dich?" | 5 | ⬜ |
 | 3 | Sonntagsmail-Lücke bemerkt | 8 | ⬜ |
 | 4 | Masken fallen: Wein, echte Freundschaft | 13 | ⬜ |
@@ -162,15 +264,32 @@
 
 | Detail | Eingeführt (Kap) | Notizen |
 |--------|-----------------|---------|
-| Schwarzer Kaffee (Leon) | | Nora weiß es aus Mails |
+| Schwarzer Kaffee (Leon) | 1 | Nora riecht ihn, erinnert sich an beiläufige Mail-Erwähnung. „Kaffeemaschine im Büro aus, schwarzen Kaffee aus der Küche, Sekunde." |
 | Leons Post-it-Zeichnungen | | Noras Profil, zerknüllt |
 | Nils' Servietten-Zeichnungen | | Klappt zu wenn jemand schaut |
+| Nils' tintenverschmierte Finger | 1 | Etabliert bei erster Begegnung |
+| Nils' Notizbuch + Stift | 1 | „Kratzen von Nils' Stift der etwas in sein Notizbuch schrieb" — nachmittags |
 | Maren-Foto (Leon→Nora) | | Existiert, wird nicht besprochen |
 | Sonntagsmail (Aufgaben-Dokument) | | Ganzes Team bekommt es, Nora nicht |
 | Noras Oma-Mail (23 Uhr) | | Beiläufig, Monate her, Leon erinnert sich |
 | Noras „Ausgelacht"-Mail | | Setup für Kap 9 |
 | Noras Morgens-Mail (arbeitet am besten morgens) | | Setup für Meeting-Verlegung |
-| Brinkmann-Pitch-Unterlagen | | 6-Wochen-Deadline |
+| Brinkmann-Pitch-Unterlagen | 1 | 60 S. Marktanalyse, 20 S. Zielgruppen, 12 S. Kreativbriefing. 6-Wochen-Deadline |
+| Nora-Leon-Mail-Geschichte | 1 | 1 Jahr per Mail, Nacht-Mails, „Absatz 4 nochmal." Sie kennt seinen Takt |
+| Noras Schreibtisch | 1 | Zweite Reihe, linke Seite, Blick zur Fensterfront. Stuhl zu hoch eingestellt (Vorgänger größer) |
+| Leons Handschrift (Entwurf-Kommentare) | 1 | „Zu weich." „Schon da gewesen." „Nein." „Kann so raus." — kurz, direkt, nie erklärt |
+| Carlas Bluse + Haltung | 1 | „Die Bluse saß als wäre das ihr persönliches Berufsideal" |
+| Leons weiße Tasse (ohne Logo) | 2 | Vor 3 Jahren aussortiert, teilt er nicht. Schwarz, keine Milch, kein Zucker. |
+| Leons Stifte (rot links, schwarz rechts) | 2 | Parallele Stifte auf dem Schreibtisch — Kontrolle als Ritual |
+| Leons Morgenrundgang | 2 | Jeden Morgen, 7 Uhr, prüft ob alles steht wo es stand |
+| Noras Stift (auf Leons Revier) | 2 | Auf Schreibtisch-Kante, nicht parallel — Leon registriert es als Eindringen |
+| Werners Schlüssel | 2 | Hat eigenen Agentur-Schlüssel, kommt ohne Ankündigung |
+| Werners Fliege | 2 | Heute dunkelblau. Markenzeichen. |
+| Finkenstein-Vertrag | 2 | Matthias' Handschrift auf dem Deckblatt. Ende März. +15% mit Digitalsparte. |
+| Jakobs Zimtschnecken | 2 | Bäckertüte, genug für alle. Charme-Ritual bei Ankunft. |
+| Marens Kamera (Auslöser-Geräusch) | 2 | Fotografiert Leons Büro durch offene Tür. Leon hört es durch zwei Räume. |
+| Toms Platz (kleiner Tisch neben Drucker) | 2 | Bisher von niemandem als Arbeitsplatz benutzt. Pullover grau wie die Wand. |
+| Nils' Notizbuch (klappt zu) | 2 | Leon sieht ihn zeichnen → Nils klappt zu, greift zur Maus. Pre-Setup für Kap 4 Servietten-Szene. |
 
 ---
 
@@ -180,8 +299,8 @@
 
 | Kap | Wörter | Abweichungen | Notizen |
 |-----|--------|-------------|---------|
-| 1 | | | |
-| 2 | | | |
+| 1 | ~3.200 | Outline-treu. Szenen 1.1/1.2/1.3 wie geplant. Tom bewusst abwesend (Outline: „Kap 2"). | Noras Performer-Maske + „Leuchten" subtil etabliert (Maklerin, Lächeln). Nils „Drei Wochen"-Messlatte. Leon 3× durchs Büro, Tür immer zu. Post-it-Schichten mit älterer Handschrift = Katrin-Teaser? |
+| 2 | ~3.100 | Outline-treu. Carla-Rückblende = Brinkmann statt Decker (Outline hatte „Decker" im Carla-Profil, Manuskript nutzt korrekt „Brinkmann"). Nils-zeichnet-und-klappt-zu hier schon angedeutet (Setup für Kap 4). | Leon-Ritual (Kaffee, Rundgang, Schreibtisch). Carla-Leon 15J. wortlos. Jakob = Zimtschnecken + Namen + unwichtige Zuarbeit. Maren fotografiert Büro. Tom „eine Sekunde zu lang". Werner-Spruch #1. Matthias nur Agentur (Finkenstein-Vertrag). Nora = Variable, keine Anziehung. Kapitelende = Tür schließen. |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |

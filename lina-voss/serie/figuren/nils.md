@@ -10,7 +10,7 @@
 | **Alter** | 27 |
 | **Rolle** | Junior Creative, Hartmann-Agentur |
 | **Familienzweig** | Zweig 1 (Matthias) — der Pflichtbewusste |
-| **Geschwister** | Leon (32), Carla (29) |
+| **Geschwister** | Leon (32), Carla (30) |
 | **Archetype** | Der Rebell (Maske) / Das unsichtbare Kind (Wahrheit) |
 
 ---

@@ -7,7 +7,7 @@
 
 | | |
 |---|---|
-| **Alter** | 29 |
+| **Alter** | 30 |
 | **Rolle** | Head of Strategy, Hartmann-Agentur |
 | **Familienzweig** | Zweig 1 (Matthias) — der Pflichtbewusste |
 | **Geschwister** | Leon (32), Nils (27) |
@@ -37,7 +37,7 @@ In der Familientherapie ist das die Rolle des "lost child" — das Kind das kein
 
 ### Was passiert ist
 
-Nach dem Tod der Mutter (Carla war 13) verteilte sich die Aufmerksamkeit:
+Nach dem Tod der Mutter (Carla war 14) verteilte sich die Aufmerksamkeit:
 - Leon (16) übernahm die Agentur → bekam Krisen-Aufmerksamkeit
 - Nils (11) agierte aus, provozierte → bekam Problem-Aufmerksamkeit
 - Carla machte keinen Ärger, war "pflegeleicht" → bekam **keine** Aufmerksamkeit
@@ -196,7 +196,7 @@ Sie beendet den Gedanken nicht laut. Sie lächelt. Sie funktioniert. Aber die Le
 ### Szene 6: Carla konfrontiert Leon (Kapitel ~19–20)
 In der Krise des dritten Akts — Leon zieht sich zurück — hält Carla die Agentur am Laufen. Wie immer. Aber diesmal sagt sie:
 
-> *„Ich halte dir den Rücken frei. Seit ich 14 bin. Irgendwann musst du dich umdrehen und es sehen."*
+> *„Ich halte dir den Rücken frei. Seit ich 15 bin. Irgendwann musst du dich umdrehen und es sehen."*
 
 Nicht wütend — müde. Und Leon hört es. Zum ersten Mal.
 

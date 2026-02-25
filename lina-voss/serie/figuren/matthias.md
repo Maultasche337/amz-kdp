@@ -9,7 +9,7 @@
 |---|---|
 | **Alter** | 62 |
 | **Rolle** | Geschäftsführer der Hartmann-Agentur (nominell), de facto hat Leon die operative Führung |
-| **Familie** | Vater von Leon (32), Carla (29), Nils (27). Bruder von Henrik. Sohn von Werner. Frau (Katrin) verstorben. |
+| **Familie** | Vater von Leon (32), Carla (30), Nils (27). Bruder von Henrik. Sohn von Werner. Frau (Katrin) verstorben. |
 | **Archetype** | Der Schuldige |
 
 ---

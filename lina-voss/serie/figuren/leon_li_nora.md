@@ -7,8 +7,8 @@
 
 | | |
 |---|---|
-| **Alter** | 28 |
-| **Beruf** | Freelance-Texterin/Copywriterin, seit 3 Jahren |
+| **Alter** | 30 |
+| **Beruf** | Freelance-Texterin/Copywriterin, seit 5 Jahren |
 | **Beziehung zur Agentur** | Freelancerin seit 1 Jahr per Mail, dann 6-Monats-Vertrag vor Ort |
 
 ---

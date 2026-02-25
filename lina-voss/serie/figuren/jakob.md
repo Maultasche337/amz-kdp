@@ -10,7 +10,7 @@
 | **Alter** | 31 |
 | **Rolle** | Head of Sales (neu), Hartmann-Agentur |
 | **Familienzweig** | Zweig 2 (Henrik) — der Freigeist |
-| **Geschwister** | Maren (28), Tom (25) |
+| **Geschwister** | Maren (29), Tom (25) |
 | **Archetype** | Der Charmante (Maske) / Der Hochstapler (Wahrheit) |
 
 ---

@@ -20,7 +20,7 @@ Eine Hamburger Werbeagentur, gegründet in den 70ern. Zwei Familienzweige, sechs
 | ------------ | ----- | -------------------- | ------------------- | --------------------- |
 | **Matthias** | 62    | GF (nominell)        | Der Schuldige       | `figuren/matthias.md` |
 | **Leon**     | 32    | Creative Director    | Der Eingefrorene    | `figuren/leon.md`     |
-| **Carla**    | 29    | Head of Strategy     | Die Perfektionistin | `figuren/carla.md`    |
+| **Carla**    | 30    | Head of Strategy     | Die Perfektionistin | `figuren/carla.md`    |
 | **Nils**     | 27    | Junior Creative      | Der Rebell          | `figuren/nils.md`     |
 
 ### Zweig 2: Henrik Hartmann (Der Freigeist)
@@ -31,14 +31,14 @@ Ging eigenen Weg — Berlin, Fotografie, Gastronomie. Rastlos. Henriks letztes P
 | ---------- | ----- | ---------------------------- | ------------- | ------------------- |
 | **Henrik** | 58    | Abwesend (Rückkehr Band 5/6) | Der Flüchtige | `figuren/henrik.md` |
 | **Jakob**  | 31    | Head of Sales (neu)          | Der Charmante | `figuren/jakob.md`  |
-| **Maren**  | 28    | Freelance-Fotografin         | Die Wilde     | `figuren/maren.md`  |
+| **Maren**  | 29    | Freelance-Fotografin         | Die Wilde     | `figuren/maren.md`  |
 | **Tom**    | 25    | Praktikant/Trainee           | Der Stille    | `figuren/tom.md`    |
 
 ### Love Interests (extern)
 
 | Figur              | Band | Beziehung zu | Datei                       |
 | ------------------ | ---- | ------------ | --------------------------- |
-| **Nora**           | 1    | Leon         | `figuren/leon_li_nora.md`   |
+| **Nora Seufert**   | 1    | Leon         | `figuren/leon_li_nora.md`   |
 | **Pia Kessler**    | 2    | Jakob        | `figuren/jakob_li_pia.md`   |
 | **Lasse Petersen** | 3    | Carla        | `figuren/carla_li_lasse.md` |
 | **Finn Callsen**   | 4    | Maren        | `figuren/maren_li_finn.md`  |
@@ -165,18 +165,19 @@ Jeder Cousin hat einen Bogen der sich durch die gesamte Serie zieht — nicht nu
 
 **Farbcodierung pro Band:**
 
-| Band | Figur | Farbpalette |
-|------|-------|-------------|
-| 1 | Leon | Stahlblau, Navy, Silber (+ Amber-Unterton) |
-| 2 | Jakob oder Pia | Honiggold, warmes Braun, Creme (+ Grau/Taupe-Schatten) |
-| 3 | Carla oder Lasse | Schiefergrau, kühles Blau, Weiß (+ Rostrot/Bernstein-Akzent) |
-| 4 | Maren oder Finn | Gold, Sonnenuntergang-Orange, Sienna (+ Teal/Waldgrün-Erdung) |
-| 5 | Nils oder Janna | Anthrazit, tiefes Teal, Waldgrün (+ Sienna/Amber-Akzent) |
-| 6 | Tom oder Annika | Salbei, staubiges Blau, Creme (+ Anthrazit-Akzent) |
+| Band | Figur            | Farbpalette                                                   |
+| ---- | ---------------- | ------------------------------------------------------------- |
+| 1    | Leon             | Stahlblau, Navy, Silber (+ Amber-Unterton)                    |
+| 2    | Jakob oder Pia   | Honiggold, warmes Braun, Creme (+ Grau/Taupe-Schatten)        |
+| 3    | Carla oder Lasse | Schiefergrau, kühles Blau, Weiß (+ Rostrot/Bernstein-Akzent)  |
+| 4    | Maren oder Finn  | Gold, Sonnenuntergang-Orange, Sienna (+ Teal/Waldgrün-Erdung) |
+| 5    | Nils oder Janna  | Anthrazit, tiefes Teal, Waldgrün (+ Sienna/Amber-Akzent)      |
+| 6    | Tom oder Annika  | Salbei, staubiges Blau, Creme (+ Anthrazit-Akzent)            |
 
 **Typografie:** Separat gestaltet (Canva/Photoshop). Titel dominant, Autorin konsistent positioniert, Serien-Branding „Die Hartmann-Agentur" als Dachmarke. Max 2 Fonts, starke Hierarchie.
 
 **Referenz-Dateien:**
+
 - Leon: `band01/cover_tests/test9b_sd35_leon_watercolor.png`
 - Nora: `band01/cover_tests/test9_sd35_watercolor.png`
 - Carla: `band01/cover_tests/test10_carla.png`

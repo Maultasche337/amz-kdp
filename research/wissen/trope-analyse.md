@@ -1,5 +1,5 @@
 # Trope-Analyse 2026
-*Letzte Aktualisierung: 2026-02-23 | Quellen: Rocket-Daten, Buck Case Study, Trend-Auswertung*
+*Letzte Aktualisierung: 2026-02-24 | Quellen: Rocket-Daten, Buck Case Study, Lane-Analyse, Trend-Auswertung*
 
 ---
 
@@ -19,18 +19,19 @@
 ### 🔥 Tier 1: Jetzt im Aufwärtstrend
 | Trope | Signal |
 |-------|--------|
-| **Workplace Romance** | Tate explodiert, kaum deutsche Originale |
-| **Grumpy×Sunshine** | Tate Band 2 im Preorder, 4.089 Suchen/Mo |
+| **Grumpy×Sunshine** | **Lane: 107k €/Mo = stärkstes Umsatz-Signal ever.** Tate Band 2 im Preorder, 4.089 Suchen/Mo |
+| **Workplace Romance** | Tate explodiert, kaum deutsche Originale. Lane besetzt G×S aber NICHT Workplace → Lücke offen |
 | **Second Chance** | Buck bestätigt (1.929 Suchen/Mo) |
 | **Fake Dating** | Stabil, Buck nutzt es doppelt |
 
 ### 📈 Tier 2: Kommt in 3-6 Monaten
 | Trope | Signal |
 |-------|--------|
-| **Medical Romance deutsch** | Tates EN-Backlist hat med. Hintergrund |
+| **Ü30-Protagonisten** | Lane-Rezensionen: „im Leben stehen" als expliziter Selling Point. Kein Nischen-Trope, sondern Zielgruppen-Signal |
 | **Forced Proximity + Workplace** | Natürliche Kombination |
 | **Found Family** | Internationaler BookTok-Trend |
 | **He Falls First** | Auf EN riesig, kommt nach DE |
+| **Medical Romance deutsch** | Tates EN-Backlist hat med. Hintergrund |
 
 ### ⬇️ Tier 3: Absteigend — Finger weg
 | Trope | Warum |
@@ -66,4 +67,14 @@
 | Slow Burn | slow burn romance deutsch | 81 | 60 🟡 |
 
 ---
-*Detailquellen: `quellen/publisher-rocket/analysen/trope_ideen.md`, `trend_auswertung_susie_tate.md`*
+
+## Bewährte Erzähl-Motive (aus Rezensionen)
+
+| Motiv | Quelle | Wirkung |
+|-------|--------|---------|
+| **Wolfsstunde / Nachtgespräche** | Lane: stärkstes Element laut Leserinnen | Masken fallen in der Dunkelheit → Verletzlichkeit → emotionale Wendepunkte |
+| **„Er hat es sich gemerkt"** | Allgemein Romance | Plant & Payoff ohne Spotlight → Leserinnen lieben das Erkennen |
+| **Schrittweise Backstory-Enthüllung** | Lane-Kritik: zu wenig davon | Grumpy-Verhalten wird NACHVOLLZIEHBAR durch dosierte Trauma-Enthüllung |
+
+---
+*Detailquellen: `quellen/publisher-rocket/analysen/trope_ideen.md`, `trend_auswertung_susie_tate.md`, `wissen/konkurrenz-melanie-lane.md`*

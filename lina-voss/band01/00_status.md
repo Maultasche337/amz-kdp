@@ -35,3 +35,7 @@
 ## Nächster Schritt
 
 Phase 4: Schreiben — Session A (Kapitel 1–5, Akt 1: Setup)
+→ Szene-für-Szene-Workflow: jedes Kapitel in 2–4 Szenen à ~1.000–1.800 Wörter
+→ Kapitel 1 fertig (~3.200 W, Nora POV)
+→ Kapitel 2 fertig (~3.100 W, Leon POV)
+→ **Nächster Schritt:** Kapitel 3 — „Nachtschicht" (Nora POV)

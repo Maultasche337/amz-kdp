@@ -7,7 +7,7 @@
 
 | | |
 |---|---|
-| **Alter** | 28 |
+| **Alter** | 29 |
 | **Rolle** | Freelance-Fotografin (kein fester Agentur-Vertrag) |
 | **Familienzweig** | Zweig 2 (Henrik) — der Freigeist |
 | **Geschwister** | Jakob (31), Tom (25) |

@@ -1,5 +1,5 @@
 # Launch-Operationen
-*Letzte Aktualisierung: 2026-02-23 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller*
+*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann)*
 
 ---
 
@@ -73,21 +73,148 @@ Amazon sperrt per **Algorithmus**, nicht durch Menschen. Auslöser:
 
 ## Social Media
 
-### Level 1 (sofort, kostenlos)
-- TikTok/Instagram-Reels erstellen
-- Buch zeigen, 30-60 Sek. darüber sprechen
-- Kein Facecam nötig
-- Traffic zu Amazon leiten
+### Grundprinzip: Reihenfolge
+Erst Amazon-Basis optimieren (Keywords, Cover, Reviews), DANN Social Media skalieren. Jede Social-Media-Präsenz treibt Amazon-Verkäufe — auch ohne Direktlink (Spillover-Effekt).
 
-### Reihenfolge
-Erst Amazon-Basis optimieren (Keywords, Cover, Reviews), DANN Social Media skalieren.
+### Content-Strategie: Connection First Formel
 
-### Spillover-Effekt
-Jede Social-Media-Präsenz treibt Amazon-Verkäufe — auch ohne Direktlink.
+Kernprinzip: **Du verkaufst kein Buch — du baust eine Verbindung auf.** Menschen kaufen nicht von Fremden, sondern von Menschen, die sie mögen, verstehen und denen sie vertrauen. Buchmarketing = emotionales Marketing. [Quelle: Sapphire Club Video Guide, 2026-02-25]
+
+**4 Schritte:**
+
+1. **Herzstück finden** — Warum hast du dieses Buch geschrieben? Nicht die oberflächliche Antwort, sondern die echte (die emotionale). Das Herzstück löst den größten Pain-Point: das Gefühl, dass niemand sich für dein Buch interessiert. Menschen interessieren sich nicht für Bücher an sich — sie interessieren sich für Gefühle, Verbindungen, das Versprechen verstanden zu werden.
+
+2. **Themen statt Produkt** — Sprich über die Kernthemen deines Buchs, NICHT über Handlung/Tropes/Genre. Statt „Enemies-to-Lovers Romance mit zwei POVs, jetzt erhältlich" → „Was machst du, wenn die Menschen, denen du dein ganzes Leben lang treu warst, dich bitten, dich selbst zu verraten?" Themen sind universell, jeder fühlt sie → Verbindung entsteht.
+   - *Für Lina Voss Band 1:* Nicht „Grumpy×Sunshine Workplace Romance" posten, sondern über Themen wie: Sich hinter Kontrolle verstecken. Jemandem vertrauen, der alle Mauern einreißt. Angst, dass Nähe alles kaputtmacht.
+
+3. **80/20-Regel** — 80% Content der gibt (Mehrwert, Unterhaltung, Themen, Einblicke), 20% Content der bittet (Kaufaufforderung). Die meisten Autoren machen es genau andersherum → deshalb funktioniert es nicht. Niemals Mehrwert nur ausgeben, weil man sich davon Verkäufe erhofft — die Leute merken vorgetäuschtes Interesse. (Reziprozitätseffekt: Wer etwas bekommt, will zurückgeben.)
+
+4. **Soft Call to Action** — Sanfte Einladung statt Verkaufsdruck.
+   - Hard CTA: „Mein Buch ist jetzt erhältlich. Kauf es auf Amazon." ❌
+   - Soft CTA: „Falls dich diese Geschichte berührt hat — du findest sie in meiner Bio." ✅
+   - Hard CTA: „Nur noch 3 Tage Sale, jetzt zugreifen!" ❌
+   - Soft CTA: „Mein Buch ist gerade im Angebot. Falls du schon länger überlegst, ist jetzt der richtige Moment." ✅
+   - Menschen wollen eingeladen werden, nicht durchgeschoben.
+
+---
+
+### BookTok: Checkliste pro Video
+
+Vollständige Checkliste für jeden BookTok-Post. Vor dem Posten durchgehen. [Quelle: Booktok-Checkliste, Riedel/Hegermann, 2026-02-25]
+
+**1. Inhalte planen**
+- [ ] Spricht das Thema die Zielgruppe an?
+- [ ] Zweck definiert (Unterhaltung / Information / Leserbindung)?
+- [ ] Ziel definiert (Teilen / Speichern / Liken / Link-Klick)?
+
+**2. Vorbereitung — 5 Hooks**
+- [ ] **Hook 1:** Titel des Videos (Text-Overlay)
+- [ ] **Hook 2:** Erster gesprochener Satz
+- [ ] **Hook 3:** Visuelle Hook (Bewegung, Gimmick, Zoom, Effekt)
+- [ ] **Hook 4:** Thumbnail-Titel
+- [ ] **Hook 5:** Erster Satz der Caption
+- [ ] Skript/Stichpunkte vorbereitet
+- [ ] Requisiten/Setting/Equipment klar
+- [ ] Call-to-Action formuliert (Soft CTA bevorzugen!)
+- [ ] Keywords für das Video festgelegt
+
+**3. Visuelle Qualität**
+- [ ] Beleuchtung: Gesicht beleuchtet, nicht geblendet
+- [ ] Bestmögliche Videoqualität
+- [ ] Visuelle Unterscheidung bei verschiedenen Charakteren
+- [ ] Text-Titel direkt in TikTok-App
+- [ ] Automatische Untertitel aktiviert + Schreibfehler korrigiert
+- [ ] Sticker/Effekte/Filter nur wenn passend
+- [ ] KI-Inhalte? → Video entsprechend markieren
+
+**4. Audio**
+- [ ] Ton klar und verständlich
+- [ ] Passende Musik (trending bevorzugt, Copyright beachten!)
+- [ ] Hintergrundmusik leise genug für Sprachverständlichkeit
+- [ ] Soundeffekte (Copyright beachten!)
+
+**5. Schnitt**
+- [ ] Millennial Gap weggeschnitten (Stille vor erstem Wort)
+- [ ] Effekte/Filter sparsam eingesetzt
+- [ ] Saubere, flüssige Schnitte
+- [ ] Start-/End-Momente der Aufnahme weggeschnitten
+
+**6. Caption**
+- [ ] Hook als erster Satz
+- [ ] Relevante Hashtags (Genre + Zielgruppe)
+- [ ] Kurz und prägnant
+- [ ] Erwähnte Personen getaggt
+
+**7. Veröffentlichen**
+- [ ] Video gespeichert VOR Veröffentlichung (Wasserzeichen vermeiden!)
+- [ ] Posting-Zeit = Zielgruppe aktiv
+- [ ] Ohne Wasserzeichen auch auf anderen Plattformen posten
+
+**8. Nach Veröffentlichung (1-2 Tage)**
+- [ ] Alle Kommentare beantwortet
+- [ ] Alle DMs beantwortet
+- [ ] 15 Min. bewusst ähnliche Videos anschauen + interagieren (Algorithmus trainieren)
+
+**9. Analyse**
+- [ ] Watch Time + Absprungrate analysiert
+- [ ] Richtige Zielgruppe erreicht?
+- [ ] Entscheidung: Format wiederholen oder neues testen?
+- [ ] Gut laufende Formate wiederholen, neue ausprobieren
+
+---
+
+### Bookstagram: Profil-Setup für Autorinnen
+
+Anleitung für Instagram-Profil als Autorin. [Quelle: Bookstagram-Guide, Hegermann, 2026-02-25]
+
+**Account-Entscheidung**
+- Neues Profil empfohlen → Instagram pusht neue Accounts als „Neu"
+- Bestehendes Profil nur, wenn: ausschließlich Schreib-Content, bestehendes Umfeld informiert, Zielgruppe bereits aufgebaut
+- Pseudonym-Account möglich (senkt Hemmschwelle)
+- Creator- oder Business-Profil aktivieren (für Statistiken, Ads, automatisiertes Posten)
+
+**Bio: 4-Zeilen-Formel**
+1. **Namenszeile** (fettgedruckt, suchbar!) — Vorname + Genre-Keywords. NICHT nur Name wiederholen. ⚠️ Nur 2× in 14 Tagen änderbar!
+2. **Claim** — Was für Geschichten schreibst du für wen?
+3. **Erwartung** — Worüber postest du genau?
+4. **Call-to-Action** — Was sollen Follower tun? (Homepage besuchen / DM schreiben / Highlights durchklicken / Geschichte lesen)
+
+**Bookstagram ≠ eigene App** — es ist eine Themenwolke, in der Algorithmus Beiträge und Profile bündelt. Community-Hashtag für die Autor:innen- und Lesebubble. SEO ist auf Instagram angekommen → Keywords wichtiger als Hashtags.
+
+**Hashtags:** 3-4 aussagekräftige (nicht mehr 30). Nützlich für Vernetzung bei Aktionstagen (#wewritewednesday, #buchmarketingmittwoch, #autor_innensonntag).
+
+**Erste 9 Posts (vor Launch sichtbar haben)**
+1. Mein Warum — Deswegen schreibe ich
+2. Das erwartet dich in meinen Texten
+3. So wähle ich Verlag/Selfpublishing
+4. Das hat mich zu meinem Buch inspiriert
+5. 3 Dinge, die ich an meinem Genre liebe
+6. Darum hasse ich dieses Genre-Klischee
+7. Kurzgeschichte aus 3 zufälligen Wörtern
+8. Das ist mein Lieblingsbuch in dem Genre
+9. Ich lese alles von diesem/r Autor:in
+
+**Posting-Frequenz:** Mehr Posts = mehr Wachstum, aber Konsistenz > Menge. Realistisch planen + 1 extra einplanen. Reels nach wie vor bester Reichweiten-Hebel, aber seit 2023 auch Fotos/Carousels wieder möglich.
+
+**Überschriften nutzen!** Aufmerksamkeitsspanne gering → immer mit Überschrift arbeiten. Provokant erlaubt. Menschen lieben Zustimmung oder Diskussion → dazu auffordern.
+
+**Stories** für Interaktion nutzen: Follower mitnehmen, Story-Formate (Umfragen, Fragen) spielen, Dialog starten.
+
+**Tools**
+- Canva (Design)
+- CapCut (Videoschnitt)
+- Trello (Themen-Planung)
+- Tailwind (Post-Planung)
+- Smartphone + Stativ + Selbstauslöser + Lichtquelle (Fenster/Ringlicht)
+
+---
 
 ### Für Lina Voss
 - BookTok-Influencerinnen für ARCs ansprechen
 - Romance + Workplace haben aktive deutschsprachige BookTok-Communities
+- Pseudonym-Account „Lina Elise Voss" auf Instagram + TikTok
+- Connection First: Themen aus Band 1 (Kontrolle, Vertrauen, Nähe) als Content-Basis
+- Bio-Keywords: Spicy Romance, Workplace Romance, Hamburg, Grumpy Sunshine
 
 ---
 

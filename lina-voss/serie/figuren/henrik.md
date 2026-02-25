@@ -9,7 +9,7 @@
 |---|---|
 | **Alter** | 58 |
 | **Rolle** | Abwesender Vater. Ehemaliger Fotograf, Galerist, Gastronom, Seriengründer. Aktuell: irgendwo in Portugal oder Südostasien. |
-| **Familie** | Vater von Jakob (31), Maren (28), Tom (25). Bruder von Matthias. Sohn von Werner. Geschieden (Mutter der Kinder lebt in Berlin, kein Kontakt zur Serie). |
+| **Familie** | Vater von Jakob (31), Maren (29), Tom (25). Bruder von Matthias. Sohn von Werner. Geschieden (Mutter der Kinder lebt in Berlin, kein Kontakt zur Serie). |
 | **Archetype** | Der Flüchtige / Das ewige Versprechen |
 
 ---

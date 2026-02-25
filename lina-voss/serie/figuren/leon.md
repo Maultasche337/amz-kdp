@@ -10,7 +10,7 @@
 | **Alter** | 32 |
 | **Rolle** | Creative Director, Hartmann-Agentur |
 | **Familienzweig** | Zweig 1 (Matthias) — der Pflichtbewusste |
-| **Geschwister** | Carla (29), Nils (27) |
+| **Geschwister** | Carla (30), Nils (27) |
 | **Archetype** | Der Eingefrorene (nicht grumpy — eingefroren) |
 
 ---

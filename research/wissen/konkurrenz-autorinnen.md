@@ -1,9 +1,20 @@
 # Konkurrenz-Autorinnen — Übersicht
-*Letzte Aktualisierung: 2026-02-23 | Quellen: Rocket Competition Analyzer, Trend-Auswertung*
+*Letzte Aktualisierung: 2026-02-24 | Quellen: Rocket Competition Analyzer, Trend-Auswertung*
 
 ---
 
-## Die Big 4 auf amazon.de
+## Die Big 5 auf amazon.de
+
+### Melanie Lane — Deutsche Verlagsautorin mit Mega-Hit
+- **107.159 €/Mo** mit Love Me Wild (ABSR 21, 545 Seiten, 4,6 ★, 156 Reviews)
+- Verlag: MORE by Aufbau (kein Self-Publishing)
+- Tropes: Grumpy×Sunshine + Forced Proximity + Deal
+- Preis: 12,99 € + KU
+- Setting: Colorado/LA (amerikanisch trotz deutscher Autorin)
+- Vorgänger Wild Dreams nur 1.436 €/Mo → der Hit ist Buch 2
+- **Stärkstes Signal ever:** G×S + Ü30 + emotionaler Spice funktioniert MASSIV auf Deutsch
+- **Schwächen laut Rezensionen:** Grumpy zu extrem, zu wenig Backstory, Gesellschaftsthemen wirken „gewollt"
+- → Detail-Analyse: `konkurrenz-melanie-lane.md`
 
 ### Susie Tate — Übersetzungs-Phänomen
 - **66.567 €/Mo** mit EINEM Buch (Unperfect, 19 Tage, ABSR 14)

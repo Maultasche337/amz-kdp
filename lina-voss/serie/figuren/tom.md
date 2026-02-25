@@ -10,7 +10,7 @@
 | **Alter** | 25 |
 | **Rolle** | Praktikant/Trainee, Hartmann-Agentur |
 | **Familienzweig** | Zweig 2 (Henrik) — der Freigeist |
-| **Geschwister** | Jakob (31), Maren (28) |
+| **Geschwister** | Jakob (31), Maren (29) |
 | **Archetype** | Der Stille (Maske) / Der Seher (Wahrheit) |
 
 ---
