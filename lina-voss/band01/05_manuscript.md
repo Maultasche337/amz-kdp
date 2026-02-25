@@ -337,3 +337,151 @@ Und an dem Schreibtisch in der zweiten Reihe, unter dem veränderten Monitor, mi
 _Ende Kapitel 2_
 
 _Wörter: ca. 3.100_
+
+---
+
+# Kapitel 3 — Nachtschicht
+
+_Nora, Woche 1_
+
+Die Headline war falsch.
+
+Nora starrte auf den Satz — _„Brinkmann: Wo Geschmack zu Hause ist"_ — und wusste es, bevor sie die Worte zu Ende gelesen hatte. Zu brav. Zu nah an dem, was jede zweite Regionalmarke auf ihre Flaschen druckte. Brinkmann wollte national, und das hier klang nach Schützenfest.
+
+Sie löschte den Satz. Der Cursor blinkte.
+
+Hinter ihr schob Jakob seinen Stuhl zurück, das Telefon noch am Ohr, die andere Hand auf der Armlehne. Er redete mit einem potenziellen Kunden — oder einem alten Bekannten, bei Jakob war die Grenze fließend. Sein Lachen kam gedämpft durch den Raum, die letzte Wärme eines Tages der sich dem Ende zuneigte.
+
+„Und?" Nora drehte sich um, als er auflegte. „Wie lief's?"
+
+Jakob grinste — breit, offen, die Grübchen die selbst um halb sechs abends noch funktionierten. „Der Typ von der Digitalsparte will ein persönliches Treffen. Nächste Woche." Er lehnte sich zurück. „Hab ihm gesagt, unsere Kreativdirektion ist legendär. Er hat gelacht. Aber im guten Sinne."
+
+„Im guten Sinne," wiederholte Nora. „Klar."
+
+Er lachte wieder, und sie lachte mit, an der richtigen Stelle, mit dem richtigen Ton — nicht zu laut, nicht zu leise, genau das Maß das eine Kollegin an ihrem vierten Tag mitbringen sollte.
+
+Am Nachbartisch kämpfte Elena mit einem Entwurf. Die Praktikantin scrollte durch eine Textdatei, die Stirn in Falten, den Cursor an einer Stelle geparkt die seit Minuten nicht weiterrückte.
+
+„Welches Wort fehlt?" Nora beugte sich rüber, beiläufig, als wäre es nichts.
+
+Elena zeigte auf den Bildschirm. „Ich will sagen, dass Brinkmann sich treu geblieben ist, aber es klingt immer nach — ich weiß nicht. Heimatmuseum."
+
+Nora las die Zeile. „Versuch _‚Brinkmann hat sich nie verändert — nur der Grund warum man sie trinkt.'_ Dann trägst du die Entwicklung in den Kunden, nicht in die Marke."
+
+Elena tippte es ab. Las es. Sah hoch. „Das ist gut."
+
+„War dein Ansatz," sagte Nora. „Ich hab nur das Verb verschoben."
+
+Sie drehte sich zurück an ihren Platz. Aus dem Augenwinkel: Nils. Er saß an seinem Schreibtisch, Stift zwischen den Fingern, das Notizbuch vor sich. Er schaute nicht auf seinen Bildschirm und nicht in sein Notizbuch. Er schaute zu ihr. Einen Moment lang — lang genug dass sie es sah, kurz genug dass er es hätte leugnen können. Dann senkte er den Blick und drehte den Stift weiter zwischen seinen Fingern.
+
+Nora lächelte. Nicht für ihn — für den Raum, für den Feierabend der sich zusammenbraute, für die Jacken die von Stuhllehnen genommen wurden.
+
+„Bis morgen!" Sie hob die Hand, als Elena und Jan aufstanden. Jakob war schon im Flur, Mantel über dem Arm, das Telefon wieder am Ohr. Nils ging als Letzter — Notizbuch unter dem Arm, Schal über der Schulter, ohne ein Wort.
+
+Die Tür fiel zu.
+
+Und dann war es still.
+
+Nicht die Stille vom Montag — die war neu gewesen, fremd, ein Ort den sie noch nicht kannte. Diese Stille kannte sie schon. Vier Tage, und die Agentur nach achtzehn Uhr hatte angefangen sich wie ein eigener Raum anzufühlen. Die Neonröhren in der ersten Reihe summten auf einer Frequenz die tagsüber im Lärm unterging. Das Serverbrummen im Flur. Und draußen, durch die Fensterfront, die Straßenbahn die in größeren Abständen piepte.
+
+Noras Schultern sanken.
+
+Es war kein bewusster Moment — kein Schalter, kein Entschluss. Es passierte einfach. Das Lächeln löste sich auf, nicht dramatisch, nicht sichtbar, nur weg. Ihre Kiefermuskeln entspannten sich. Ihr Atem wurde tiefer, langsamer, als hätte ihr Körper den ganzen Tag auf diese Erlaubnis gewartet.
+
+Sie drehte sich zum Bildschirm. Die falsche Headline war immer noch da — gelöscht, aber die leere Zeile dahinter wartete.
+
+Nora tippte. Löschte. Tippte neu. Die Arbeit floss anders wenn der Raum leer war. Weniger Aufmerksamkeit nach außen, mehr Tiefe nach innen. Die Headlines wurden schärfer. Brinkmann wollte Emotion? Dann musste die Emotion aus der Marke kommen, nicht aus der Agentur. Nicht _„Wo Geschmack zu Hause ist"_, sondern etwas das den Kunden erinnerte warum er zum ersten Mal danach gegriffen hatte.
+
+_Brinkmann. Seit du dich erinnerst._
+
+Nora lehnte sich zurück. Las den Satz. Las ihn nochmal. Vielleicht.
+
+Sie öffnete den Strategieordner, scrollte durch die Zielgruppenanalyse, verglich die Headline mit den Persona-Profilen. Die Arbeit nahm sie mit, wie sie es immer tat wenn niemand zusah — vollständig, ruhig, in einem Tempo das sie sich selbst nie zugestand wenn andere im Raum waren. Fünf Jahre hatte sie so gearbeitet, an Küchentischen und in Cafés, in Wohnungen die sie nach drei Monaten wieder verließ.
+
+Ihre Schreibtischlampe warf einen warmen Kreis auf die Tastatur. Dahinter die leere erste Reihe, die Monitore dunkel. Und am Ende des Raums, hinter der Glaswand, Leons Büro. Licht an. Wie immer.
+
+Irgendwann — der Strategieordner war halb durch, der Kaffee längst kalt — stand sie auf. Küche. Der Siebträger ratterte in der leeren Agentur lauter als am Tag, als wäre das Geräusch nur für sie. Nora wartete, nahm die Tasse, trank im Stehen. Für sich.
+
+Zurück am Platz hatte sie einen neuen Ansatz für den dritten Absatz des Brinkmann-Konzepts. Sie tippte, strich, verschob einen Satz. Stutzte. Da war etwas, das sich wiederholte — eine Dopplung die sie nicht greifen konnte.
+
+Ein Geräusch. Leons Tür.
+
+Sie hörte seine Schritte — gleichmäßig, ohne Eile, den kurzen Weg zum Drucker. Das Rattern der Maschine. Dann Schritte zurück, aber nicht ganz. Sie hörten auf.
+
+Hinter ihr.
+
+Nora drehte sich nicht um. Sie spürte ihn zwei Schritte hinter ihrem Stuhl, den Blick auf ihren Bildschirm gerichtet. Die Blätter vom Drucker in seiner Hand raschelten einmal, dann nicht mehr.
+
+„Der dritte Absatz wiederholt den ersten."
+
+Kein _Guten Abend._ Kein _Arbeitest du noch?_ Ein Satz, gesprochen als wäre es selbstverständlich dass sie beide um einundzwanzig Uhr hier saßen.
+
+Nora scrollte hoch. Las den ersten Absatz, dann den dritten. Kernaussage, Tonalität, Perspektive — er hatte recht. Die Dopplung lag nicht in den Worten, sondern im Argument. Derselbe Gedanke, zweimal verpackt.
+
+Sie markierte den dritten Absatz und schrieb ihn um. Er stand noch da. Seine Hand lag auf der Tischkante neben ihrem Monitor — nicht neben ihrer Hand, nicht einmal in der Nähe, aber auf ihrem Schreibtisch. Auf ihrem Revier. Die Finger waren still, keine Bewegung, nur das Gewicht einer Hand auf einer Kante die ihm nicht gehörte.
+
+Dann ging er. Schritte, Tür, das leise Klicken der Klinke. Licht an.
+
+Nora starrte auf den Bildschirm. Der Absatz war besser. Das war alles.
+
+Ihr Puls ging schneller, und sie wusste nicht warum.
+
+---
+
+Sie arbeitete weiter. Oder versuchte es.
+
+Der Absatz war umgeschrieben, das Konzept einen Schritt weiter, und ihr Puls war längst wieder normal — sie hatte es irgendwann zwischen dem vierten und fünften Satz bemerkt, ohne daran gedacht zu haben es zu überprüfen. Die Worte kamen langsamer jetzt. Nicht weil die Ideen fehlten, sondern weil ein Teil ihrer Aufmerksamkeit nicht mehr beim Brinkmann-Konzept war, sondern bei der Glaswand am Ende des Raums.
+
+Leon saß in derselben Haltung wie vor drei Stunden. Rücken zum Großraum, Bildschirm an, der schmale Streifen seines Profils sichtbar wenn er den Kopf zur Seite drehte. Seit sieben Uhr morgens — sie wusste es, weil sie an ihrem ersten Tag um halb neun gekommen war und sein Kaffee da schon kalt gewesen war. Vier Tage, und das Muster war deutlich: er aß nicht im Büro. Kein Mittagessen in der Küche, keine Bäckertüte wie Jakob, kein Müsliriegel. Kaffee bis zum Nachmittag, dann nichts mehr. Fünfzehn Stunden Arbeit, getrieben von etwas das nichts mit Brinkmann zu tun hatte.
+
+Es war nicht ihr Problem.
+
+Sie starrte auf den Bildschirm. Die Headline stimmte. Das Konzept stimmte. Sie hätte gehen können — nach Hause, in die Wohnung mit den halb ausgepackten Kartons und dem Bett das noch nach Verpackungsfolie roch. Stattdessen stand sie auf.
+
+Die Küche war dunkel bis auf das Standby-Licht der Kaffeemaschine. Nora schaltete das Deckenlicht nicht an — das Standby reichte, und etwas an der Dunkelheit passte besser zu dem was sie tat, auch wenn sie nicht hätte sagen können was genau sie tat. Der Siebträger ratterte. Schwarzer Kaffee. Keine Milch, kein Zucker. Sie wusste es aus einer Mail, Monate her, beiläufig, zwischen einer Deadline und einer Korrektur: _„Schwarzen Kaffee aus der Küche, Sekunde."_ Ein Satz der nichts bedeutet hatte und den sie sich gemerkt hatte, weil sie sich alles merkte. Zahlen, Namen, Sätze aus Mails die sie eigentlich schon gelesen und weggeklickt hatte.
+
+Die weiße Tasse ohne Logo stand im Regal, abseits der anderen — seine. Nora nahm eine andere.
+
+Durch den Flur. Das Serverbrummen war lauter hier, und das Licht aus dem Glaskasten fiel in einem schmalen Streifen auf den Boden. Die Tür war zu.
+
+Nora klopfte nicht.
+
+Sie drückte die Klinke runter, und der Raum öffnete sich — kleiner als sie erwartet hatte. Zwei Monitore, ein schmales Sofa an der Wand das aussah als hätte jemand darauf geschlafen, und sein Schreibtisch: aufgeräumt bis zur Grenze des Pathologischen. Stifte links rot, rechts schwarz, parallel wie ein System das keiner Erklärung bedurfte. Kein einziges Foto. Nirgendwo.
+
+Sie stellte die Tasse auf die freie Ecke seines Schreibtischs, zwischen den Stiften und dem Ausdruck den er vorhin geholt hatte, und drehte sich um.
+
+Er sagte nichts. Kein Danke, kein Blick, keine Reaktion. Sein Stift bewegte sich weiter über das Papier, als wäre sie nicht da gewesen.
+
+Nora war fast an der Tür, die Klinke schon in der Hand, als hinter ihr ein einziges Wort kam.
+
+„Schwarz."
+
+Keine Frage. Eine Feststellung. Er hatte die Tasse angesehen — hatte geprüft was sie gebracht hatte und es für korrekt befunden. In Leons Welt war das vermutlich ein ganzer Satz.
+
+Nora zog die Tür hinter sich zu und ging zurück an ihren Platz. Kein Danke. Kein Lächeln. Nur ein Wort, das verriet dass er hingeschaut hatte, und sie wusste nicht warum das mehr wog als alles andere an diesem Tag.
+
+Schwarzer Kaffee, keine Milch, kein Zucker. Sie hatte sich das gemerkt. Sie war aufgestanden, hatte die Maschine angeworfen, die Tasse auf seinen Tisch gestellt. Hatte seine Tür geöffnet, obwohl die seit vier Tagen geschlossen war. Warum?
+
+Weil er seit fünfzehn Stunden nichts getrunken hatte. Weil es spät war. Weil jeder Mensch irgendwann Kaffee braucht und es nichts kostet, eine Tasse mehr zu machen.
+
+Alles plausibel. Alles wahr. Und trotzdem nicht die ganze Antwort.
+
+Sie kannte das. Den Impuls, der sich nicht erklären ließ und den sie trotzdem nie unterdrückte. Die Zettel für Mama auf dem Küchentisch, morgens, wenn die Vorhänge zu waren und kein Geräusch aus dem Schlafzimmer kam. Die Brötchen die sie der Nachbarin mitbrachte, die allein lebte und deren Licht manchmal tagelang nicht anging. Das Lächeln für Fremde in der Schlange, falls jemand gerade eins brauchte. Sie gab. Immer. Nicht weil man sie darum bat, sondern weil in ihr etwas reagierte auf Menschen die allein in beleuchteten Räumen saßen und nicht merkten dass sie Hunger hatten.
+
+Es war spät. Sie speicherte die Datei. Fuhr den Rechner runter.
+
+Als sie ihren Mantel anzog und durch den dunklen Großraum ging, fiel ihr Blick auf den Glaskasten. Leon saß an derselben Stelle, der Bildschirm weiß in seinem Gesicht. Die Tasse stand neben seiner Tastatur.
+
+Leer.
+
+Er sah nicht hoch.
+
+Nora zog die Tür hinter sich zu und nahm die Treppe runter, vorbei am Naturkostladen mit den Kreide-Schildern, raus aufs Schulterblatt. Die Luft war nass und kalt. Irgendwo weiter Richtung Sternschanze fuhr die letzte Straßenbahn.
+
+Sie ging nach Hause. Die Wohnung war still und halb leer, und sie legte sich ins Bett ohne das Licht in der Küche anzumachen, und bevor sie einschlief dachte sie nicht an Leon Hartmann und nicht an schwarzen Kaffee und nicht an eine Hand auf einer Tischkante die ihm nicht gehörte.
+
+Oben im zweiten Stock brannte das Licht noch.
+
+_Ende Kapitel 3_
+
+_Wörter: ca. 2.500_

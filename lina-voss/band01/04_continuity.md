@@ -8,15 +8,16 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | | | | | | | | | | | | | | | | | | |
-| Nora | x | x | | | | | | | | | | | | | | | | | | |
+| Leon | x | x | x | | | | | | | | | | | | | | | | | |
+| Nora | x | x | x | | | | | | | | | | | | | | | | | |
 | Carla | x | x | | | | | | | | | | | | | | | | | | |
 | Werner | | x | | | | | | | | | | | | | | | | | | |
-| Nils | x | x | | | | | | | | | | | | | | | | | | |
-| Jakob | | x | | | | | | | | | | | | | | | | | | |
+| Nils | x | x | x | | | | | | | | | | | | | | | | | |
+| Jakob | | x | x | | | | | | | | | | | | | | | | | |
 | Maren | | x | | | | | | | | | | | | | | | | | | |
 | Tom | | x | | | | | | | | | | | | | | | | | | |
 | Matthias | | x | | | | | | | | | | | | | | | | | | |
+| Elena | x | | x | | | | | | | | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
 
@@ -28,7 +29,7 @@
 |-----|-----------|-----------|---------------------|---------|
 | 1 | Montag | Morgen → Abend (bis nach 18:30) | Woche 1 | Noras erster Tag. Carla-Onboarding, Nils-Intro, Leon „Ihr Schreibtisch ist dort", Brinkmann-Briefing, Agentur-Nacht beginnt |
 | 2 | Dienstag/Mittwoch | Morgen → Mittag (7 Uhr → ca. 13 Uhr) | Woche 1 | Leon POV. Ritual, Carla-Rückblende (3 Tage vorher), Zweig-2-Ankunft, Werner-Besuch, Matthias-Szene |
-| 3 | | Abend/Nacht | Woche 1 | Erste Agentur-Nacht |
+| 3 | Donnerstag | Spätnachmittag → Nacht (~17:30 → ~22 Uhr) | Woche 1 | Noras 4. Tag. Performance-Kontrast (AN/AUS). Tischkante. Schwarzer Kaffee. „Schwarz." Mama-Muster gesät. |
 | 4 | Sonntag | Vormittag | Woche 1/2 | Brunch #1 |
 | 5 | | | Woche 2 | |
 | 6 | | | Woche 3–4 | Pitch heiße Phase |
@@ -201,13 +202,17 @@
 | Faden | Gesät (Kap) | Payoff (Kap) | Status | Notizen |
 |-------|-------------|--------------|--------|---------|
 | Sonntagsmail-Motiv | 3 | 8, 19, 20 | ⬜ | Rahmen des ganzen Buches |
-| Noras Mama-Muster (Leuchten) | 1 (gesät), 3 | 17 | ✏️ | Kap 1: Lächeln/Performer-Maske etabliert (Maklerin-Szene, „sie wusste wie das ging, seit ihrer Kindheit"). Explizit in Kap 3 |
+| Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
 | Küchenboden-Parallele | Backstory | 19 | ⬜ | Leon mit 16 → Leon jetzt |
 | Nils zeichnet wie Mama | 4 | 18 | ⬜ | „Du zeichnest auch wie sie" |
 | Leon zeichnet Nora (Post-it) | 6 | — | ⬜ | Tom sieht es, sagt nichts |
 | Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
 | Carla-Stich: Ausnahme für Nora | 8 | 14 | ⬜ | Unausgesprochener Gedanke |
-| Tag=Eis, Nacht=Echt-Muster | 1 (gesät) | 17, 20 | ✏️ | Kap 1: Leon tags 3× durchs Büro (kalt, „Ihr Schreibtisch ist dort"), abends Licht im Glaskasten = andere Welt. Muster beginnt |
+| Tag=Eis, Nacht=Echt-Muster | 1 (gesät), 3 | 17, 20 | ✏️ | Kap 1: Leon tags kalt, abends Licht = andere Welt. Kap 3: Nachts ist er anders — kommt zu ihr, korrigiert, „Schwarz." Die Mauer ist dünner, nicht offen. |
+| Performance-Kontrast (AN/AUS) | 3 | 5, 7, 17 | ✏️ | Kap 3: Nora performt für Team (Jakob, Elena), Nils SIEHT es. Team geht → Schultern sinken, Lächeln weg, Atem tiefer. Leserin merkt es erst rückwirkend. |
+| Agentur-Nacht als eigener Raum | 1 (gesät), 3 | 12, 17, 20 | ✏️ | Kap 1: erstes Mal angedeutet. Kap 3: voll etabliert — Neonröhren summen, Serverbrummen, Straßenbahn in Abständen. Forced Proximity. |
+| Tischkante (Leon auf Noras Revier) | 3 | — | ✏️ | Leons Hand auf Noras Tischkante. Spiegelung zu Noras Stift auf Leons Revier (Kap 2). Keiner merkt die Symmetrie. |
+| Nora nomadisch | 3 | — | ✏️ | „Fünf Jahre, an Küchentischen und in Cafés, in Wohnungen die sie nach drei Monaten wieder verließ." + Wohnung halb ausgepackt. 6-Monats-Vertrag = das Längste. |
 | Maren-Foto (Leon schaut Nora an) | 10 | — | ⬜ | Foto existiert, kein Payoff in Band 1 |
 | Matthias-Leon: nur über Agentur | 2 | 20 | ✏️ | Kap 2: Finkenstein-Vertrag. Nur Zahlen. Keine Gegenfrage, kein Widerspruch. Handschrift unverändert seit 16 Jahren. Payoff Kap 20: Blick (keine Vergebung noch) |
 | Tom wird übersehen | 1 (implizit), 2 | 20 | ✏️ | Kap 1: Tom taucht nicht auf — buchstäblich übersehen. Kap 2: „Tom. Hallo." — alle nicken, weitergemacht. Aber Leon sieht eine Sekunde zu lang hin (gefährliche Erkennung). Payoff Kap 20: Brötchen-Geste |
@@ -290,6 +295,12 @@
 | Marens Kamera (Auslöser-Geräusch) | 2 | Fotografiert Leons Büro durch offene Tür. Leon hört es durch zwei Räume. |
 | Toms Platz (kleiner Tisch neben Drucker) | 2 | Bisher von niemandem als Arbeitsplatz benutzt. Pullover grau wie die Wand. |
 | Nils' Notizbuch (klappt zu) | 2 | Leon sieht ihn zeichnen → Nils klappt zu, greift zur Maus. Pre-Setup für Kap 4 Servietten-Szene. |
+| Noras Schreibtischlampe | 3 | „Warmer Kreis auf die Tastatur." Kontrast zu Neonröhren (aus) und Leons Glaskasten-Licht. |
+| Leons Glaskasten-Interieur (Nora POV) | 3 | Kleiner als erwartet. 2 Monitore, Sofa (jemand hat drauf geschlafen), pathologisch aufgeräumter Schreibtisch, kein einziges Foto. |
+| Headline „Brinkmann. Seit du dich erinnerst." | 3 | Noras erste starke Headline. Kompetenz GEZEIGT. |
+| Noras Wohnung | 3 | Halb ausgepackte Kartons, Bett riecht nach Verpackungsfolie. Still und halb leer. Kein Zuhause. |
+| Leons „Schwarz." | 3 | Ein Wort: er hat geprüft was sie gebracht hat. Kein Danke. Tasse leer als sie geht. |
+| Verneinungs-Monolog (1× pro Buch) | 3 | „...dachte sie nicht an Leon Hartmann und nicht an schwarzen Kaffee und nicht an eine Hand auf einer Tischkante." VERBRAUCHT — nie wieder einsetzen. |
 
 ---
 
@@ -301,7 +312,7 @@
 |-----|--------|-------------|---------|
 | 1 | ~3.200 | Outline-treu. Szenen 1.1/1.2/1.3 wie geplant. Tom bewusst abwesend (Outline: „Kap 2"). | Noras Performer-Maske + „Leuchten" subtil etabliert (Maklerin, Lächeln). Nils „Drei Wochen"-Messlatte. Leon 3× durchs Büro, Tür immer zu. Post-it-Schichten mit älterer Handschrift = Katrin-Teaser? |
 | 2 | ~3.100 | Outline-treu. Carla-Rückblende = Brinkmann statt Decker (Outline hatte „Decker" im Carla-Profil, Manuskript nutzt korrekt „Brinkmann"). Nils-zeichnet-und-klappt-zu hier schon angedeutet (Setup für Kap 4). | Leon-Ritual (Kaffee, Rundgang, Schreibtisch). Carla-Leon 15J. wortlos. Jakob = Zimtschnecken + Namen + unwichtige Zuarbeit. Maren fotografiert Büro. Tom „eine Sekunde zu lang". Werner-Spruch #1. Matthias nur Agentur (Finkenstein-Vertrag). Nora = Variable, keine Anziehung. Kapitelende = Tür schließen. |
-| 3 | | | |
+| 3 | ~2.500 | Outline-treu. „Den nehm ich nicht" → umgebaut zu „Schwarz." (Likability-Fix: abwesend statt mean). Nora-Freelance-Seed ergänzt (Küchentische, 3-Monats-Wohnungen). | Performance-Kontrast (AN: Jakob, Elena / AUS: Schultern sinken). Nils sieht die Performance (1 Blick). Agentur-Nacht voll etabliert. Tischkante = Revierüberschreitung (Spiegel zu Stift Kap 2). Kaffee-Szene: Mama-Muster gezeigt nicht benannt. „Schwarz." = Leons Riss. Leere Tasse = Beweisstück. Verneinungs-Schlusszeile (1× pro Buch verbraucht). „Oben brannte das Licht noch." |
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |

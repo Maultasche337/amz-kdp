@@ -310,6 +310,8 @@ Session D: Kapitel 16–20 (Akt 3: Resolution)   → ~12–16 Szenen
 > **Vollständiges Prosa-Regelwerk:** → `bandXX/stil-briefing.md`
 > Enthält: Deep-POV-Regeln, Body-Language-Lexikon, Dialog-Mechanik, Anti-Pattern-Verbotsliste (20 Einträge), Wort-Limits, Frequenz-Tabelle, Abgabe-Checkliste.
 
+**Testleserin:** Nach jeder Szene optional Svenja konsultieren → `serie/01_testleserin_svenja.md`
+
 ### Subtilität
 - KEINE Erzählerkommentare die erklären was die Figur fühlt statt es zu zeigen → Details: Stil-Briefing §1 (Deep POV) + §2 (Emotion zeigen)
 - KEINE „sie merkte dass er sich verändert hatte"-Sätze → stattdessen: zeigen WAS sich verändert hat

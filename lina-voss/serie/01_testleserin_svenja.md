@@ -179,6 +179,42 @@ Da sie neu im Subgenre ist, hat sie konkrete Erwartungen/Fragen:
 
 ---
 
+## Svenja × Die Hartmann-Agentur
+
+### Leon
+- Svenja kennt den Judd-Typ von Nalini Singh. Sie weiß: die Kälte ist Selbstschutz, nicht Arschloch. Sie wird Geduld haben — WENN sie früh genug einen Riss sieht (Kap 2: Tom eine Sekunde zu lang anschauen, Kap 3: Hand auf Tischkante)
+- Ihr Knackpunkt: Wenn Leon zu lang nur kalt ist ohne Risse → „Okay, der nervt mich jetzt." Wir brauchen pro Kapitel EINEN Moment wo die Fassade zuckt
+- Was sie zum Schreien bringen wird: die „er hat es sich gemerkt"-Momente. Sonntagsmail-Lücke (Kap 8), 14-Uhr-Verlegung (Kap 7), Küchenboden-Parallele (Kap 19/20)
+
+### Nora
+- Svenja mag starke Heldinnen die was können → Noras Textkompetenz muss GEZEIGT werden (Headlines, Brinkmann-Lücke, Streit mit Leon auf Augenhöhe)
+- Gefahr: Sunshine-Performance könnte als MPDG rüberkommen → Svenja braucht die Tiefe dahinter (Mama-Muster, Renate, der Preis des Leuchtens). Kap 3 und 5 sind kritisch dafür
+- Svenja wird Nora verteidigen wenn Leon sie verletzt → sie nimmt Noras Seite ein und wird sauer auf ihn
+
+### Cousins / Found Family
+- Brunch als Pflicht → Wahl über 6 Bände = genau Svenjas „Found Family"-Nerve
+- Jakob (charmant, kostet ihn was), Nils (zeichnet, versteckt es), Tom (unsichtbar, sieht alles) → Svenja will Nebenfiguren die EIGENE Bücher verdienen. Setup-Teaser funktionieren bei ihr
+- Werner = ihr Liebling. Garantiert.
+
+### Workplace-Knackpunkt
+- Svenja fragt sich: „Ist das Büro nur Kulisse oder Plot-Motor?" → Der Brinkmann-Pitch muss die Handlung treiben, nicht nur Hintergrund sein. Agentur-Nächte müssen sich nach ARBEIT anfühlen die zu Nähe führt, nicht nach Date im Büro
+
+---
+
+## Pacing-Erwartungen
+
+| Phase | Svenjas Geduld | Was sie braucht |
+|-------|---------------|-----------------|
+| Kap 1–3 | 3 Kapitel Schonfrist | Mindestens EINE Figur die sie mag + EIN Moment der knistert (nicht küssen — knistern) |
+| Kap 4–7 | Mittlere Geduld | Alle 2–3 Kapitel ein „er hat es sich gemerkt"-Moment oder ein emotionaler Punch. Wenn 3 Kapitel ohne → sie skimmt |
+| Kap 8–11 | Wird ungeduldig | Steamy-Aufbau muss spürbar sein. Wenn Kap 10 kommt und sie noch nichts gespürt hat → „Die Chemie stimmt nicht" |
+| Kap 12 | Steamy #1 | „ENDLICH." Aber nur wenn der Aufbau stimmte. Ohne Aufbau → „Kommt das jetzt aus dem Nichts?" |
+| Kap 13–17 | Angst vor Mittelteil-Sumpf | Braucht emotionale Eskalation, nicht nur Wiederholung. Carla-Stich (14), Steamy #2 (15) halten sie |
+| Kap 18–19 | Leons Isolation | Svenja wird Noras Abwesenheit SPÜREN weil sie ihre Stimme vermisst. Wenn gut gemacht → Gänsehaut |
+| Kap 20 | Payoff | „Hab geheult und will Buch 2 SOFORT" — oder wir haben verloren |
+
+---
+
 ## Svenja als Beta-Leserin (Endphase)
 
 ### Wie sie ein ganzes Buch liest
