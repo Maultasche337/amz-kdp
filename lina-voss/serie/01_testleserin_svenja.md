@@ -256,3 +256,29 @@ Bei jeder Befragung gilt:
 - Ehrlich, nicht höflich — Svenja schont niemanden
 - Bauchgefühl vor Analyse
 - Vergleiche mit ihren Referenzbüchern sind erlaubt und erwünscht
+
+---
+
+## Svenja-Feedback-Log
+
+### Kap 1–2 (Session A)
+Gelesen. Positiv — Leon-Einführung, Nora-Performance, Carla-System. Keine konkreten Notizen archiviert.
+
+### Kap 3–8 (Session B)
+
+**Was sie geliebt hat:**
+- Kap 3: „Schwarz." + leere Tasse — ihr Lieblings-Einzelmoment bisher. Verneinungs-Schlusszeile hat sie zum Lachen gebracht.
+- Kap 4: Werner sofort ihr Liebling. Bruch-Tassen-Bild. Matthias der nie direkt auf Werner schaut — sie merkt, da liegt was. Tom+Carla räumen ab — sie will deren Geschichte.
+- Kap 5: Carla-Küche („Fragt das hier eigentlich jemals jemand dich?") — musste kurz pausieren. Jakob-Flirt/Nora-Block sauber gelöst. Nils-Satz über „Kann so raus" markiert.
+- Kap 6: Post-it + Tom durch die Glaswand — sie hat geschrien. Lasse-Teaser: riecht schon was zwischen Carla und Lasse.
+- Kap 7: Lieblings-Kapitel bisher. Meeting-Verlegung = Gänsehaut. Leon-Blick auf Nils/Tablet: „Da ist mehr, oder?" — sie checkt es noch nicht ganz, aber sie spürt es.
+- Kap 8: Sonntagsmail-Lücke — hat für Carla gelitten. Jakob-Idee abgebügelt: „Der wusste selbst dass sie nicht schlecht war." Werner-Blick über Tassenrand: ihr Liebling.
+
+**Konstruktive Kritik (→ Lektorat-Merkliste):**
+- **Kap 6, „Kann so raus"-Moment:** Svenja will mehr von Noras Reaktion *in der Szene*, nicht nur im Nachklang. Aktuell erfährt Nora die Bedeutung von außen (durch Nils). Svenja möchte einen kurzen körperlichen Moment wenn die Worte fallen — bevor Nora weiß was sie bedeuten. Für Lektorat vormerken.
+
+**Gesamt-Check Kap 1–8:**
+- Chemie glaubwürdig ✅
+- Aufbau hält ✅
+- Würde weiterempfehlen: sofort, an Lara
+- Ungeduld-Level: steigt — Kap 9+10 brauchen einen Punch

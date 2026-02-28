@@ -52,12 +52,11 @@
 
 | # | Was | Kapitel | Typ |
 |---|-----|---------|-----|
-| 1 | Keine Sonntagsmail an Nora | durchgehend, Enthüllung **Kap 8** | Laufend → Reveal |
-| 2 | Review-Meetings von 9 auf 14 Uhr verlegt | **Kap 7** | Subtle |
-| 3 | Beschützt sie im Meeting (Ausgelacht-Mail) | **Kap 9** | Aktion |
-| 4 | Pro-Bono Senioren-Stiftung (Oma-Mail) | **Kap 14** | Emotionaler Kern |
-| 5 | „Woher wusstest du das?" — „Was?" Geht. | **Kap 16** | Payoff vor der Krise |
-| 6 | Mail-PS: „Sonntags arbeite ich jetzt auch nicht mehr" | **Kap 19** | Finaler Payoff |
+| 1 | Review-Meetings von 10 auf 14 Uhr verlegt | **Kap 7** | Subtle |
+| 2 | Beschützt sie im Meeting (Ausgelacht-Mail) | **Kap 9** | Aktion |
+| 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | **Kap 14** | Emotionaler Kern |
+| 4 | „Woher wusstest du das?" — „Was?" Geht. | **Kap 16** | Payoff vor der Krise |
+| 5 | Mail-PS: „Sonntags arbeite ich jetzt auch nicht mehr" | **Kap 19** | Finaler Payoff — seine Entwicklung |
 
 ### Steamy-Szenen
 
@@ -100,9 +99,19 @@
 
 | Kapitel | Was passiert |
 |---------|-------------|
-| 4 | Erstes Brunch — steif, Pflicht. Zweig 1 vs. 2. Werner-Spruch. Schulden-Teaser. |
-| 8 | Zweites Brunch — kurz erwähnt. Leon kommt 5 Min. früher. Werner bemerkt es. |
-| 20 | Epilog-Brunch — Leon kommt pünktlich. Brötchen für Tom. Werner-Spruch. Matthias-Blick. |
+| 4 | Erstes Brunch — steif, Pflicht. Zweig 1 vs. 2. Werner-Spruch. Schulden-Teaser. Leon geht als Erster. |
+| 8 | Zweites Brunch — Leon 5 Min früher, 15 Min länger. Jakob-Anekdote landet. Leon registriert: nicht genervt. Werner bemerkt es. |
+| 20 | Epilog-Brunch — pünktlich. Telefon in der Tasche. Brötchen für Tom. Werner-Spruch. Matthias-Blick. |
+
+### Brunch-Schreibregel: Leon taut auf
+
+**Je weiter das Buch, desto aufgetauter der Brunch — spiegelt Leons Eismann-Bogen.**
+
+- Kap 4: Eis. Pflicht. Geht als Erster. Kein Wort zu viel. Werner-Spruch landet, kein Reflex.
+- Kap 8: Erste Risse, noch unbewusst. Kommt früher, bleibt länger. Etwas landet — er registriert es, versteht es nicht.
+- Kap 20: Aufgetaut. Pünktlich. Präsent. Telefon weg. Sieht Tom.
+
+**Für zukünftige Brunch-Momente (Band 2, Band 3 etc.):** Jeder Brunch ist ein Statusbericht über Leons Innenwelt. Was er isst, wie lange er bleibt, wen er anspricht — das sind die Indikatoren. Nie benennen, immer zeigen.
 
 ---
 
@@ -283,9 +292,9 @@
 
 **Anwesende Figuren:** Leon, Carla, Nora, Jakob, Werner (Brunch-Erinnerung)
 
-**„Er hat es sich gemerkt" #1 — ENTHÜLLUNG:** Die Sonntagsmail-Lücke. Die Leserin hat das Puzzlestück — Nora noch nicht ganz. Leon sagt nichts. Carla versteht alles.
+**„Er hat es sich gemerkt" #1 — Payoff (Meeting-Verlegung):** Leon beobachtet Nora morgens durch die Glaswand — wie sie in Flow ist, ungestört, aufgeht. Kurze Erinnerung daran, wie sie früher bei den 10-Uhr-Meetings den Faden verloren hat. Er hat es gesehen. Hat die Meetings verschoben. Sagt nichts. Die Leserin versteht alles — Nora nicht.
 
-**Carla-Szene:** Die Sonntagsmail-Lücke als Stich. Carla-Leon-Dynamik: sie sieht was er fühlt, und es tut weh.
+**Carla-Szene:** Sie sieht ihn an der Glaswand stehen — Kaffee in der Hand, Blick auf Nora. Kein Wort. Sie geht weiter. Aber sie hat es gesehen.
 
 **Emotionaler Kern:** Der erste Moment wo die Leserin SICHER ist: er fühlt etwas. Und Carla ist die Zeugin — und das Opfer.
 
@@ -366,17 +375,17 @@
 
 **Szenen:**
 
-> **12.1 — Streit + Eskalation** (~1.500 W)
-> **STEAMY SZENE #1.** Noch in der Agentur, nach dem Pitch-Sieg. Nachtlicht, Adrenalin. Es beginnt mit einem Streit über einen Text — scharf, fachlich, laut. Sie steht zu nah. Er greift nach ihrem Handgelenk. Erstarrt. Sie bewegt sich nicht. Was folgt ist roh, dringend, nicht romantisch. Kontrollverlust — und Leon erschrickt sich selbst. Die Kälte von 16 Jahren bricht auf wie Eis im Frühling: nicht sanft, sondern mit einem Krachen.
+> **12.1 — Küchen-Szene** (~1.200 W)
+> **STEAMY SZENE #1.** Noch in der Agentur, nach dem Pitch-Sieg. Nachtlicht, Adrenalin. Nora macht Kaffee — er kommt in die Küche, legt die Hand neben ihre auf den Tresen (nicht drauf). Sie macht den ersten Schritt: kommt näher. Er stellt sich hinter sie, lässt ihr die Wahl. Sie bleibt. Emotionaler Kern: **Er lässt ihr die Wahl** — das ist der Ankerpunkt. „Clever. Und sexy." Dann: ja.
 
 > **12.2 — Danach** (~1.200 W)
-> Stille. Leon steht auf. Zieht sein Hemd zurecht. Sagt nichts. Geht in sein Büro. Schließt die Tür. Nora bleibt allein. Im Dunkeln. Die Leserin soll denken: heiß. Und dann: oh. Er ist danach KÄLTER als vorher — weil er sich verloren hat. Kontrollverlust = Küchenboden = Zerstörung.
+> Stille. Leon richtet sein Hemd. Sagt nichts. Geht in seinen Glaskasten. Schließt die Tür. Nora bleibt allein in der Küche. Er sitzt im Dunkeln und hört sie arbeiten — und denkt, dass sie den Kaffee jetzt schwarz trinkt. Die Leserin soll denken: heiß. Und dann: oh. Er ist danach KÄLTER als vorher — weil er weiß, was er weiß, und es weggräbt. Das ist der Anfang des Musters.
 
 **Anwesende Figuren:** Leon, Nora
 
-**Emotionaler Kern:** Die Leserin soll denken: heiß. Und dann: oh. Er ist danach KÄLTER als vorher — weil er sich verloren hat. Kontrollverlust = Küchenboden = Zerstörung. Er muss sich sofort wieder zusammensetzen. Das ist kein Happy Moment. Es ist der Anfang des Musters.
+**Emotionaler Kern:** Nicht Kontrollverlust im rohen Sinn — sondern das Erschrecken vor dem Wissen über sie. Er hat aufgehört, sich seine eigene Aufmerksamkeit als neutral zu erzählen. Das ist das, was ihn danach kälter macht.
 
-**Steamy-Level:** 3 (explizite Szene — Nalini Singh Level. Dunkel, dringend, roh. Kontrollverlust.)
+**Steamy-Level:** 3 (explizite Szene — Nalini Singh Level. Intentional, still, er lässt ihr die Wahl.)
 
 ---
 
@@ -603,6 +612,16 @@ Akt:    |——— Akt 1 ———|  |——— Akt 2a ———|  |——— Ak
 | Tom | 1, 2, 4, 6, 11, 20 |
 | Matthias | 2, 4, 20 |
 | Pia Kessler | 10 |
+
+---
+
+## Szenen-Ideen (ungeplant, noch nicht eingebaut)
+
+### ✅ Küchen-Szene — EINGEBAUT (Kap 12.1)
+
+### ✅ Build-up Blick-Momente — EINGEBAUT
+- Ihr POV → Kap 9 (Blick-Moment Großraum, Dachterrasse)
+- Sein POV → Kap 10 (Patina-Satz, er unterbricht sie, vergisst was er sagen wollte)
 
 ---
 

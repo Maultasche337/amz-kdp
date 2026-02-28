@@ -494,6 +494,7 @@ Enden auf einem **emotionalen Nachhall**, einer **Frage** oder einem **Handlungs
 | 18 | *„musste ein Lächeln unterdrücken"* | Abgegriffen | Max. 1× pro 5 Kapitel |
 | 19 | *„als ob/als hätte + Vergleich mit Naturgewalt"* | *„Als hätte ein Blitz eingeschlagen"* = Müll | Nur wenn originell |
 | 20 | *Zusammenfassende Absätze am Kapitelende* | *„Es war ein langer Tag gewesen"* = Buchbericht | NIEMALS |
+| 21 | *Sekunden zählen als Spannungsmittel* | *„Drei Sekunden."*, *„Eine halbe Sekunde."*, *„Zwölf Sekunden."* — mechanisch, kalt, reißt aus der POV raus. Dauer zeigen durch eigene Handlung: er liest einen Satz zweimal, sie faltet den Zettel bevor sie antwortet, das Licht draußen hat sich verschoben. | NIEMALS |
 
 ### 10.2 Wort-Wiederholungs-Alarm
 

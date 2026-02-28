@@ -8,16 +8,17 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | x | x | x | | | | | | | | | | | | | | |
-| Nora | x | x | x | | x | x | | | | | | | | | | | | | | |
-| Carla | x | x | | x | x | x | | | | | | | | | | | | | | |
-| Werner | | x | | x | | | | | | | | | | | | | | | | |
-| Nils | x | x | x | x | x | | | | | | | | | | | | | | | |
-| Jakob | | x | x | x | x | x | | | | | | | | | | | | | | |
-| Maren | | x | | x | | | | | | | | | | | | | | | | |
-| Tom | | x | | x | x | x | | | | | | | | | | | | | | |
+| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | | |
+| Nora | x | x | x | | x | x | x | x | x | x | x | x | x | | | | | | | |
+| Carla | x | x | | x | x | x | x | x | x | x | x | | x | | | | | | | |
+| Werner | | x | | x | | | | | | | (x) | | | | | | | | | |
+| Nils | x | x | x | x | x | | x | | x | | x | | | | | | | | | |
+| Jakob | | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
+| Maren | | x | | x | | | x | | x | x | x | | | | | | | | | |
+| Tom | | x | | x | x | x | x | x | x | | x | | | | | | | | | |
 | Matthias | | x | | x | | | | | | | | | | | | | | | | |
 | Elena | x | | x | | x | | | | | | | | | | | | | | | |
+| Pia Kessler | | | | | | | | | | x | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
 
@@ -29,17 +30,17 @@
 |-----|-----------|-----------|---------------------|---------|
 | 1 | Montag | Morgen → Abend (bis nach 18:30) | Woche 1 | Noras erster Tag. Carla-Onboarding, Nils-Intro, Leon „Ihr Schreibtisch ist dort", Brinkmann-Briefing, Agentur-Nacht beginnt |
 | 2 | Dienstag/Mittwoch | Morgen → Mittag (7 Uhr → ca. 13 Uhr) | Woche 1 | Leon POV. Ritual, Carla-Rückblende (3 Tage vorher), Zweig-2-Ankunft, Werner-Besuch, Matthias-Szene |
-| 3 | Donnerstag | Spätnachmittag → Nacht (~17:30 → ~22 Uhr) | Woche 1 | Noras 4. Tag. Performance-Kontrast (AN/AUS). Tischkante. Schwarzer Kaffee. „Schwarz." Mama-Muster gesät. |
+| 3 | Donnerstag | Spätnachmittag → Nacht (~17:30 → ~22 Uhr) | Woche 1 | Noras 4. Tag. Performance-Kontrast (AN/AUS). Tischkante. Schwarzer Kaffee. „Schwarz." Mama-Muster gesät. Sonntag danach: Erster Sonntagsbrunch-Abstand, Leon schickt Sonntagsmail an alle inkl. Nora. |
 | 4 | Sonntag | Vormittag (~9:30–11:30) | Woche 1/2 | Brunch #1. Werners Wohnung Eppendorf. Schulden-Teaser (Henrik). Nils-Serviette. Leon geht zuerst. Werner-Spruch #2. Tom+Carla räumen ab. |
 | 5 | Montag | Morgen → Nacht (~8–23 Uhr) | Woche 2 | Franzbrötchen. Leons Kommentare (A: „Zu weich", B: „Schon da gewesen", C: kein Kommentar). Carla-Küche: „Fragt das hier eigentlich jemals jemand dich?" Jakob flirtet, Nora blockt, Leon beobachtet. Agentur-Nacht: Streit über _erinnerst_, Kreis statt Streichung. |
 | 6 | Di + Fr | Abend + Nachmittag | Woche 3 | Heiße Phase. „Kann so raus" (NSeufert_B_KonzeptC_Rev3). Lasse Petersen gebucht. Post-it — Noras Profil — Mülleimer. Tom sieht es durch Glaswand. |
-| 7 | | | Woche 3–4 | |
-| 8 | Montag | Morgen | Woche 4–5 | Sonntagsmail-Enthüllung |
-| 9 | | | Woche 5 | Letzte Pitch-Runde |
-| 10 | | Abend | Woche 5–6 | Branchen-Event |
-| 11 | | 10 Uhr → 21 Uhr | Woche 6 | Pitch-Tag |
-| 12 | | Nacht | Woche 6 | Nach Pitch-Sieg |
-| 13 | | Morgen → Abend | Woche 6+ | Morgen danach |
+| 7 | Mo + Di + Do | Morgen / Abend / Abend | Woche 4 | Meeting-Verlegung entdeckt (14 Uhr). Wortloses System etabliert (Bildkonzept-Streit). Nils zeigt Schulterblatt-Zeichnung. Leon sieht sie zusammen — kälterer Blick. |
+| 8 | Montag | Morgen → Nachmittag | Woche 5 | Sonntagsmail-Lücke enthüllt. Jakob-Idee (territorial abgeschnitten). Brunch-Erinnerung: Werner-Blick über Kaffeetasse. Leon 15 Min. länger geblieben als sonst. |
+| 9 | Do oder Fr | Nachmittag → Abend | Woche 5 | Letzte Pitch-Präsentation (Folie neun). Junior-Creative-Kommentar. „Mund halten." Nils-Küche: „Praktisch eine Liebeserklärung." Blick-Moment (Großraum, Stuhllehne). Dachterrasse: erste Frage „wer ist er hinter der Mauer". Verben-Nacharbeit, sein Licht noch an. |
+| 10 | Donnerstag | Abend (bis ~23 Uhr) | Woche 6 | Branchen-Event Speicheretage Hafen. Pia Kessler: „Man sieht's." — Jakob: Lächeln bleibt. Taxi zurück zur Agentur — Knie berühren sich, keiner weicht zurück. Maren-Foto existiert. |
+| 11 | Freitag | 10 Uhr → ~22 Uhr | Woche 6 | Pitch 10 Uhr (Brinkmann kommt zur Agentur). Nora hört ihre Texte von außen — sie sind gut. Tonalität-Frage: Nora antwortet vor Leon, ohne Entschuldigung. „Gut gemacht." — zwei Worte, er ist schon weg. Warten nachmittags. Tom: vierter Kaffee. Jakob: Thai-Food (keine Antwort aus dem Glaskasten). Leon arbeitet wirklich. 21:07: „Wir haben es." Champagner (Jakob, seit Mittwoch im Kühlschrank). Nils-Toast: „Auf den Kunden, der nicht merkt..." Werner am Telefon: „Gute Kampagnen erkennt man daran..." Blick zwischen Leon und Nora — keine halbe Sekunde. Team fährt in Schanze. Leon bleibt. Nora bleibt. Küchentext-Streit beginnt. |
+| 12 | Fr→Sa | Nacht | Woche 6 | Küchen-Szene: Nora macht Kaffee, Leon legt Hand neben ihre (nicht drauf). Sie macht den ersten Schritt. Er stellt sich hinter sie, lässt ihr die Wahl. Sie bleibt. „Clever. Und sexy." Danach: er richtet das Hemd, sagt nichts, geht in den Glaskasten, schließt die Tür. Hört sie arbeiten. „Sie trank den Kaffee schwarz." Öffnet neues Dokument. |
+| 13 | Samstag | Morgen → Abend | Woche 6 | Leon bereits da, Licht brennt. Brinkmann-Änderung: „Variante drei." Professionell, kalt, als wäre nichts. Nora erkennt: er tut so als wäre nichts — nicht aus Verachtung, aus Kontrollbedürfnis. Carla kommt abends zurück, Grauburgunder. Masken-Gespräch: „Ich bin müde, immer die zu sein, die den Raum aufhellt." / „Ich bin müde, immer die zu sein, bei der alles funktioniert." Werner-Teaser (Band 3). Nora geht zum ersten Mal nach Hause. Mama-Muster erkannt: sie richtet sich aus. Öffnet das Fenster. Bleibt. |
 | 14 | | | Woche 7–8 | Muster etabliert |
 | 15 | | Abend/Nacht | Woche 8–9 | |
 | 16 | | Nacht (2 Uhr) | Woche 9–10 | Folgeprojekt-Stress |
@@ -61,9 +62,9 @@
 | Agentur-Küche | 1 | Erwähnt (Siebträger, Anleitungszettel), Team isst dort mittags. Ort für Geheimnisse, Carla-Nora-Momente |
 | Dachterrasse | | Noras Rückzugsort (Kap 9) |
 | Werners Wohnung (Brunch) | 4 | Eppendorf, 3. OG, kein Aufzug, Teppich (Bohnerwachs). Großer Esstisch, 12 Plätze. Altes Porzellan (blaue Randlinie, Golddekor, einige Tassen randlos — Werner ersetzt sie nicht). Fenster zum Innenhof (Kastanie, Wäscheleine). |
-| Noras Wohnung | | Eingeführt in Kap 20 (Tageslicht-Szene) |
+| Noras Wohnung | 10 | Ottensen, genaue Straße offen. Richtung: gleiche Seite wie Hafen-Ausgang → Altona. Innenausstattung: Eingeführt in Kap 20 (Tageslicht-Szene). |
 | Bar in der Schanze | | Team feiert nach Pitch (Kap 11) |
-| Branchen-Event-Location | | Kap 10 |
+| Branchen-Event-Location | 10 | Speicheretage im Hafen. Hohe Decken, Ziegelwände (Patina, Abendsonne). Lange Fenster auf den Hafen — Containerschiffe lautlos. Ca. 120 Gäste. |
 
 *Beschreibungen ergänzen sobald im Text etabliert.*
 
@@ -175,12 +176,11 @@
 
 | # | Was | Plant (Kap) | Payoff (Kap) | Status |
 |---|-----|-------------|--------------|--------|
-| 1 | Keine Sonntagsmail an Nora | 3 (gesät) | 8 (Enthüllung) | ⬜ |
-| 2 | Review-Meetings von 9 auf 14 Uhr | 7 | 7 | ⬜ |
-| 3 | Beschützt sie im Meeting (Ausgelacht-Mail) | 9 | 9 | ⬜ |
-| 4 | Pro-Bono Senioren-Stiftung (Oma-Mail) | 14 | 14 | ⬜ |
-| 5 | „Woher wusstest du das?" — „Was?" | 16 | 16 | ⬜ |
-| 6 | Mail-PS: Sonntags arbeite ich nicht mehr | 19 | 19 | ⬜ |
+| 1 | Review-Meetings von 10 auf 14 Uhr | 7 | 8 (Glaswand-Payoff) | ⬜ |
+| 2 | Beschützt sie im Meeting (Ausgelacht-Mail) | 9 | 9 | ⬜ |
+| 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | 14 | 14 | ⬜ |
+| 4 | „Woher wusstest du das?" — „Was?" | 16 | 16 | ⬜ |
+| 5 | Mail-PS: Sonntags arbeite ich nicht mehr | 19 | 19 | ⬜ |
 
 *Status: ⬜ offen → ✏️ gesät → ✅ payoff geschrieben*
 
@@ -190,7 +190,7 @@
 
 | Band | Teaser | Kap | Status |
 |------|--------|-----|--------|
-| 2 (Jakob/Pia) | Jakob trifft Pia: „Man sieht's." | 10 | ⬜ |
+| 2 (Jakob/Pia) | Jakob trifft Pia: „Man sieht's." | 10 | ✏️ |
 | 3 (Carla/Lasse) | Lasses Name fällt, Carla: „Absolut nicht." Leon: „Bucht ihn." | 6 | ✏️ |
 | 4 (Maren/Finn) | Werner erwähnt Schulden, Stille | 4 | ✏️ |
 | 5 (Nils) | Nils zeichnet, klappt zu | 4 | ✏️ |
@@ -201,7 +201,7 @@
 
 | Faden | Gesät (Kap) | Payoff (Kap) | Status | Notizen |
 |-------|-------------|--------------|--------|---------|
-| Sonntagsmail-Motiv | 3 | 8, 19, 20 | ⬜ | Rahmen des ganzen Buches |
+| Sonntagsmail-Motiv | 2 | 19 | ⬜ | Leons Charakter (Arbeitssucht). Payoff Kap 19: er hört auf — seine Entwicklung, kein Geschenk an Nora. Nora bekommt die Sonntagsmail wie alle anderen. |
 | Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
 | Küchenboden-Parallele | Backstory | 19 | ⬜ | Leon mit 16 → Leon jetzt |
 | Nils zeichnet wie Mama | 4 | 18 | ⬜ | „Du zeichnest auch wie sie" |
@@ -316,13 +316,13 @@
 | 4 | ~2.200 | Outline-treu. Szene 4.1/4.2 wie geplant. Werner-Spruch geliefert. Schulden-Teaser (Maren reagiert über Kamera). Nils-Serviette + Handgelenk-Erkennung (Mama). Leon geht zuerst, hält 1 Sek. an Türklinke inne (Werner-Spruch sitzt, nicht benannt). Tom+Carla räumen ab, Werner sieht zu, Matthias sitzt immer noch. | Brunch als Pflichtveranstaltung: zeigen ohne erklären. Werner-Porzellan (kaputt, nicht ersetzt) = Familie in einem Bild. Matthias starrt immer knapp an Werner vorbei — nie auf ihn. Tom+Werner comfortable silence als Kontrast zu Leon+Matthias. |
 | 5 | ~3.600 | Outline-treu. Drei Szenen. Carla-Szene #2 geliefert. Jakob-flirtet-Leon-beobachtet wie geplant. Streit über _erinnerst_ neu — Kreis statt Streichung als Payoff. Bindestrich-Streit als Charaktermoment (Leon akzeptiert Niederlage ohne Kommentar). | Nils: „Bei Leon ist kein Kommentar das Beste" = wichtiges Reader-Info-Beat. Carla: „Leon weiß es. Er hat nur noch nicht entschieden ob er will dass du es weißt." = perfekte Carla-Stimme. Leon beobachtet Glaswand: erste Regung gesät. |
 | 6 | ~2.600 | Outline-treu. Szenen 6.1/6.2 wie geplant. Maren im Wellberg-Außendreh (erklärt ihre Abwesenheit bei Fotografen-Diskussion). Lasse Petersen gebucht gegen Carlas „Absolut nicht" — Leon hatte Portfolio schon offen. Post-it-Szene: Tom sieht Noras Profil durch Glaswand. „Kann so raus" — Nora versteht das Gewicht nicht. | „Zweig 2" ist Leons internes Label, kein Figuren-Dialog. Maren: Freelancerin mit eigenem Agentur-Auftrag (Wellberg). |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-| 11 | | | |
-| 12 | | | |
-| 13 | | | |
+| 7 | ~3.600 | Outline-treu. 7.1: Meeting-Verlegung (Carla+Nils diskutieren, Nora hört zu, Leon antwortet ohne sie anzusehen). 7.2: Wortloses System — Bildkonzept-Streit, Nora zu müde zum Performen, Leon reagiert nicht auf Performance. 7.3: Nils zeigt Schulterblatt-Zeichnung, Nora: „Das ist richtig gut", Leon kommt rein, kälterer Blick. | Meetings auf 10→14 Uhr-Verlegung enthüllt. Nora verbindet es nicht. „Er hat es sich gemerkt" #2 gepflanzt. Nils als Stachel etabliert. |
+| 8 | ~2.400 | Überarbeitet. 8.1: Morgenbeobachtung — Leon steht an der Glaswand, Kaffee in Hand, sieht Nora im Flow. Carla tritt aus ihrem Büro, sieht ihn stehen, sieht wo sein Blick liegt. Kein Wort. Er dreht sich um. 8.2: Sonntagsmail-Routine etabliert (sein Charakter). Jakob-Idee territorial abgeschnitten. Brunch-Erinnerung (Fünf Minuten früher, Werner-Blick). | „Er hat es sich gemerkt" #1 Payoff: Glaswand-Moment als Beweis ohne Worte. Carla als Zeugin — sie sieht WAS er fühlt, nicht WAS er getan hat. |
+| 9 | ~2.700 | Outline-treu. 9.1: Präsentation Folie 9 (stärkster Text). Junior-Kommentar „Poesie-Album". Köln-Flash (1 Bild, kurz). Leon: „Mund halten." Stille. Kris folds. Meeting weiter. 9.2: Nils-Küche: „Praktisch eine Liebeserklärung." Blick-Moment (Stuhllehne, Großraum). Dachterrasse: erste echte Frage. Licht noch an. | „Er hat es sich gemerkt" #3 geliefert. Junior Creative (namenlos, nur „der Junior") als Figur eingeführt und geschlossen. Erster echter Riss in Noras Nicht-Fragen-Haltung. |
+| 10 | ~2.400 | 10.1: Branchen-Event — Leon kartiert Raum in 10 min, Thorsten/Thomas in 20 Sekunden abgeschnitten. Carla: Methode links→rechts (sie hat sie nie benannt). Jakob überall gleichzeitig. Pia Kessler: am Rand, ruhige Haltung. Jakob geht hin — „Du bist Henrik Hartmanns Sohn, oder? Man sieht's." Jakobs Lächeln bleibt vollständig. Leon sieht weg. 10.2: Leon sieht hinter Noras Sunshine — dieselbe Erschöpfung, andere Maske. Patina-Satz: er unterbricht sie, vergisst was er sagen wollte. Maren-Foto: er schaut sie an, sie schaut woanders hin. Taxi zurück: Knie berühren sich bei Ampel, keiner weicht zurück. „Gute Nacht." — „Ja." | Serien-Teaser Band 2 gepflanzt. Maren-Foto gepflanzt (kein Payoff Band 1). Leons erste echte Erkenntnis: sie macht dasselbe wie er, Licht statt Eis. Steamy-Level 2 (Knie, Stille, Proximity). |
+| 11 | ~3.700 | Pitch gewonnen. Champagner. Warten-Atmosphäre etabliert (Tom/Jakob/Nils). Werner-Spruch gepflanzt. Blick zwischen Leon+Nora nach dem Anruf. | Werner-Spruch: „...dass der Kunde nicht merkt, dass er verkauft wird" — redet über Leon+Nora. Leserin versteht, Team nicht. |
+| 12 | ~2.500 | Küchen-Szene: er lässt ihr die Wahl, sie bleibt. Steamy #1. Danach: Rückzug in Glaskasten. Erster Schritt ins Muster. | „Clever. Und sexy." eingebaut. Kontrollverlust = er erschrickt vor dem Wissen über sie, nicht vor sich selbst. |
+| 13 | ~3.500 | Brinkmann-Änderung (Variante drei). Carla-Wein-Abend: Masken. Nora erkennt Mama-Muster. Erste Nacht zu Hause seit Wochen. | Mama-Muster erstmals bewusst. Carla+Werner-Teaser (Band 3) gepflanzt. |
 | 14 | | | |
 | 15 | | | |
 | 16 | | | |

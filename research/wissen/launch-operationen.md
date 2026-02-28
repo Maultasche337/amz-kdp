@@ -1,5 +1,5 @@
 # Launch-Operationen
-*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann), Kindlepreneur: ARC Launch Team, Kindlepreneur: Editorial Reviews*
+*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann), Instagram-Profil-Optimierung Transkript, Kindlepreneur: ARC Launch Team, Kindlepreneur: Editorial Reviews*
 
 ---
 
@@ -261,23 +261,73 @@ Vollständige Checkliste für jeden BookTok-Post. Vor dem Posten durchgehen. [Qu
 
 ### Bookstagram: Profil-Setup für Autorinnen
 
-Anleitung für Instagram-Profil als Autorin. [Quelle: Bookstagram-Guide, Hegermann, 2026-02-25]
+*[Quellen: Bookstagram-Guide, Hegermann, 2026-02-25 + Instagram-Profil-Optimierung Transkript, 2026-02-25]*
 
 **Account-Entscheidung**
 - Neues Profil empfohlen → Instagram pusht neue Accounts als „Neu"
-- Bestehendes Profil nur, wenn: ausschließlich Schreib-Content, bestehendes Umfeld informiert, Zielgruppe bereits aufgebaut
+- Bestehendes Profil nur wenn: ausschließlich Schreib-Content, bestehendes Umfeld informiert, Zielgruppe bereits aufgebaut
 - Pseudonym-Account möglich (senkt Hemmschwelle)
 - Creator- oder Business-Profil aktivieren (für Statistiken, Ads, automatisiertes Posten)
 
-**Bio: 4-Zeilen-Formel**
-1. **Namenszeile** (fettgedruckt, suchbar!) — Vorname + Genre-Keywords. NICHT nur Name wiederholen. ⚠️ Nur 2× in 14 Tagen änderbar!
-2. **Claim** — Was für Geschichten schreibst du für wen?
-3. **Erwartung** — Worüber postest du genau?
-4. **Call-to-Action** — Was sollen Follower tun? (Homepage besuchen / DM schreiben / Highlights durchklicken / Geschichte lesen)
+**Die 1,5–3 Sekunden Regel**
 
-**Bookstagram ≠ eigene App** — es ist eine Themenwolke, in der Algorithmus Beiträge und Profile bündelt. Community-Hashtag für die Autor:innen- und Lesebubble. SEO ist auf Instagram angekommen → Keywords wichtiger als Hashtags.
+Neuen Besucherinnen sehen dein Profil und entscheiden in 1,5–3 Sekunden, ob sie bleiben. Tun sie es nicht, erinnern sie sich nach 30 Sekunden nicht mehr an dich. Lösung: sofort klar sagen, was sie bei dir bekommen — nicht wer du bist, sondern was sie davon haben.
 
-**Hashtags:** 3-4 aussagekräftige (nicht mehr 30). Nützlich für Vernetzung bei Aktionstagen (#wewritewednesday, #buchmarketingmittwoch, #autor_innensonntag).
+**Profilbild**
+- Gesicht gut erkennbar, nah an der Kamera, hoher Kontrast
+- Möglichst mit Buch im Bild
+- Kein Urlaubsfoto / Weitwinkel-Aufnahme — am Handy zu klein, bleibt nicht im Gedächtnis
+- Gesicht = bestes Marketinginstrument; oft genug zeigen
+
+**Accountname + Namenszeile**
+- Accountname = Autorinnen-Name (gut auffindbar)
+- Namenszeile (Zeile direkt unter dem Name): **Autorname + 1–2 Genre-/Trope-Keywords**
+- ⚠️ Namenszeile + Accountname sind die **einzigen suchbaren Felder** — alles in der Bio darunter wird von Instagram NICHT indexiert
+- Beispiele für Keywords: „Spicy Romance", „Age Gap", „Enemies to Lovers", „Workplace Romance"
+- ⚠️ Namenszeile nur **2× pro 14 Tage** änderbar — vor dem Eintragen sorgfältig prüfen
+
+**Bio: 3-Zeilen-Formel** (150 Zeichen gesamt; Zeile 4 erfordert „mehr anzeigen"-Klick → vermeiden)
+
+| Zeile | Inhalt |
+|-------|--------|
+| **1** | Statement-Metapher: Wie fühlen sich deine Bücher an? Kein Genre-Label, sondern ein Bild. Beispiel: „Meine Bücher fühlen sich an, als legt dir jemand von hinten die Hand auf die Schulter." |
+| **2** | Aktuelles Buch / nächste Veröffentlichung (mit Datum + Cover). NICHT: „Projekt XY, 50% fertig" |
+| **3** | Call to Action → Link. Beispiel: „Erfahre mehr über mich und meine Bücher ↓" |
+| optional | Social Proof: Amazon-Ranking, Awards, Presse-Zitat |
+
+**Bookstagram ≠ eigene App** — Themenwolke; Algorithmus bündelt Profile. SEO wichtiger als Hashtags.
+
+**Hashtags:** 3–4 aussagekräftige (nicht 30). Aktionstage: #wewritewednesday, #buchmarketingmittwoch, #autor_innensonntag
+
+**Link in Bio**
+- Eigene Landingpage empfohlen: Tracking möglich (woher kommt Traffic, wohin klicken sie?), Datenschutz geregelt
+- Alternativen: Linktree o.ä. — funktioniert, aber weniger Tracking
+- **Max. 3–4 Links**, inkl. Impressum
+- ⚠️ **Impressum-Link ist in Deutschland Pflicht**
+- Kein Link vor erstem Buch? → Bio auf Lesegefühl konzentrieren + „kommt Ende 2026" als Ausblick
+
+**Posts & Aktivität**
+- Mehr Posts = besser (signalisiert Aktivität) — „weniger ist mehr" ist auf Instagram falsch
+- Nie mehr Accounts folgen als einem selbst folgen
+- Nur buchbezogene Inhalte reposten — Instagram lernt aus Interaktionen und steckt dich in thematische Schubladen; privater Content auf privatem Account
+
+**Highlights**
+- Aussagekräftige Namen — keine Abkürzungen (neue Besucher kennen sie nicht)
+- Einheitliche Highlight-Cover (Farbschema oder Symbole passend zum Branding)
+- Inhalt: Bücher, Lesungen, Events, Buchmessen, Rezensionen
+- **Social Proof bündeln:** Einzelne Rezensionen in einem Highlight gesammelt wirken stärker als verstreut
+- Gerade am Anfang: kleine Erfolge hervorheben und „größer machen" — jede positive Rezension zählt
+
+**3 anpinnen-Posts (Feed-Anfang)**
+1. Vorstellungspost als Autorin
+2. Aktuelles Buch / Vorbestellung
+3. Aktuelle Aktion, Social Proof oder Buchtrailer der gut performt
+
+**Posting-Frequenz:** Konsistenz > Menge. Realistisch planen + 1 extra einplanen. Reels bester Reichweiten-Hebel, seit 2023 auch Fotos/Carousels wieder gut.
+
+**Überschriften nutzen!** Aufmerksamkeitsspanne gering → immer mit Überschrift. Provokant erlaubt.
+
+**Stories** für Interaktion: Follower mitnehmen, Umfragen, Fragen, Dialog starten.
 
 **Erste 9 Posts (vor Launch sichtbar haben)**
 1. Mein Warum — Deswegen schreibe ich
@@ -289,12 +339,6 @@ Anleitung für Instagram-Profil als Autorin. [Quelle: Bookstagram-Guide, Hegerma
 7. Kurzgeschichte aus 3 zufälligen Wörtern
 8. Das ist mein Lieblingsbuch in dem Genre
 9. Ich lese alles von diesem/r Autor:in
-
-**Posting-Frequenz:** Mehr Posts = mehr Wachstum, aber Konsistenz > Menge. Realistisch planen + 1 extra einplanen. Reels nach wie vor bester Reichweiten-Hebel, aber seit 2023 auch Fotos/Carousels wieder möglich.
-
-**Überschriften nutzen!** Aufmerksamkeitsspanne gering → immer mit Überschrift arbeiten. Provokant erlaubt. Menschen lieben Zustimmung oder Diskussion → dazu auffordern.
-
-**Stories** für Interaktion nutzen: Follower mitnehmen, Story-Formate (Umfragen, Fragen) spielen, Dialog starten.
 
 **Tools**
 - Canva (Design)
