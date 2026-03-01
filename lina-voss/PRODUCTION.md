@@ -127,6 +127,7 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
   - Figuren-Wunden und Bögen
   - Serien-Teaser (welche Nebenfiguren brauchen Szenen für ihren eigenen Band?)
 - Speichere als `bandXX/02_outline.md`
+- **Zeilennummern in der Outline:** Nach jedem geschriebenen Kapitel die aktuelle Zeilenangabe (Bereich) aus `05_manuscript.md` in der Outline eintragen. Format: `[Z. 1–187]` hinter dem Kapitel-Titel. So kann die KI Kapitel im Manuskript direkt per Zeilennummer finden, ohne den ganzen Text scannen zu müssen.
 
 ⚠️ **PAUSE:** Zeige Outline. User kann ändern, ergänzen, streichen.
 

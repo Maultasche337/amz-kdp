@@ -19,28 +19,28 @@
 
 ## POV-Verteilung
 
-| Kap | POV | Akt | Anmerkung |
-|-----|-----|-----|-----------|
-| 1 | Nora | 1 | Leserin lernt die Welt durch Noras Augen |
-| 2 | Leon | 1 | |
-| 3 | Nora | 1 | |
-| 4 | Leon | 1 | |
-| 5 | Nora | 1 | |
-| 6 | Leon | 2a | |
-| 7 | Nora | 2a | |
-| 8 | Leon | 2a | |
-| 9 | Nora | 2a | |
-| 10 | Leon | 2a | |
-| 11 | Nora | 2b | |
-| 12 | Leon | 2b | **Steamy #1** |
-| 13 | Nora | 2b | |
-| 14 | Leon | 2b | |
-| 15 | Nora | 2b | **Steamy #2** |
-| 16 | Leon | 3 | |
-| 17 | Nora | 3 | |
-| 18 | Leon | 3 | ← Bruch der Alternation (bewusst: Leon ist allein) |
-| 19 | Leon | 3 | ← Bruch der Alternation (bewusst: Isolation) |
-| 20 | Nora → Leon | 3 | Split-POV + **Steamy #3** + Epilog |
+| Kap | POV | Akt | Zeilen (05_manuscript.md) | Anmerkung |
+|-----|-----|-----|--------------------------|-----------|
+| 1 | Nora | 1 | Z. 9–176 | Leserin lernt die Welt durch Noras Augen |
+| 2 | Leon | 1 | Z. 177–342 | |
+| 3 | Nora | 1 | Z. 343–490 | |
+| 4 | Leon | 1 | Z. 491–694 | |
+| 5 | Nora | 1 | Z. 695–1042 | |
+| 6 | Leon | 2a | Z. 1043–1290 | |
+| 7 | Nora | 2a | Z. 1291–1558 | |
+| 8 | Leon | 2a | Z. 1559–1692 | |
+| 9 | Nora | 2a | Z. 1693–1836 | |
+| 10 | Leon | 2a | Z. 1837–2044 | |
+| 11 | Nora | 2b | Z. 2045–2316 | |
+| 12 | Leon | 2b | Z. 2317–2498 | **Steamy #1** |
+| 13 | Nora | 2b | Z. 2499–2773 | |
+| 14 | Leon | 2b | — | |
+| 15 | Nora | 2b | — | **Steamy #2** |
+| 16 | Leon | 3 | — | |
+| 17 | Nora | 3 | — | |
+| 18 | Leon | 3 | — | ← Bruch der Alternation (bewusst: Leon ist allein) |
+| 19 | Leon | 3 | — | ← Bruch der Alternation (bewusst: Isolation) |
+| 20 | Nora → Leon | 3 | — | Split-POV + **Steamy #3** + Epilog |
 
 **Warum der Bruch in Kap 18–19:** Nora hat sich zurückgezogen. Leon ist allein — mit Nils, dann mit sich selbst. Die Abwesenheit ihrer Stimme IST die Erzählung. Wenn sie in Kap 20 zurückkehrt, spürt die Leserin die Erleichterung physisch.
 
