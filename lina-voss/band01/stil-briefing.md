@@ -233,6 +233,31 @@ Eines der stärksten Werkzeuge. Figuren die NICHT antworten erzeugen mehr Spannu
 | **Werner** | 2–3 Sätze | Werbesprüche, indirekte Weisheit, fragt nie direkt | *„Werbung verkauft keine Produkte, Junge. Sie verkauft Gefühle."* |
 | **Carla** | 1–2 Sätze | Präzise, professionell, Ironie nur unter Vertrauten | *„Die Zahlen sind eindeutig. Der Pitch ist es nicht."* |
 
+### 3.5 Leon-POV: Prosa-Rhythmus (NICHT nur Dialog — gesamte Erzählung)
+
+Leon denkt in **vollständigen, analytischen Sätzen** — kontrolliert, fließend, mit Gedankenstrichen und Nebensätzen. Er ist methodisch, nicht fragmentiert. Seine Innenwelt klingt wie jemand, der alles registriert, einordnet und weitermacht.
+
+**Kernregel:** Kurze Sätze (1–3 Wörter) sind Wirkungsmomente — max. 3–4 pro Szene, nie aufeinanderfolgend. Der Grundton ist fließende Präzision.
+
+| Don't (Stakkato-Listen, Telegramm-Stil) | Do (kontrolliert fließend, analytisch) |
+|---|---|
+| *Rundgang. Küche: sauber. Großraum: leer. Zurück. Tür zu. Kaffee, schwarz.* | *Er machte seinen Rundgang — Küche, Großraum, Flur — und registrierte, dass alles stand wo es stehen sollte, die Tassen in der Spüle, keine davon seine, die Stühle an den Tischen.* |
+| *Er klickte. Nächste Datei. Weiter.* | *Er öffnete das nächste Dokument auf seinem zweiten Bildschirm, las den ersten Satz, las ihn noch einmal.* |
+| *Personalentscheidung. Logisch. Effizient.* | *Das war das Funktionierende an der Entscheidung — sie schrieb guten Human-Interest-Text, die anderen waren auf Markensprache getrimmt, und er hatte nicht weiter darüber nachgedacht.* |
+| *Dienstag. Kundencall um zehn. Brinkmann um vierzehn. Freelancer um sechzehn.* | *Dienstag — Kundencall um zehn, Brinkmann-Zwischenpräsentation um vierzehn Uhr, das Freelancer-Briefing am späten Nachmittag.* |
+| *Zwei Lichtquellen. Seine Lampe. Und ihre.* | *Zwei Lichtquellen waren übrig — seine Schreibtischlampe und, in der zweiten Reihe, der warme Kreis auf Noras Tastatur.* |
+
+**Referenz aus dem Manuskript (Kap 8):**
+> *Er hatte es schon in Woche zwei registriert, als die Review-Meetings noch um zehn lagen und er durch die Glaswand gesehen hatte, wie sie kurz vor der Kalender-Erinnerung aus dem Takt geriet — die Hände, die kurz über der Tastatur hingen, bevor sie die Datei speicherte und aufstand.*
+
+→ Ein langer, präziser Beobachtungs-Satz mit Gedankenstrich-Einschub. DAS ist Leons Stimme in der Prosa.
+
+**Wann kurze Sätze bei Leon funktionieren:**
+- Als Schlusspunkt nach einer langen Passage: *„Das war das System."*
+- Als emotionaler Einschlag: *„Sie blieb."*
+- Als Kontrollgeste: *„Weiter."*
+- NICHT als Aufzählung, NICHT als Grundrhythmus, NICHT mehr als 2 hintereinander.
+
 ---
 
 ## 4. SEXUELLE SPANNUNG — Sensorische Technik

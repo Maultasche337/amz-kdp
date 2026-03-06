@@ -11,7 +11,7 @@
 | **Ending** | Variante C (Küchenboden) + Mail-PS aus Variante B |
 | **POV** | Deep Limited Dual — Leon/Nora kapitelweise abwechselnd |
 | **Steamy** | Medium-Steamy (Nalini Singh Level), 3 explizite Szenen |
-| **Kapitel** | 20 |
+| **Kapitel** | 24 |
 | **Wörter/Kapitel** | 3.500–4.750 (in 2–4 Szenen à 1.000–1.800 W) |
 | **Gesamtlänge** | ~80.000–95.000 Wörter |
 
@@ -34,15 +34,24 @@
 | 11 | Nora | 2b | Z. 2045–2316 | |
 | 12 | Leon | 2b | Z. 2317–2498 | **Steamy #1** |
 | 13 | Nora | 2b | Z. 2499–2773 | |
-| 14 | Leon | 2b | — | |
-| 15 | Nora | 2b | — | **Steamy #2** |
-| 16 | Leon | 3 | — | |
-| 17 | Nora | 3 | — | |
-| 18 | Leon | 3 | — | ← Bruch der Alternation (bewusst: Leon ist allein) |
-| 19 | Leon | 3 | — | ← Bruch der Alternation (bewusst: Isolation) |
-| 20 | Nora → Leon | 3 | — | Split-POV + **Steamy #3** + Epilog |
+| 14 | Leon | 2b | Z. 2775–2919 | |
+| 15 | Nora | 2b | Z. 2921– | **Steamy #2** |
+| 16 | Leon | 3 | — | Rückfall + „Er hat es sich gemerkt" #5 |
+| 17 | Nora | 3 | — | **DER SATZ** — Climax |
+| 18 | Leon | 3 | — | Carla-Konfrontation (nach Noras Abgang) |
+| 19 | Nora | 3 | — | Tage danach + Renate |
+| 20 | Leon | 3 | — | ← Bruch: Leon allein mit Nils |
+| 21 | Leon | 3 | — | ← Bruch: Küchenboden + Mail-PS |
+| 22 | Nora | 3 | — | Nora schreibt für sich + Leon an der Tür |
+| 23 | Nora → Leon | 3 | — | **Steamy #3** — Tageslicht |
+| 24 | Leon | 3 | — | Brunch-Epilog |
 
-**Warum der Bruch in Kap 18–19:** Nora hat sich zurückgezogen. Leon ist allein — mit Nils, dann mit sich selbst. Die Abwesenheit ihrer Stimme IST die Erzählung. Wenn sie in Kap 20 zurückkehrt, spürt die Leserin die Erleichterung physisch.
+**POV-Design Akt 3:** Die Alternation bricht, weil die Beziehung bricht. Paare statt Wechsel:
+- 16L → 17N: Rückfall / Bruch (Aktion-Reaktion)
+- 18L → 19N: Carla / Renate (beide allein, parallele Abrechnungen)
+- 20L → 21L: **Isolation** (Nils-Nacht → Küchenboden — Nora ist ABWESEND, Leserin spürt es)
+- 22N → 23N→L: **Reunion** (Nora bestimmt das Tempo)
+- 24L: Epilog im Licht
 
 ---
 
@@ -56,7 +65,7 @@
 | 2 | Beschützt sie im Meeting (Ausgelacht-Mail) | **Kap 9** | Aktion |
 | 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | **Kap 14** | Emotionaler Kern |
 | 4 | „Woher wusstest du das?" — „Was?" Geht. | **Kap 16** | Payoff vor der Krise |
-| 5 | Mail-PS: „Sonntags arbeite ich jetzt auch nicht mehr" | **Kap 19** | Finaler Payoff — seine Entwicklung |
+| 5 | Mail-PS: „Sonntags arbeite ich jetzt auch nicht mehr" | **Kap 21** | Finaler Payoff — seine Entwicklung |
 
 ### Steamy-Szenen
 
@@ -455,9 +464,11 @@
 
 ---
 
-## AKT 3: KRISE + RESOLUTION (Kapitel 16–20)
+## AKT 3: KRISE + RESOLUTION (Kapitel 16–24)
 
 *Das Folgeprojekt bringt Stress. Leon fällt in alte Muster. Nora erkennt das Mama-Muster und bricht es. Leon ist allein — mit Nils, mit Carlas Worten, mit dem Küchenboden. Und dann steht er auf. Für sich. Im Tageslicht.*
+
+*Die POV-Alternation bricht ab Kap 16 — weil die Beziehung bricht. Paare statt Wechsel: Aktion-Reaktion, parallele Abrechnungen, Isolation, Reunion.*
 
 ---
 
@@ -465,33 +476,31 @@
 
 **Szenen:**
 
-> **16.1 — Rückfall + „Woher wusstest du das?"** (~1.500 W)
-> Folgeprojekt des Brinkmann-Deals. Deadline, Stress, neuer Kunde will Anpassungen. Leon übernimmt alles — allein, nachts, wie ein 16-Jähriger der den Laden rettet. Nicht weil er muss. Aus Reflex. Aus Angst. 2-Uhr-Nächte. Eis. Funktionieren. Nora entdeckt etwas das Leon unmöglich wissen kann — ein Detail das nur in einer alten Mail stand. Sie steht im Flur, fassungslos: „Woher wusstest du das?" Leon, auf dem Weg in sein Büro, ohne stehen zu bleiben: „Was?" Er geht. Keine Auflösung.
+> **16.1 — Rückfall** (~1.500 W)
+> Folgeprojekt des Brinkmann-Deals. Deadline, Stress, neuer Kunde will Anpassungen. Leon übernimmt alles — allein, nachts, wie ein 16-Jähriger der den Laden rettet. Nicht weil er muss. Aus Reflex. Aus Angst. 2-Uhr-Nächte. Eis. Funktionieren. Das Tag/Nacht-Muster kippt: jetzt nur noch Nacht.
 
-> **16.2 — Carlas Konfrontation** (~1.200 W)
-> Carla sieht Leon um 2 Uhr nachts in der Agentur. Wie immer. Wie seit 15 Jahren. Sie holt etwas aus ihrem Büro. Bleibt stehen. Sagt: „Ich halte dir den Rücken frei. Seit ich 15 bin. Irgendwann musst du dich umdrehen und es sehen." Nicht wütend — müde. Leon hört es. Sagt nichts. Aber er hört es.
+> **16.2 — „Woher wusstest du das?"** (~1.500 W)
+> Nora entdeckt etwas das Leon unmöglich wissen kann — ein Detail das nur in einer alten Mail stand. Sie steht im Flur, fassungslos: „Woher wusstest du das?" Leon, auf dem Weg in sein Büro, ohne stehen zu bleiben: „Was?" Er geht. Keine Auflösung. Nora bleibt im Flur stehen und begreift die Tragweite.
 
-**Anwesende Figuren:** Leon, Nora, Carla
+**Anwesende Figuren:** Leon, Nora
 
 **„Er hat es sich gemerkt" #5:** „Woher wusstest du das?" — der Payoff aller Mails zusammen. Nora begreift die Tragweite. Leon entzieht sich sofort.
 
-**Carla-Szene:** Die Konfrontation. „Irgendwann musst du dich umdrehen." — nicht wütend, müde. 15 Jahre Loyalität in einem Satz.
-
-**Emotionaler Kern:** Der Rückfall. Die Leserin sieht: alles was in Kap 15 passiert ist, war echt — aber es reicht nicht. Leon ist noch nicht soweit. Und er verliert nicht nur Nora — er übersieht Carla. Wie seit 15 Jahren.
+**Emotionaler Kern:** Der Rückfall. Die Leserin sieht: alles was in Kap 15 passiert ist, war echt — aber es reicht nicht. Leon ist noch nicht soweit.
 
 **Steamy-Level:** 0
 
 ---
 
-### Kapitel 17 — „Zwei Uhr nachts" | Nora
+### Kapitel 17 — „Der Satz" | Nora
 
 **Szenen:**
 
-> **17.1 — Das Muster erkennen + Der Satz** (~1.500 W)
-> Nora erkennt das Muster. Endgültig. Sie sieht Leon — 2 Uhr nachts, Agentur, allein, funktionierend — und erkennt: ich mache es wieder. Ich bin seine Sonne. Ich bin Mama. Sie geht in sein Büro. Nicht laut, nicht dramatisch. Leise und klar: „Ich will dich nicht nur um 2 Uhr nachts." Und der Nachsatz, leiser: „Und ich muss aufhören zu glauben, dass mein Licht dich retten kann." Doppel-Break. Leon erstarrt. Sie geht.
+> **17.1 — Das Muster erkennen** (~1.500 W)
+> Nora beobachtet Leon über Tage. Sieht den Rückfall. Die 2-Uhr-Nächte, das Funktionieren, die geschlossene Tür. Und erkennt: ich mache es wieder. Ich bin seine Sonne. Ich bin Mama. Sie wartet nicht darauf, dass er sich ändert — das wäre das alte Muster. Sie handelt.
 
-> **17.2 — Die Tage danach + Renate** (~1.500 W)
-> Die Tage danach: professionell, höflich, unerträglich. Sie arbeitet weiter (Vertrag), aber die Agentur-Nächte sind vorbei. Die Intimität ist vorbei. Was bleibt, ist der Abstand eines Schreibtisches und das Wissen, dass es mehr war. Nora ruft Mama an. Nicht Sonntag — Dienstag. Renate fragt nicht wie es Nora geht. Nora legt auf und denkt: ich will nicht mehr so leben. Ich will nicht mehr Sonne sein für Menschen die nicht fragen.
+> **17.2 — Der Satz** (~1.500 W)
+> Sie geht in sein Büro. Nicht laut, nicht dramatisch. Leise und klar: „Ich will dich nicht nur um 2 Uhr nachts." Und der Nachsatz, leiser: „Und ich muss aufhören zu glauben, dass mein Licht dich retten kann." Doppel-Break. Leon erstarrt. Sie geht. Die Tür fällt hinter ihr ins Schloss. Die Leserin hört den Klang.
 
 **Anwesende Figuren:** Nora, Leon
 
@@ -501,14 +510,52 @@
 
 ---
 
-### Kapitel 18 — „Du zeichnest auch wie sie" | Leon
+### Kapitel 18 — „Umdrehen" | Leon
 
 **Szenen:**
 
-> **18.1 — Allein + Nils kommt** (~1.200 W)
+> **18.1 — Nach Noras Abgang** (~1.500 W)
+> Leon allein. 2 Uhr nachts. Nora ist gerade gegangen. Ihr Satz hängt im Raum. Er arbeitet weiter — oder versucht es. Die Agentur ist stiller als sonst. Stiller als in Kap 12, stiller als in Kap 15. Die Stille einer Abwesenheit.
+
+> **18.2 — Carlas Konfrontation** (~1.500 W)
+> Carla kommt in die Agentur — holt etwas aus ihrem Büro. Sieht Leon. Wie immer. Wie seit 15 Jahren. Bleibt stehen. „Ich halte dir den Rücken frei. Seit ich 15 bin. Irgendwann musst du dich umdrehen und es sehen." Nicht wütend — müde. Leon hört es. Sagt nichts. Aber er hört es. Doppel-Punch: Nora gerade gegangen + Carla jetzt.
+
+**Anwesende Figuren:** Leon, Carla
+
+**Carla-Szene #6:** Die Konfrontation. „Irgendwann musst du dich umdrehen." — nicht wütend, müde. 15 Jahre Loyalität in einem Satz. Maximale Wirkung, weil es NACH „Der Satz" kommt.
+
+**Emotionaler Kern:** Zwei Frauen in einer Nacht sagen ihm die Wahrheit. Nora über die Beziehung. Carla über 15 Jahre. Er kann es nicht mehr ignorieren.
+
+**Steamy-Level:** 0
+
+---
+
+### Kapitel 19 — „Renate" | Nora
+
+**Szenen:**
+
+> **19.1 — Die Tage danach** (~1.500 W)
+> Professionell, höflich, unerträglich. Nora arbeitet weiter (Vertrag), aber die Agentur-Nächte sind vorbei. Die Intimität ist vorbei. Was bleibt, ist der Abstand eines Schreibtisches und das Wissen, dass es mehr war. Sie performt nicht mehr — aber das Nicht-Performen fühlt sich noch nicht nach Freiheit an. Noch nicht.
+
+> **19.2 — Renate** (~1.500 W)
+> Nora ruft Mama an. Nicht Sonntag — Dienstag. Renate erzählt von der Nachbarin, vom Wetter, von der Sendung gestern. Fragt nicht wie es Nora geht. Nora legt auf und denkt: ich will nicht mehr so leben. Ich will nicht mehr Sonne sein für Menschen die nicht fragen. Sie setzt sich an ihren Küchentisch und öffnet ein leeres Dokument.
+
+**Anwesende Figuren:** Nora (+ Renate am Telefon)
+
+**Emotionaler Kern:** Noras eigene Abrechnung. Parallel zu Leons Isolation — beide allein, beide mit der Wahrheit. Renate ist der Spiegel: das Muster hat einen Ursprung. Nora bricht es bewusst.
+
+**Steamy-Level:** 0
+
+---
+
+### Kapitel 20 — „Du zeichnest auch wie sie" | Leon
+
+**Szenen:**
+
+> **20.1 — Allein + Nils kommt** (~1.500 W)
 > Leon arbeitet allein. 2 Uhr nachts. Wie immer. Aber zum ersten Mal seit 16 Jahren fühlt sich „wie immer" nicht nach Kontrolle an. Es fühlt sich nach dem Küchenboden an. Nils kommt in die Agentur — er zeichnet dort manchmal nachts. Leon wusste das nicht. Oder hat es ignoriert. Nils sieht Leon und will gehen. Leon sagt: „Bleib." Ein Wort. Nils bleibt. Sie arbeiten nebeneinander. Nils zeichnet. Leon starrt auf Tabellen. Stille. Zwei Brüder die seit 16 Jahren nebeneinander existieren ohne sich zu sehen.
 
-> **18.2 — „Du zeichnest wie Mama"** (~1.200 W)
+> **20.2 — „Du zeichnest wie Mama"** (~1.500 W)
 > Dann, ohne Vorwarnung: „Du zeichnest wie Mama." Nils' Hand hält inne. In dem Satz steckt alles: Ich sehe dich. Ich sehe was du kannst. Ich sehe was ich aufgegeben habe. Es tut weh. Aber ich sehe es. Lange Stille. Nils zeichnet weiter. Irgendwann steht er auf. An der Tür dreht er sich um: „Du auch, weißt du. Du zeichnest auch wie sie." Leon starrt auf seine Post-its. Nils geht. Die Tür fällt ins Schloss.
 
 **Anwesende Figuren:** Leon, Nils
@@ -519,14 +566,14 @@
 
 ---
 
-### Kapitel 19 — „Küchenboden" | Leon
+### Kapitel 21 — „Küchenboden" | Leon
 
 **Szenen:**
 
-> **19.1 — Auf dem Boden** (~1.500 W)
+> **21.1 — Auf dem Boden** (~1.500 W)
 > Freitagabend. Die Agentur ist leer. Leon sitzt in der Agentur-Küche. Nicht am Tisch — auf dem Boden. Rücken an der Wand. Wie mit 16. Aber diesmal ist niemand da der sagt: *Du musst es schaffen.* Er denkt an den Küchenboden-Satz. An Matthias. An 16 Jahre Funktionieren. An Noras Gesicht: *Ich will dich nicht nur um 2 Uhr nachts.* An Nils: *Du zeichnest auch wie sie.* An Carla: *Irgendwann musst du dich umdrehen.* Er weint nicht. In Band 1 atmet er nur. Richtig. Zum ersten Mal.
 
-> **19.2 — Die Mail** (~1.200 W)
+> **21.2 — Die Mail** (~1.200 W)
 > Dann steht er auf. Öffnet seinen Laptop. Schreibt eine Mail an Nora. Betreff: *Pro-Bono Stiftung Lebensgeschichten — Projektupdate.* Drei sachliche Absätze. Professionell. Distanziert. Typisch Leon. Und am Ende: *PS: Sonntags arbeite ich jetzt auch nicht mehr. Das wird mein Tag.* Er schickt sie ab. Schließt den Laptop. Macht das Licht aus. Geht. Es ist 22 Uhr. Zum ersten Mal seit Jahren vor Mitternacht.
 
 **Anwesende Figuren:** Leon (allein)
@@ -539,33 +586,55 @@
 
 ---
 
-### Kapitel 20 — „Tageslicht" | Nora → Leon
+### Kapitel 22 — „Für Ilse" | Nora
 
 **Szenen:**
 
-> **20.1 — Nora schreibt für sich (Nora POV)** (~1.000 W)
+> **22.1 — Nora schreibt für sich** (~1.500 W)
 > Samstagnachmittag. Nora sitzt am Küchentisch in ihrer Wohnung. Sie hat aufgehört zu performen und schreibt zum ersten Mal etwas das ihr gehört — über Oma. Über Geschichten die verloren gehen. Nicht für einen Kunden. Nicht für Leon. Für sich. Für Ilse. Ihr Handy summt. Eine Mail. Absender: Leon Hartmann. Drei sachliche Absätze über die Stiftung. Sie scrollt runter. PS. Sie liest den PS dreimal. Legt das Handy weg.
 
-> **20.2 — Leon an der Tür (Nora POV)** (~1.200 W)
+> **22.2 — Leon an der Tür** (~1.500 W)
 > Es klingelt. Sie öffnet die Tür. Leon. Er sieht anders aus. Nicht besser — aber wacher. Als wäre eine Scheibe weg zwischen ihm und der Welt. Er hat nichts dabei. Keinen Vorwand. Keinen Projektordner. „Es ist Samstag", sagt sie. „Es ist hell." — „Ja." — „Ich kann das nicht gut. Aber ich will es versuchen." Sie lehnt sich an den Türrahmen. Lächelt nicht. Nicht weil sie nicht will — weil sie nicht muss. „Dann komm rein."
 
-> **20.3 — Steamy #3: Tageslicht (Nora/Leon POV)** (~1.500 W)
-> **STEAMY SZENE #3.** Im Tageslicht. In ihrer Wohnung. Nicht in der Agentur, nicht im Dunkeln, nicht um 2 Uhr nachts. Langsam, echt, ohne Performance. Zum ersten Mal sehen sie sich — beide ohne Maske. Noras Sommersprossen im Sonnenlicht. Leons Hände, die nicht greifen sondern halten. Keine Dringlichkeit. Kein Kontrollverlust. Bewusst, gewollt, im Licht.
+**Anwesende Figuren:** Nora, Leon
 
-> **20.4 — Epilog: Sonntagsbrunch (Leon POV)** (~1.000 W)
+**Emotionaler Kern:** Tageslicht. Der Titel wird zum Versprechen. Leon kommt am Tag. Im Licht. Nicht um 2 Uhr nachts. Nora bestimmt das Tempo — sie lässt ihn rein, nicht umgekehrt.
+
+**Steamy-Level:** 1 (Spannung, kein explizit)
+
+---
+
+### Kapitel 23 — „Im Licht" | Nora → Leon
+
+**Szenen:**
+
+> **23.1 — Steamy #3: Tageslicht** (~2.000 W)
+> **STEAMY SZENE #3.** Im Tageslicht. In ihrer Wohnung. Nicht in der Agentur, nicht im Dunkeln, nicht um 2 Uhr nachts. Langsam, echt, ohne Performance. Zum ersten Mal sehen sie sich — beide ohne Maske. Noras Sommersprossen im Sonnenlicht. Leons Hände, die nicht greifen sondern halten. Keine Dringlichkeit. Kein Kontrollverlust. Bewusst, gewollt, im Licht. POV-Wechsel: Nora beginnt, Leon übernimmt für den Schluss.
+
+**Anwesende Figuren:** Nora, Leon
+
+**Emotionaler Kern:** Der maximale Kontrast. Kap 12 = Nacht, Kontrolle, Flucht. Kap 15 = Nacht, Verletzlichkeit, er bleibt. Kap 23 = Tag, Licht, bewusst. Die Entwicklung beider Figuren in drei Szenen.
+
+**Steamy-Level:** 3 (explizite Szene — zärtlich, im Licht, echt.)
+
+---
+
+### Kapitel 24 — „Brötchen" | Leon
+
+**Szenen:**
+
+> **24.1 — Sonntagsbrunch** (~2.000 W)
 > Sonntagsbrunch bei Werner. Leon kommt. Pünktlich. Sieht Matthias am Tisch und hält den Blick eine Sekunde länger als sonst. Matthias senkt den Blick — nicht Vergebung, noch nicht. Aber Erkennung. Tom sitzt neben Werner. Leon reicht Tom die Brötchen: „Willst du auch eins?" Werner beobachtet es. Steht auf, hebt sein Glas: „Die beste Werbung ist die, an die man sich erinnert." Leon bleibt fünfzehn Minuten länger als sonst. Sein Handy bleibt in der Tasche. Nora ist nicht da. Das ist Band 2.
 
-**Anwesende Figuren:**
-- Nora-Teil: Nora, Leon
-- Brunch: Leon, Werner, Tom, Carla, Nils, Jakob, Maren, Matthias
+**Anwesende Figuren:** Leon, Werner, Tom, Carla, Nils, Jakob, Maren, Matthias
 
-**Werner-Spruch:** „Die beste Werbung ist die, an die man sich erinnert." — Über die Familie. Über das was sich verändert. Über Leon. Über alles.
-
-**Emotionaler Kern:** Tageslicht. Der Titel wird zum Versprechen. Leon kommt am Tag. Im Licht. Nicht um 2 Uhr nachts. Das Brötchen für Tom ist die kleinste Geste — und die Leserin weiß: Tom ist der den alle übersehen. Leon sieht ihn gerade zum ersten Mal. Das ist der Anfang.
+**Werner-Spruch #4:** „Die beste Werbung ist die, an die man sich erinnert." — Über die Familie. Über das was sich verändert. Über Leon. Über alles.
 
 **Band-2-Setup:** Leon ist NICHT geheilt. Er hat eine Tür aufgemacht. In Band 2 bringt er Nora zum Brunch — sein nächster Schritt.
 
-**Steamy-Level:** 3 (explizite Szene — zärtlich, im Licht, echt. Der Kontrast zu Kap 12 ist maximal.)
+**Emotionaler Kern:** Das Brötchen für Tom ist die kleinste Geste — und die Leserin weiß: Tom ist der den alle übersehen. Leon sieht ihn gerade zum ersten Mal. Das ist der Anfang.
+
+**Steamy-Level:** 0
 
 ---
 
@@ -573,44 +642,44 @@
 
 ### Checkliste
 
-- [x] 20 Kapitel mit POV, Figuren, Plot, emotionalem Kern
-- [x] POV wechselt sauber (bewusster Bruch in 18–19 = Leons Isolation)
-- [x] Alle 6 „er hat es sich gemerkt"-Momente platziert (Kap 8, 7, 9, 14, 16, 19)
+- [x] 24 Kapitel mit POV, Figuren, Plot, emotionalem Kern
+- [x] POV alterniert sauber bis Kap 15, bricht danach bewusst (Paare, Isolation, Reunion)
+- [x] Alle 6 „er hat es sich gemerkt"-Momente platziert (Kap 8, 7, 9, 14, 16, 21)
 - [x] Alle 4 Serien-Teaser platziert (Kap 10, 6, 4, 4)
-- [x] 3 Steamy-Szenen mit emotionalem Aufbau (Kap 12, 15, 20)
-- [x] Ending C+B vollständig in Akt 3 (Küchenboden Kap 19, Mail-PS Kap 19, Nils Kap 18, Brunch Kap 20)
-- [x] Brunch 3× (Kap 4 Setup, Kap 8 Erwähnung, Kap 20 Epilog)
+- [x] 3 Steamy-Szenen mit emotionalem Aufbau (Kap 12, 15, 23)
+- [x] Ending C+B vollständig in Akt 3 (Küchenboden Kap 21, Mail-PS Kap 21, Nils Kap 20, Brunch Kap 24)
+- [x] Brunch 3× (Kap 4 Setup, Kap 8 Erwähnung, Kap 24 Epilog)
 - [x] Tension-Kurve steigt konsistent (0 → 1 → 2 → 3 → 0 → 3)
-- [x] Alle 6 Carla-Szenen integriert
-- [x] Alle 4 Werner-Sprüche platziert
+- [x] Alle 6 Carla-Szenen integriert (Kap 2, 5, 8, 13, 14, 18)
+- [x] Alle 4 Werner-Sprüche platziert (Kap 2, 4, 11, 24)
 - [x] Noras Bogen: Performance → Erkennung → Bruch → eigene Stimme
 - [x] Leons Bogen: Eis → Risse → Muster → Küchenboden → Aufstehen
-- [x] Kein Head-Hopping innerhalb eines Kapitels
-- [x] Matthias' Entschuldigung AUFGESPART (nur Blick in Kap 20)
+- [x] Kein Head-Hopping innerhalb eines Kapitels (POV-Wechsel nur in Kap 23)
+- [x] Matthias' Entschuldigung AUFGESPART (nur Blick in Kap 24)
 - [x] Leon weint NICHT (kommt erst in Band 5)
 - [x] Nora ist NICHT beim Brunch (das ist Band 2)
 
 ### Tension-Kurve
 
 ```
-Steamy: 0  0  1  0  1  1  1-2  1  2  2  2  3  0  1  3  0  0  0  0  3
-Kap:    1  2  3  4  5  6   7   8  9  10 11 12 13 14 15 16 17 18 19 20
-Akt:    |——— Akt 1 ———|  |——— Akt 2a ———|  |——— Akt 2b ———|  |— Akt 3 —|
+Steamy: 0  0  1  0  1  1  1-2  1  2  2  2  3  0  1  3  0  0  0  0  0  0  1  3  0
+Kap:    1  2  3  4  5  6   7   8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Akt:    |——— Akt 1 ———|  |——— Akt 2a ———|  |——— Akt 2b ———|  |————— Akt 3 ————————|
 ```
 
 ### Figuren-Auftritte
 
 | Figur | Kapitel |
 |-------|---------|
-| Leon | 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
-| Nora | 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20 |
-| Carla | 1, 2, 4, 5, 6, 8, 11, 13, 14, 16, 20 |
-| Werner | 2, 4, 8, 11, 20 |
-| Nils | 1, 4, 7, 9, 11, 18, 20 |
-| Jakob | 1, 2, 4, 5, 8, 10, 11, 20 |
-| Maren | 1, 2, 4, 10, 11, 20 |
-| Tom | 1, 2, 4, 6, 11, 20 |
-| Matthias | 2, 4, 20 |
+| Leon | 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24 |
+| Nora | 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 22, 23 |
+| Carla | 1, 2, 4, 5, 6, 8, 11, 13, 14, 18, 24 |
+| Werner | 2, 4, 8, 11, 14(x), 24 |
+| Nils | 1, 4, 7, 9, 11, 14, 20, 24 |
+| Jakob | 1, 2, 4, 5, 8, 10, 11, 14, 24 |
+| Maren | 1, 2, 4, 10, 11, 24 |
+| Tom | 1, 2, 4, 6, 11, 14, 24 |
+| Matthias | 2, 4, 24 |
 | Pia Kessler | 10 |
 
 ---

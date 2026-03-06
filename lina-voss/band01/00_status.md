@@ -22,7 +22,8 @@
 
 - **Ending:** Variante C (Küchenboden) + Mail-PS aus Variante B
 - **POV:** Deep Limited Dual — Leon/Nora kapitelweise abwechselnd
-- **Steamy:** 3 explizite Szenen (Kap 12, 15, 20), Nalini Singh Level
+- **Steamy:** 3 explizite Szenen (Kap 12, 15, 23), Nalini Singh Level
+- **Kapitel:** 24 (erweitert von 20 — Akt 3 atmet, POV-Bruch ab Kap 16)
 - **Brunch:** Existiert seit ~2–3 Jahren. Steif/Pflicht in Band 1. Leon bringt Nora erst in Band 2 mit.
 
 ## Offene Punkte
@@ -49,4 +50,6 @@ Phase 4: Schreiben — Session A (Kapitel 1–5, Akt 1: Setup)
 → Kapitel 11 fertig (~3.700 W, Nora POV)
 → Kapitel 12 fertig (~2.500 W, Leon POV)
 → Kapitel 13 fertig (~3.500 W, Nora POV)
-→ **Nächster Schritt:** Kapitel 14 — Muster (Leon POV)
+→ Kapitel 14 fertig (~2.400 W, Leon POV)
+→ Kapitel 15 fertig (~3.300 W, Nora POV, Steamy #2)
+→ **Nächster Schritt:** Kapitel 16 — Reflex (Leon POV, Rückfall + Carla-Konfrontation)

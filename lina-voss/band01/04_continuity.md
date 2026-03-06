@@ -6,19 +6,19 @@
 
 ## Figuren-Auftritte
 
-| Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | | |
-| Nora | x | x | x | | x | x | x | x | x | x | x | x | x | | | | | | | |
-| Carla | x | x | | x | x | x | x | x | x | x | x | | x | | | | | | | |
-| Werner | | x | | x | | | | | | | (x) | | | | | | | | | |
-| Nils | x | x | x | x | x | | x | | x | | x | | | | | | | | | |
-| Jakob | | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
-| Maren | | x | | x | | | x | | x | x | x | | | | | | | | | |
-| Tom | | x | | x | x | x | x | x | x | | x | | | | | | | | | |
-| Matthias | | x | | x | | | | | | | | | | | | | | | | |
-| Elena | x | | x | | x | | | | | | | | | | | | | | | |
-| Pia Kessler | | | | | | | | | | x | | | | | | | | | | |
+| Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+|-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|
+| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
+| Nora | x | x | x | | x | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
+| Carla | x | x | | x | x | x | x | x | x | x | x | | x | x | | | | | | | | | | |
+| Werner | | x | | x | | | | | | | (x) | | | (x) | | | | | | | | | | |
+| Nils | x | x | x | x | x | | x | | x | | x | | | x | | | | | | | | | | |
+| Jakob | | x | x | x | x | x | x | x | x | x | x | | | x | | | | | | | | | | |
+| Maren | | x | | x | | | x | | x | x | x | | | | | | | | | | | | | |
+| Tom | | x | | x | x | x | x | x | x | | x | | | x | | | | | | | | | | |
+| Matthias | | x | | x | | | | | | | | | | | | | | | | | | | | |
+| Elena | x | | x | | x | | | | | | | | | | | | | | | | | | | |
+| Pia Kessler | | | | | | | | | | x | | | | | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
 
@@ -41,13 +41,17 @@
 | 11 | Freitag | 10 Uhr → ~22 Uhr | Woche 6 | Pitch 10 Uhr (Brinkmann kommt zur Agentur). Nora hört ihre Texte von außen — sie sind gut. Tonalität-Frage: Nora antwortet vor Leon, ohne Entschuldigung. „Gut gemacht." — zwei Worte, er ist schon weg. Warten nachmittags. Tom: vierter Kaffee. Jakob: Thai-Food (keine Antwort aus dem Glaskasten). Leon arbeitet wirklich. 21:07: „Wir haben es." Champagner (Jakob, seit Mittwoch im Kühlschrank). Nils-Toast: „Auf den Kunden, der nicht merkt..." Werner am Telefon: „Gute Kampagnen erkennt man daran..." Blick zwischen Leon und Nora — keine halbe Sekunde. Team fährt in Schanze. Leon bleibt. Nora bleibt. Küchentext-Streit beginnt. |
 | 12 | Fr→Sa | Nacht | Woche 6 | Küchen-Szene: Nora macht Kaffee, Leon legt Hand neben ihre (nicht drauf). Sie macht den ersten Schritt. Er stellt sich hinter sie, lässt ihr die Wahl. Sie bleibt. „Clever. Und sexy." Danach: er richtet das Hemd, sagt nichts, geht in den Glaskasten, schließt die Tür. Hört sie arbeiten. „Sie trank den Kaffee schwarz." Öffnet neues Dokument. |
 | 13 | Samstag | Morgen → Abend | Woche 6 | Leon bereits da, Licht brennt. Brinkmann-Änderung: „Variante drei." Professionell, kalt, als wäre nichts. Nora erkennt: er tut so als wäre nichts — nicht aus Verachtung, aus Kontrollbedürfnis. Carla kommt abends zurück, Grauburgunder. Masken-Gespräch: „Ich bin müde, immer die zu sein, die den Raum aufhellt." / „Ich bin müde, immer die zu sein, bei der alles funktioniert." Werner-Teaser (Band 3). Nora geht zum ersten Mal nach Hause. Mama-Muster erkannt: sie richtet sich aus. Öffnet das Fenster. Bleibt. |
-| 14 | | | Woche 7–8 | Muster etabliert |
-| 15 | | Abend/Nacht | Woche 8–9 | |
-| 16 | | Nacht (2 Uhr) | Woche 9–10 | Folgeprojekt-Stress |
-| 17 | | Nacht (2 Uhr) | Woche 10 | |
-| 18 | | Nacht (2 Uhr) | Woche 10–11 | |
-| 19 | Freitag | Abend (bis 22 Uhr) | Woche 11 | |
-| 20 | Samstag → Sonntag | Nachmittag → Vormittag | Woche 11 | |
+| 14 | Dienstag | Halb sieben → Abend | Woche 7 | Brinkmann-Relaunch läuft seit 2 Wochen. Tag/Nacht-Muster etabliert (Shared-Datei tags, Agentur-Nächte). Werner leitet Stiftung Lebenserinnerungen Pro-Bono-Anfrage weiter. Leon weist Nora zu: „Passt besser zu dir als zu den anderen." Referenzen aus Archiv (2019er-Kampagnen — von Carla abgelegt). Carla-Debrief: „Mit Referenzen." — halbe Sekunde zu spät genickt, Blick zur Glaswand, Kunden-Lächeln. Leon sieht es, versteht es nicht. Reflexion: 15 Jahre, nie Referenzen für Carla. |
+| 15 | Dienstag | Abend/Nacht (~20–22 Uhr) | Woche 7 | Nora arbeitet an Stiftung Lebenserinnerungen — Transkripte (Walter/Fahrrad, Margot/Bäckerei). Oma-Erinnerung bricht auf: Verlust, nicht Erinnerung. Weint in der dunklen Küche — erste echte, nicht performte Emotion. Leon findet sie, sagt nichts, setzt sich auf Küchenboden. Stille → Hand → Kuss → Steamy #2 (langsam, zärtlich, auf dem Boden). Er bleibt danach — Kontrast zu Kap 12. Arm um sie, Daumen auf Oberarm. Nora erzählt von Omas Geschichten. Er antwortet nicht, er weiß es bereits (Mail-PS). Dann: Rückkehr — Schultern straffen, Hemd zuknöpfen, Glaskasten. „Nora." — kein Inhalt, nur ihr Name. Sie lächelt nicht. Zum ersten Mal ist das in Ordnung. |
+| 16 | | Nacht (2 Uhr) | Woche 9–10 | Rückfall + „Woher wusstest du das?" |
+| 17 | | Nacht (2 Uhr) | Woche 10 | „Der Satz" — Noras Climax |
+| 18 | | Nacht (2 Uhr) | Woche 10 | Carla-Konfrontation (selbe Nacht wie 17?) |
+| 19 | | Mehrere Tage | Woche 10–11 | Tage danach + Renate |
+| 20 | | Nacht (2 Uhr) | Woche 11 | Nils-Nacht |
+| 21 | Freitag | Abend (bis 22 Uhr) | Woche 11 | Küchenboden + Mail-PS |
+| 22 | Samstag | Nachmittag | Woche 11 | Nora schreibt + Leon an der Tür |
+| 23 | Samstag | Nachmittag | Woche 11 | Steamy #3 — Tageslicht |
+| 24 | Sonntag | Vormittag | Woche 11 | Brunch-Epilog |
 
 *Exakte Tage/Zeiten beim Schreiben festlegen und hier eintragen.*
 
@@ -178,9 +182,9 @@
 |---|-----|-------------|--------------|--------|
 | 1 | Review-Meetings von 10 auf 14 Uhr | 7 | 8 (Glaswand-Payoff) | ⬜ |
 | 2 | Beschützt sie im Meeting (Ausgelacht-Mail) | 9 | 9 | ⬜ |
-| 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | 14 | 14 | ⬜ |
+| 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | 14 | 14 | ✅ |
 | 4 | „Woher wusstest du das?" — „Was?" | 16 | 16 | ⬜ |
-| 5 | Mail-PS: Sonntags arbeite ich nicht mehr | 19 | 19 | ⬜ |
+| 5 | Mail-PS: Sonntags arbeite ich nicht mehr | 21 | 21 | ⬜ |
 
 *Status: ⬜ offen → ✏️ gesät → ✅ payoff geschrieben*
 
@@ -201,21 +205,21 @@
 
 | Faden | Gesät (Kap) | Payoff (Kap) | Status | Notizen |
 |-------|-------------|--------------|--------|---------|
-| Sonntagsmail-Motiv | 2 | 19 | ⬜ | Leons Charakter (Arbeitssucht). Payoff Kap 19: er hört auf — seine Entwicklung, kein Geschenk an Nora. Nora bekommt die Sonntagsmail wie alle anderen. |
-| Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
-| Küchenboden-Parallele | Backstory | 19 | ⬜ | Leon mit 16 → Leon jetzt |
-| Nils zeichnet wie Mama | 4 | 18 | ⬜ | „Du zeichnest auch wie sie" |
+| Sonntagsmail-Motiv | 2 | 21 | ⬜ | Leons Charakter (Arbeitssucht). Payoff Kap 21: er hört auf — seine Entwicklung, kein Geschenk an Nora. Nora bekommt die Sonntagsmail wie alle anderen. |
+| Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17, 19 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
+| Küchenboden-Parallele | Backstory | 21 | ✏️ | Leon mit 16 → Leon jetzt. Kap 15: Küchenboden als Ort der Verletzlichkeit etabliert (Steamy #2, er bleibt). Payoff Kap 21: Küchenboden = Erinnerung an den Moment wo er echt war. Er sitzt allein dort, atmet, steht auf. |
+| Nils zeichnet wie Mama | 4 | 20 | ⬜ | „Du zeichnest auch wie sie" |
 | Leon zeichnet Nora (Post-it) | 6 | — | ✏️ | Tom sieht es durch Glaswand, sagt nichts. Maren war im Außendreh (Wellberg-Auftrag). |
-| Carla-Leon: 15 Jahre Loyalität | 2 | 16 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
-| Carla-Stich: Ausnahme für Nora | 8 | 14 | ⬜ | Unausgesprochener Gedanke |
-| Tag=Eis, Nacht=Echt-Muster | 1 (gesät), 3 | 17, 20 | ✏️ | Kap 1: Leon tags kalt, abends Licht = andere Welt. Kap 3: Nachts ist er anders — kommt zu ihr, korrigiert, „Schwarz." Die Mauer ist dünner, nicht offen. |
-| Performance-Kontrast (AN/AUS) | 3 | 5, 7, 17 | ✏️ | Kap 3: Nora performt für Team (Jakob, Elena), Nils SIEHT es. Team geht → Schultern sinken, Lächeln weg, Atem tiefer. Kap 5: Carla bricht die Performance mit einer Frage. Nora-Jakob-Szene = Performance an, aber mechanischer. Agentur-Nacht = Maske unten, wartet bei Leon ohne Erklärung. |
-| Agentur-Nacht als eigener Raum | 1 (gesät), 3 | 12, 17, 20 | ✏️ | Kap 1: erstes Mal angedeutet. Kap 3: voll etabliert — Neonröhren summen, Serverbrummen, Straßenbahn in Abständen. Forced Proximity. |
+| Carla-Leon: 15 Jahre Loyalität | 2 | 18 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
+| Carla-Stich: Ausnahme für Nora | 8 | 14 | ✅ | Unausgesprochener Gedanke. Kap 14: „Mit Referenzen." Carla sieht, dass Leon für Nora Arbeit investiert, die er in 15 Jahren für sie nie geleistet hat. Kunden-Lächeln statt wortloses System. Leon sieht den Riss, versteht ihn nicht. |
+| Tag=Eis, Nacht=Echt-Muster | 1 (gesät), 3 | 17, 22 | ✏️ | Kap 1: Leon tags kalt, abends Licht = andere Welt. Kap 3: Nachts ist er anders — kommt zu ihr, korrigiert, „Schwarz." Die Mauer ist dünner, nicht offen. Kap 14: Muster voll etabliert aus Leons POV — tagsüber Shared-Datei/Kommentarfunktion, kein Gespräch über Bildschirm hinaus. Nachts „etwas, das kein System war, für das er keinen Prozess hatte." Er benennt es nicht. Kap 15: Höhepunkt des Musters — Nacht-Leon sitzt auf dem Küchenboden, legt den Arm um sie, bleibt. Dann: Rückkehr (Schultern, Hemd, Glaskasten). Nora sieht die Rückkehr kommen, benennt sie: „da ist er wieder." |
+| Performance-Kontrast (AN/AUS) | 3 | 5, 7, 15, 17, 19 | ✏️ | Kap 3: Nora performt für Team (Jakob, Elena), Nils SIEHT es. Team geht → Schultern sinken, Lächeln weg, Atem tiefer. Kap 5: Carla bricht die Performance mit einer Frage. Nora-Jakob-Szene = Performance an, aber mechanischer. Agentur-Nacht = Maske unten, wartet bei Leon ohne Erklärung. Kap 15: Erster kompletter Performance-Zusammenbruch — sie weint echt (keine Erklärung, kein „Sorry"), lässt Leon sehen. Sex ohne Performance: „nicht das Richtige-Geräusche-Machen." Schlusszeile: „Sie lächelte nicht. Zum ersten Mal seit sie denken konnte war das in Ordnung." |
+| Agentur-Nacht als eigener Raum | 1 (gesät), 3 | 12, 17, 22 | ✏️ | Kap 1: erstes Mal angedeutet. Kap 3: voll etabliert — Neonröhren summen, Serverbrummen, Straßenbahn in Abständen. Forced Proximity. |
 | Tischkante (Leon auf Noras Revier) | 3 | — | ✏️ | Leons Hand auf Noras Tischkante. Spiegelung zu Noras Stift auf Leons Revier (Kap 2). Keiner merkt die Symmetrie. |
 | Nora nomadisch | 3 | — | ✏️ | „Fünf Jahre, an Küchentischen und in Cafés, in Wohnungen die sie nach drei Monaten wieder verließ." + Wohnung halb ausgepackt. 6-Monats-Vertrag = das Längste. |
 | Maren-Foto (Leon schaut Nora an) | 10 | — | ⬜ | Foto existiert, kein Payoff in Band 1 |
-| Matthias-Leon: nur über Agentur | 2 | 20 | ✏️ | Kap 2: Finkenstein-Vertrag. Nur Zahlen. Keine Gegenfrage, kein Widerspruch. Handschrift unverändert seit 16 Jahren. Payoff Kap 20: Blick (keine Vergebung noch) |
-| Tom wird übersehen | 1 (implizit), 2 | 20 | ✏️ | Kap 1: Tom taucht nicht auf — buchstäblich übersehen. Kap 2: „Tom. Hallo." — alle nicken, weitergemacht. Aber Leon sieht eine Sekunde zu lang hin (gefährliche Erkennung). Payoff Kap 20: Brötchen-Geste |
+| Matthias-Leon: nur über Agentur | 2 | 24 | ✏️ | Kap 2: Finkenstein-Vertrag. Nur Zahlen. Keine Gegenfrage, kein Widerspruch. Handschrift unverändert seit 16 Jahren. Payoff Kap 20: Blick (keine Vergebung noch) |
+| Tom wird übersehen | 1 (implizit), 2 | 24 | ✏️ | Kap 1: Tom taucht nicht auf — buchstäblich übersehen. Kap 2: „Tom. Hallo." — alle nicken, weitergemacht. Aber Leon sieht eine Sekunde zu lang hin (gefährliche Erkennung). Payoff Kap 20: Brötchen-Geste |
 | Carla+Tom räumen ab | 4 | — | ✏️ | Wortloses System, Band 6 relevant. Ohne Absprache, Henkel in eine Richtung, kaputte Tassen zuletzt. Werner sieht zu. |
 | Henriks Schulden | 4 | — | ✏️ | Band 4 Setup. Werner: „Henrik hat noch offene Rechnungen. Irgendwann müssen wir darüber reden." Stille. Maren: Finger um Kamera ohne sie anzuheben. |
 
@@ -228,7 +232,7 @@
 | 1 | „Die großartige weiß wann sie aufhören muss zu schreiben." | 2 | ✅ |
 | 2 | „Die beste Werbung macht man nicht im Dunkeln, mein Junge." | 4 | ✅ |
 | 3 | „Gute Kampagnen erkennt man daran, dass der Kunde nicht merkt, dass er verkauft wird." | 11 | ⬜ |
-| 4 | „Die beste Werbung ist die, an die man sich erinnert." | 20 | ⬜ |
+| 4 | „Die beste Werbung ist die, an die man sich erinnert." | 24 | ⬜ |
 
 ---
 
@@ -240,8 +244,8 @@
 | 2 | „Fragt das eigentlich jemals jemand dich?" | 5 | ✅ |
 | 3 | Sonntagsmail-Lücke bemerkt | 8 | ⬜ |
 | 4 | Masken fallen: Wein, echte Freundschaft | 13 | ⬜ |
-| 5 | Der Stich: „Ich war 15 Jahre neben ihm..." | 14 | ⬜ |
-| 6 | Konfrontation: „Irgendwann musst du dich umdrehen" | 16 | ⬜ |
+| 5 | Der Stich: „Ich war 15 Jahre neben ihm..." | 14 | ✅ |
+| 6 | Konfrontation: „Irgendwann musst du dich umdrehen" | 18 | ⬜ |
 
 ---
 
@@ -249,9 +253,9 @@
 
 | # | Kap | POV | Emotionaler Kern | Status |
 |---|-----|-----|-----------------|--------|
-| 1 | 12 | Leon | Kontrollverlust, roh, dringend. Er erschrickt sich. | ⬜ |
-| 2 | 15 | Nora | Langsam, zärtlich. Beide ohne Maske. | ⬜ |
-| 3 | 20 | Nora→Leon | Tageslicht, echt, bewusst. | ⬜ |
+| 1 | 12 | Leon | Kontrollverlust, roh, dringend. Er erschrickt sich. | ✅ |
+| 2 | 15 | Nora | Langsam, zärtlich. Beide ohne Maske. Aus dem Weinen heraus — Oma-Verlust als Auslöser. Küchenboden, sie oben, er lässt sich fallen. Tränenspur-Berührung. Danach: er bleibt (Kontrast Kap 12). | ✅ |
+| 3 | 23 | Nora→Leon | Tageslicht, echt, bewusst. | ⬜ |
 
 ---
 
@@ -261,7 +265,7 @@
 |---|-----|-----|--------|
 | 1 | 4 | Steif, Pflicht. Zweig 1 vs. 2. Werner-Spruch. Schulden. | ✅ |
 | 2 | 8 | Kurz erwähnt (Leons Erinnerung). 5 Min. früher. | ⬜ |
-| 3 | 20 | Epilog. Leon pünktlich. Brötchen für Tom. Werner-Spruch. | ⬜ |
+| 3 | 24 | Epilog. Leon pünktlich. Brötchen für Tom. Werner-Spruch. | ⬜ |
 
 ---
 
@@ -323,10 +327,14 @@
 | 11 | ~3.700 | Pitch gewonnen. Champagner. Warten-Atmosphäre etabliert (Tom/Jakob/Nils). Werner-Spruch gepflanzt. Blick zwischen Leon+Nora nach dem Anruf. | Werner-Spruch: „...dass der Kunde nicht merkt, dass er verkauft wird" — redet über Leon+Nora. Leserin versteht, Team nicht. |
 | 12 | ~2.500 | Küchen-Szene: er lässt ihr die Wahl, sie bleibt. Steamy #1. Danach: Rückzug in Glaskasten. Erster Schritt ins Muster. | „Clever. Und sexy." eingebaut. Kontrollverlust = er erschrickt vor dem Wissen über sie, nicht vor sich selbst. |
 | 13 | ~3.500 | Brinkmann-Änderung (Variante drei). Carla-Wein-Abend: Masken. Nora erkennt Mama-Muster. Erste Nacht zu Hause seit Wochen. | Mama-Muster erstmals bewusst. Carla+Werner-Teaser (Band 3) gepflanzt. |
-| 14 | | | |
-| 15 | | | |
+| 14 | ~2.400 | Outline-treu. 14.1: Pro-Bono-Vergabe (Stiftung Lebenserinnerungen). Werner-Mail mit PS über Ilses Lebensgeschichten — Leon hat es sich gemerkt, ohne es abzulegen. 14.2: Carla-Stich — Leon sucht Referenzen (2019er-Archiv) für Noras Stiftungs-Mail. Carla: „Mit Referenzen." Kunden-Lächeln statt echtem. | „Er hat es sich gemerkt" #4 (Ilses Geschichten → Pro-Bono-Zuweisung). Carla-Stich: 15 Jahre nie Referenzen für Carla rausgesucht. Jakob-Blick zu Nora gepflanzt (Raum-lesen-Verhalten aus Kap 10). Shared-Datei/Kommentarfunktion = „etwas, das kein System war". |
+| 15 | ~3.300 | Outline-treu. 15.1: Stiftungsarbeit — Walter (Fahrrad), Margot (Bäckerei Isestraße). Oma-Verlust als echte Emotion. Weinen in dunkler Küche. Leon setzt sich auf Boden, sagt nichts. 15.2: Steamy #2 — aus Stille heraus, Daumen-Bewegung, Hand auf seine, Kuss. Langsam, zärtlich, sie oben. Tränenspur-Berührung („die Stelle, an der sie echt gewesen war"). Orgasmus ohne Performance. 15.3: Er bleibt (Kontrast Kap 12). Arm um sie, 5 Atemzüge bis zur Erlaubnis. Nora erzählt von Omas Geschichten. Er antwortet mit Daumen-Streicheln. Dann Rückkehr: Schultern, Hemd, Glaskasten. „Nora." — nur der Name. Schlusszeile: „Sie lächelte nicht. Zum ersten Mal seit sie denken konnte war das in Ordnung." | Stärkster emotionaler Kontrast zu Kap 12. Beide Steamy-Szenen in der Küche, beide nachts, aber 12=Kontrollverlust/Flucht, 15=Verletzlichkeit/Bleiben. Oma-Geschichten verbinden Kap 14 (Pro-Bono-Zuweisung) mit Noras Wunde. Performance-Zusammenbruch als Wendepunkt. |
 | 16 | | | |
 | 17 | | | |
 | 18 | | | |
 | 19 | | | |
 | 20 | | | |
+| 21 | | | |
+| 22 | | | |
+| 23 | | | |
+| 24 | | | |

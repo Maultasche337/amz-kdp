@@ -31,7 +31,10 @@
       "WebFetch(domain:www.lovelybooks.de)",
       "Bash(source:*)",
       "Bash(pip install:*)",
-      "Bash(pip3 install:*)"
+      "Bash(pip3 install:*)",
+      "Bash(gh run list:*)",
+      "Bash(brew list:*)",
+      "Bash(ssh:*)"
     ]
   }
 }
