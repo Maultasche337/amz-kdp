@@ -8,16 +8,17 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
-| Nora | x | x | x | | x | x | x | x | x | x | x | x | x | x | x | | | | | | | | | |
-| Carla | x | x | | x | x | x | x | x | x | x | x | | x | x | | | | | | | | | | |
+| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | (x) | | | | | | |
+| Nora | x | x | x | | x | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | |
+| Carla | x | x | | x | x | x | x | x | x | x | x | | x | x | | (x) | x | | | | | | | |
 | Werner | | x | | x | | | | | | | (x) | | | (x) | | | | | | | | | | |
-| Nils | x | x | x | x | x | | x | | x | | x | | | x | | | | | | | | | | |
-| Jakob | | x | x | x | x | x | x | x | x | x | x | | | x | | | | | | | | | | |
+| Nils | x | x | x | x | x | | x | | x | | x | | | x | | | | (x) | | | | | | |
+| Jakob | | x | x | x | x | x | x | x | x | x | x | | | x | | | | (x) | | | | | | |
 | Maren | | x | | x | | | x | | x | x | x | | | | | | | | | | | | | |
-| Tom | | x | | x | x | x | x | x | x | | x | | | x | | | | | | | | | | |
+| Tom | | x | | x | x | x | x | x | x | | x | | | x | | | | (x) | | | | | | |
 | Matthias | | x | | x | | | | | | | | | | | | | | | | | | | | |
-| Elena | x | | x | | x | | | | | | | | | | | | | | | | | | | |
+| Elena | x | | x | | x | | | | | | | | | | | | | (x) | | | | | | |
+| Renate | | | | | | | | | | | | | | | | | | x | | | | | | |
 | Pia Kessler | | | | | | | | | | x | | | | | | | | | | | | | | |
 
 *Legende: x = anwesend, (x) = erwähnt/Erinnerung, — = Outline-Plan aber noch nicht geschrieben*
@@ -43,10 +44,10 @@
 | 13 | Samstag | Morgen → Abend | Woche 6 | Leon bereits da, Licht brennt. Brinkmann-Änderung: „Variante drei." Professionell, kalt, als wäre nichts. Nora erkennt: er tut so als wäre nichts — nicht aus Verachtung, aus Kontrollbedürfnis. Carla kommt abends zurück, Grauburgunder. Masken-Gespräch: „Ich bin müde, immer die zu sein, die den Raum aufhellt." / „Ich bin müde, immer die zu sein, bei der alles funktioniert." Werner-Teaser (Band 3). Nora geht zum ersten Mal nach Hause. Mama-Muster erkannt: sie richtet sich aus. Öffnet das Fenster. Bleibt. |
 | 14 | Dienstag | Halb sieben → Abend | Woche 7 | Brinkmann-Relaunch läuft seit 2 Wochen. Tag/Nacht-Muster etabliert (Shared-Datei tags, Agentur-Nächte). Werner leitet Stiftung Lebenserinnerungen Pro-Bono-Anfrage weiter. Leon weist Nora zu: „Passt besser zu dir als zu den anderen." Referenzen aus Archiv (2019er-Kampagnen — von Carla abgelegt). Carla-Debrief: „Mit Referenzen." — halbe Sekunde zu spät genickt, Blick zur Glaswand, Kunden-Lächeln. Leon sieht es, versteht es nicht. Reflexion: 15 Jahre, nie Referenzen für Carla. |
 | 15 | Dienstag | Abend/Nacht (~20–22 Uhr) | Woche 7 | Nora arbeitet an Stiftung Lebenserinnerungen — Transkripte (Walter/Fahrrad, Margot/Bäckerei). Oma-Erinnerung bricht auf: Verlust, nicht Erinnerung. Weint in der dunklen Küche — erste echte, nicht performte Emotion. Leon findet sie, sagt nichts, setzt sich auf Küchenboden. Stille → Hand → Kuss → Steamy #2 (langsam, zärtlich, auf dem Boden). Er bleibt danach — Kontrast zu Kap 12. Arm um sie, Daumen auf Oberarm. Nora erzählt von Omas Geschichten. Er antwortet nicht, er weiß es bereits (Mail-PS). Dann: Rückkehr — Schultern straffen, Hemd zuknöpfen, Glaskasten. „Nora." — kein Inhalt, nur ihr Name. Sie lächelt nicht. Zum ersten Mal ist das in Ordnung. |
-| 16 | | Nacht (2 Uhr) | Woche 9–10 | Rückfall + „Woher wusstest du das?" |
-| 17 | | Nacht (2 Uhr) | Woche 10 | „Der Satz" — Noras Climax |
-| 18 | | Nacht (2 Uhr) | Woche 10 | Carla-Konfrontation (selbe Nacht wie 17?) |
-| 19 | | Mehrere Tage | Woche 10–11 | Tage danach + Renate |
+| 16 | So + Di | Nacht (23 Uhr) + Vormittag (11:30) | Woche 9 | 16.1: Sonntagsmail an ALLE (inkl. Nora = Rückschritt). 3 Brinkmann-Präsentationen allein, nichts delegiert. Schläft auf Sofa. Hand auf Tresen (Küchenboden-Ort) → weggenommen. Post-it in Schublade (Zeichnung nach unten). 16.2: Nora entdeckt umgeschriebene Stiftungs-Methodik (Seite 4) — „Alltagserinnerungen, die kleinen Geschichten, Nachbarn, Rituale, Orte die es nicht mehr gibt" = fast wörtlich aus ihrer Oktober-Mail (23:14, PS über Oma). Leon erinnert sich an jedes Wort. Leerer Becher als Vorwand. „Woher wusstest du das?" — „Was?" Im Gehen. Viertelsekunden-Stocken. Blätter neben Monitor, Schrift nach unten (Spiegel zu Post-it). |
+| 17 | Do + Fr | Nachmittag + Abend (19:12) | Woche 10 | 17.1: Donnerstag, Muster-Erkennung. 17.2: Freitag 19:12, Agentur leer, Glaskasten-Konfrontation. „Ich will dich nicht nur um zwei Uhr nachts." + „Ich muss aufhören zu glauben, dass mein Licht dich retten kann." Nora geht. Tür-Klick. Licht brennt. |
+| 18 | Freitag | Abend (19:28–22:15) | Woche 10 | Selber Freitag wie Kap 17. 18.1: Leon allein nach Noras Abgang (19:28). Monitore an, kann nicht arbeiten. Folie 4 = Reflex versagt. Glaskasten als Käfig (nicht Schutz). „Menschen gehen lassen. Darin war er gut." 18.2: Carla kommt ~22 Uhr (Mappe vergessen). Sieht Leon im Dunkeln (Monitore runtergefahren). „Deine Monitore sind aus, Leon." „Weißt du eigentlich, dass ich da bin?" → „Ich halte dir den Rücken frei. Seit ich fünfzehn bin." → „Irgendwann musst du dich umdrehen und es sehen." Carla schluckt (einmal, nie). Leon kann nicht antworten. Carla nickt — reicht für heute. „Fahr nach Hause, Leon." Schluss: „Er konnte nichts. Und zum ersten Mal seit sechzehn Jahren war das die Wahrheit." |
+| 19 | Mo–Do | Ganztags + Abend | Woche 10–11 | 19.1: Montag–Donnerstag nach dem Bruch. Professionelle Distanz — „Morgen" ohne Blick. Kein Performance-Lächeln mehr, aber Nicht-Performen ≠ Freiheit. Mittwoch: erstmals vor 18 Uhr nach Hause, an der Küche vorbei. Donnerstag: sachliche Stiftungs-Mail von Leon (cc Werner, kein PS). Nora antwortet sachlich (kein PS). Abends Küchentisch → scrollt zu „Mama". 19.2: Dienstag-Anruf (nicht Sonntag). Renate redet: Nachbarshund, Wetter, Krokusse, Kochsendung. Fragt nie. Omas Kartoffelrezept (Rosmarin) → Oma-Erinnerung (Lokstedt, gelbe Fliesen). „Omas Geschichten hatten Hände. Renates hatten Vorhänge." Nora will sagen: „Frag mich wie es mir geht" — sagt „Nichts." Danach: „Ich will nicht mehr Sonne sein für Menschen die nicht fragen." Öffnet leeres Dokument. Schreibt nicht. Lässt es offen. |
 | 20 | | Nacht (2 Uhr) | Woche 11 | Nils-Nacht |
 | 21 | Freitag | Abend (bis 22 Uhr) | Woche 11 | Küchenboden + Mail-PS |
 | 22 | Samstag | Nachmittag | Woche 11 | Nora schreibt + Leon an der Tür |
@@ -183,7 +184,7 @@
 | 1 | Review-Meetings von 10 auf 14 Uhr | 7 | 8 (Glaswand-Payoff) | ⬜ |
 | 2 | Beschützt sie im Meeting (Ausgelacht-Mail) | 9 | 9 | ⬜ |
 | 3 | Pro-Bono Senioren-Stiftung (Oma-Mail) | 14 | 14 | ✅ |
-| 4 | „Woher wusstest du das?" — „Was?" | 16 | 16 | ⬜ |
+| 4 | „Woher wusstest du das?" — „Was?" | 16 | 16 | ✅ |
 | 5 | Mail-PS: Sonntags arbeite ich nicht mehr | 21 | 21 | ⬜ |
 
 *Status: ⬜ offen → ✏️ gesät → ✅ payoff geschrieben*
@@ -245,7 +246,7 @@
 | 3 | Sonntagsmail-Lücke bemerkt | 8 | ⬜ |
 | 4 | Masken fallen: Wein, echte Freundschaft | 13 | ⬜ |
 | 5 | Der Stich: „Ich war 15 Jahre neben ihm..." | 14 | ✅ |
-| 6 | Konfrontation: „Irgendwann musst du dich umdrehen" | 18 | ⬜ |
+| 6 | Konfrontation: „Weißt du eigentlich, dass ich da bin?" + „Irgendwann musst du dich umdrehen" | 18 | ✅ |
 
 ---
 
@@ -329,9 +330,9 @@
 | 13 | ~3.500 | Brinkmann-Änderung (Variante drei). Carla-Wein-Abend: Masken. Nora erkennt Mama-Muster. Erste Nacht zu Hause seit Wochen. | Mama-Muster erstmals bewusst. Carla+Werner-Teaser (Band 3) gepflanzt. |
 | 14 | ~2.400 | Outline-treu. 14.1: Pro-Bono-Vergabe (Stiftung Lebenserinnerungen). Werner-Mail mit PS über Ilses Lebensgeschichten — Leon hat es sich gemerkt, ohne es abzulegen. 14.2: Carla-Stich — Leon sucht Referenzen (2019er-Archiv) für Noras Stiftungs-Mail. Carla: „Mit Referenzen." Kunden-Lächeln statt echtem. | „Er hat es sich gemerkt" #4 (Ilses Geschichten → Pro-Bono-Zuweisung). Carla-Stich: 15 Jahre nie Referenzen für Carla rausgesucht. Jakob-Blick zu Nora gepflanzt (Raum-lesen-Verhalten aus Kap 10). Shared-Datei/Kommentarfunktion = „etwas, das kein System war". |
 | 15 | ~3.300 | Outline-treu. 15.1: Stiftungsarbeit — Walter (Fahrrad), Margot (Bäckerei Isestraße). Oma-Verlust als echte Emotion. Weinen in dunkler Küche. Leon setzt sich auf Boden, sagt nichts. 15.2: Steamy #2 — aus Stille heraus, Daumen-Bewegung, Hand auf seine, Kuss. Langsam, zärtlich, sie oben. Tränenspur-Berührung („die Stelle, an der sie echt gewesen war"). Orgasmus ohne Performance. 15.3: Er bleibt (Kontrast Kap 12). Arm um sie, 5 Atemzüge bis zur Erlaubnis. Nora erzählt von Omas Geschichten. Er antwortet mit Daumen-Streicheln. Dann Rückkehr: Schultern, Hemd, Glaskasten. „Nora." — nur der Name. Schlusszeile: „Sie lächelte nicht. Zum ersten Mal seit sie denken konnte war das in Ordnung." | Stärkster emotionaler Kontrast zu Kap 12. Beide Steamy-Szenen in der Küche, beide nachts, aber 12=Kontrollverlust/Flucht, 15=Verletzlichkeit/Bleiben. Oma-Geschichten verbinden Kap 14 (Pro-Bono-Zuweisung) mit Noras Wunde. Performance-Zusammenbruch als Wendepunkt. |
-| 16 | | | |
-| 17 | | | |
-| 18 | | | |
+| 16 | ~2.900 | Outline-treu. 16.1: Rückfall — Sonntagsmail an alle (inkl. Nora), Brinkmann-Krise allein gelöst, Sofa statt Zuhause. Körperliche Erinnerungen an Küchenboden (Rippen-Zucken, Hand auf Tresen, leere Hände). 16.2: „Woher wusstest du das?" — Stiftungs-Methodik umgeschrieben mit Noras Oktober-Mail-Worten. Leerer Becher als Flucht-Vorwand. „Was?" im Gehen. Abgebrochener Gedanke am Schluss („dass sie jetzt —"). Blätter Schrift-nach-unten = Spiegel zu Post-it Zeichnung-nach-unten. | „Er hat es sich gemerkt" #4 Payoff geliefert. Sonntagsmail-Rückschritt (vorher: Nora ausgenommen → jetzt: alle). Carla nur erwähnt (Stimme im Großraum). Elena erwähnt. Oktober-Mail als Referenzpunkt etabliert (23:14, PS über Oma, Zielgruppenanalyse Webtext). |
+| 17 | ~3.000 | Outline-treu. 17.1: Donnerstag, Muster-Erkennung — Nora sieht: auch Pünktlichkeit um 18 Uhr ist Ausrichtung auf Leon. Stiftungstexte (Edith, Kirchenglocke 1962). Mama-Parallele explizit (Renate, Zettel, Vorhänge). Entscheidung: nicht warten, sondern sagen und gehen. 17.2: Freitag 19:12. Agentur leer (Reihenfolge: Elena, Jan, Nils, Jakob, Carla). Carla sieht Nora, sagt „Geh nach Hause" — Nora: „Gleich." Geht in Glaskasten, schließt Tür. „Ich will dich nicht nur um zwei Uhr nachts." Leon erstarrt. Fast hätte sie aufgehört (Hand ausstrecken, Mama-Reflex). Zweiter Satz: „Und ich muss aufhören zu glauben, dass mein Licht dich retten kann." Leon: „Nora —" / „Nein. Nicht jetzt. Nicht so." Tür-Klick (klein, nicht dramatisch). Schulterblatt, Licht brennt noch. | Noras Climax. Doppel-Break: Satz 1 bricht Tag/Nacht-Muster, Satz 2 bricht Mama-Muster. Carla als Letzte in der Agentur (kommt in Kap 18 zurück). Stifte parallel (rot links, schwarz rechts) = Callback Kap 2. Leerer Becher aus 16.2 jetzt halb voll. Blätter Schrift-nach-unten noch neben Monitor. |
+| 18 | ~2.500 | Outline-treu + erweitert. 18.1 kürzer (~1.200 W, Stillstand — Leon kann nicht arbeiten). 18.2: Carla-Konfrontation mit neuem Einstieg „Weißt du eigentlich, dass ich da bin?" (nicht in Outline, stärker). Outline-Satz „Irgendwann musst du dich umdrehen" kommt als Höhepunkt NACH der Einstiegsfrage. Carla schluckt = einmaliges Zeichen. Nicken als Akzeptanz. „Fahr nach Hause" spiegelt Carlas „Geh nach Hause, Nora" aus 17.2. | Carla-Szene #6 (Konfrontation) ✅ geliefert. Fünfzehn-Jahre-Rückblick (Carla mit 15/20/25). Matthias-Referenz (Papa aufgehört). Monitore-aus als Beweis dass Fassade gefallen. Zwei-Frauen-eine-Nacht als Struktur-Element. |
 | 19 | | | |
 | 20 | | | |
 | 21 | | | |
