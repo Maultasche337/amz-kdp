@@ -41,10 +41,10 @@
 | 18 | Leon | 3 | — | Carla-Konfrontation (nach Noras Abgang) |
 | 19 | Nora | 3 | — | Tage danach + Renate |
 | 20 | Leon | 3 | — | ← Bruch: Leon allein mit Nils |
-| 21 | Leon | 3 | — | ← Bruch: Küchenboden + Mail-PS |
-| 22 | Nora | 3 | — | Nora schreibt für sich + Leon an der Tür |
-| 23 | Nora → Leon | 3 | — | **Steamy #3** — Tageslicht |
-| 24 | Leon | 3 | — | Brunch-Epilog |
+| 21 | Leon | 3 | Z. 3949–4088 | ← Bruch: Küchenboden + Mail-PS |
+| 22 | Nora | 3 | Z. 4091–4234 | Nora schreibt für sich + Leon an der Tür |
+| 23 | Nora → Leon | 3 | Z. 4237–4471 | **Steamy #3** — Tageslicht |
+| 24 | Leon | 3 | Z. 4475–4703 | Brunch-Epilog |
 
 **POV-Design Akt 3:** Die Alternation bricht, weil die Beziehung bricht. Paare statt Wechsel:
 - 16L → 17N: Rückfall / Bruch (Aktion-Reaktion)

@@ -4,8 +4,6 @@
 
 _Lina Elise Voss_
 
----
-
 # Kapitel 1 — Erster Tag
 
 _Nora, Woche 1_
@@ -16,11 +14,11 @@ Schulterblatt 47, zweites Obergeschoss — die Adresse kannte sie auswendig. Nor
 
 Das Gebäude sah nicht aus wie eine Werbeagentur. Es sah aus wie Hamburg — das Schanzenviertel, das echte, nicht das für Touristen aufgeräumte. Altbau-Klinker über einem Naturkostladen, dessen Schaufenster mit handgeschriebenen Kreide-Schildern vollgestellt war. Daneben die Klingel: kein Logo, nur der Name. _Hartmann._ Schwarz auf weißem Schild, als würden sie die Werbung für andere machen und für sich selbst keine Lust haben.
 
-Sie ließ den Finger auf dem Knopf und wartete. Schultern in Position — nicht bewusst, es passierte einfach. Schultern runter. Kinn leicht hoch. Das Lächeln kam von allein, das mit dem kleinen Zug an den Augenwinkeln. Dieselben Muskeln wie vor drei Tagen, als die Maklerin gesagt hatte: _Normalerweise vergeben wir nicht an Freelancer._ Nora hatte es eingesetzt. Eine Stunde später hatte sie den Mietvertrag unterschrieben.
+Sie ließ den Finger auf dem Knopf und wartete. Schultern in Position, nicht bewusst, es passierte einfach. Schultern runter. Kinn leicht hoch. Das Lächeln kam von allein, das mit dem kleinen Zug an den Augenwinkeln; dieselben Muskeln wie vor drei Tagen, als die Maklerin gesagt hatte: _Normalerweise vergeben wir nicht an Freelancer._ Nora hatte es eingesetzt. Eine Stunde später hatte sie den Mietvertrag unterschrieben.
 
-Der Summer summte. Sie drückte die Tür auf und nahm die Treppe — zweiter Stock, Linoleum das unter ihren Sohlen klebte, ein Geräusch das sagte: hier wird nicht repräsentiert, hier wird gearbeitet.
+Der Summer summte. Sie drückte die Tür auf und nahm die Treppe. Zweiter Stock, Linoleum das unter ihren Sohlen klebte, ein Geräusch das sagte: hier wird nicht repräsentiert, hier wird gearbeitet.
 
-Oben schlug ihr der Geruch entgegen. Kaffee — nicht frisch, sondern alt, eingesogen in die Wände, Teil des Gebäudes. Darunter Post-its, überall, flächendeckend: drei Schichten an der Trennwand neben dem Eingang, die unterste verblasst, eine andere Handschrift, größer, fließender. Und Wärme — die stickige, schwere Wärme eines Raumes der nicht aufhört zu arbeiten.
+Oben schlug ihr der Geruch entgegen. Kaffee, nicht frisch, sondern alt, eingesogen in die Wände, Teil des Gebäudes. Darunter Post-its, überall, flächendeckend: drei Schichten an der Trennwand neben dem Eingang, die unterste verblasst, eine andere Handschrift, größer, fließender. Und Wärme. Die stickige, schwere Wärme eines Raumes der nicht aufhört zu arbeiten.
 
 Drei Dinge, und sie wusste: dieser Ort war älter als die Menschen die gerade hier saßen.
 
@@ -28,15 +26,15 @@ Dann trat eine Frau aus einer Seitentür.
 
 „Nora Seufert?"
 
-Dunkelbraunes Haar, streng zurückgenommen. Graublaue Augen die sofort einschätzten und das nicht versteckten. Die Bluse saß als wäre das ihr persönliches Berufsideal. Nora hatte den Namen im Impressum gelesen — Carla Hartmann, Head of Strategy.
+Dunkelbraunes Haar, streng zurückgenommen. Graublaue Augen die sofort einschätzten und das nicht versteckten. Die Bluse saß als wäre das ihr persönliches Berufsideal; Nora hatte den Namen im Impressum gelesen, Carla Hartmann, Head of Strategy.
 
 „Genau die." Nora streckte die Hand aus.
 
 Carla schüttelte sie — kurz, korrekt, exakt der richtige Druck. „Ich zeig Ihnen alles. Leon ist im Call." Sie sagte _Leon_ so wie man sagt _der Drucker im Flur_: Zustand, kein Kommentar. Rechts, am Ende des Flurs, brannte Licht.
 
-Carla erklärte im Gehen: Server-Zugang. Drucker-Code. Kaffeemaschine in der Küche links hinten, Siebträger, Anleitungszettel klebt drauf. Schreibrechte für den Textordner kämen heute noch. Der Brinkmann-Ordner unter Clients/Brinkmann_2026. Das Briefing sei umfangreich — sie empfehle, heute Nachmittag damit anzufangen.
+Carla erklärte im Gehen: Server-Zugang, Drucker-Code, Kaffeemaschine in der Küche links hinten (Siebträger, Anleitungszettel klebt drauf). Schreibrechte für den Textordner kämen heute noch. Der Brinkmann-Ordner unter Clients/Brinkmann_2026. Das Briefing sei umfangreich, sie empfehle, heute Nachmittag damit anzufangen.
 
-Nora beobachtete Carlas Hände — präzise Gesten, keine Bewegung die nicht nötig war. Diese Frau hatte vermutlich noch nie in ihrem Leben ein Meeting überzogen.
+Nora beobachtete Carlas Hände. Präzise Gesten, keine Bewegung die nicht nötig war. Diese Frau hatte vermutlich noch nie in ihrem Leben ein Meeting überzogen.
 
 „Auf welchem Stand sind die Konzepte gerade?"
 
@@ -46,15 +44,15 @@ Der Ton war vertraut. _Heute Nachmittag_ hieß nicht: irgendwann heute Nachmitta
 
 „Ich fang gleich an," sagte sie.
 
-Carla nickte einmal. Wandte sich ab. Absätze auf dem Boden, gleichmäßig, dann die Seitentür die hinter ihr zufiel. Der Raum fühlte sich einen Grad kühler an — als hätte Carla Hartmann das Thermostat mitgenommen.
+Carla nickte einmal, wandte sich ab. Absätze auf dem Boden, gleichmäßig, dann die Seitentür die hinter ihr zufiel. Der Raum fühlte sich einen Grad kühler an, als hätte Carla Hartmann das Thermostat mitgenommen.
 
 Nora setzte sich. Der Stuhl quietschte. Jemand hatte die Höhe auf eine Person eingestellt die deutlich größer gewesen war als sie.
 
 „Du bist die Neue."
 
-Sie drehte sich um. Auf dem Schreibtisch hinter ihr saß — lehnte — ein junger Mann. Dunkles, zerzaustes Haar das ihm ins Gesicht fiel. Tintenverschmierte Finger. Er betrachtete sie mit der Aufmerksamkeit einer Katze die noch nicht entschieden hat wie ernst sie jemanden nehmen soll.
+Sie drehte sich um. Auf dem Schreibtisch hinter ihr lehnte ein junger Mann, dunkles zerzaustes Haar das ihm ins Gesicht fiel, tintenverschmierte Finger. Er betrachtete sie mit der Aufmerksamkeit einer Katze die noch nicht entschieden hat wie ernst sie jemanden nehmen soll.
 
-Nils Hartmann, Junior Creative — den Namen hatte Carla während der Tour fallen lassen, irgendwo zwischen Drucker-Code und Kaffeemaschine.
+Nils Hartmann, Junior Creative. Den Namen hatte Carla während der Tour fallen lassen, irgendwo zwischen Drucker-Code und Kaffeemaschine.
 
 „Nora Seufert," sagte sie.
 
@@ -76,27 +74,25 @@ Nora öffnete den Server-Zugang und tippte das Passwort vom Zettel ab. Der Bilds
 
 Gegen elf verstummte Nils' Tastatur.
 
-Nora hätte nicht sagen können was sie zuerst wahrnahm — kein Geräusch, kein Signal. Aber Nils hinter ihr straffte den Rücken, kaum sichtbar, und weiter links hörte ein Tippen auf, das sie den ganzen Morgen als Hintergrund wahrgenommen hatte und erst jetzt bemerkte, weil es fehlte.
+Nora hätte nicht sagen können was sie zuerst wahrnahm. Kein Geräusch, kein Signal. Aber Nils hinter ihr straffte den Rücken, kaum sichtbar, und weiter links hörte ein Tippen auf, das sie den ganzen Morgen als Hintergrund wahrgenommen hatte und erst jetzt bemerkte, weil es fehlte.
 
 Dann das Klicken einer Tür. Das Glaskastenbüro am Ende des Raumes.
 
-Sie sah ihn nicht sofort. Sein Schatten lief zuerst über ihren Bildschirm, ein Streifen der die offene Textdatei kreuzte und stehenblieb. Dann der Geruch — Kaffee, schwarz, keine Milch. Das wusste sie, weil er es vor Monaten in einer Mail erwähnt hatte, beiläufig, zwischen zwei anderen Sätzen: _„Kaffeemaschine im Büro aus, schwarzen Kaffee aus der Küche, Sekunde."_ Und sie hatte es sich gemerkt ohne zu wissen warum.
+Sie sah ihn nicht sofort. Sein Schatten lief zuerst über ihren Bildschirm, ein Streifen der die offene Textdatei kreuzte und stehenblieb. Dann der Geruch: Kaffee, schwarz, keine Milch. Das wusste sie, weil er es vor Monaten in einer Mail erwähnt hatte, beiläufig, zwischen zwei anderen Sätzen: _„Kaffeemaschine im Büro aus, schwarzen Kaffee aus der Küche, Sekunde."_ Sie hatte es sich gemerkt ohne zu wissen warum.
 
 Nora schaute hoch.
 
 Leon Hartmann sah aus wie jemand der seit Jahren zu wenig schläft und aufgehört hat das als Problem zu behandeln. Dunkle Augen, die Ringe darunter keine Frage der Sorgfalt, sondern der Bilanz. Das weiße Hemd hochgekrempelt, Unterarme, Sehnen unter der Haut. In der einen Hand ein Ausdruck, in der anderen der Kaffeebecher. Er stand vor ihrem Schreibtisch und sie musste den Blick heben — die Höhe, die Nähe, die Selbstverständlichkeit mit der er den Raum einnahm.
 
-Ihre Hände lagen still auf der Tastatur. Ein halber Atemzug der hängenblieb.
-
-_Intensiver als die Version in ihrem Kopf._ Der Gedanke kam und war sofort lästig.
+Ihre Hände lagen still auf der Tastatur. Ein halber Atemzug der hängenblieb. _Intensiver als die Version in ihrem Kopf._ Der Gedanke kam und war sofort lästig.
 
 Das Lächeln.
 
-Er sah sie an — nicht durch sie hindurch, das wäre leichter gewesen, das kannte sie, das konnte sie einordnen. Er sah sie an wie man eine offene Datei scannt: kurze Einschätzung, kein Urteil, noch nicht. Dann eine Bewegung des Kinns, leicht nach rechts. „Ihr Schreibtisch ist dort."
+Er sah sie an, nicht durch sie hindurch, das wäre leichter gewesen, das kannte sie, das konnte sie einordnen. Er sah sie an wie man eine offene Datei scannt: kurze Einschätzung, kein Urteil, noch nicht. Dann eine Bewegung des Kinns, leicht nach rechts. „Ihr Schreibtisch ist dort."
 
 Sie blinzelte. „Carla hat mir—"
 
-Er war schon weiter. In Richtung Küche. Die Luft wo er gestanden hatte roch noch — Kaffee und Waschmittel und etwas das sie nicht einordnen konnte.
+Er war schon weiter. In Richtung Küche. Die Luft wo er gestanden hatte roch noch nach Kaffee und Waschmittel und etwas das sie nicht einordnen konnte.
 
 Ihr Mund hielt die Formation, aber darunter zog sich etwas zusammen, hart und unvermittelt, wie ein Griff um eine Kante. Ein Jahr. Nacht-Mails, Deadlines, Überarbeitungen. Sie hatte geglaubt das wäre so etwas wie eine Arbeitsbeziehung.
 
@@ -128,7 +124,7 @@ Sie blätterte durch die Entwürfe. Texte vom Team, Variationen, Verworfen-Verme
 
 Sie starrte auf das _„Kann so raus"_ und versuchte den Ton zu lesen. Einverständnis? Gleichgültigkeit? Oder war das tatsächlich Zustimmung, verpackt so dass man sie nur erkannte wenn man das Gegenteil kannte.
 
-Das Licht draußen war grauer geworden — Hamburg im Februar, die Sonne gab schon gegen drei auf — und drinnen hatten die Geräusche gewechselt. Morgens war es Staccato gewesen: Tastaturen, Telefone, kurze Absprachen. Jetzt längere Sätze, das leise Kratzen von Nils' Stift der etwas in sein Notizbuch schrieb statt zu tippen.
+Das Licht draußen war grauer geworden. Hamburg im Februar: die Sonne gab schon gegen drei auf. Drinnen hatten die Geräusche gewechselt. Morgens war es Staccato gewesen: Tastaturen, Telefone, kurze Absprachen. Jetzt längere Sätze, das leise Kratzen von Nils' Stift der etwas in sein Notizbuch schrieb statt zu tippen.
 
 „Erste Headline fertig?"
 
@@ -156,23 +152,13 @@ Er nickte. Ging.
 
 Das Büro leerte sich. Schritte, Türgeräusch. Dann die Geräusche der Schanze von draußen, gedämpft, ein Straßenbahnpiepen in der Ferne. Und das Brummen des Druckers der sich selbst aufwärmte.
 
-Drüben, hinter dem Glas, brannte Licht.
-
-Leon saß noch, Rücken zur Tür, Bildschirm an. Die Tür hatte er den ganzen Tag nicht offen gelassen — nicht für ein Meeting, nicht für ein Gespräch. Dreimal war er kurz durchs Büro gekommen, Kaffeebecher, Ausdruck, und jedes Mal war die Tür hinter ihm zugegangen. Nicht laut. Einfach zu.
+Drüben, hinter dem Glas, brannte Licht. Leon saß noch, Rücken zur Tür, Bildschirm an. Die Tür hatte er den ganzen Tag nicht offen gelassen — nicht für ein Meeting, nicht für ein Gespräch. Dreimal war er kurz durchs Büro gekommen, Kaffeebecher, Ausdruck, und jedes Mal war die Tür hinter ihm zugegangen. Nicht laut. Einfach zu.
 
 In den Mails hatte Nora immer gewusst was als nächstes kam. Ein Kommentar, eine Korrektur, manchmal das schweigende Einverständnis einer Antwort ohne Korrekturen. Ein Takt der sich in einem Jahr eingespielt hatte. Hier war kein Takt. Hier war ein Glaskasten mit Licht und einer geschlossenen Tür.
 
-Sie speicherte die sechste Headline. Öffnete eine neue Datei.
+Sie speicherte die sechste Headline, öffnete eine neue Datei. Das Brinkmann-Briefing hatte sechs Wochen. Der Pitch stand fest. Und drüben saß jemand, den sie ein Jahr lang gelesen hatte und der im selben Raum eine völlig andere Sprache sprach.
 
-Das Brinkmann-Briefing hatte sechs Wochen. Der Pitch stand fest. Und drüben im Glaskasten saß jemand, den sie ein Jahr lang gelesen hatte und der im selben Raum eine völlig andere Sprache sprach.
-
-Nora fing mit der siebten Headline an. Das Licht im Glaskasten brannte.
-
-_Ende Kapitel 1_
-
-_Wörter: ca. 3.200_
-
----
+Nora fing mit der siebten Headline an.
 
 # Kapitel 2 — Kontrolle
 
@@ -194,7 +180,7 @@ Der Kaffee war fertig. Er nahm die Tasse und trank im Stehen.
 
 Dann der Schreibtisch in der zweiten Reihe.
 
-Gestern leer. Der tote Platz — die vorherige Texterin hatte drei Wochen durchgehalten, die davor sechs Tage. Der Stuhl war immer auf dieselbe Höhe eingestellt geblieben, auf die einer Person die größer gewesen war als beide. Jetzt: tiefer gedreht. Der Monitor leicht nach links angewinkelt, anders als vorher. Und auf der Tischkante, neben dem Zugangsdaten-Zettel den Carla dort hingelegt hatte, ein Stift. Nicht seiner. Nicht Carlas. Nicht Nils'.
+Gestern leer. Der tote Platz: die vorherige Texterin hatte drei Wochen durchgehalten, die davor sechs Tage. Der Stuhl war immer auf dieselbe Höhe eingestellt geblieben, auf die einer Person die größer gewesen war als beide. Jetzt: tiefer gedreht. Der Monitor leicht nach links angewinkelt, anders als vorher. Und auf der Tischkante, neben dem Zugangsdaten-Zettel den Carla dort hingelegt hatte, ein Stift. Nicht seiner. Nicht Carlas. Nicht Nils'.
 
 Jemand hatte seinen Raum verändert, ohne ihn zu fragen.
 
@@ -202,7 +188,7 @@ Carla hatte ihn vor drei Tagen in seinem Büro aufgesucht. Nachmittags, zwischen
 
 Sie hatte sich nicht gesetzt.
 
-„Wir haben den Brinkmann-Pitch in sechs Wochen. Ohne Texterin verlieren wir ihn." Keine Bitte. Zahlen. Umsatzprognose, Kapazitätsplanung, die Lücke im Team seit drei Monaten in einer einzigen Zahl zusammengefasst. Carla argumentierte nicht mit Gefühl — sie argumentierte mit Fakten, und das war der Grund warum er ihr nicht widersprach. Oder einer der Gründe.
+„Wir haben den Brinkmann-Pitch in sechs Wochen. Ohne Texterin verlieren wir ihn." Keine Bitte. Zahlen. Umsatzprognose, Kapazitätsplanung, die Lücke im Team seit drei Monaten in einer einzigen Zahl zusammengefasst. Carla argumentierte nicht mit Gefühl, sie argumentierte mit Fakten, und das war der Grund warum er ihr nicht widersprach. Einer der Gründe.
 
 „Seufert kennt die Projekte. Sie hat die Brinkmann-Texte im letzten Quartal geliefert." Carla legte den Ordner auf seinen Tisch, als hätte sie die Antwort schon eingeplant. „Sechs-Monats-Vertrag. Ich brauche ein Ja oder ein Nein."
 
@@ -210,7 +196,7 @@ Stille.
 
 Carla wartete. Sie war die Einzige die sein Schweigen nicht mit Reden füllte. Ein Blick über den Rand ihrer Brille, graublaue Augen die einschätzten und das nicht versteckten. Dann ein Nicken von ihm, kaum sichtbar, und ihr Blick der sagte: _Wusste ich._
 
-Sie ging. Die Tür fiel zu. Das war das Gespräch gewesen — keine zwei Minuten, keine Verhandlung. Fünfzehn Jahre in einem Wortwechsel der keiner war.
+Sie ging. Die Tür fiel zu. Das war das Gespräch gewesen, keine zwei Minuten, keine Verhandlung. Fünfzehn Jahre in einem Wortwechsel der keiner war.
 
 Leon trank seinen Kaffee und sah auf den veränderten Schreibtisch. Der Stift lag nicht parallel.
 
@@ -218,13 +204,13 @@ Er stellte die Tasse ab und ging in sein Büro.
 
 Gegen neun füllte sich die Agentur.
 
-Carla kam als Zweite, wie immer — acht Uhr dreißig, Absätze auf dem Linoleum, kein Gruß nötig, keiner erwartet. Das Geräusch ihrer Tür, dann Stille. Sie arbeitete.
+Carla kam als Zweite, wie immer. Acht Uhr dreißig, Absätze auf dem Linoleum, kein Gruß nötig, keiner erwartet. Das Geräusch ihrer Tür, dann Stille. Sie arbeitete.
 
 Nils um neun. Kopfhörer um den Hals, Kaffeebecher aus der Küche, ein Blick in Leons Büro der prüfend war und zu lange dauerte. Leon sah ihn durch die Glaswand und wandte sich nicht um.
 
 Dann die anderen. Die Neuen.
 
-Jakob kam als Erster von "Zweig 2". Er kam so rein wie er alles betrat — mit einem Lächeln das den Raum sofort verkleinerte, weil es zu viel Platz brauchte. In der einen Hand eine Bäckertüte, Zimtschnecken, genug für alle. In der anderen sein Handy, bereits am Tippen, als hätte er schon drei Gespräche angefangen bevor er die Treppe hochgekommen war.
+Jakob kam als Erster von "Zweig 2", so wie er alles betrat: mit einem Lächeln das den Raum sofort verkleinerte, weil es zu viel Platz brauchte. In der einen Hand eine Bäckertüte, Zimtschnecken, genug für alle. In der anderen sein Handy, bereits am Tippen, als hätte er schon drei Gespräche angefangen bevor er die Treppe hochgekommen war.
 
 „Morgen zusammen." Er stellte die Tüte auf den Küchentisch und kannte bereits die Namen der Praktikantin und des Grafikers in der Ecke, die er gestern zum ersten Mal gesehen hatte. „Elena, stimmt's? Und — Jan?" Beide nickten, überrascht, geschmeichelt. Jakob grinste, als hätte er gerade eine Wette gewonnen.
 
@@ -244,7 +230,7 @@ Durch die offene Tür, aus dem Flur, ohne zu fragen. Ein Klicken. Dann ein zweit
 
 Er sagte nichts.
 
-Maren ließ die Kamera sinken, sah ihn durch die Glaswand, hob die Hand — eine halbe Begrüßung, halb Entschuldigung, halb nichts davon. Dann war sie weiter.
+Maren ließ die Kamera sinken, sah ihn durch die Glaswand, hob die Hand. Halb Begrüßung, halb Entschuldigung. Dann war sie weiter.
 
 Leon stellte seine Tasse ab. Seine Finger lagen ruhig auf dem Schreibtisch. Er holte die Tür zu.
 
@@ -252,7 +238,7 @@ Tom war der Letzte.
 
 Leon hätte nicht sagen können wann genau er aufgetaucht war. Irgendwann zwischen Jakobs Zimtschnecken-Runde und Marens Kamera-Tour saß er an dem kleinen Tisch neben dem Drucker, den bisher niemand als Arbeitsplatz benutzt hatte. Pullover in einem Grau das mit der Wand verschmolz. Sandblondes Haar, das ins Gesicht fiel. Bei der Vorstellung gestern hatte er einen Satz gesagt — „Tom. Hallo." — und alle hatten genickt und weitergemacht, als hätte jemand ein Fenster geöffnet und wieder geschlossen.
 
-Leon sah ihn durch die Glaswand. Der Junge saß still, die Hände auf der Tastatur, und beobachtete den Raum mit einer Aufmerksamkeit die nicht zu seinem Alter passte. Ruhig. Wach. Als würde er zählen — nicht Gegenstände, sondern etwas anderes. Abstände. Blickrichtungen.
+Leon sah ihn durch die Glaswand. Der Junge saß still, die Hände auf der Tastatur, und beobachtete den Raum mit einer Aufmerksamkeit die nicht zu seinem Alter passte. Ruhig. Wach. Als würde er zählen, nicht Gegenstände, sondern etwas anderes. Abstände. Blickrichtungen.
 
 Leon sah eine Sekunde zu lang hin.
 
@@ -260,7 +246,7 @@ Dann wandte er sich ab und öffnete die Brinkmann-Datei. Der Pitch brauchte Konz
 
 Nora saß an dem veränderten Schreibtisch. Ihr Stift, ihr Monitor-Winkel, ihr Stuhl auf ihrer Höhe. Sie tippte, konzentriert, den Kopf leicht geneigt, und ab und zu griff sie nach einem Zettel neben der Tastatur auf dem sie etwas notierte, mit einer Handschrift die er nicht kannte. Nicht aus der Ferne. Nicht per Mail.
 
-Er registrierte sie wie er den Raum registrierte — als Veränderung. Als Variable die er nicht autorisiert hatte und die Carla in sein System eingefügt hatte, mit Zahlen statt Gefühl und einem Nicken das er ihr gegeben hatte weil die Zahlen stimmten.
+Er registrierte sie wie er den Raum registrierte: als Veränderung. Als Variable die er nicht autorisiert hatte und die Carla in sein System eingefügt hatte, mit Zahlen statt Gefühl und einem Nicken das er ihr gegeben hatte weil die Zahlen stimmten.
 
 Leon wandte sich ab und öffnete die nächste Mail.
 
@@ -270,7 +256,7 @@ Keiner hatte ihn klingeln hören — er hatte einen Schlüssel, und er benutzte 
 
 Er nickte Leon zu. Leon nickte zurück. Das war ihr Gespräch.
 
-Werner ging durch die Agentur wie jemand der einen Laden besucht, den er vor vierzig Jahren gebaut hatte und der seitdem unter seinen Händen gewachsen war — ein Blick auf die Post-its, ein Blick auf den Server-Raum, ein Blick auf die neuen Gesichter die seit letzter Woche die Reihen füllten. Er musterte Jakob, der am Telefon war und mit einer Hand gestikulierte als könne sein Gegenüber ihn sehen. Er sah Maren, die am Fenster Fotos sichtete, und Tom, der neben dem Drucker saß und die Bestandskunden-Liste durchging die ihm niemand aufgetragen hatte.
+Werner ging durch die Agentur wie jemand der einen Laden besucht, den er vor vierzig Jahren gebaut hatte und der seitdem unter seinen Händen gewachsen war. Post-its, Server-Raum, die neuen Gesichter die seit letzter Woche die Reihen füllten. Jakob am Telefon, eine Hand in der Luft als könne sein Gegenüber ihn sehen. Maren am Fenster über ihren Fotos. Tom neben dem Drucker, die Bestandskunden-Liste vor sich die ihm niemand aufgetragen hatte.
 
 Dann blieb er stehen.
 
@@ -306,7 +292,7 @@ Er ging in Leons Büro. Leon schloss die Tür.
 
 „Der Finkenstein-Vertrag läuft Ende März aus. Ich hab die Konditionen überarbeitet." Matthias legte einen Ordner auf den Tisch. Seine Stimme war ruhig, sachlich, frei von allem was nicht mit Zahlen zu tun hatte. „Fünfzehn Prozent mehr als im Vorjahr. Realistisch, wenn wir die Digitalsparte dazunehmen."
 
-Leon nahm den Ordner. Blätterte. Die Zahlen stimmten — sie stimmten immer, das war das Einzige woran man Matthias nicht zweifeln konnte.
+Leon nahm den Ordner. Blätterte. Die Zahlen stimmten. Sie stimmten immer; das war das Einzige woran man Matthias nicht zweifeln konnte.
 
 „Brinkmann?" Matthias fragte es beiläufig, den Blick auf den Ordner gerichtet.
 
@@ -322,7 +308,7 @@ Eine Minute verging, in der Matthias den Ordner zuklappte und Leon auf den Bilds
 
 Matthias stand auf. „Ruf an, falls was fehlt."
 
-Leon hob die Hand — keine Geste, nur eine Bewegung die sagte: _Erledigt._
+Leon hob die Hand. Keine Geste, nur eine Bewegung die sagte: _Erledigt._
 
 Sein Vater ging durch die Agentur, nickte Carla zu, die den Gruß erwiderte ohne aufzuschauen, und verschwand im Treppenhaus. Die Tür fiel ins Schloss. Das Geräusch war leise und endgültig zugleich.
 
@@ -333,12 +319,6 @@ Er legte den Ordner ab und wandte sich dem Brinkmann-Pitch zu.
 Draußen, hinter der Glaswand, arbeitete die Agentur. Jakob telefonierte, eine Hand in der Luft, sein Lachen leiser als heute Morgen aber immer noch zu präsent. Nils saß an seinem Platz und zeichnete etwas in sein Notizbuch — als er Leons Blick bemerkte, klappte er es zu und griff zur Maus. Maren war mit ihrer Kamera unterwegs, irgendwo im Treppenhaus, die Schritte auf dem Linoleum schnell und unregelmäßig. Tom saß an seinem kleinen Tisch und tippte etwas, das Leon nicht lesen konnte.
 
 Und an dem Schreibtisch in der zweiten Reihe, unter dem veränderten Monitor, mit dem Stift der nicht seiner war, saß Nora Seufert und schrieb Brinkmann-Headlines, und Leon schloss die Tür.
-
-_Ende Kapitel 2_
-
-_Wörter: ca. 3.100_
-
----
 
 # Kapitel 3 — Nachtschicht
 
@@ -382,11 +362,9 @@ Die Tür fiel zu.
 
 Und dann war es still.
 
-Nicht die Stille vom Montag — die war neu gewesen, fremd, ein Ort den sie noch nicht kannte. Diese Stille kannte sie schon. Vier Tage, und die Agentur nach achtzehn Uhr hatte angefangen sich wie ein eigener Raum anzufühlen. Die Neonröhren in der ersten Reihe summten auf einer Frequenz die tagsüber im Lärm unterging. Das Serverbrummen im Flur. Und draußen, durch die Fensterfront, die Straßenbahn die in größeren Abständen piepte.
+Nicht die Stille vom Montag, die war neu gewesen, fremd, ein Ort den sie noch nicht kannte. Diese Stille kannte sie schon. Vier Tage, und die Agentur nach achtzehn Uhr hatte angefangen sich wie ein eigener Raum anzufühlen. Die Neonröhren in der ersten Reihe summten auf einer Frequenz die tagsüber im Lärm unterging. Das Serverbrummen im Flur. Und draußen, durch die Fensterfront, die Straßenbahn die in größeren Abständen piepte.
 
-Noras Schultern sanken.
-
-Es war kein bewusster Moment — kein Schalter, kein Entschluss. Es passierte einfach. Das Lächeln löste sich auf, nicht dramatisch, nicht sichtbar, nur weg. Ihre Kiefermuskeln entspannten sich. Ihr Atem wurde tiefer, langsamer, als hätte ihr Körper den ganzen Tag auf diese Erlaubnis gewartet.
+Noras Schultern sanken. Kein bewusster Moment, es passierte einfach. Das Lächeln löste sich auf, nicht dramatisch, nicht sichtbar, nur weg. Ihre Kiefermuskeln entspannten sich, ihr Atem wurde tiefer, langsamer, als hätte ihr Körper den ganzen Tag auf diese Erlaubnis gewartet.
 
 Sie drehte sich zum Bildschirm. Die falsche Headline war immer noch da — gelöscht, aber die leere Zeile dahinter wartete.
 
@@ -406,7 +384,7 @@ Zurück am Platz hatte sie einen neuen Ansatz für den dritten Absatz des Brinkm
 
 Ein Geräusch. Leons Tür.
 
-Sie hörte seine Schritte — gleichmäßig, ohne Eile, den kurzen Weg zum Drucker. Das Rattern der Maschine. Dann Schritte zurück, aber nicht ganz. Sie hörten auf.
+Sie hörte seine Schritte, gleichmäßig, ohne Eile, den kurzen Weg zum Drucker. Das Rattern der Maschine. Dann Schritte zurück, aber nicht ganz. Sie hörten auf.
 
 Hinter ihr.
 
@@ -450,15 +428,15 @@ Sie drückte die Klinke runter, und der Raum öffnete sich — kleiner als sie e
 
 Sie stellte die Tasse auf die freie Ecke seines Schreibtischs, zwischen den Stiften und dem Ausdruck den er vorhin geholt hatte, und drehte sich um.
 
-Er sagte nichts. Kein Danke, kein Blick, keine Reaktion. Sein Stift bewegte sich weiter über das Papier, als wäre sie nicht da gewesen.
+Er sagte nichts. Sein Stift bewegte sich weiter über das Papier, als wäre sie nicht da gewesen.
 
 Nora war fast an der Tür, die Klinke schon in der Hand, als hinter ihr ein einziges Wort kam.
 
 „Schwarz."
 
-Keine Frage. Eine Feststellung. Er hatte die Tasse angesehen — hatte geprüft was sie gebracht hatte und es für korrekt befunden. In Leons Welt war das vermutlich ein ganzer Satz.
+Keine Frage. Eine Feststellung. Er hatte die Tasse angesehen, hatte geprüft was sie gebracht hatte und es für korrekt befunden. In Leons Welt war das vermutlich ein ganzer Satz.
 
-Nora zog die Tür hinter sich zu und ging zurück an ihren Platz. Kein Danke. Kein Lächeln. Nur ein Wort, das verriet dass er hingeschaut hatte, und sie wusste nicht warum das mehr wog als alles andere an diesem Tag.
+Nora zog die Tür hinter sich zu und ging zurück an ihren Platz. Nur ein Wort, das verriet dass er hingeschaut hatte, und sie wusste nicht warum das mehr wog als alles andere an diesem Tag.
 
 Schwarzer Kaffee, keine Milch, kein Zucker. Sie hatte sich das gemerkt. Sie war aufgestanden, hatte die Maschine angeworfen, die Tasse auf seinen Tisch gestellt. Hatte seine Tür geöffnet, obwohl die seit vier Tagen geschlossen war. Warum?
 
@@ -470,11 +448,7 @@ Sie kannte das. Den Impuls, der sich nicht erklären ließ und den sie trotzdem 
 
 Es war spät. Sie speicherte die Datei. Fuhr den Rechner runter.
 
-Als sie ihren Mantel anzog und durch den dunklen Großraum ging, fiel ihr Blick auf den Glaskasten. Leon saß an derselben Stelle, der Bildschirm weiß in seinem Gesicht. Die Tasse stand neben seiner Tastatur.
-
-Leer.
-
-Er sah nicht hoch.
+Als sie ihren Mantel anzog und durch den dunklen Großraum ging, fiel ihr Blick auf den Glaskasten. Leon saß an derselben Stelle, der Bildschirm weiß in seinem Gesicht. Die Tasse stand neben seiner Tastatur. Leer. Er sah nicht hoch.
 
 Nora zog die Tür hinter sich zu und nahm die Treppe runter, vorbei am Naturkostladen mit den Kreide-Schildern, raus aufs Schulterblatt. Die Luft war nass und kalt. Irgendwo weiter Richtung Sternschanze fuhr die letzte Straßenbahn.
 
@@ -482,25 +456,19 @@ Sie ging nach Hause. Die Wohnung war still und halb leer, und sie legte sich ins
 
 Oben im zweiten Stock brannte das Licht noch.
 
-_Ende Kapitel 3_
-
-_Wörter: ca. 2.500_
-
----
-
 # Kapitel 4 — Sonntagspflicht
 
 _Leon, Woche 1/2_
 
 Werners Esstisch fasste zwölf. Sie waren acht, und trotzdem fühlte er sich voll an.
 
-Nicht mit Menschen — mit Bedeutung. Mit allem was ungesagt blieb und trotzdem Platz wegnahm.
+Nicht mit Menschen. Mit Bedeutung. Mit allem was ungesagt blieb und trotzdem Platz wegnahm.
 
 Leon hatte pünktlich geklingelt. Zweiundzwanzig Minuten Fußweg vom Schulterblatt, der Audi stand noch bei der Agentur, er hatte ihn am Samstagabend stehen lassen und war nicht dazu gekommen ihn zu holen. Werner wohnte in Eppendorf, drittes Obergeschoss, kein Aufzug, Teppich auf der Treppe der nach Bohnerwachs und zwanzig Jahren roch. Die Wohnungstür hatte Werners Gesicht zum Vorschein gebracht: das breite Grinsen, die dunklen Augen die nichts verpassten, die Fliege — heute dunkelrot, auf einem weißen Hemd.
 
 „Leon." Kein Kommentar zum Wetter, kein Wie-geht's. Werner sagte Namen wie Empfangsbestätigungen.
 
-Das Porzellan war alt — blaue Randlinie, Golddekor, einige Tassen randlos. Werner hatte es seit zwanzig Jahren, seit Oma Ilka, und er ersetzte die kaputten Teile nicht. Er stellte sie beiseite und ließ die Lücken stehen.
+Das Porzellan war alt: blaue Randlinie, Golddekor, einige Tassen randlos. Werner hatte es seit zwanzig Jahren, seit Oma Ilka, und er ersetzte die kaputten Teile nicht. Er stellte sie beiseite und ließ die Lücken stehen.
 
 Die Plätze hatten sich über Jahre von selbst geordnet. Niemand hatte es so festgelegt. Zweig eins gegenüber Zweig zwei, Werner am Kopfende, Matthias zu seiner Rechten. Daneben Leon, dann Carla, dann Nils an der Ecke. Auf der anderen Seite: Jakob, Maren, Tom. Acht Stühle. Acht Brötchen, die Werner früh morgens selbst geholt hatte, plus Aufschnitt und Käse und ein Glas Erdbeermarmelade das Leon nie aß.
 
@@ -512,7 +480,7 @@ Carla trank einen Schluck Kaffee. „Erste Konzeptentwürfe Donnerstag."
 
 „Ich weiß was du meinst."
 
-Ein halbes Lächeln, das Jakob beibehielt ohne Aufwand. Er ließ es nicht stören. Das war an ihm — er ließ nichts an sich ran, glitt durch Abweisungen wie Wasser durch offene Finger, und das war das Irritierendste. Hätte er sich geärgert, hätte Leon es verstanden.
+Ein halbes Lächeln, das Jakob beibehielt ohne Aufwand. Er ließ es nicht stören. Das war an ihm: er ließ nichts an sich ran, glitt durch Abweisungen wie Wasser durch offene Finger, und das war das Irritierendste. Hätte er sich geärgert, hätte Leon es verstanden.
 
 „Dann läuft wohl alles auf Freitag." Nils, ohne aufzusehen. Der Ton den er für Familienrunden reservierte: korrekt, sarkastisch, schwer zu kontern.
 
@@ -532,7 +500,7 @@ Tom schüttelte kurz den Kopf. „Noch nichts Konkretes."
 
 „Ich hab es erwähnt." Tom hob die Tasse. „Nicht versprochen."
 
-Das war es. Werner nickte, die Konversation war vollständig — nicht abgebrochen, vollständig, mit einem Punkt den beide setzten ohne ihn auszusprechen. Zwischen ihnen war kein unangenehmes Schweigen. Kein leeres Schweigen. Zwei Menschen die denselben Raum bewohnten ohne aneinanderzustoßen.
+Das war es. Werner nickte, die Konversation war vollständig, nicht abgebrochen, sondern wirklich vollständig, mit einem Punkt den beide setzten ohne ihn auszusprechen. Zwei Menschen die denselben Raum bewohnten ohne aneinanderzustoßen.
 
 „Tom, wann kommt der Typ in die Stadt?" Jakob hatte alles verfolgt. „Ich kenn jemanden bei Ströhm und Berger, die haben letztes Jahr eine ähnliche Ausschreibung —"
 
@@ -598,7 +566,7 @@ Das passierte immer, irgendwo um elf — eine Sättigung, wenn die Brötchen fas
 
 Leon sah auf seine Armbanduhr. Zehn nach elf.
 
-„Henrik hat noch offene Rechnungen." Werner sagte es beiläufig — denselben Ton wie _Noch Kaffee_, wie _Das Wetter wird besser diese Woche_. „Irgendwann müssen wir darüber reden."
+„Henrik hat noch offene Rechnungen." Werner sagte es beiläufig, denselben Ton wie _Noch Kaffee_ oder _Das Wetter wird besser diese Woche_. „Irgendwann müssen wir darüber reden."
 
 Stille.
 
@@ -606,9 +574,7 @@ Nicht die Stille zwischen Sätzen. Die andere. Die Stille die entstand wenn alle
 
 Carla sah auf ihren Kaffee. Jakobs Hand hielt inne, die Marmelade noch im Griff, dann stellte er sie ab — kein Grund, es gab keinen Grund, aber seine Hände brauchten etwas. Matthias: unverändert. Als hätte er den Satz nicht gehört.
 
-Maren saß still. Ihre Finger schlossen sich um die Kamera ohne sie anzuheben.
-
-Werner ließ es stehen. Er trank, legte die Tasse ab, wartete — nicht auf eine Antwort, sondern einfach. Das war seine Methode mit Dingen die Raum brauchten.
+Maren saß still, ihre Finger um die Kamera geschlossen ohne sie anzuheben. Werner ließ es stehen. Er trank, legte die Tasse ab, wartete — nicht auf eine Antwort, sondern einfach. Das war seine Methode mit Dingen die Raum brauchten.
 
 Niemand sagte etwas.
 
@@ -686,19 +652,13 @@ Matthias saß an seinem Platz und sah auf die Tischfläche. Immer noch.
 
 Werner hob seine Tasse, trank den letzten Rest der schon kalt war, und stellte sie ab.
 
-_Ende Kapitel 4_
-
-_Wörter: ca. 2.200_
-
----
-
 # Kapitel 5 — Wer fragt dich?
 
 _Nora, Woche 2_
 
 Sie hatte Franzbrötchen mitgebracht.
 
-Nicht weil die Schanze-Bäckerei auf dem Weg lag — sie lag zwei Straßen aus dem Weg — sondern weil der Montag schon nach einem Montag aussah, draußen, um acht Uhr morgens, und sie gelernt hatte dass Franzbrötchen die meisten Montage erträglicher machten.
+Nicht weil die Schanze-Bäckerei auf dem Weg lag (sie lag zwei Straßen aus dem Weg), sondern weil der Montag schon nach einem Montag aussah, draußen, um acht Uhr morgens, und sie gelernt hatte dass Franzbrötchen die meisten Montage erträglicher machten.
 
 „Moin." Sie ließ die Tüte auf dem freien Tisch in der Mitte landen, dort wo keiner saß und alle vorbeikamen. „Wer will, der will."
 
@@ -712,7 +672,7 @@ Nils saß schon seit wann auch immer an seinem Platz. Das Notizbuch vor sich, St
 
 „Besser als nichts."
 
-Er antwortete nicht mehr, und sie erwartete es auch nicht. Bei Nils stimmte das — man fragte, er antwortete mit dem Mindestmaß, das Mindestmaß war trotzdem ehrlicher als das was die meisten anderen sagten. Das war fast ein Kompliment.
+Er antwortete nicht mehr, und sie erwartete es auch nicht. Bei Nils stimmte das. Man fragte, er antwortete mit dem Mindestmaß, das Mindestmaß war trotzdem ehrlicher als das was die meisten anderen sagten. Das war fast ein Kompliment.
 
 Sie setzte sich, öffnete ihren Laptop, ließ den Brinkmann-Ordner aufgehen.
 
@@ -834,11 +794,9 @@ Nicht dramatisch — einfach kurz, eine halbe Sekunde länger als nötig, bevor 
 
 „Fragt das hier eigentlich jemals jemand _dich_?"
 
-Nora öffnete den Mund.
+Nora öffnete den Mund. Schloss ihn.
 
-Schloss ihn.
-
-Carla sah sie an — nicht herausfordernd, nicht kalt. Einfach direkt. Die Art von direktem Blick der keine Antwort einforderte sondern nur feststellte dass die Frage berechtigt war.
+Carla sah sie an. Nicht herausfordernd, nicht kalt. Einfach direkt. Die Art von direktem Blick der keine Antwort einforderte sondern nur feststellte dass die Frage berechtigt war.
 
 Nora lächelte. Nicht das Lächeln mit dem kleinen Zug an den Augenwinkeln, nicht das das sie für Montage und Maklerinnen und Fremde in der Schlange aufbewahrte.
 
@@ -846,7 +804,7 @@ Nora lächelte. Nicht das Lächeln mit dem kleinen Zug an den Augenwinkeln, nich
 
 Carla sah sie noch eine Sekunde an. Dann, kurz und echt und so überraschend dass Nora nicht darauf vorbereitet war: sie lachte.
 
-Kein lautes Lachen — ein kurzes, echtes, das Geräusch das entstand wenn jemand mit Kontrolle die Kontrolle für eine Sekunde abgab und es nicht schlimm war. Nora lachte mit, auch kurz, auch echt, und für diesen einen Moment war die Küche kein Durchgangsraum mehr.
+Kein lautes Lachen. Ein kurzes, echtes, das Geräusch das entstand wenn jemand mit Kontrolle die Kontrolle für eine Sekunde abgab und es nicht schlimm war. Nora lachte mit, auch kurz, auch echt, und für diesen einen Moment war die Küche kein Durchgangsraum mehr.
 
 Die Maschine gab einen letzten Zisch von sich. Nora nahm ihre Tasse.
 
@@ -958,9 +916,7 @@ Nicht weil die Konzepte fertig waren — Konzept A war jetzt besser, dank des ge
 
 Die Agentur nach achtzehn Uhr war mittlerweile ein bekannter Ort. Nicht mehr fremd wie in der ersten Nacht — das Summen der Neonröhren, das Serverbrummen aus dem Flur, die Straßenbahn draußen in längeren Abständen. Alles war jetzt vertraut auf die Art wie ein Wartezimmer vertraut wird wenn man zu oft darin sitzt.
 
-Ihre Schultern sanken.
-
-Sie bemerkte es erst als es schon passiert war — die Kiefermuskeln die sich entspannten, der Atem der tiefer wurde, das Lächeln das sich einfach auflöste weil kein Raum mehr da war der es brauchte. Sie tippte. Strich. Tippte neu.
+Ihre Schultern gaben nach, und sie bemerkte es erst als es schon passiert war: die Kiefermuskeln die sich entspannten, der Atem der tiefer wurde, das Lächeln das sich einfach auflöste weil kein Raum mehr da war der es brauchte. Sie tippte. Strich. Tippte neu.
 
 Hinter der Glaswand am Ende des Raums: Licht an. Wie immer.
 
@@ -1034,12 +990,6 @@ Nora lehnte sich in ihrem Stuhl zurück und sah auf den Bildschirm. Das Konzept 
 
 Sie ließ es liegen.
 
-_Ende Kapitel 5_
-
-_Wörter: ca. 3.600_
-
----
-
 # Kapitel 6 — Kann so raus
 
 _Leon, Woche 3_
@@ -1048,9 +998,9 @@ _Leon, Woche 3_
 
 Die dritte Version des Mediaplans hatte dieselbe Lücke wie die zweite.
 
-Leon druckte sie trotzdem aus — Papier half manchmal, wo Bildschirm nicht mehr half — und legte sie neben die erste Version. Woche drei, Tage zwanzig bis vierundzwanzig, die Medienplanung für Brinkmann musste diese Woche stehen, weil die Pitchpräsentation ab Montag in ihre finale Form ging und er keine offenen Stellen in der Struktur brauchte wenn Jakob anfing Folien zu bauen.
+Leon druckte sie trotzdem aus (Papier half manchmal, wo Bildschirm nicht mehr half) und legte sie neben die erste Version. Woche drei, Tage zwanzig bis vierundzwanzig, die Medienplanung für Brinkmann musste diese Woche stehen, weil die Pitchpräsentation ab Montag in ihre finale Form ging und er keine offenen Stellen in der Struktur brauchte wenn Jakob anfing Folien zu bauen.
 
-Er markierte Abschnitt zwei, schrieb drei Sätze an den Rand. Die Lücke war nicht in den Zahlen — die Zahlen stimmten. Die Lücke war in der Begründung. Wer kaufte Brinkmann nicht, und warum nicht, und was änderte sich, wenn die Kampagne funktionierte. Das fehlte. Er legte den Stift ab.
+Er markierte Abschnitt zwei, schrieb drei Sätze an den Rand. Die Lücke war nicht in den Zahlen, die stimmten. Die Lücke war in der Begründung. Wer kaufte Brinkmann nicht, und warum nicht, und was änderte sich, wenn die Kampagne funktionierte. Das fehlte. Er legte den Stift ab.
 
 „Jakob."
 
@@ -1154,11 +1104,11 @@ Die Schreibtischlampe summte.
 
 „Kann so raus."
 
-Er sagte es zur Tür hin, laut genug für den Großraum. Keine Adresse, keine Erklärung.
+Er sagte es zur Tür hin, laut genug für den Großraum.
 
-Tom hob den Kopf.
+Durch die Glaswand: Noras Silhouette, die Hände über der Tastatur, eine Bewegung die stoppte. Nicht viel, ein Stocken in den Schultern, das Innehalten von jemandem, der etwas gehört hatte und noch nicht wusste, was es bedeutete. Dann tippte sie weiter.
 
-Nur kurz — eine Sekunde, Blick in Leons Richtung, dann zurück auf den Bildschirm. Aber seine Schultern hatten sich einen Moment verändert, das kleine Zeichen, das Leon bei ihm kannte und bei anderen nicht, das Zeichen, das bei Tom bedeutete, dass er etwas registriert hatte, das er nicht kommentieren würde.
+Tom hob den Kopf, nur kurz, Blick in Leons Richtung, dann zurück auf den Bildschirm. Aber seine Schultern hatten sich einen Moment verändert, das kleine Zeichen, das Leon bei ihm kannte und bei anderen nicht, das Zeichen, das bei Tom bedeutete, dass er etwas registriert hatte, das er nicht kommentieren würde.
 
 In Carlas Büro: eine Pause. Das Kratzen eines Stifts, der abgesetzt wurde. Dann, nach zwei Sekunden, wieder angesetzt.
 
@@ -1170,9 +1120,9 @@ Dass Nora aufsah, sah er durch die Glaswand — die Kopfbewegung, kurz, in seine
 
 Er sah nicht hin.
 
-Irgendwann öffnete sich auf dem geteilten Ordner eine neue Aktivität: sie hatte die Datei geöffnet. Las vermutlich die Kommentare. Einen gab es: _Rev3 final._ Keine Korrekturen, keine roten Markierungen, keine Anmerkungen.
+Irgendwann öffnete sich auf dem geteilten Ordner eine neue Aktivität: sie hatte die Datei geöffnet. Las vermutlich die Kommentare. Einen gab es: _Rev3 final._ Keine Korrekturen, keine roten Markierungen.
 
-_Kann so raus_ war das Höchste, das er vergab. Die alten Mitarbeiter wussten das — Carla seit fünfzehn Jahren, Tom seit drei, Nils seit immer, auch wenn er nie danach gesucht hatte. Drei Worte, und es bedeutete: fertig. Gut. Besser als erwartet, obwohl er das letzte nicht sagte und es auch nicht musste.
+_Kann so raus_ war das Höchste, das er vergab. Die alten Mitarbeiter wussten das. Carla seit fünfzehn Jahren, Tom seit drei, Nils seit immer, auch wenn er nie danach gesucht hatte. Drei Worte, und es bedeutete: fertig. Gut. Besser als erwartet, obwohl er das letzte nicht sagte und es auch nicht musste.
 
 Nora wusste es nicht.
 
@@ -1184,9 +1134,7 @@ Er stand auf, nahm den Becher, und ging in die Küche.
 
 Die Kaffeemaschine war aus. Er füllte sich am Wasserhahn nach — kalt, das reichte für die nächste Stunde. Durch das schmale Fenster zur Flurseite konnte er einen Teil des Großraums sehen.
 
-Nora saß noch an ihrem Platz.
-
-Vorgebeugt, beide Hände neben der Tastatur. Den Blick auf dem Bildschirm — nicht tippend, sondern lesend. Prüfend. Die Haltung von jemandem, der die Kommentare eines Dokuments zum dritten Mal durchging und immer noch nicht fand, was er suchte.
+Nora saß noch an ihrem Platz. Vorgebeugt, beide Hände neben der Tastatur, den Blick auf dem Bildschirm, nicht tippend, sondern lesend. Prüfend. Die Haltung von jemandem, der die Kommentare eines Dokuments zum dritten Mal durchging und immer noch nicht fand, was er suchte.
 
 Er trank, stellte den Becher ab, wartete einen Moment, den er nicht hätte benennen können.
 
@@ -1216,9 +1164,7 @@ Kremer kannte er — handwerklich einwandfrei und austauschbar, die Art von Arbe
 
 Carla legte die drei Seiten zusammen, einen Moment zu sorgfältig. „Es gibt noch Lasse Petersen." Sie machte keine Pause. Sie sagte es so, wie man etwas sagte, das man der Vollständigkeit halber sagen musste. „War bei Scholz und Friends, die letzten vier Jahre. Sein Portfolio ist gut. Aber er gilt als unzuverlässig — abgegeben zu spät, bei zwei Projekten ausgefallen. Die Leute mit denen ich gesprochen habe, sagen: absolut nicht."
 
-Leon sah auf seinen Bildschirm.
-
-Auf dem Tab, den er schon vor dem Gespräch geöffnet hatte: dreißig Bilder. Kein Hochglanz, keine Agentur-Ästhetik. Die Art von Bildern, die man nicht vergaß.
+Er wandte sich zum Bildschirm. Auf dem Tab, den er schon vor dem Gespräch geöffnet hatte: dreißig Bilder. Kein Hochglanz, keine Agentur-Ästhetik. Die Art von Bildern, die man nicht vergaß.
 
 „Bucht ihn."
 
@@ -1226,7 +1172,7 @@ Stille.
 
 Carla stand still — die Stille von jemandem, der eine Information verarbeitete und dafür eine halbe Sekunde brauchte. Fünfzehn Jahre. Sie wusste, wann seine Entscheidungen Gründe hatten, die er nicht nannte, und wann weitere Diskussion keinen Sinn ergab. Das hier war dieser Punkt.
 
-Sie nahm die Mappe. Legte die drei Seiten hinein. Schloss sie.
+Sie nahm die Mappe, legte die drei Seiten hinein und schloss sie.
 
 „Ich klär den Vertrag."
 
@@ -1282,12 +1228,6 @@ Er sah nicht mehr in Richtung Glaswand.
 
 Aber er sagte auch nichts.
 
-_Ende Kapitel 6_
-
-_Wörter: ca. 2.600_
-
----
-
 # Kapitel 7 — 14 Uhr
 
 _Nora, Woche 4_
@@ -1316,49 +1256,29 @@ Sie scrollte zurück. Die Änderung war in der dritten Woche eingetragen, irgend
 
 ---
 
-Carla und Nils standen in der Küche, als Nora sich einen zweiten Kaffee holte. Nils lehnte mit dem Rücken gegen die Arbeitsfläche, Arme verschränkt, und betrachtete die Decke mit dem Ausdruck von jemandem, dem gerade etwas aufgegangen war, das er lieber nicht gewusst hätte.
+Carla stand in der Küche, als Nora sich einen zweiten Kaffee holte. Der Siebträger lief, und Carla wartete mit der Tasse in der Hand und dem Blick von jemandem, der gerade etwas nachgerechnet hatte.
 
-„Ich hab zwei Konzept-Präsentationen auf vierzehn verschoben", sagte Carla. Sie wartete auf den Siebträger. „Weil ich dachte, die Meetings würden sich nicht mehr ändern."
-
-„Ich hab Jannik gesagt, er soll um neun vorbeikommen." Nils ließ die Decke los. „Wegen dem Fototermin."
-
-„Und jetzt?"
-
-„Jetzt kommt er um neun und das Review-Meeting ist um vierzehn." Er zuckte die Schultern. „Hab ich halt fünf Stunden mit Jannik."
+„Ich hab zwei Konzept-Präsentationen auf vierzehn verschoben", sagte sie. „Weil ich dachte, die Meetings würden sich nicht mehr ändern."
 
 Nora stellte ihre Tasse unter den Auslauf und wartete.
 
-„Hat Leon das geändert?", fragte Nils — nicht an Carla, eher an den Raum.
+„Hat Leon das geändert?"
 
-„Offensichtlich."
-
-„Warum?"
-
-Carla gab keine Antwort. Nils schien keine zu erwarten.
+Carla sah sie an — kurz, abwägend, als überlegte sie, wie viel sie sagen wollte. „Offensichtlich."
 
 Nora schob den Hebel nach unten. Der Siebträger gab nach, der erste dünne Strahl lief in die Tasse. Sie hatte die Frage nicht gestellt, also würde sie auch nicht die sein, die eine Antwort bekam — das war die implizite Logik dieser Küche, hatte sie inzwischen gelernt. Wer fragt, bekommt zwei Sätze. Wer wartet, bekommt manchmal mehr.
 
 Leon war in der Tür, bevor irgendjemand seine Schritte gehört hatte.
 
-„Die Review-Zeiten", sagte Nils. Keine Frage, eher ein Stichwort, hingeworfen.
+Er sah Carla an. Die Kaffeemaschine. Den Türrahmen. Alles in der Küche, der Reihe nach, ruhig und ohne Eile — nur eben nicht Nora.
 
-Leon sah ihn an. Dann Carla. Die Kaffeemaschine. Den Türrahmen. Alles in der Küche, der Reihe nach, ruhig und ohne Eile — nur eben nicht Nora.
+„Die Review-Zeiten", sagte Carla. Sachlich, ohne Vorwurf.
 
 „Passt besser in den Workflow."
 
 Er war wieder weg.
 
-Nils wartete einen Moment. „Wessen Workflow."
-
-Carla trank ihren Kaffee.
-
----
-
-Nora saß wieder am Schreibtisch, die Tasse neben der Tastatur.
-
-_Brinkmann. Einfach weil._ Immer noch gut. Noch besser als vorhin, tatsächlich — frischer, weil der Morgen noch nicht zerstückelt worden war.
-
-Sie öffnete das nächste Dokument. Fing wieder an.
+Carla trank ihren Kaffee. Dann, an die Tasse: „Wessen Workflow."
 
 ---
 
@@ -1448,7 +1368,7 @@ Er ging zurück in sein Büro. Die Tür fiel ins Schloss.
 
 Nora sah auf ihren Bildschirm.
 
-Er hatte nicht anders reagiert als gestern. Nicht anders als letzte Woche. Nicht anders als in der ersten Nacht, als sie noch gedacht hatte, sie müsste sich anstrengen — freundlicher klingen, wärmer, zugänglicher. Damals hatte sie es versucht. Hatte den Satz ein bisschen weicher gemacht, bevor sie ihn sagte. Hatte gelächelt, wenn er an ihrem Schreibtisch stand.
+Er hatte nicht anders reagiert als gestern. Nicht anders als letzte Woche. Genauso wie in der ersten Nacht, als sie noch gedacht hatte, sie müsste sich anstrengen — freundlicher klingen, wärmer, zugänglicher. Damals hatte sie es versucht. Hatte den Satz ein bisschen weicher gemacht, bevor sie ihn sagte. Hatte gelächelt, wenn er an ihrem Schreibtisch stand.
 
 Er hatte das Lächeln jedes Mal ignoriert.
 
@@ -1549,12 +1469,6 @@ Nora sah auf ihren Bildschirm. Der Fließtext für Format drei wartete, drei Sä
 Der Blick, der über den Tisch gegangen war, saß ihr noch im Nacken. Nicht wegen ihr — das war das Merkwürdige, das sie nicht ganz einordnen konnte. Er hatte sie kaum angesehen. Er hatte Nils angesehen. Nils und das Tablet und die Zeichnung, die noch nicht fertig war.
 
 Sie ließ es liegen. Tippte weiter.
-
-_Ende Kapitel 7_
-
-_Wörter: ca. 3.600_
-
----
 
 # Kapitel 8 — Sonntagsgruß
 
@@ -1684,12 +1598,6 @@ Die Pitchpräsentation wartete auf Slide neunzehn.
 
 Er setzte sich und fing an.
 
-_Ende Kapitel 8_
-
-_Wörter: ca. 2.800_
-
----
-
 # Kapitel 9 — Mund halten
 
 _Nora, Woche 5_
@@ -1700,7 +1608,7 @@ Kein Selbstlob. Ein Urteil, abgegeben nach drei Agenturen und sieben Jahren — 
 
 Sie klickte vor.
 
-„Variante C ist das emotionale Leitkonzept." Ruhig, professionell, mit dem kleinen Vorwärtsschwung an Energie, den Teams brauchten, wenn sie zwanzig Minuten schon saßen und der Kaffee kalt wurde. Der Beamer warf Licht auf die wandseitige Fläche. Sechs Gesichter: Carla mit dem Stift quer auf dem Tisch, Augen auf der Folie. Nils hinten an der Wand, Arme verschränkt, scheinbar gelangweilt — seine Augen wanderten nicht. Tom ruhig. Jakob mit dem Becher. Maren ein Stück abseits.
+„Variante C ist das emotionale Leitkonzept." Ruhig, professionell, mit dem kleinen Vorwärtsschwung an Energie, den Teams brauchten, wenn sie zwanzig Minuten schon saßen und der Kaffee kalt wurde. Der Beamer warf Licht auf die wandseitige Fläche. Sechs Gesichter: Carla mit dem Stift quer auf dem Tisch, Augen auf der Folie. Nils hinten an der Wand, Arme verschränkt, scheinbar gelangweilt — sein Blick blieb auf der Folie. Tom ruhig. Jakob mit dem Becher. Maren ein Stück abseits.
 
 Am Kopfende des Tisches: Leon. Hände auf dem Tisch, Manschetten zurückgerollt. Er sah auf Folie neun.
 
@@ -1732,7 +1640,7 @@ Der Junior richtete sich im Stuhl auf. Er ordnete seinen Block — der bereits i
 
 Leon sah auf Folie neun.
 
-Niemand sonst bewegte sich. Niemand sonst sah zu Nora.
+Niemand sonst bewegte sich. Keiner sah zu Nora.
 
 „Die Zielgruppe", sagte Nora — und ihre Stimme klang für einen Beat sehr weit weg, dann nicht mehr —, „ist nicht der Boomer, der an den Sommerurlaub 1987 denkt. Die Kaufentscheidung fällt zu sechzig Prozent bei den 28- bis 45-Jährigen. Die kennen Brinkmann vom Elternhaus — aber die wollen sich nicht wie ihre Eltern fühlen. Die wollen sich wie sie selbst fühlen, mit Brinkmann." Sie klickte weiter. „Folie zehn zeigt die Skalierung auf drei Kanäle."
 
@@ -1828,12 +1736,6 @@ Nora setzte sich an ihren Schreibtisch, öffnete den Laptop, navigierte zu Absch
 
 Die Verben warteten.
 
-_Ende Kapitel 9_
-
-_Wörter: ca. 2.700_
-
----
-
 # Kapitel 10 — Der Satz
 
 _Leon, Woche 6_
@@ -1900,11 +1802,9 @@ Leon trank einen Schluck. Das Glas war zu warm geworden.
 
 Jakob tauchte fünf Minuten später auf der anderen Seite des Raums auf, im Gespräch mit zwei Leuten vom ADC, das Lächeln wieder da, geschmeidig, laut. Wer ihn nicht kannte, hätte nichts gesehen.
 
-Leon kannte ihn seit drei Jahren.
+Leon kannte ihn seit drei Jahren. Lang genug, um zu wissen, dass das Lächeln jetzt ein Grad zu breit war — die Korrektur eines Mannes, der gerade etwas reparierte, das niemand hatte brechen sehen. Henrik Hartmanns Sohn. Drei Worte, und Jakob hatte sie weggesteckt wie einen Stoß gegen die Schulter, im Gehen, ohne stehenzubleiben.
 
 Er sah weg.
-
-_[Szene 10.1 — Ende]_
 
 ---
 
@@ -1962,7 +1862,7 @@ Das Schiff verschwand links aus dem Bild.
 
 ---
 
-Maren fotografierte den Abend — sie tat das immer, auf solchen Veranstaltungen, für den Agentur-Account, für das Archiv. Das gelegentliche Klicken ihres Auslösers war aus dem Hintergrundgeräusch herauszuhören gewesen.
+Maren fotografierte den Abend — sie tat das immer, auf solchen Veranstaltungen, für den Agentur-Account, für das Archiv. Das gelegentliche Geräusch ihrer Kamera war aus dem Hintergrundgeräusch herauszuhören gewesen.
 
 Sie hatte ihn zu einem Zeitpunkt erwischt, den er nicht bemerkt hatte.
 
@@ -1990,11 +1890,11 @@ Sie nannte eine Straße in Ottensen.
 
 Er sah kurz auf. „Gleiche Richtung."
 
-Eine Pause. Nicht unangenehm, aber auch nicht nichts.
+Eine Pause. Nicht unangenehm. Aber eben auch nicht nichts.
 
 „Dann," sagte sie.
 
-Er stornierte. Sie warteten. Der Hafen roch nach Salz und dem Ende eines langen Abends.
+Er stornierte. Sie warteten. Die Luft schmeckte nach Wasser und dem Ende eines langen Abends.
 
 ---
 
@@ -2010,7 +1910,7 @@ Bei einer Ampel schärfer als erwartet bremste das Taxi.
 
 Ihre Knie berührten sich.
 
-Leon wartete darauf, dass einer von ihnen wegzog. Keiner tat es. Das rote Licht hielt. Der Kontakt blieb — nicht groß, nicht neutral. Einfach da.
+Leon wartete darauf, dass einer von ihnen wegzog. Keiner tat es. Das rote Licht hielt. Der Kontakt blieb — nicht groß, nicht neutral. Einfach da. Und er dachte an — nein. Er dachte an die Kampagne. An Brinkmann. An irgendetwas, das nicht warm war und nicht durch Hosenstoff kam.
 
 Die Ampel wurde grün.
 
@@ -2033,14 +1933,6 @@ Sie griff nach ihrer Tasche.
 Die Tür fiel zu. Das Taxi fuhr weiter.
 
 Er sah nicht zurück.
-
-_[Szene 10.2 — Ende]_
-
-_Ende Kapitel 10_
-
-_Wörter: ca. 1.200_
-
----
 
 # Kapitel 11 — Champagner
 
@@ -2122,10 +2014,6 @@ Nora sah ihn nicht an.
 
 Die Tür schloss sich. Sie blieb mit den leeren Tassen sitzen und dachte, dass sechs Wochen Arbeit sich komisch anfühlten, wenn sie vorbei waren. Nicht schlecht. Nur komisch. Als würde ein Geräusch aufhören, das man nicht mehr bewusst gehört hatte.
 
-_[Szene 11.1 — Ende]_
-
-_Wörter: ca. 1.100_
-
 ---
 
 Der Nachmittag war das Schlimmste.
@@ -2134,7 +2022,7 @@ Nicht weil etwas schiefging — sondern weil nichts passierte. Der Brinkmann-Vor
 
 Tom machte Kaffee. Dann noch einen. Dann einen dritten, obwohl er den zweiten kaum angetastet hatte. Beim vierten Mal blieb er länger in der Küche stehen als nötig — Nora sah es durch die Glaswand, sah die Art, wie er auf die Kaffeemaschine starrte, und sagte, als sie kurz danach selbst in die Küche kam: „Der läuft noch gut, der Brinkmann-Termin. Wirklich."
 
-Tom sah sie an. Dankbar und gleichzeitig leicht beschämt, dass es so offensichtlich war.
+Tom sah sie an. Sein Mund öffnete sich kurz, schloss sich wieder — die Geste von jemandem, der danke sagen will und weiß, dass es ihn verrät.
 
 „Ich weiß," sagte er.
 
@@ -2234,10 +2122,6 @@ Nora sah auf ihr Glas. Dann sah sie auf — und Leon sah sie an. Nicht lange. Ke
 
 Sie fragte sich nicht. Sie hatte es gesehen.
 
-_[Szene 11.2 — Ende]_
-
-_Wörter: ca. 1.500_
-
 ---
 
 Jakob hatte die Bar in zehn Minuten organisiert — natürlich hatte er das. Er kannte einen Wirt in der Schanze, er kannte immer jemanden, und zwanzig Minuten später zog das Team los: Jakob voran, Maren neben ihm, Tom mit dem Schal halb um den Hals, Nils letzter, Jacke noch offen.
@@ -2305,14 +2189,6 @@ Die leeren Champagnergläser standen auf der Küchenarbeitsfläche hinter ihr. D
 Nora sagte nichts.
 
 Leon auch nicht.
-
-_[Szene 11.3 — Ende]_
-
-_Ende Kapitel 11_
-
-_Wörter: ca. 3.700_
-
----
 
 # Kapitel 12 — Kontrollverlust
 
@@ -2390,19 +2266,15 @@ Sie drehte sich um.
 
 Danach lehnte sie gegen die Arbeitsfläche und sah ihn an.
 
-Ihr Atem noch unruhig. Das Haar gelöst. Sie sah ihn an — nicht überrascht, nicht fordernd, nur: sah ihn an, mit diesen Augen, die immer zu viel sahen.
+Ihr Atem noch unruhig. Das Haar gelöst. Sie sah ihn an — nicht überrascht, nicht fordernd, nur: sah ihn an, und sie sah ihn an, auf eine Art die zu viel sah.
 
 Leon trat einen Schritt zurück.
 
 Dann noch einen.
 
-Er registrierte sein Hemd. Die Arbeitsfläche. Die verschobenen Gläser. Die Stille.
+Sein Hemd. Die Arbeitsfläche. Die verschobenen Gläser. Die Stille.
 
-Er registrierte, was er getan hatte.
-
-_[Szene 12.1 — Ende]_
-
-_Wörter: ca. 1.200_
+Das war es, was er registrierte. Und dann: was er getan hatte.
 
 ---
 
@@ -2452,13 +2324,13 @@ Das war die Sache.
 
 Er wusste das inzwischen.
 
-Sechs Wochen, und er wusste, wie sie klang wenn sie überzeugt war und wenn sie unsicher war und wenn sie lachte weil es ihr etwas bedeutete und wenn sie lachte weil sie den Raum zusammenhalten wollte. Er wusste, dass sie Kaffee schwarz trank wenn sie konzentriert war und mit Milch wenn sie sich etwas gönnte. Er wusste, dass sie die Dachterrasse benutzte wenn sie Abstand brauchte, und dass sie nie sagte, dass sie Abstand brauchte.
+Sechs Wochen, und er wusste, wie sie klang wenn sie überzeugt war und wenn sie unsicher war und wenn sie lachte weil es ihr etwas bedeutete und wenn sie lachte weil sie den Raum zusammenhalten wollte. Er wusste, dass sie Kaffee schwarz trank wenn sie konzentriert war und mit Milch wenn sie sich etwas gönnte. Die Dachterrasse benutzte sie, wenn sie Abstand brauchte, und sie sagte nie, dass sie Abstand brauchte.
 
 Er hatte aufgehört, sich das als neutrales Wissen zu erzählen, irgendwann in den letzten Wochen. Er wusste nicht mehr genau wann.
 
-Er richtete den Blick auf seinen Bildschirm.
+Sein Blick ging zurück zum Bildschirm.
 
-Tippte das Passwort. Der Bildschirm wurde hell — das Brinkmann-Dokument, noch geöffnet, der Cursor blinkend in einem Kommentarfeld das er vor Stunden hatte ausfüllen wollen.
+Passwort. Der Bildschirm wurde hell — das Brinkmann-Dokument, noch geöffnet, der Cursor blinkend in einem Kommentarfeld das er vor Stunden hatte ausfüllen wollen.
 
 Er las den Satz.
 
@@ -2484,17 +2356,9 @@ Er dachte: morgen früh um zehn wird Brinkmann die Vertragsunterlagen schicken. 
 
 Er dachte: sie trank den Kaffee jetzt schwarz.
 
-Er schloss die Augen. Einen Moment nur.
+Die Augen fielen zu. Einen Moment nur.
 
 Dann öffnete er ein neues Dokument und fing an zu schreiben.
-
-_[Szene 12.2 — Ende]_
-
-_Ende Kapitel 12_
-
-_Wörter: ca. 2.500_
-
----
 
 # Kapitel 13 — Der Morgen danach
 
@@ -2590,10 +2454,6 @@ Sie nahm die Hand vom Laptop.
 
 Fing an zu arbeiten.
 
-_[Szene 13.1 — Ende]_
-
-_Wörter: ca. 1.100_
-
 ---
 
 Carla kam um halb sieben zurück.
@@ -2638,7 +2498,7 @@ Carla wartete. Sie tat das gut — warten, ohne es zu einem Druck zu machen.
 
 „Ich weiß, dass das keine Kritik ist," sagte Carla.
 
-Stille. Nora sah auf ihr Glas.
+Nora sah auf ihr Glas. Die Küche war still genug, dass sie das Summen des Kühlschranks hörte.
 
 „Ich bin müde," sagte sie. Leiser als beabsichtigt. „Ich bin müde davon, immer die zu sein, die den Raum aufhellt. Die lächelt, wenn jemand gestresst ist. Die einen Witz macht, wenn die Luft zu dick wird. Die — die Energie reinbringt, damit die anderen." Sie stoppte. „Ich tue es trotzdem. Ich tu es automatisch. Aber ich bin müde davon."
 
@@ -2650,9 +2510,7 @@ Nora sah sie an.
 
 „Nichts fällt runter. Nichts brennt an. Nichts kommt zu spät." Carlas Stimme war gleichmäßig, derselbe Ton wie immer, und genau das machte es merkwürdig ehrlich — als wäre das nicht Klage, sondern Bestandsaufnahme. „Ich habe es so eingerichtet, dass das so ist. Das war eine Entscheidung. Aber manchmal frage ich mich, ob die Leute überhaupt wüssten, wie ich bin, wenn ich aufhöre, das zu sein."
 
-Nora sagte nichts.
-
-Sie saßen nebeneinander an der Arbeitsfläche, und draußen wurde es dunkler, und keiner von ihnen machte Anstalten, das Licht einzuschalten.
+Sie saßen nebeneinander an der Arbeitsfläche, Nora sagte nichts, und draußen wurde es dunkler, und keiner von ihnen machte Anstalten, das Licht einzuschalten.
 
 „Werner weiß es," sagte Nora schließlich.
 
@@ -2683,10 +2541,6 @@ Nora sah sie an.
 „Nicht weil du musst," sagte Carla. „Weil es gut wäre."
 
 Sie sagte es wie jemand, der weiß, dass er nicht befehlen kann, aber trotzdem Recht hat.
-
-_[Szene 13.2 — Ende]_
-
-_Wörter: ca. 1.300_
 
 ---
 
@@ -2764,14 +2618,6 @@ Sie stand auf, öffnete das Küchenfenster einen Spalt, ließ die Nachtluft rein
 
 Blieb dort stehen.
 
-_[Szene 13.3 — Ende]_
-
-_Ende Kapitel 13_
-
-_Wörter: ca. 3.500_
-
----
-
 # Kapitel 14 — Lebensgeschichten
 
 _Leon, Woche 7_
@@ -2806,7 +2652,7 @@ Sein Finger auf dem Scrollrad bewegte sich nicht.
 
 Der Satz war ein Stiftungs-Claim, austauschbar, funktional — die Art Satz, die er in Kundenpräsentationen rot markierte und mit _zu generisch_ kommentierte. Aber hinter dem Satz, wie ein Nachhall den er nicht gerufen hatte: eine Mail. Monate her. Dreiundzwanzig Uhr, zwischen zwei Absätzen über einen gescheiterten Auftrag und einer Frage zur Brinkmann-Tonalität, und dann ein PS, das länger gewesen war als die eigentliche Nachricht. Ihre Großmutter. Geschichten vom Krieg, von Hamburg, von einem Mann der Fischer gewesen war. _Niemand hat sie aufgeschrieben_, hatte sie getippt, und dann, als wäre es ihr beim Schreiben erst aufgefallen: _Jetzt sind sie weg._
 
-Er hatte die Mail damals gelesen, den PS als irrelevant für die Brinkmann-Tonalität eingestuft und sie geschlossen. Er hatte nicht darüber nachgedacht. Er hatte den Satz nicht markiert, nicht gespeichert, nicht in irgendeiner Datei abgelegt.
+Er hatte die Mail damals gelesen, den Absatz als irrelevant für die Brinkmann-Tonalität eingestuft und sie geschlossen. Er hatte nicht darüber nachgedacht. Er hatte den Satz nicht markiert, nicht gespeichert, nicht in irgendeiner Datei abgelegt.
 
 Er wusste ihn trotzdem auswendig.
 
@@ -2854,8 +2700,6 @@ Leon starrte auf die Tabelle. Sein Atem war gleichmäßig, seine Hand lag ruhig 
 
 Er öffnete ein neues Dokument und fing an zu arbeiten.
 
-_[Szene 14.1 — Ende]_
-
 ---
 
 Er leitete die Stiftungs-Mail um kurz nach fünf weiter.
@@ -2884,7 +2728,7 @@ Es war kein Vorwurf — Carla machte keine Vorwürfe, Carla stellte fest. Aber d
 
 „Ich weiß." Sie scrollte auf dem Tablet, ohne den Blick zu heben. „Ich hab die 2019er-Kampagnen damals selbst abgelegt."
 
-Stille. Nicht lang — drei, vier Atemzüge — aber bei Carla war das ungewöhnlich, weil Carla keine Stille zuließ, die nicht produktiv war. Sie stand vor seinem Schreibtisch mit dem Tablet unter dem Arm, und er beobachtete, wie sich etwas in ihrem Gesicht veränderte — nicht die Züge, nicht die Haltung, nichts, das jemand sehen würde, der sie weniger gut kannte. Aber er kannte sie seit fünfzehn Jahren, und er wusste, wie Carla aussah, wenn alles in Ordnung war.
+Keiner sprach. Nicht lang — drei, vier Atemzüge — aber bei Carla war das ungewöhnlich, weil Carla keine Stille zuließ, die nicht produktiv war. Sie stand vor seinem Schreibtisch mit dem Tablet unter dem Arm, und er beobachtete, wie sich etwas in ihrem Gesicht veränderte — nicht die Züge, nicht die Haltung, nichts, das jemand sehen würde, der sie weniger gut kannte. Aber er kannte sie seit fünfzehn Jahren, und er wusste, wie Carla aussah, wenn alles in Ordnung war.
 
 Das hier war nicht das.
 
@@ -2911,14 +2755,6 @@ Er wusste nicht, was es war. Er wusste nur, dass Carla nie eine halbe Sekunde zu
 Die Tür zu ihrem Büro fiel ins Schloss. Ihre Schritte auf der Treppe, leiser werdend.
 
 Leon wandte sich seinem Bildschirm zu und arbeitete weiter, und dachte nicht darüber nach, dass er in fünfzehn Jahren nie Referenzen für Carla rausgesucht hatte — nicht weil sie keine brauchte, sondern weil es ihm nie eingefallen war.
-
-_[Szene 14.2 — Ende]_
-
-_Ende Kapitel 14_
-
-_Wörter: ca. 2.800_
-
----
 
 # Kapitel 15 — Fallenlassen
 
@@ -2976,15 +2812,11 @@ Er sagte nichts.
 
 Sie weinte noch, leiser jetzt, und er saß neben ihr und ließ sie, und das war — sie wusste nicht, was das war. Kein Trost. Kein Versuch, es besser zu machen. Nur: Anwesenheit. Die unkommentierte Art. Die, die nichts verlangte und nichts versprach und trotzdem da war.
 
-_[Szene 15.1 — Ende]_
-
-_Wörter: ca. 1.100_
-
 ---
 
 Irgendwann hörte sie auf zu weinen.
 
-Nicht abrupt — es verebbte, wie etwas das seinen Lauf genommen hatte und jetzt ruhig wurde, und sie saß neben ihm auf dem Küchenboden und ihr Atem war noch ungleichmäßig, aber stiller, und sie spürte den kühlen Linoleumboden unter ihren Beinen und seine Schulter an ihrer und dachte an nichts.
+Nicht abrupt — es verebbte, wie etwas das seinen Lauf genommen hatte und jetzt ruhig wurde, und sie saß neben ihm auf dem Küchenboden und ihr Atem war noch ungleichmäßig, aber stiller, und sie spürte den kühlen Boden unter ihren Beinen und seine Schulter an ihrer und dachte an nichts.
 
 Das war neu.
 
@@ -3048,10 +2880,6 @@ Stille.
 
 Ihr Atem. Seiner. Das Summen des Kühlschranks.
 
-_[Szene 15.2 — Ende]_
-
-_Wörter: ca. 1.400_
-
 ---
 
 Er stand nicht auf.
@@ -3070,7 +2898,7 @@ Nicht als Geste. Nicht als Test, nicht um zu sehen ob er zurückweichen würde. 
 
 Er legte den Arm um sie.
 
-Nicht sofort — es dauerte einen Moment, fünf Atemzüge, vielleicht sechs, und sie spürte wie sein Arm sich bewegte, zögernd, als müsste er sich selbst die Erlaubnis geben. Dann lag seine Hand auf ihrem Oberarm, leicht, die Finger kaum geschlossen, und er hielt sie auf eine Art die verriet, dass er das nicht oft tat. Vielleicht nie.
+Nicht sofort — es dauerte einen Moment, lang genug um zu spüren dass er sich nicht sicher war, und sie spürte wie sein Arm sich bewegte, zögernd, als müsste er sich selbst die Erlaubnis geben. Dann lag seine Hand auf ihrem Oberarm, leicht, die Finger kaum geschlossen, und er hielt sie auf eine Art die verriet, dass er das nicht oft tat. Vielleicht nie.
 
 „Die Geschichten", sagte sie.
 
@@ -3094,7 +2922,7 @@ Nora schloss die Augen und lehnte sich in ihn, und der Küchenboden war hart unt
 
 Das könnte reichen.
 
-Wenn er so bleiben würde — nicht der Leon vom Glaskasten, nicht der Leon der Türen schloss und Hemden zuknöpfte und zwölf Schritte ging. Dieser Leon. Der auf dem Küchenboden saß und seinen Arm um sie legte und ihren Geschichten zuhörte und nichts sagte und blieb.
+Wenn er so bleiben würde — nicht der vom Glaskasten, nicht der mit den zugeknöpften Hemden und den zwölf Schritten. Dieser hier. Der auf dem Küchenboden saß und seinen Arm um sie legte und ihren Geschichten zuhörte und nichts sagte und blieb.
 
 Irgendwann bewegte er sich.
 
@@ -3123,14 +2951,6 @@ Auf dem Küchenboden, den Rücken an den Unterschrank, die Beine angezogen, und 
 Sie lächelte nicht.
 
 Zum ersten Mal seit sie denken konnte war das in Ordnung.
-
-_[Szene 15.3 — Ende]_
-
-_Ende Kapitel 15_
-
-_Wörter: ca. 3.300_
-
----
 
 # Kapitel 16 — Reflex
 
@@ -3194,10 +3014,6 @@ Um sechs dreißig klingelte der Wecker. Leon stand auf, zog die Schuhe an, macht
 
 Alles war genau wie immer.
 
-_[Szene 16.1 — Ende]_
-
-_Wörter: ca. 1.500_
-
 ---
 
 Dienstag. Halb zwölf. Leon saß im Glaskasten und las Conversion-Rates für die dritte Brinkmann-Welle, als Nora an ihrem Schreibtisch aufhörte zu tippen.
@@ -3226,7 +3042,7 @@ Er klickte auf eine Tabelle. Klickte zurück. Sein Herz schlug gleichmäßig. Se
 
 „Die Stiftung arbeitet mit standardisierten Interviews. Ich habe die Original-Unterlagen gelesen. Fragebögen, Leitfäden, biografisches Format." Sie machte eine Pause, kurz, und ihre Hand mit den Blättern war ruhig, aber ihr Daumen lag fester auf dem Papier als nötig. „Das hier ist nicht deren Methodik. Das hier hat jemand dazugeschrieben. Jemand hat den Anhang geändert bevor die Unterlagen an mich gingen."
 
-Stille.
+Nichts.
 
 Das Serverbrummen hinter der Wand. Die Straßenbahn draußen, gedämpft, und Carlas Stimme irgendwo im Großraum, die mit Elena über einen Zeitplan sprach, und zwischen all dem die Stille in seinem Glaskasten und Nora im Flur mit Seiten in der Hand und einem Blick, den er nicht erwiderte.
 
@@ -3254,21 +3070,11 @@ Nora stand im Flur.
 
 Er wusste es, weil er sie nicht hörte — keine Schritte, kein Stuhlrollen, kein Zurückgehen an den Schreibtisch. Sie stand im Flur und er stand in der Küche und zwischen ihnen lagen zwölf Schritte und eine Antwort die er nicht gegeben hatte, und er stellte den leeren Becher unter den Siebträger und drückte den Knopf und sah dem Kaffee beim Laufen zu und sein Herz schlug gleichmäßig.
 
-Sein Herz schlug immer gleichmäßig.
-
 Als er zurückkam — voller Becher, zwölf Schritte, Glaskasten, Tür zu — war der Flur leer. Nora saß an ihrem Schreibtisch. Ihre Hände lagen auf der Tastatur, aber sie tippte nicht, und die ausgedruckten Seiten lagen neben ihrem Monitor, mit der Schrift nach unten, und sie sah auf ihren Bildschirm und er sah auf seinen und zwischen ihnen lag die Glaswand und das Schweigen und das Wissen, dass sie jetzt —
 
 Er öffnete Folie vier.
 
 Brinkmann. Conversion-Rates. Im Großraum tippte Nora nicht. Sein Licht brannte. Es war Dienstag, und alles war genau wie immer.
-
-_[Szene 16.2 — Ende]_
-
-_Ende Kapitel 16_
-
-_Wörter: ca. 2.900_
-
----
 
 # Kapitel 17 — Der Satz
 
@@ -3287,6 +3093,8 @@ Donnerstag. Vierter Tag danach. Nora saß an ihrem Schreibtisch und arbeitete an
 Nicht das Denken. Das Muster.
 
 Sie kannte es. Sie hatte es erkannt, irgendwann zwischen dem Wein mit Carla und jetzt — in der Nacht, als sie zum ersten Mal nach Hause gegangen war statt in der Agentur zu bleiben, als sie am Fenster gestanden und gedacht hatte: _Ich richte mich aus._ Und sie hatte recht gehabt. Und es hatte nichts geändert.
+
+Mittwoch hatte Carla ihr einen Kaffee hingestellt, ungefragt, auf dem Weg zu ihrem Büro. Hatte kurz neben Noras Schreibtisch stehen bleiben und auf den Bildschirm gesehen, ohne zu lesen, und dann gesagt: „Du siehst aus, als hättest du nicht geschlafen." Kein Nachfragen. Kein _Was ist los_. Nur der Kaffee und der Satz, und Nora hatte geantwortet: „Hab ich auch nicht", und Carla hatte genickt und war weitergegangen, und das war genug gewesen. Nicht um etwas zu lösen. Nur um zu wissen, dass jemand es sah.
 
 Weil Nicht-Bleiben auch ein Ausrichten war.
 
@@ -3330,10 +3138,6 @@ Sie zog die Jacke an. Nahm die Tasche. Ging zur Treppe.
 
 Achtzehn Uhr. Seit zwei Wochen. Aber heute ging sie nicht nach Hause, weil sie das Muster brach. Heute ging sie nach Hause, weil sie wusste was sie morgen tun würde.
 
-_[Szene 17.1 — Ende]_
-
-_Wörter: ca. 1.500_
-
 ---
 
 Am Freitag blieb sie.
@@ -3352,7 +3156,7 @@ Nora und Leon. Wie in den ersten Wochen. Wie in den Nächten vor dem Pitch, als 
 
 Nur dass es jetzt einen Namen hatte. Und dass sie ihn benennen konnte. Und dass das der Unterschied war.
 
-Sein Licht brannte. Natürlich brannte sein Licht. Durch die Glaswand sah sie seine Silhouette — Monitore, Kaffeebecher, die Haltung die sie kannte, aufrecht, kontrolliert, die Schultern die nie sanken. Er hatte sie nicht angesehen, als die anderen gegangen waren. Er hatte sie seit Dienstag nicht angesehen — nicht wirklich, nicht mit dem Blick der durch die Glaswand ging und den sie spürte und der sie jedes Mal dazu brachte, gerader zu sitzen und besser zu tippen und heller zu —
+Sein Licht brannte. Natürlich brannte sein Licht. Durch die Glaswand sah sie seine Silhouette — Monitore, Kaffeebecher, die Haltung die sie kannte, aufrecht, kontrolliert, die Schultern die nie sanken. Er hatte sie nicht angesehen, als die anderen gegangen waren. Seit Dienstag kein Blick durch die Glaswand — nicht wirklich, nicht mit dem Blick der durch die Glaswand ging und den sie spürte und der sie jedes Mal dazu brachte, gerader zu sitzen und besser zu tippen und heller zu —
 
 Nein. Nicht mehr.
 
@@ -3392,7 +3196,7 @@ Sie war dreißig Jahre alt. Sie hatte dreißig Jahre lang gelächelt.
 
 „Und ich muss aufhören zu glauben", sagte sie, leiser, „dass mein Licht dich retten kann."
 
-Leon saß am Schreibtisch. Die Monitore hinter ihm warfen blaues Licht auf die Wand. Sein Kaffeebecher stand rechts neben der Tastatur, halb voll, und seine Stifte lagen parallel, rot links, schwarz rechts, und seine Hände lagen flach auf dem Holz und sie bewegten sich nicht und sein Mund bewegte sich nicht und seine Augen —
+Leon saß am Schreibtisch. Die Monitore hinter ihm warfen blaues Licht auf die Wand. Sein Kaffeebecher stand rechts neben der Tastatur, halb voll, und seine Hände lagen flach auf dem Holz und sie bewegten sich nicht und sein Mund bewegte sich nicht und seine Augen —
 
 Seine Augen sagten alles was er nie sagen würde.
 
@@ -3420,21 +3224,13 @@ Nora zog den Reißverschluss ihrer Jacke zu, steckte die Hände in die Taschen u
 
 Hinter ihr brannte sein Licht.
 
-_[Szene 17.2 — Ende]_
-
-_Ende Kapitel 17_
-
-_Wörter: ca. 3.000_
-
----
-
 # Kapitel 18 — Umdrehen
 
 _Leon, Woche 10_
 
 Leon saß am Schreibtisch.
 
-Die Monitore brannten. Die Stifte lagen parallel, rot links, schwarz rechts. Der Kaffeebecher stand rechts neben der Tastatur, halb voll, und der Kaffee darin war kalt, und er wusste dass er kalt war, weil er ihn nicht getrunken hatte, weil er seit — er wusste nicht seit wie vielen Minuten — nichts getan hatte. Nichts außer sitzen und atmen und auf den Bildschirm starren, auf dem Folie vier geöffnet war, Brinkmann, Conversion-Rates, Zahlen die er kannte und die nichts bedeuteten und die vor seinen Augen standen wie Buchstaben in einer Sprache die er vergessen hatte.
+Die Monitore brannten. Der Kaffeebecher stand rechts neben der Tastatur, halb voll, und der Kaffee darin war kalt, und er wusste dass er kalt war, weil er ihn nicht getrunken hatte, weil er seit — er wusste nicht seit wie vielen Minuten — nichts getan hatte. Nichts außer sitzen und atmen und auf den Bildschirm starren, auf dem Folie vier geöffnet war, Brinkmann, Conversion-Rates, Zahlen die er kannte und die nichts bedeuteten und die vor seinen Augen standen wie Buchstaben in einer Sprache die er vergessen hatte.
 
 _Ich will dich nicht nur um zwei Uhr nachts._
 
@@ -3448,9 +3244,7 @@ Er bewegte sich nicht.
 
 Die Agentur war still. Nicht die Stille die er kannte — nicht die vertraute Zwei-Uhr-Stille, das Serverbrummen und die Straßenbahnen und das Gefühl von Kontrolle, von: ich bin der Letzte, ich halte das, ich bin hier. Diese Stille war anders. Diese Stille hatte ein Loch, eine Stelle an der etwas fehlte, an der bis vor — er sah auf die Uhr, neunzehn Uhr achtundzwanzig, sechzehn Minuten — jemand gestanden hatte, in seiner Tür, und zwei Sätze gesagt hatte die alles auseinandernahmen was er in sechzehn Jahren zusammengebaut hatte.
 
-Nicht die Agentur. Nicht die Arbeit. Nicht die Präsentationen und die Kunden und die Folien.
-
-Ihn.
+Nicht die Agentur, nicht die Arbeit. Ihn.
 
 Sie hatte ihn auseinandergenommen. Nicht mit Wut und nicht mit Tränen und nicht mit dem Sunshine-Lächeln das er ignorieren konnte, sondern mit der Wahrheit, leise und klar, in einer Stimme die nicht performte, und er hatte dagesessen und sie angesehen und gewusst dass sie recht hatte und nichts gesagt.
 
@@ -3464,9 +3258,7 @@ Leon hatte aufgefangen. Leon hatte immer aufgefangen.
 
 Und jetzt saß er an seinem Schreibtisch und fing nichts auf und niemand brauchte ihn und die Frau die er — die er —
 
-Er schloss die Augen.
-
-Drei Sekunden. Er zählte sie. Eins: ihr Gesicht in der Tür, die Ruhe darin, die Klarheit, das Fehlen von allem was er hätte ignorieren können. Zwei: ihre Augen, als sie den zweiten Satz sagte, leiser, und in ihren Augen etwas das er kannte, weil er es jeden Morgen im Spiegel sah — Erschöpfung, die Art die nicht mit Schlaf wegging. Drei: die Tür. Der Klick. Die Stille danach.
+Er schloss die Augen. Ihr Gesicht in der Tür, die Ruhe darin. Ihre Augen beim zweiten Satz — Erschöpfung, die nicht mit Schlaf wegging. Und dann die Tür. Der Klick.
 
 Er öffnete die Augen.
 
@@ -3489,10 +3281,6 @@ Er setzte sich wieder. Legte die Hände auf die Tastatur. Tippte nichts. Die Uhr
 Menschen gehen lassen.
 
 Darin war er gut.
-
-_[Szene 18.1 — Ende]_
-
-_Wörter: ca. 1.200_
 
 ---
 
@@ -3562,7 +3350,7 @@ Nie gefragt.
 
 Stille.
 
-Das Serverbrummen. Die Schreibtischlampe. Carlas Atem, der jetzt nicht mehr ganz gleichmäßig war, und Leons Hände auf dem Schreibtisch, die sich nicht bewegten, und zwischen ihnen der Türrahmen und fünfzehn Jahre und der Geruch von Kaffee der seit Stunden kalt war.
+Das Serverbrummen. Die Schreibtischlampe. Leons Hände auf dem Schreibtisch, die sich nicht bewegten, und zwischen ihnen der Türrahmen und fünfzehn Jahre und der Geruch von Kaffee der seit Stunden kalt war.
 
 Leon öffnete den Mund. Schloss ihn. In ihm war etwas — nicht ein Wort, nicht ein Satz, etwas Formloseres, etwas das vielleicht _Danke_ war oder _Ich weiß_ oder _Es tut mir leid_ oder etwas ganz anderes, etwas das keine Sprache hatte und das er nicht aussprechen konnte, weil er es seit sechzehn Jahren nicht mehr konnte.
 
@@ -3584,12 +3372,6 @@ Er konnte nichts.
 
 Und zum ersten Mal seit sechzehn Jahren war das die Wahrheit.
 
-_[Szene 18.2 — Ende]_
-
-_Ende Kapitel 18_
-
-_Wörter: ca. 2.500_
-
 ---
 
 ## Kapitel 19 — Renate
@@ -3598,11 +3380,9 @@ _Wörter: ca. 2.500_
 
 Am Montag kam sie pünktlich.
 
-Acht Uhr zwölf, wie immer, Mantel über dem Arm, Tasche über der Schulter, und die Agentur roch nach frischem Kaffee und nach dem Putzmittel das die Reinigungsfirma am Wochenende benutzte und nach Montag, nach Anfang, nach einer Woche die noch nichts wusste.
+Acht Uhr zwölf, wie immer. Mantel über dem Arm, Tasche über der Schulter. Die Agentur roch nach frischem Kaffee und nach dem Putzmittel das die Reinigungsfirma am Wochenende benutzte; nach Montag, nach Anfang, nach einer Woche die noch nichts wusste.
 
-Leon war schon da. Natürlich war er schon da. Sein Licht brannte im Glaskasten, sein Rücken war gerade, seine Monitore liefen, und als sie an seinem Büro vorbeiging sagte er „Morgen" ohne aufzusehen, und sie sagte „Morgen" ohne stehenzubleiben, und das war es.
-
-So einfach war das.
+Leon war schon da. Natürlich war er schon da — sein Licht brannte im Glaskasten, sein Rücken war gerade, die Monitore liefen. Als sie an seinem Büro vorbeiging, sagte er „Morgen" ohne aufzusehen, und sie sagte „Morgen" ohne stehenzubleiben. Das war es. So einfach.
 
 Man konnte neben jemandem arbeiten den man kannte — den man wirklich kannte, die Haut unter dem Hemd und den Atem im Dunkeln und den Blick wenn die Kontrolle brach — und dann konnte man Montag sagen und an seinen Schreibtisch gehen und die Maus bewegen und den Bildschirm aufwecken und so tun als wäre Montag alles was es gab.
 
@@ -3610,53 +3390,43 @@ Sie öffnete die Stiftungsdateien. Transkript sechs, Helga Möller, zweiundachtz
 
 Um zehn kam Jakob vorbei. „Alles gut bei dir?"
 
-„Klar." Sie lächelte. Es war kein Performance-Lächeln — es war weniger als das, dünner, ein Reflex der nicht mehr ganz funktionierte aber den sie auch nicht abstellen konnte.
+„Klar." Sie lächelte. Dünner als Performance, ein Reflex der nicht mehr ganz funktionierte, den sie aber auch nicht abstellen konnte.
 
-Jakob musterte sie eine Sekunde zu lang. Dann nickte er und ging weiter, und Nora dachte: früher hätte ich ihn angelächelt bis er es glaubte. Früher hätte ich eine Anekdote erzählt, etwas Leichtes, etwas das den Raum füllte und ihn ablenkte und mich unsichtbar machte hinter meiner eigenen Helligkeit.
+Jakob musterte sie eine Sekunde zu lang. Dann nickte er und ging weiter. Früher hätte sie ihn angelächelt bis er es glaubte. Früher hätte sie eine Anekdote erzählt, etwas Leichtes, etwas das den Raum füllte und ihn ablenkte und sie unsichtbar machte hinter ihrer eigenen Helligkeit. Jetzt saß sie einfach da.
 
-Jetzt saß sie einfach da.
-
-Am Dienstag war es schlimmer. Nicht weil etwas passierte — weil nichts passierte. Leon sagte „Die Brinkmann-Zwischenpräsentation liegt auf dem Server", und sie sagte „Danke", und seine Stimme war sachlich und ihre Stimme war sachlich und zwischen ihnen lag ein Schreibtisch und ein Glaskasten und ein Freitagabend um 19:12 und zwei Sätze die sie nicht zurücknehmen konnte und nicht zurücknehmen wollte.
+Am Dienstag war es schlimmer. Nicht weil etwas passierte: weil nichts passierte. Leon sagte „Die Brinkmann-Zwischenpräsentation liegt auf dem Server", und sie sagte „Danke", und beide klangen sachlich, und zwischen ihnen lag ein Schreibtisch und ein Glaskasten und ein Freitagabend um 19:12 und zwei Sätze die sie nicht zurücknehmen konnte und nicht zurücknehmen wollte.
 
 _Ich will dich nicht nur um zwei Uhr nachts._
 
 _Ich muss aufhören zu glauben, dass mein Licht dich retten kann._
 
-Sie hatte das gesagt. Sie, Nora Seufert, die ihr Leben lang dafür gesorgt hatte dass andere sich wohlfühlten, die Räume aufhellte und Lücken füllte und sich ausrichtete wie eine Satellitenschüssel nach dem stärksten Signal — sie hatte einem Mann gesagt dass sie aufhört, für ihn zu strahlen. Und es hatte sich richtig angefühlt. Im Moment hatte es sich richtig angefühlt, klar, notwendig, wie das Öffnen eines Fensters in einem Raum der zu lange geschlossen war.
+Sie hatte das gesagt. Sie, Nora Seufert, die ihr Leben lang dafür gesorgt hatte, dass andere sich wohlfühlten, die Räume aufhellte und Lücken füllte und sich ausrichtete wie eine Satellitenschüssel nach dem stärksten Signal — sie hatte einem Mann gesagt, dass sie aufhört, für ihn zu strahlen. Im Moment hatte es sich richtig angefühlt: klar, notwendig, wie das Öffnen eines Fensters in einem Raum, der zu lange geschlossen war. Jetzt fühlte es sich an wie danach. Wie der Moment, wenn das Fenster offen ist und die frische Luft reinkommt und man merkt, dass frische Luft auch kalt ist.
 
-Jetzt fühlte es sich an wie danach.
-
-Wie der Moment wenn das Fenster offen ist und die frische Luft reinkommt und man merkt dass frische Luft auch kalt ist.
-
-Am Mittwoch blieb sie nicht nach sechs. Zum ersten Mal seit Wochen packte sie um halb sechs ihre Sachen, fuhr den Rechner runter, nahm ihre Jacke vom Haken. Im Großraum saßen noch Nils und Tom über einem Storyboard, und Nils sah kurz auf und sagte „Bis morgen" und Tom hob die Hand, und sie ging durch den Flur und an der Küche vorbei — an der Küche vorbei, ohne stehenzubleiben, ohne hineinzusehen, ohne an den Boden zu denken und an seine Hand auf ihrem Rücken und an —
+Am Mittwoch blieb sie nicht nach sechs. Zum ersten Mal seit Wochen packte sie um halb sechs ihre Sachen zusammen, fuhr den Rechner runter, nahm die Jacke vom Haken. Im Großraum saßen noch Nils und Tom über einem Storyboard; Nils sah kurz auf, „Bis morgen", Tom hob die Hand. Sie ging durch den Flur und an der Küche vorbei — an der Küche vorbei, ohne stehenzubleiben, ohne hineinzusehen, ohne an den Boden zu denken und an seine Hand auf ihrem Rücken und an —
 
 Sie ging an der Küche vorbei.
 
 Draußen war es noch hell. März, die Tage wurden länger, und die Luft roch nach dem Ende des Winters, nach etwas das aufhörte und nach etwas das noch nicht angefangen hatte, und Nora lief die drei Blocks zur U-Bahn und dachte: das ist es also. So fühlt es sich an wenn man aufhört zu performen und noch nicht weiß was stattdessen kommt. Diese Leere. Dieses Dazwischen.
 
-Es war nicht Freiheit. Nicht Schmerz. Es war der Raum zwischen beidem, und er war riesig und leer und still.
+Es war nicht Freiheit und nicht Schmerz. Es war der Raum zwischen beidem, riesig und leer.
 
-Zuhause setzte sie sich auf ihr Sofa. Aß etwas, sie wusste hinterher nicht was. Scrollte durch ihr Handy ohne etwas zu lesen. Um neun ging sie ins Bett und lag im Dunkeln und hörte die Straßenbahn und die Nachbarn und das Haus, das eigene Geräusche machte wenn es ruhig wurde, ein Knarren, ein Ticken, ein Atmen.
+Zuhause setzte sie sich auf ihr Sofa. Aß etwas (sie wusste hinterher nicht was), scrollte durch ihr Handy, ohne etwas zu lesen. Um neun lag sie im Bett, im Dunkeln, und hörte die Straßenbahn, die Nachbarn, das Haus, das eigene Geräusche machte wenn es ruhig wurde: ein Knarren, ein Ticken, ein Atmen.
 
 Sie dachte an seine Augen hinter dem Glas. An den Moment als sie gesagt hatte _Ich will dich nicht nur um zwei Uhr nachts_ und seine Hand sich am Stift nicht bewegt hatte. An seinen Blick — nicht kalt, nicht abweisend, etwas Schlimmeres: verstehend. Als wüsste er dass sie recht hatte. Als wüsste er es und könnte trotzdem nicht.
 
 Am Donnerstag kam die Mail.
 
-Sachlich, drei Absätze, cc an Werner, Betreff: _Stiftung Lebenserinnerungen — Methodikvorschlag final_. Seine Worte, seine Struktur, seine Art Dinge in Bahnen zu lenken die er kontrollieren konnte. Kein PS. Kein Nachsatz. Nichts das nicht rein dienstlich gewesen wäre, und Nora las die Mail und dachte: natürlich. Natürlich macht er das so. Er schreibt eine sachliche Mail und hofft dass das genügt, dass Professionalität die Stille füllt, dass Struktur ersetzt was er nicht sagen kann.
+Sachlich, drei Absätze, cc an Werner, Betreff: _Stiftung Lebenserinnerungen — Methodikvorschlag final_. Seine Worte, seine Struktur, seine Art, Dinge in Bahnen zu lenken, die er kontrollieren konnte. Kein PS. Kein Nachsatz. Nichts, das nicht rein dienstlich gewesen wäre. Natürlich. Natürlich machte er das so — eine sachliche Mail schreiben und hoffen, dass das genügt, dass Professionalität die Lücke füllt, dass Struktur ersetzt, was er nicht sagen kann.
 
-Sie antwortete. Sachlich. Drei Absätze. Danke, Anmerkungen zu Punkt zwei, Vorschlag für die Gesprächsleitfäden.
+Sie antwortete. Sachlich, drei Absätze: Danke, Anmerkungen zu Punkt zwei, Vorschlag für die Gesprächsleitfäden. Kein PS.
 
-Kein PS.
-
-Am Donnerstagabend fuhr sie nach Hause und die Wohnung war still und sie setzte sich an den Küchentisch und legte die Hände auf die Platte und dachte: ich brauche jemanden der mir zuhört. Nicht jemanden dem ich zuhöre. Nicht jemanden den ich aufhelle. Jemanden der fragt.
+Am Donnerstagabend fuhr sie nach Hause, die Wohnung war still, und sie setzte sich an den Küchentisch und legte die Hände auf die Platte. Ich brauche jemanden, der mir zuhört. Nicht jemanden, dem ich zuhöre, nicht jemanden, den ich aufhelle. Jemanden, der fragt.
 
 Sie nahm ihr Handy.
 
 Scrollte an Elenas Namen vorbei, an Nils' Nummer, an der Nummer die sie nie gespeichert hatte und die trotzdem da war, weil sie sich an jede Ziffer erinnerte.
 
 Scrollte zu _Mama_.
-
-_[Szene 19.1 — Ende]_
 
 ### Szene 19.2 — Renate
 
@@ -3690,9 +3460,7 @@ Nora lehnte den Kopf gegen die Hand. Hörte zu. Das tat sie — das konnte sie, 
 
 Nicht abwesend wie Leon. Anders. Abwesend wie jemand der da war aber nicht hier, der redete aber nicht sprach, der Worte benutzte wie Vorhänge — nicht um etwas zu zeigen, sondern um den Raum dahinter zu verdecken. Den Raum in dem die Fragen wohnten. _Wie geht es dir. Was machst du gerade. Bist du glücklich. Bist du traurig. Brauchst du etwas._
 
-Renate fragte nie.
-
-Nicht aus Bosheit. Nicht aus Desinteresse. Aus etwas Schlimmerem — aus Angst. Aus der Angst dass die Antwort etwas sein könnte das sie nicht auffangen konnte, dass Noras Leben etwas enthalten könnte das größer war als Krokusse und Nachbarshunde, etwas Schweres, Echtes, und dass sie dann — was? Da sein müsste. Halten müsste. Fragen müsste was los ist und die Antwort aushalten.
+Renate fragte nie. Nicht aus Bosheit, nicht aus Desinteresse — aus etwas Schlimmerem: Angst. Dass die Antwort etwas sein könnte, das sie nicht auffangen konnte; dass Noras Leben etwas enthalten könnte, das größer war als Krokusse und Nachbarshunde, etwas Schweres, Echtes, und dass sie dann da sein müsste. Halten müsste. Fragen müsste, was los ist, und die Antwort aushalten.
 
 „Und ich hab das Rezept ausprobiert, das mit den Kartoffeln, du weißt schon, das von Oma."
 
@@ -3712,15 +3480,15 @@ Oma hatte erzählt. Renate erzählte auch — aber Omas Geschichten hatten Händ
 
 Pause. „Ja?"
 
-Nora schloss die Augen. In ihrem Kopf war der Satz, klar und fertig und furchtbar: _Frag mich wie es mir geht. Einmal. Nur einmal frag mich wie es mir geht._
+Nora schloss die Augen. Der Satz war da, klar und fertig und furchtbar: _Frag mich wie es mir geht. Einmal. Nur einmal frag mich, wie es mir geht._
 
 „Nichts", sagte sie. „Klingt lecker. Mit dem Rosmarin."
 
-Renate redete weiter. Fünf Minuten, zehn. Nora hörte zu und sagte hm und ja und klingt gut und irgendwann sagte Renate „Na dann, Schätzchen, ich muss dann auch, die Sendung fängt gleich an" und Nora sagte „Klar, Mama" und „Tschüss" und „Ja, du auch" und dann war die Leitung tot und die Küche war still.
+Renate redete weiter. Fünf Minuten, zehn. Nora hörte zu — hm, ja, klingt gut — und irgendwann sagte Renate „Na dann, Schätzchen, ich muss dann auch, die Sendung fängt gleich an", und Nora sagte „Klar, Mama" und „Tschüss" und „Ja, du auch", und die Leitung war tot und die Küche still.
 
 Nora legte das Handy auf den Tisch.
 
-Saß da. Die Hände auf der Platte, genau wie gestern, genau wie vorgestern, und die Wohnung war still und das Licht über dem Tisch war das kalte, das weiße, nicht das gelbe aus Renates Küche, nicht das warme aus Omas Küche in Lokstedt.
+Saß da. Die Hände auf der Platte, genau wie gestern, genau wie vorgestern. Das Licht über dem Tisch war das kalte, das weiße — nicht das gelbe aus Renates Küche, nicht das warme aus Omas Küche in Lokstedt.
 
 Sie dachte an Leon im Glaskasten. An seine sachliche Mail und seine drei Absätze und sein _Morgen_ ohne Blick. An einen Mann der nicht fragen konnte und an eine Mutter die nicht fragte und an sich selbst, Nora Seufert, dreißig Jahre alt, die ihr Leben lang die Antwort gewesen war auf Fragen die niemand stellte.
 
@@ -3730,9 +3498,13 @@ Und Oma war die Einzige gewesen die auch die dunklen Geschichten hören wollte.
 
 _Ich will nicht mehr so leben._
 
-Der Satz war da. Nicht laut, nicht dramatisch, nicht wie der Satz den sie Leon an den Kopf geworfen hatte am Freitagabend im Glaskasten. Leiser. Tiefer. Ein Satz der nicht für jemand anderen war.
+Der Satz war da. Nicht laut, nicht dramatisch — nicht wie der Satz im Glaskasten am Freitagabend. Leiser. Tiefer. Ein Satz, der nicht für jemand anderen war.
 
 _Ich will nicht mehr Sonne sein für Menschen die nicht fragen._
+
+Omas Küche. Gelbe Fliesen, Rosenwasser, und eine Stimme die gesagt hatte: _Erzähl mir die ganze Geschichte, Noralein. Auch das Ende._
+
+Niemand hatte die Geschichten aufgeschrieben. Nicht Renate hinter ihren Vorhängen. Nicht Nora, die zu beschäftigt gewesen war, Räume zu füllen.
 
 Sie stand auf. Ging zum Regal, nahm den Laptop, setzte sich wieder. Klappte ihn auf. Der Bildschirm leuchtete, und sie öffnete ein neues Dokument und der Cursor blinkte auf der leeren Seite und sie legte die Finger auf die Tasten und —
 
@@ -3741,12 +3513,6 @@ Schrieb nicht.
 Noch nicht.
 
 Aber sie ließ das Dokument offen.
-
-_[Szene 19.2 — Ende]_
-
-_Ende Kapitel 19_
-
-_Wörter: ca. 3.000_
 
 ---
 
@@ -3798,17 +3564,17 @@ Er drehte sich zur Tür.
 
 »Bleib.«
 
-Das Wort war draußen bevor Leon wusste dass es kam, und es hing in der Stille zwischen dem Serverbrummen und dem Ticken der Heizung und es war ein einziges Wort und es kostete ihn mehr als die Sonntagsmail die er letzte Woche an alle geschickt hatte, mehr als jede Präsentation die er je gehalten hatte, mehr als sechzehn Jahre Funktionieren, weil es kein Funktionieren war.
+Das Wort war draußen, bevor Leon wusste, dass es kam. Es hing zwischen dem Serverbrummen und dem Ticken der Heizung, und es kostete ihn mehr als die Sonntagsmail von letzter Woche, mehr als jede Präsentation, mehr als sechzehn Jahre Funktionieren — weil es kein Funktionieren war.
 
 Es war eine Bitte.
 
-Nils stand still. Halb gedreht, eine Hand noch an der Tasche, und Leon konnte sein Gesicht nicht richtig sehen, nur das Profil, den Kiefer, der sich bewegte als würde er etwas kauen das nicht da war. Dann ließ Nils die Tasche von der Schulter gleiten. Langsam. Als könnte sie explodieren.
+Nils stand still. Halb gedreht, eine Hand noch an der Tasche, und Leon sah nur das Profil, den Kiefer, der sich bewegte als würde er etwas kauen das nicht da war. Dann ließ Nils die Tasche von der Schulter gleiten. Langsam. Als könnte sie explodieren.
 
 Er kam nicht in Leons Büro. Er ging zum Schreibtisch gegenüber der Glaswand — Marens Platz tagsüber — und zog den Stuhl zurück, nicht leise, nicht laut, und setzte sich. Öffnete die Tasche. Der Zeichenblock. Stifte in einem Lederetui das an den Kanten abgewetzt war. Er klappte den Block auf und Leon sah Seiten die nicht leer waren, Seiten voller Linien und Schatten und Formen die er von hier nicht erkennen konnte, und Nils blätterte sie um ohne sie anzuschauen, eine nach der anderen, bis er eine leere Seite fand.
 
 Er begann zu zeichnen.
 
-Leon sah ihm zu. Durch die Glaswand, im Licht seiner Monitore, sah er wie Nils' Hand sich über das Papier bewegte, schnell und sicher, und er sah die Tinte an seinen Fingern, dunkle Flecken auf Zeigefinger und Mittelfinger der rechten Hand, und er fragte sich seit wann Nils diese Flecken hatte und wusste die Antwort sofort: seit immer. Seit er fünf war und mit Mamas Tuschkasten den Küchentisch ruiniert hatte, seit er acht war und Leon ein Bild zum Geburtstag gemalt hatte das Leon noch irgendwo haben musste, seit er elf war und seine Mutter starb und niemand ihn fragte wie es ihm ging.
+Leon sah ihm zu. Durch die Glaswand, im Licht der Monitore — Nils' Hand über dem Papier, schnell und sicher. Die Tinte an seinen Fingern, dunkle Flecken auf Zeigefinger und Mittelfinger der rechten Hand. Seit wann hatte Nils diese Flecken? Die Antwort kam sofort: seit immer. Seit er fünf war und mit Mamas Tuschkasten den Küchentisch ruiniert hatte, seit er acht war und Leon ein Bild zum Geburtstag gemalt hatte das Leon noch irgendwo haben musste, seit er elf war und seine Mutter starb und niemand ihn fragte wie es ihm ging.
 
 *Seit immer.*
 
@@ -3818,7 +3584,7 @@ Draußen fuhr die erste Straßenbahn. Oder die letzte, je nachdem wie man zählt
 
 Er griff nach seiner Tasse und erinnerte sich dass sie leer war und stellte sie zurück auf den Ring.
 
-Nils zeichnete. Leon saß. Die Glaswand zwischen ihnen war durchsichtig und unsichtbar und da, wie sie es seit Jahren war, nur dass er zum ersten Mal wünschte, sie wäre es nicht.
+Nils zeichnete. Leon saß. Die Glaswand zwischen ihnen war da, wie sie es seit Jahren war — nur dass er zum ersten Mal wünschte, sie wäre es nicht.
 
 Er stand auf.
 
@@ -3828,9 +3594,9 @@ Leon ging in die Küche. Machte den Siebträger an. Wartete bis die Maschine auf
 
 Zwei Espressi. Schwarz. Kein Zucker.
 
-Er wusste nicht ob Nils Zucker nahm und er wusste nicht seit wann er das nicht wusste und er wusste dass die Antwort war: er hatte es nie gewusst.
+Er wusste nicht, ob Nils Zucker nahm. Wusste nicht, seit wann er das nicht wusste. Die Antwort war einfach: er hatte es nie gewusst.
 
-Er trug beide Tassen durch den Flur. Nils saß über seinem Block gebeugt, der Stift zwischen den Fingern, und als Leon die blaue Tasse auf Marens Schreibtisch stellte — nicht nah genug um den Block zu berühren, nicht weit genug weg um Distanz zu markieren —, sah Nils hoch. Einen Moment lang war da etwas in seinem Gesicht das Leon nicht benennen konnte und nicht benennen wollte und das trotzdem da war, hinter dem Sarkasmus den Nils normalerweise trug wie einen Mantel, hinter der Schärfe die Leon kannte und die er selbst geschliffen hatte, Jahr für Jahr, indem er wegsah.
+Er trug beide Tassen durch den Flur. Nils saß über seinem Block gebeugt, der Stift zwischen den Fingern, und als Leon die blaue Tasse auf Marens Schreibtisch stellte — nicht nah genug um den Block zu berühren, nicht weit genug weg um Distanz zu markieren —, sah Nils hoch. Einen Moment lang war da etwas in seinem Gesicht — Leon konnte es nicht benennen, wollte es nicht benennen, und es war trotzdem da. Hinter dem Sarkasmus, den Nils trug wie einen Mantel; hinter der Schärfe, die Leon kannte und die er selbst geschliffen hatte, Jahr für Jahr, indem er wegsah.
 
 »Danke«, sagte Nils.
 
@@ -3842,11 +3608,7 @@ Leon arbeitete nicht.
 
 Er saß in seinem Büro um zwei Uhr siebenundvierzig nachts und hielt eine warme Tasse in beiden Händen und auf der anderen Seite der Glaswand saß sein jüngster Bruder und zeichnete, und das Kratzen des Stifts auf dem Papier war das einzige Geräusch zwischen ihnen und es war genug.
 
-Es war nicht Versöhnung. Es war nicht Verstehen. Es war ein Raum und zwei Menschen und Kaffee und Stille.
-
-Es war mehr als in sechzehn Jahren.
-
-_[Szene 20.1 — Ende]_
+Keine Versöhnung. Kein Verstehen. Ein Raum, zwei Menschen, Kaffee, Stille. Mehr als in sechzehn Jahren.
 
 ---
 
@@ -3890,7 +3652,7 @@ Nils' Hand hielt inne.
 
 Der Stift hing über dem Papier, einen Zentimeter über der Fläche, und Nils bewegte sich nicht. Nicht den Kopf. Nicht die Schultern. Nur die Hand, die aufgehört hatte, und in der Stille konnte Leon das Summen der Notbeleuchtung hören und das ferne Rauschen der Stadt und seinen eigenen Atem und sonst nichts.
 
-Er hatte ihren Namen gesagt. Er sagte ihren Namen nie. Nicht in der Agentur, nicht zu Hause, nicht in den Sonntagsmails, nicht in Gesprächen mit Werner, nicht zu Carla. *Mama.* Nicht *unsere Mutter*, nicht *Katrin*, nicht eine Umschreibung die das Wort vermied. Mama. Wie ein Kind. Wie der Sechzehnjährige, der aufgehört hatte zu zeichnen an dem Tag, an dem sein Vater ihm gesagt hatte, dass jemand die Agentur übernehmen musste und dass Carla erst vierzehn war.
+Er hatte ihren Namen gesagt. Er sagte ihren Namen nie — nicht in der Agentur, nicht zu Hause, nicht in den Sonntagsmails. *Mama.* Kein *unsere Mutter*, kein *Katrin*. Mama, wie ein Kind. Wie der Sechzehnjährige, der aufgehört hatte zu zeichnen an dem Tag, an dem sein Vater ihm gesagt hatte, dass jemand die Agentur übernehmen musste und dass Carla erst vierzehn war.
 
 Nils sah nicht auf. Seine Hand senkte sich wieder auf das Papier.
 
@@ -3898,7 +3660,7 @@ Er zeichnete weiter.
 
 Leon wartete auf etwas — eine Antwort, einen Satz, eine von Nils' scharfen Bemerkungen die immer trafen und nie heilten. Aber Nils zeichnete, und die Stille zwischen ihnen war nicht mehr die Stille von vorhin, sie war dichter, sie hatte Gewicht, sie drückte gegen die Glaswand wie etwas das Platz brauchte.
 
-Nils zeichnete und Leon sah ihm zu und die Minuten vergingen und keiner von ihnen sprach und das war richtig so, das war das Einzige was richtig war, weil jedes Wort jetzt zu viel gewesen wäre oder zu wenig.
+Nils zeichnete. Leon sah ihm zu. Die Minuten vergingen, keiner von ihnen sprach, und das war richtig so — das Einzige, was richtig war, weil jedes Wort jetzt zu viel gewesen wäre oder zu wenig.
 
 Irgendwann — fünf Minuten, zehn, Leon wusste es nicht — klappte Nils den Block zu. Schob den Stift in die Spiralbindung. Stand auf, und der Stuhl rollte leise zurück über den Teppichboden.
 
@@ -3926,20 +3688,723 @@ Vor ihm der Bildschirm mit den Zahlen. Neben der Tastatur drei Post-its, umgedre
 
 *Du zeichnest auch wie sie.*
 
-Nils hatte es gesehen. Die Post-its auf Leons Schreibtisch, die Ränder vollgekritzelt, die Gesichter die er zeichnete und wegwarf, die Hände, die Augen, die Linien die nirgendwohin führten außer zurück zu einer Frau die seit sechzehn Jahren tot war. Nils hatte es gesehen und nichts gesagt. Nicht heute. Nicht letzte Woche. Nicht letztes Jahr.
-
-Er hatte es die ganze Zeit gesehen.
+Nils hatte es gesehen. Die Post-its auf Leons Schreibtisch, die Ränder vollgekritzelt, die Gesichter die er zeichnete und wegwarf, die Hände, die Augen, die Linien die nirgendwohin führten außer zurück zu einer Frau die seit sechzehn Jahren tot war. Nils hatte es gesehen und nichts gesagt — nicht heute, nicht letzte Woche, nicht letztes Jahr. Die ganze Zeit.
 
 Leon drehte das Post-it wieder um. Das halbe Auge sah ihn an. Er legte den Kugelschreiber daneben, parallel zur Kante, und dann nahm er ihn wieder auf und zeichnete die zweite Braue und die Linie der Nase und er sah nicht hin und seine Hand wusste trotzdem wohin.
 
 Die Agentur war still. Die Straßenbahn fuhr nicht mehr um diese Zeit. Irgendwo in Hamburg lief sein jüngster Bruder durch die Nacht mit einem Zeichenblock unter dem Arm und tintenverschmierten Fingern und einem Satz, den er sechzehn Jahre lang nicht gesagt hatte.
 
-Leon zeichnete.
+Leon zeichnete. Er warf das Post-it nicht weg.
 
-Er warf das Post-it nicht weg.
+# Kapitel 21 — Küchenboden
 
-_[Szene 20.2 — Ende]_
+_Leon_
 
-_Ende Kapitel 20_
+Der Linoleumboden in der Küche war kalt.
 
-_Wörter: ca. 3.000_
+Leon wusste das, weil er darauf saß. Rücken an der Wand, zwischen dem Unterschrank und dem Mülleimer, die Beine angezogen, und er hätte nicht sagen können wann er sich hingesetzt hatte. Irgendwann zwischen dem Moment, in dem er die letzte Tabelle geschlossen hatte, und dem Moment, in dem seine Knie nachgegeben hatten, und dazwischen lag ein Flur und eine Tür und das Klicken des Lichtschalters und dann war er hier gewesen. Auf dem Boden.
+
+Wie mit sechzehn.
+
+Er presste die Handflächen auf die Fliesen. Kühl, glatt, ein bisschen klebrig an der Stelle unter dem Spülbecken, wo der Siebträger tropfte. Die Agentur war leer. Freitagabend, und draußen fuhr die Straßenbahn und jemand lachte auf dem Schulterblatt und das Licht der Straßenlaterne zeichnete einen Streifen über die Küchendecke, und es war alles da und nichts davon betraf ihn.
+
+Er hatte Nils' Post-it nicht weggeworfen.
+
+Das war — was? Zwei Nächte her. Drei. Er zählte nicht. Nils' Stimme in der leeren Agentur, ruhig und ohne Kante: *Du zeichnest auch wie sie.* Und davor Carlas Absätze auf dem Linoleum: *Weißt du eigentlich, dass ich da bin?* Und davor Noras Stimme im Glaskasten, die Tür zu, die Stifte parallel: *Ich will dich nicht nur um zwei Uhr nachts.*
+
+Er drückte den Hinterkopf gegen die Wand.
+
+Drei Menschen. Drei Sätze. Und er hatte auf keinen davon geantwortet. Nicht wirklich. Nicht so, dass es zählte. Er hatte Nils Kaffee gemacht und nicht gewusst ob er Zucker nahm. Er hatte Carla nicken sehen und verstanden, dass ihr Nicken mehr Großzügigkeit enthielt als alles, was er in fünfzehn Jahren zurückgegeben hatte. Und er hatte Nora gehen lassen — ihre Schritte auf der Treppe, das Klicken der Haustür, die Stille danach.
+
+Die Stille danach war das Schlimmste gewesen.
+
+Nicht weil sie laut war. Sondern weil sie richtig war. Weil Nora recht hatte, und er es gewusst hatte, in dem Moment wo sie es sagte, vielleicht vorher schon, vielleicht seit dem Küchenboden vor fünf Wochen, als sie auf ihm gelegen hatte und geweint hatte und er geblieben war und gedacht hatte: das hier ist echt. Das hier passiert im Dunkeln und es ist trotzdem echt. Und dann hatte er die Schultern gestrafft und das Hemd zugeknöpft und die Tür zum Glaskasten geschlossen.
+
+Weil das sein System war. Nacht und Tag. Fühlen und Funktionieren. Und dazwischen eine Glaswand.
+
+Er streckte die Beine aus. Seine Schuhe stießen gegen das Tischbein, und die Vibration lief durch das Holz bis zu den Tassen, die jemand — Carla, immer Carla — nach der Spülmaschine auf den Tisch gestellt hatte, drei Stück, Henkel alle in dieselbe Richtung.
+
+Mit sechzehn war der Boden ein anderer gewesen. Fliesen statt Linoleum, weiß mit grauen Fugen, in der Küche in Othmarschen. Matthias' Küche. Ihre Küche, vorher, als *ihre* noch drei Menschen bedeutet hatte und nicht einen Mann der trank und einen Jungen der so tat als könnte er eine Agentur leiten.
+
+Er hatte auf dem Boden gesessen und geweint. Zum letzten Mal. Drei Monate nach der Beerdigung, und die Trauer war nicht gekommen wie eine Welle, sondern wie ein Rohrbruch — alles auf einmal, überall, nicht zu stoppen. Und dann Matthias im Türrahmen. Unrasiert, das Hemd von vorgestern, und seine Stimme, die nicht grausam gewesen war, nur leer:
+
+*Leon. Einer von uns muss es noch schaffen. Und ich schaff es nicht.*
+
+Leon schloss die Augen.
+
+Sechzehn Jahre. Er hatte sechzehn Jahre damit verbracht, diesen Satz zu einem Fundament zu machen. Hatte darauf gebaut — die Agentur, die Nächte, die Sonntagsmails, die Glaswand, die Kontrolle, die Stifte parallel auf dem Schreibtisch, rot links, schwarz rechts. Alles. Sein ganzes Leben war die Antwort auf einen Satz, den ein gebrochener Mann in einer Küche gesagt hatte, weil er nichts anderes konnte.
+
+Und Matthias hatte recht gehabt. Damals. Jemand musste es schaffen, und es gab nur Leon, weil Carla vierzehn war und Nils elf und die Agentur Gehälter zahlte und Kunden hatte und jemanden brauchte, der ans Telefon ging.
+
+Aber *damals* war sechzehn Jahre her.
+
+Carla war dreißig. Carla führte die Agentur mit, stiller und präziser als er, und er hatte es gesehen und nicht gesagt. Nils war siebenundzwanzig und zeichnete nachts in der Agentur, weil er sonst nirgendwo hinkonnte mit dem was in ihm war. Jakob hatte Kunden angerufen, die Leon vergessen hatte. Maren fotografierte Dinge, die er nicht sah. Tom saß an seinem kleinen Tisch neben dem Drucker und hielt alles zusammen, was auseinanderfiel, und niemand dankte ihm.
+
+Und Werner. Werner, der zweimal die Woche kam und Fliegen trug und Werbesprüche sagte, die alle genervt ignorierten, und der einmal, vor Monaten, am Telefon gesagt hatte: *Die beste Werbung macht man nicht im Dunkeln, mein Junge.*
+
+Leon hatte damals aufgelegt und weitergearbeitet.
+
+Er öffnete die Augen. Der Lichtstreifen an der Decke hatte sich verschoben. Die Straßenbahn war weg.
+
+*Ich will dich nicht nur um zwei Uhr nachts.*
+
+Nora hatte nicht gesagt: Ich will dich um achtzehn Uhr. Sie hatte nicht gesagt: Verlass die Agentur, komm mit mir, sei jemand anderes. Sie hatte gesagt: *Nicht nur.* Und dann war sie gegangen, weil sie verstanden hatte, dass Warten keine Liebe war, sondern ein Muster das sie von ihrer Mutter gelernt hatte.
+
+Sie hatte sich selbst gerettet. Vor ihm.
+
+Und er saß auf dem Küchenboden. Wie mit sechzehn — dieselbe Haltung, dieselbe Wand im Rücken, dieselben Handflächen auf kaltem Boden. Aber niemand stand im Türrahmen. Niemand sagte: *Einer von uns muss es noch schaffen.* Nur das Tropfen des Siebträgers und sein eigener Atem.
+
+Seinen eigenen Atem.
+
+Er atmete ein. Langsam, bis seine Rippen sich dehnten, bis die Stelle unterhalb des Brustbeins nachgab, die seit Wochen — seit Monaten, seit Jahren, seit sechzehn Jahren — zugeschnürt gewesen war. Er atmete aus. Nicht kontrolliert. Nicht gemessen. Nicht so, wie er alles tat, als könnte Präzision den Unterschied machen zwischen Halten und Fallen.
+
+Er atmete einfach.
+
+Es war kein Zusammenbruch. Kein Weinen, kein Zittern, kein Rohrbruch wie mit sechzehn. Es war — Luft. In einer Küche, die nach Kaffee roch und nach dem Spülmittel, das Carla kaufte, weil er nie daran dachte. Es war der Küchenboden einer Werbeagentur am Schulterblatt, freitagabends, und niemand wartete auf ihn, und niemand brauchte ihn, und zum ersten Mal seit er sich erinnern konnte, war das keine Katastrophe.
+
+Es war ein Boden. Er saß darauf. Er atmete.
+
+Seine Knie knackten, als er aufstand.
+
+Das war neu. Oder alt — zweiunddreißig, und zum ersten Mal spürte er es, die Steifheit in den Gelenken, das Ziehen in den Oberschenkeln, als hätte sein Körper beschlossen, ihm mitzuteilen, dass man nicht ewig auf Küchenböden sitzen konnte. Er stützte sich am Unterschrank ab, und seine Hand berührte den Griff der Schublade, in der die Teelöffel lagen, die niemand benutzte, weil alle ihren Kaffee schwarz tranken oder direkt aus der Tüte Zucker in die Tasse kippten.
+
+Er stand.
+
+Der Lichtstreifen der Straßenlaterne lag jetzt auf dem Boden, wo er gesessen hatte. Die Küche sah aus wie immer — die drei Tassen auf dem Tisch, die Carla heute Mittag abgestellt hatte, der Siebträger mit dem Tropfen, der nie ganz aufhörte, Werners eingerahmter Spruch an der Wand neben dem Kühlschrank, den alle ignorierten und den niemand abhing.
+
+Er ging den Flur entlang. Seine Schritte auf dem Linoleum waren die einzigen Geräusche im Gebäude, und er hörte sie mit einer Deutlichkeit, die fast unangenehm war — als hätte jemand den Ton aufgedreht, nachdem er jahrelang auf stumm gestellt gewesen war.
+
+Sein Büro. Der Glaskasten. Tür offen, weil er sie nicht geschlossen hatte, als er in die Küche gegangen war, und das allein war eine Veränderung, die er zur Kenntnis nahm, ohne sie zu analysieren. Er setzte sich an den Schreibtisch. Die Monitore waren im Standby, und das blaue Statuslicht des rechten Bildschirms pulsierte in einem Rhythmus, der nichts bedeutete.
+
+Er klappte den Laptop auf.
+
+Mails. Dreiundzwanzig ungelesene, davon acht vom Brinkmann-Team, drei interne von Jakob mit Betreffzeilen, die alle mit „Kurze Frage" begannen, obwohl Jakobs Fragen nie kurz waren. Er scrollte daran vorbei. Öffnete ein neues Fenster.
+
+An: n.seufert@hartmann-agentur.de
+
+Sein Finger lag auf der Tastatur. Auf dem N. Und er dachte nicht darüber nach, warum er gerade diese Mail schreiben wollte, warum es diese Adresse war und nicht die dreiundzwanzig anderen, die auf ihn warteten. Er dachte nicht darüber nach, weil Nachdenken bedeuten würde, dass er aufhörte, und er hatte sechzehn Jahre lang gedacht und geplant und kontrolliert, und auf dem Küchenboden hatte er geatmet, und jetzt wollte er schreiben.
+
+Betreff: Pro-Bono Stiftung Lebensgeschichten — Projektupdate
+
+Er tippte.
+
+Drei Absätze. Der erste über die Budgetfreigabe für den zweiten Interviewblock — Werner hatte zugestimmt, die Druckkosten für die Broschüre zu übernehmen, und Leon hatte das Gespräch mit ihm vor einer Woche geführt und erst jetzt gemerkt, dass er es Nora nie mitgeteilt hatte. Der zweite Absatz über den Zeitplan: die Senioren-Interviews sollten bis Ende des Monats abgeschlossen sein, die Textredaktion lag bei Nora, und er schlug vor, dass sie direkt mit Werner abstimmen solle, ohne den Umweg über ihn. Der dritte Absatz war kurz — ein Hinweis auf die Gestaltungsvorlagen, die Carla angelegt hatte, Dateipfad, Versionsnummer, fertig.
+
+Professionell. Distanziert. Eine Mail, wie er sie dreimal am Tag schrieb, die Art von Mail, die niemanden überraschte, die nichts enthielt, was nicht hineingehörte.
+
+Noch einmal lesen. Einen Tippfehler in *Budgetfreigabe* korrigieren. Ein Komma verschieben.
+
+Dann setzte er den Cursor unter den letzten Absatz. Zwei Leerzeilen.
+
+*PS: Sonntags arbeite ich jetzt auch nicht mehr. Das wird mein Tag.*
+
+Er starrte auf den Satz. Zwölf Wörter, die nicht in eine Projektmail gehörten. Zwölf Wörter, die sagten — was? Dass er ihre Sonntagsmails gelesen hatte, jede einzelne. Dass er verstanden hatte, was sie meinte, als sie sagte: *Nicht nur um zwei Uhr nachts.*
+
+Er erklärte nichts davon. Würde es nie erklären. Manche Sätze standen, oder sie standen nicht. Dieser hier stand.
+
+Er drückte auf Senden.
+
+Die Mail verschwand aus seinem Postausgang, und er sah ihr nach wie einem Gegenstand, den man in einen Briefkasten geworfen hatte und nicht mehr zurückholen konnte — wobei er seit Jahren keine Briefe mehr geschrieben hatte und der Vergleich hinkte, aber sein Kopf produzierte gerade Dinge, die nicht in seine üblichen Kategorien passten, und er ließ es zu.
+
+Der Laptop klappte zu. Bildschirm dunkel, nur das blaue Statuslicht des Monitors pulsierte weiter, unbeirrt, wie es das jeden Abend tat, wenn er um eins oder zwei oder drei ging.
+
+22:04.
+
+Die Jacke hing über der Stuhllehne, wo sie seit heute Morgen hing, seit er um sieben hergekommen war, wie jeden Tag, wie immer. Er zog sie an, und das Futter war kalt gegen seine Unterarme, und das Gewicht des Stoffs auf seinen Schultern war plötzlich da, als hätte er es vorher nie bemerkt.
+
+Er machte das Licht aus.
+
+Sein Licht. Das Licht, das Carla seit fünfzehn Jahren brennen sah, wenn sie abends noch einmal hochschaute, das Licht, das Nora durch die Glaswand gesehen hatte, das Licht, das jedem in der Agentur sagte: Er ist noch da, er arbeitet, er hält den Laden zusammen, auch wenn niemand darum gebeten hat.
+
+Er machte es aus, und der Glaskasten wurde dunkel, und er ging durch den leeren Großraum, vorbei an Noras Schreibtisch, auf dem nichts lag außer einer Tastatur und einem Post-it-Block, dessen oberstes Blatt leer war. Er ging die Linoleumtreppe hinunter, zwei Stockwerke, vorbei am Naturkostladen, der seit acht geschlossen hatte und nach Hefe roch, und drückte die Haustür auf.
+
+Die Luft war kühl. März, und die Schanze roch nach Regen, der vor einer Stunde aufgehört hatte, nach nassen Pflastersteinen und Zigarettenrauch von der Bar drei Häuser weiter. Ein Fahrrad lehnte am Laternenpfahl, nicht abgeschlossen, und jemand würde es mitnehmen, und es ging ihn nichts an.
+
+Er ging nach Hause. Um zehn. An einem Freitag. Und das Licht in seinem Büro war aus, und die Mail war gesendet, und morgen war Samstag, und er wusste nicht, was er mit einem Samstag anfangen sollte, an dem er nicht arbeitete. Er wusste es nicht, und die Unwissenheit war kein Scheitern.
+
+Sie war ein Anfang.
+
+# Kapitel 22 — Für Ilse
+
+_Nora_
+
+Der Cursor blinkte.
+
+Seit Dienstag stand das Dokument offen. Drei Tage, in denen sie den Laptop aufgeklappt hatte, die leere Seite angestarrt und wieder zugeklappt hatte, als würde sie ein Buch schließen, das sie noch nicht lesen durfte. Aber heute war Samstag, und die Sonne fiel schräg durch das Küchenfenster, und Nora setzte sich hin und legte die Finger auf die Tasten und wartete nicht darauf, dass jemand ihr sagte, was sie schreiben sollte.
+
+Sie schrieb: *Oma roch nach Rosenwasser und nach den Pfefferminzbonbons, die sie in der Schürzentasche hatte, immer zwei, eins für sich und eins für mich.*
+
+Der Satz stand auf dem Bildschirm, und er war nicht gut. Zu lang. Zu viel. In der Agentur hätte sie ihn gekürzt, hätte aus *Rosenwasser und Pfefferminzbonbons* ein einziges Detail gemacht, das stärkere, hätte den Rest gestrichen. Sie kannte die Regeln. Sie war gut in den Regeln.
+
+Sie ließ den Satz stehen.
+
+Das hier war kein Briefing. Kein Kundenprojekt. Keine Headline, die jemand absegnen musste, kein Konzepttext, unter den jemand *kann so raus* schreiben würde oder *zu weich* oder gar nichts. Das hier war — was war das hier?
+
+Sie schrieb weiter. Über die Küche in Lokstedt. Über die gelben Fliesen, die einen Sprung hatten, den dritten von links in der zweiten Reihe, und Oma sagte immer, der Sprung sei vom Krieg, aber Nora hatte irgendwann begriffen, dass Oma das über alles sagte, was kaputt war, als wäre der Krieg eine Universalerklärung für Risse in Dingen, die eigentlich hätten halten sollen.
+
+Über das Radio, das immer lief. NDR 90,3, und Oma stellte es nie leiser, auch nicht wenn sie telefonierte, weil Stille in Omas Küche nicht vorkam. Es gab immer ein Geräusch. Das Radio oder das Klappern der Schublade mit dem losen Griff oder Omas Stimme, die erzählte, auch wenn niemand zuhörte, auch wenn Nora fünf war und die Hälfte nicht verstand. Oma erzählte, weil Geschichten erzählt werden mussten, nicht weil jemand danach gefragt hatte.
+
+Noras Finger stoppten.
+
+Das war es. Das war der Unterschied.
+
+Oma hatte erzählt, weil die Geschichten da waren. Nicht weil Nora sie brauchte. Nicht weil Oma gesehen werden wollte. Die Geschichten existierten, und Oma war ihr Mund und ihre Hände und ihre Stimme, und wenn Nora zuhörte, war das schön, und wenn nicht, erzählte Oma dem Topf oder der Katze oder der Luft. Die Geschichten kamen nicht, weil jemand hell genug dafür war.
+
+Nora schluckte. Tippte weiter.
+
+*Oma erzählte mir von Margot, der Nachbarin, die jeden Morgen um sechs ihre Teppiche ausklopfte, bis die ganze Straße wach war, und von Walter, der dreißig Jahre lang mit dem Fahrrad zur Arbeit fuhr und am Tag seiner Pensionierung das Fahrrad dem Briefträger schenkte, weil er sagte, er brauche es nicht mehr, er gehe jetzt nirgendwo mehr hin.*
+
+Die Namen waren echt. Walter und Margot — die gleichen Namen, die in den Stiftungstranskripten standen, die sie vor Wochen bearbeitet hatte. Sie hatte nicht daran gedacht, als sie die Transkripte las. Hatte die Parallele nicht gezogen, weil Arbeit Arbeit war und Oma Oma und beides in getrennten Schubladen lebte, sauber sortiert, wie Leons Stifte.
+
+Sie hörte auf zu tippen. Las, was sie geschrieben hatte. Zwei Absätze. Dreihundert Wörter, vielleicht vierhundert.
+
+Kein Text. Noch nicht einmal ein Entwurf. Material, Rohstoff. Die Sorte Sätze, die sie in keiner Datei ablegen konnte, weil es keine Datei dafür gab, kein Projekt, keinen Kundennamen, kein Budget. Sätze, die nur ihr gehörten.
+
+Sie ließ sie stehen.
+
+Draußen fuhr eine Straßenbahn vorbei, und der Schatten der Oberleitung wanderte kurz über den Küchentisch. Die Sonne stand tief genug, dass das Licht warm war, nicht grell. Samstagslicht. Kein Neonröhren-Surren, kein Bildschirmleuchten um zwei Uhr nachts. Licht, das einfach da war.
+
+Ihr Handy summte.
+
+Sie griff nicht sofort danach. Saß noch einen Moment mit den Händen auf der Tischplatte, dem Laptop vor sich, den Sätzen über Oma auf dem Bildschirm. Dann nahm sie das Handy.
+
+Eine Mail. Absender: Leon Hartmann.
+
+Ihr Magen tat — nichts. Kein Ziehen, kein Flattern. Nur eine kurze Wachheit, wie wenn man ein Geräusch hört, das man einordnen muss.
+
+Sie öffnete die Mail.
+
+Drei Absätze. Sachlich. Stiftung Lebenserinnerungen, Abschlussbericht, Budgetfreigabe Werner, Zeitplan nächste Woche. Sein Name unter dem letzten Absatz, ohne Grußformel, ohne *Beste Grüße*, ohne irgendetwas, das man als menschlich hätte bezeichnen können.
+
+Sie scrollte runter.
+
+*PS: Sonntags arbeite ich jetzt auch nicht mehr. Das wird mein Tag.*
+
+Sie las den Satz. Las ihn noch einmal. Noch einmal.
+
+Zwölf Wörter. Kein Bezug zum Projektstand. Kein Kontext. Nur eine Information, die niemand von ihm verlangt hatte, die in keine Projektmail gehörte, die er trotzdem geschrieben hatte. Unter drei sachliche Absätze, als würde er sie dort verstecken.
+
+*Sonntags arbeite ich nicht. Das ist mein Tag.*
+
+Ihr eigener Satz. Aus einer Mail, die sie vor Monaten geschrieben hatte, spätabends, beiläufig, als PS unter einer Zielgruppenanalyse. Ein Satz, den sie selbst vergessen hatte. Den er nicht vergessen hatte.
+
+Nora legte das Handy auf den Tisch. Neben den Laptop, neben die Sätze über Oma und die gelben Fliesen und Walter mit dem Fahrrad. Das Handy lag da, und die Mail war offen, und der PS leuchtete auf dem Bildschirm, und sie antwortete nicht.
+
+Sie saß am Küchentisch und sah auf ihre Hände, den Laptop, das Handy, das Licht, das durch das Fenster fiel. Sie lächelte nicht — nicht weil sie nicht wollte, sondern weil es nichts gab, das sie jemandem zeigen musste. Kein Publikum. Keine Mama, die nur die hellen Geschichten hörte.
+
+Nur sie und ein Satz, den jemand sich gemerkt hatte. Und ein Dokument, in dem Omas Geschichten standen, die sie für niemanden geschrieben hatte außer für sich.
+
+Es klingelte.
+
+Nora hob den Kopf. Der Ton war kurz, einmal, ohne Nachklingeln — jemand, der den Finger nicht auf der Klingel ließ. Sie klappte den Laptop halb zu und stand auf.
+
+Der Flur war schmal und roch nach dem Basilikum, den sie gestern im Topf gekauft und auf die Fensterbank gestellt hatte, obwohl sie wusste, dass er in einer Woche eingehen würde wie alle Kräutertöpfe, die sie je besessen hatte. Sie drückte den Summer, ohne durch die Gegensprechanlage zu fragen, weil der Paketbote samstags immer um diese Zeit kam und sie ein Buch bestellt hatte, vor zwei Wochen, über mündliche Erzähltraditionen, ein Impuls-Kauf nach der Stiftungsarbeit.
+
+Schritte auf der Treppe. Zu langsam für den Paketboten. Zu gleichmäßig.
+
+Sie öffnete die Wohnungstür, und da stand Leon.
+
+Keine Aktentasche. Kein Laptop unter dem Arm, kein Vorwand in der Hand. Er trug ein dunkles T-Shirt statt eines weißen Hemdes, und das war so falsch, dass sie einen Moment brauchte, um ihn einzuordnen — Leon ohne Kragen, Leon an einem Samstag vor ihrer Tür, im Tageslicht, mit leeren Händen.
+
+Besser sah er nicht aus. Aber etwas an ihm war anders, und es dauerte drei Atemzüge, bis sie es fand: er stand da und schaute sie an. Nicht durch sie hindurch, nicht an ihr vorbei auf einen Punkt hinter ihrer Schulter. Er sah sie an, und sein Blick blieb.
+
+„Es ist Samstag", sagte sie.
+
+„Ja."
+
+„Und es ist —" Sie lehnte sich an den Türrahmen. „Es ist hell."
+
+Er nickte. Einmal, knapp, und seine Hände hingen an seinen Seiten, als wüsste er nicht wohin damit, jetzt wo kein Stift darin lag, kein Rotstift, kein Kaffeebecher.
+
+„Ich kann das nicht gut", sagte er.
+
+Nora sagte nichts. Wartete. Nicht weil sie es ihm schwer machen wollte — weil sie wusste, dass Leons Sätze Zeit brauchten, dass sie durch mehrere Schichten mussten, bevor sie nach außen kamen, und dass jede Unterbrechung ihn zurück hinter die Glaswand schicken würde.
+
+„Aber ich will es versuchen."
+
+Sechs Wörter. Kein Kontext. Kein *es tut mir leid*, kein *ich hätte früher kommen sollen*, kein *ich habe über uns nachgedacht*. Nur diese sechs Wörter, und sie standen zwischen ihnen wie etwas, das er einzeln aus einer Schublade genommen hatte.
+
+Nora spürte, wie ihr Körper sich nach vorn lehnen wollte — der Reflex, ihm entgegenzukommen, die Hand auszustrecken, den Raum zwischen ihnen zu füllen, weil sie das konnte, weil sie das immer konnte. Wärme anbieten. Lächeln. Den anderen dort abholen, wo er stand.
+
+Sie tat es nicht.
+
+Lehnte im Türrahmen und sah ihn an, und es war das Schwerste, das sie je getan hatte, weil Nicht-Performen kein Talent war, sondern ein Muskel, den sie erst seit Wochen trainierte und der bei jeder Benutzung schmerzte. Aber er war da. Sie konnte ihn spüren — den Widerstand gegen das Lächeln, das nicht für sie selbst wäre, gegen den Satz, der ihm die Arbeit abgenommen hätte.
+
+Leon stand auf der Schwelle und wartete. Sein Kiefer war angespannt, und eine Sehne an seinem Hals zeichnete sich ab, und er sah aus wie jemand, der etwas hielt, das er nicht fallenlassen durfte und nicht tragen konnte.
+
+„Was willst du versuchen?", fragte sie. Nicht warm, nicht kalt. Nur die Frage.
+
+Seine Augen verließen ihre für eine halbe Sekunde, gingen zum Boden, kamen zurück. „Am Tag irgendwo stehen. Ohne Vorwand."
+
+Das Treppenhaus war still. Kein Server-Summen, keine Neonröhren. Nur der Basilikum auf der Fensterbank und das Samstaglicht und Leon, der in ihrem Treppenhaus stand und ihr die Wahrheit gesagt hatte, ohne sie in einem PS zu verstecken.
+
+Nora richtete sich auf. Langsam. Sie nahm den Rücken vom Türrahmen und trat einen halben Schritt zur Seite.
+
+„Dann komm rein."
+
+Kein Lächeln dabei — nicht weil sie nicht wollte, weil sie nicht musste. Die Leichtigkeit, die sie früher übergeworfen hätte wie einen Mantel, war nicht da. Es war besser so. Ein Mann an ihrer Tür, der es versuchte. Eine Frau, die die Tür aufmachte, ohne dafür zu leuchten.
+
+Leon trat ein. Sein Blick ging durch den Flur — Basilikum, Garderobe, die Jacke die schief am Haken hing, die zwei Paar Schuhe, eins davon noch im Karton. Er nahm alles auf — das war Leon, er konnte keinen Raum betreten, ohne ihn zu kartieren. Aber er sagte nichts dazu, ordnete nichts ein, sortierte nicht.
+
+Er blieb im Flur stehen.
+
+Nora schloss die Tür. Das Klicken war leise, alltäglich, ein Samstagsgeräusch. Durch die Küchentür fiel Licht in den Flur, warm und schräg, und auf dem Küchentisch standen noch der halb zugeklappte Laptop und das Handy und die Tasse mit dem kalten Tee.
+
+„Ich hab Tee", sagte sie. „Oder Kaffee. Keinen guten."
+
+Seine Mundwinkel bewegten sich. Nicht genug für ein Lächeln. Genug, dass sie es sah.
+
+„Kaffee", sagte er. „Schwarz."
+
+„Ich weiß."
+
+Sie ging in die Küche, und er folgte ihr, und das Licht fiel auf sie beide, und es war Samstag, und niemand performte, und das Dokument mit Omas Geschichten leuchtete auf dem Laptop-Bildschirm, und Nora schaltete den Wasserkocher ein und holte die Dose mit dem Instantpulver aus dem Schrank, und es war nicht perfekt, es war Instant, es war ihr Küchentisch und kein Agentur-Siebträger, und Leon stand in ihrem Licht und ging nicht.
+
+# Kapitel 23 — Im Licht
+
+_Nora → Leon, Woche 11_
+
+Der Instantkaffee roch nach gar nichts.
+
+Nora stand an der Küchenzeile, den Rücken zu Leon, und rührte das Pulver in die Tasse und sah zu, wie sich das Wasser braun färbte, und hinter ihr war Leon, und das war das Ungeheuerlichste: dass es normal war. Dass er in ihrer Küche stand und dass es Samstag war und dass Licht hereinfiel, nachmittags, das volle schräge Hamburger Samstaglicht, das die Fliesen warm machte und die Obstschale auf dem Tisch und seine Hände, die neben ihm hingen, weil er keinen Stift hatte, keinen Rotstift, kein Brinkmann-Dokument, nichts.
+
+Sie stellte die Tasse vor ihn. Der Henkel in seine Richtung.
+
+Er sah die Tasse an. Dann sie.
+
+„Danke." Leise, und es war nicht das Danke das sie kannte — nicht das professionelle, nicht das abwesende, nicht das Danke das eigentlich hieß: _registriert, erledigt_. Es war ein Danke, das klang wie jemand, der ein Wort zum ersten Mal benutzte.
+
+Nora setzte sich an den Küchentisch. Ihr Laptop stand noch offen, Omas Geschichten auf dem Bildschirm, und sie klappte ihn halb zu — nicht ganz, nur weit genug, dass der Text nicht mehr zwischen ihnen stand.
+
+Leon blieb stehen. Trank einen Schluck. Sein Blick ging durch ihre Küche, und sie sah ihm dabei zu — wie er alles aufnahm, die Kaffeetassensammlung im Regal, alle verschieden, keine doppelt, die Postkarte am Kühlschrank die sie aus Porto mitgebracht hatte, den Basilikum auf der Fensterbank der schon wieder gelbe Blätter bekam.
+
+„Setz dich", sagte sie. Nicht warm, nicht auffordernd. Nur der Satz.
+
+Er setzte sich.
+
+Auf den Stuhl gegenüber, die Tasse zwischen seinen Händen, und er war nah genug, dass sie seine Unterarme sehen konnte — das T-Shirt, die freigelegten Arme, keine hochgekrempelten Hemdärmel. Nur er. Die Sehne am Handgelenk, der dunkle Haaransatz, die Linie zwischen Daumen und Zeigefinger. Sie kannte seine Hände von den Dokumenten, die er über den Tisch schob, von den Korrekturen die er in ihre Texte schrieb, von der Nacht auf dem Küchenboden. Sie hatte seine Hände nie im Tageslicht gesehen.
+
+„Du hast meine Mail gelesen", sagte sie.
+
+Keine Frage.
+
+„Ja."
+
+„Den PS."
+
+Er nickte. Einmal.
+
+Nora legte die Hände um ihre eigene Tasse — Tee, lauwarm, sie hatte ihn vor einer Stunde aufgegossen und dann vergessen, weil sie geschrieben hatte, und der Tee war jetzt das, was Tee wurde, wenn man ihn vergaß: ein Getränk, das niemand mehr wollte.
+
+„Und den Text?"
+
+Sein Blick veränderte sich. Nicht viel — ein Verengen, das Registrieren von etwas, das er nicht erwartet hatte. „Welchen Text?"
+
+Sie drehte den Laptop wieder auf. Die Seite, die sie geschrieben hatte — nicht die Stiftungstexte, nicht Walter und Margot und Edith, sondern die andere. Die über Oma. Über Rosenwasser und gelbe Fliesen und eine Frau, die Geschichten erzählt hatte, die niemand aufgeschrieben hatte, bis jetzt.
+
+Leon las.
+
+Nora trank den kalten Tee und sah ihm dabei zu, und das war der Moment, in dem sie es verstand — nicht als Gedanke, nicht als Erkenntnis die man in Worte fassen konnte, sondern als etwas Körperliches: sie musste ihm nichts erklären. Nicht warum sie den Text geschrieben hatte, nicht warum es wichtig war, nicht warum sie weinte wenn sie an Omas Geschichten dachte. Er wusste es bereits. Er hatte es immer gewusst — aus einer Mail um 23 Uhr, aus einem PS, aus einer Beiläufigkeit, die für ihn nie beiläufig gewesen war.
+
+Er las zu Ende.
+
+Sah hoch.
+
+„Das klingt nach ihr", sagte er. Leise, und es hätte nichts heißen können, aber es hieß alles, weil er nie nach Oma gefragt hatte, weil er nie gesagt hatte _Erzähl mir von ihr_ und trotzdem jedes Detail kannte, und jetzt saß er in ihrem Küchenlicht und sagte _Das klingt nach ihr_, als hätte er Ilse Seufert gekannt.
+
+Nora schluckte.
+
+„Woher weißt du, wie sie geklungen hat?"
+
+Er sah auf die Tasse in seinen Händen. „Du schreibst wie jemand, der zugehört hat." Pause. „Dem Zuhören."
+
+Die Stille danach war anders als die Agenturnächte. Kein Summen, kein Flur, kein Kühlschrankgeräusch das einen Rhythmus vorgab. Nur Samstag und Licht und der Basilikum und sein Gesicht, das sie zum ersten Mal ohne Schatten sah, ohne die Kontraste der Neonröhren und der Glaskasten-Lampe, und da waren Linien die sie nicht kannte — an seinen Schläfen, um seine Augen — und ein Dreitagebart, der heller war als sie gedacht hatte, und die dunklen Ringe unter seinen Augen, die im Tageslicht nicht romantisch aussahen, sondern nach dem was sie waren: Erschöpfung. Jahre davon.
+
+Sie streckte die Hand über den Tisch.
+
+Nicht als Impuls — bewusst, langsam, und sie legte ihre Finger auf seinen Unterarm, auf die Stelle unterhalb des hochgeschobenen T-Shirt-Ärmels, wo die Haut warm war und weich und sie seinen Puls spürte, unter ihren Fingerspitzen, schneller als sein Gesicht es zeigte.
+
+Er wurde still.
+
+Nicht die Leon-Stille, die sie kannte — nicht die Kontrolle, nicht das Einfrieren. Eine andere Stille, die eines Körpers, der spürte, dass er berührt wurde, und der nicht wusste wohin damit, und der trotzdem nicht wegzog. Seine Finger um die Tasse öffneten sich. Schlossen sich nicht wieder.
+
+Nora stand auf.
+
+Ließ ihre Hand auf seinem Arm liegen, während sie um den Tisch herumging, und er drehte den Kopf und sah zu ihr hoch, und sie stand neben seinem Stuhl und sah auf ihn herab, und das Licht fiel durch das Küchenfenster und lag auf seiner Schläfe, auf seiner Wange, auf dem offenen Kragen des T-Shirts, und sie dachte: ich habe dich noch nie von oben gesehen.
+
+Sie legte die Hand an sein Gesicht.
+
+Seine Wange unter ihrer Handfläche, der Dreitagebart rau gegen ihre Finger, und er schloss die Augen — kurz, ein Reflex, den er nicht kontrollierte — und als er sie wieder öffnete, war etwas darin, das sie noch nie gesehen hatte. Nicht die Frage. Nicht die Abwehr. Etwas Offenes, Unfertiges, das aussah wie jemand, der eine Tür aufgemacht hatte und noch nicht wusste, was dahinter lag.
+
+„Nora." Ihr Name, und seine Stimme war rauer als sonst, tiefer, und seine Hand legte sich auf ihre, die an seiner Wange lag, und hielt sie dort.
+
+Sie beugte sich zu ihm.
+
+Der Kuss war langsam. Nicht wie die Küche in der Agentur, nicht wie der Küchenboden — kein Dunkel, keine Tränen, keine Dringlichkeit. Nur ihre Lippen auf seinen, weich, und das Licht auf ihnen beiden, und seine Hand, die von ihrer auf seine Wange hinüberglitt und ihren Nacken fand, und er zog sie näher, nicht mit Kraft, nur: näher, als könnte er den Abstand zwischen ihnen nicht mehr ertragen.
+
+---
+
+Leon.
+
+Er hatte nie gewusst, wie Sonnenlicht auf ihrer Haut aussah.
+
+Das war der Gedanke, der alles andere verdrängte — nicht die Analyse, nicht das System, nicht die siebzehn Gründe warum das hier ein Fehler sein sollte, die er in den letzten zwei Wochen aufgestellt und verworfen und wieder aufgestellt hatte. Nur dieser eine Gedanke: er hatte nie gewusst, wie Sonnenlicht auf ihrer Haut aussah. Auf ihren Sommersprossen, den Dutzenden davon, über der Nase, auf den Wangen, auf den Schultern die er jetzt zum ersten Mal sah, weil das hier nicht die Agenturküche war und nicht zwei Uhr nachts und nicht das Halbdunkel, in dem er sich verstecken konnte.
+
+Tageslicht. Ihr Schlafzimmer. Ein Samstagnachmittag.
+
+Sie hatte ihn hergeführt — nicht an der Hand, nicht als Geste, sie war einfach den Flur entlanggegangen und er war ihr gefolgt, weil er ihr folgen konnte, jetzt, weil er diesen einen Satz an ihrer Tür gesagt hatte und der Satz ihn freigegeben hatte auf eine Art, die er noch nicht ganz verstand. _Ich will es versuchen._ Sechs Wörter, und er hatte jedes einzelne gemeint, und jetzt stand er in ihrem Schlafzimmer und das Licht fiel durch die halboffenen Vorhänge auf das ungemachte Bett und auf sie, und sie sah ihn an.
+
+Ohne Maske.
+
+Das war es, was ihn jedes Mal traf, härter als alles andere — wenn sie aufhörte zu leuchten und einfach da war. Nicht die Nora die Räume heller machte, nicht die Nora die lachte weil der Raum es brauchte. Diese Nora. Die mit den ruhigen Augen und dem Mund der nicht lächelte und den Sommersprossen im Samstaglicht.
+
+Er trat zu ihr.
+
+Einen Schritt, und dann stand er vor ihr, und der Abstand zwischen ihnen war klein genug, dass er ihre Wärme spürte, den Geruch ihres Haars — kein Parfüm, nur: sie, Shampoo und der Rest des Nachmittags und etwas Warmes darunter, das er nicht benennen konnte und das er wiedererkannte.
+
+Seine Hand fand ihren Arm. Die Stelle oberhalb des Ellbogens, die Haut dort weicher als am Handgelenk, und er strich darüber mit dem Daumen, und sie sah auf seine Hand und dann auf ihn, und ihr Atem veränderte sich, kaum merklich, und er nahm es wahr wie alles an ihr — unwillkürlich, vollständig, ohne den Filter, der ihn sonst vor solchem Wissen schützte.
+
+Er küsste sie.
+
+Anders als vorhin in der Küche — langsamer, tiefer, und seine Hand glitt von ihrem Arm zu ihrem Rücken und er spürte die Wärme ihrer Haut durch den Stoff ihres Pullovers, die Wirbelsäule unter seinen Fingern, und sie lehnte sich in ihn, nicht drängend, nur: nah, und ihr Mund öffnete sich unter seinem und sein ganzer Körper reagierte auf einmal, Hitze, die sich von seiner Brust ausbreitete, in seinen Magen, tiefer.
+
+Er zog den Pullover über ihren Kopf.
+
+Langsam, weil er sich Zeit lassen wollte, weil das hier nicht die Küche war und nicht die Agentur und nicht zwei Uhr nachts, und weil er sie sehen wollte. Im Licht. Ihre Schultern, die Sommersprossen die sich über ihre Schlüsselbeine zogen, die weiche Haut oberhalb ihres BHs, die Stelle am Hals wo ihr Puls schlug — sichtbar, schnell.
+
+Er legte seinen Mund darauf.
+
+Nicht fest — nur seine Lippen auf ihrem Puls, der schnelle Schlag an seinem Mund. Ihre Hand kam in sein Haar, die Finger schlossen sich, nicht fest, nur: da. Er küsste ihren Hals. Die Mulde am Schlüsselbein. Die Sommersprossen auf ihrer Schulter, eine nach der anderen. Sie atmete aus, lang, zitternd.
+
+„Leon."
+
+Sein Name, und es klang nicht wie ein Wort, sondern wie etwas, das sie losließ.
+
+Er hob den Kopf. Sah sie an, und sie sah aus wie jemand, der sich entschieden hatte: da zu sein. Nicht leuchten, nicht Sonne sein. Einfach da. Und er stand vor ihr und war sichtbar, und das war das Beängstigende — nicht die Nacktheit, sondern die Sichtbarkeit. Dass sie ihn sah. Ohne Glaswand, ohne Dunkelheit.
+
+Sie zog sein T-Shirt hoch.
+
+Ihre Hände an seinen Rippen, warm, und er hob die Arme und ließ sie, und der Stoff glitt über seinen Kopf und dann stand er vor ihr, und ihre Augen gingen über seine Brust, seine Schultern, die Stelle unter dem Schlüsselbein wo eine kleine Narbe war — Fahrrad, sechzehn — und er ließ es zu. Ließ es zu, dass sie ihn ansah — ohne Hemd, ohne den Stoff, den er sich jeden Morgen zuknöpfte wie eine Rüstung.
+
+Ihre Fingerspitzen auf seiner Brust.
+
+Leicht, kaum Druck, und sie fuhr die Linie seines Brustbeins entlang, nach unten, über seinen Bauch, und seine Bauchmuskeln spannten sich unter ihrer Berührung und sein Atem wurde flacher, und sie sah hoch und sah, was sie mit ihm machte, und lächelte nicht.
+
+Das war es.
+
+Dass sie nicht lächelte. Dass sie ihn berührte und dabei ernst war, ruhig, als wäre das hier etwas, das keine Dekoration brauchte.
+
+Er nahm ihr Gesicht in beide Hände.
+
+Küsste sie, und diesmal war es nicht langsam — tiefer, dringender, und seine Zunge an ihrer, und sie machte ein Geräusch gegen seinen Mund, leise, und ihre Hände an seinem Rücken, die Nägel leicht, und er spürte es bis in die Knochen.
+
+Er öffnete ihren BH.
+
+Seine Finger am Verschluss, und der Stoff fiel, und er sah sie an — ihre Brüste im Tageslicht, die helle Haut, die Brustwarzen die sich unter seinem Blick zusammenzogen, und er legte seine Hände darauf und spürte, wie sie einatmete, scharf, kurz, und sich gegen seine Handflächen lehnte.
+
+Er beugte sich zu ihr.
+
+Sein Mund auf ihrer Brust, seine Lippen um ihre Brustwarze, und sie griff in sein Haar und ihr Atem wurde Laute die er noch nie gehört hatte, nicht in der Agentur, nicht im Dunkeln — offener, ungeschützter, als hätte das Licht auch ihre Geräusche verändert. Seine Zunge, seine Lippen, und ihre Hüften drängten gegen seine, und er spürte sie, und das Wollen in ihm war so vollständig, dass es ihm den Atem nahm.
+
+Er schob sie rückwärts.
+
+Zum Bett, langsam, seine Hände an ihren Hüften, und sie ließ sich fallen — rückwärts auf die Matratze, die Haare ausgebreitet, die Arme über dem Kopf, und sie sah zu ihm hoch, und er stand am Bettrand und sah auf sie herab.
+
+Tageslicht auf ihrem Körper. Auf ihrem Bauch, der sich hob und senkte, auf der feinen Linie von Haaren unterhalb ihres Nabels. Auf den Narben, die er vorher nicht gesehen hatte — eine kleine am Knie, eine verblasste am Handgelenk, Dinge, die man nur im Licht sah.
+
+Er kniete sich aufs Bett.
+
+Über ihr, die Hände neben ihrem Kopf, und er küsste sie — ihren Mund, ihren Kiefer, die Stelle hinter ihrem Ohr an der sie zuckte, und er blieb dort, seine Lippen auf dieser Stelle, und sie griff seine Oberarme und ihre Finger gruben sich in seine Muskeln und er hörte seinen eigenen Atem, rau, ungleichmäßig, und dachte: das bin ich.
+
+Das war das Wissen, das alles veränderte. Nicht dass er sie wollte — das hatte er gewusst, länger als er zugeben konnte, seit den Mails, seit der Tischkante, seit dem Augenblick in dem sie ihm widersprochen hatte und er vergessen hatte, was er sagen wollte. Sondern dass er sich wollte. In diesem Moment. Hier. Im Licht, in ihrem Bett, mit ihren Händen auf seinem Körper. Er wollte der sein, der er war, wenn sie ihn ansah.
+
+Er zog ihre Jeans aus.
+
+Seine Finger an ihren Hüften, am Knopf, am Reißverschluss, und er streifte den Stoff über ihre Beine, langsam, weil er jedes Stück Haut sehen wollte das zum Vorschein kam — ihre Oberschenkel, die Knie, die Fußknöchel. Er legte seine Lippen auf die Innenseite ihres Oberschenkels und sie zuckte, und er blieb dort, sein Mund auf der weichen Haut, und küsste sich höher, und sie griff in die Laken und sagte seinen Namen, einmal, als Warnung oder als Bitte, und er hörte beides.
+
+Er nahm sich Zeit.
+
+Weil er es konnte. Weil das hier kein Küchenboden war, keine Dringlichkeit, keine geteilte Wunde. Das hier war eine Entscheidung — seine, und ihre.
+
+Sein Mund zwischen ihren Beinen, seine Hände auf ihren Hüften, und er schmeckte sie und sie war warm und offen und ihr Atem kam in Stößen und ihre Hand in seinem Haar hielt fest und ihre Hüften bewegten sich gegen seinen Mund, und er ließ sie, gab ihr den Rhythmus den sie brauchte, fand ihn, hielt ihn, und sie kam unter seinem Mund, mit einem Laut der wie sein Name klang und wie etwas anderes, etwas das keine Sprache hatte.
+
+Er küsste die Innenseite ihres Oberschenkels. Die Stelle unterhalb ihres Nabels. Ihre Rippen, eine nach der anderen. Ihre Brüste. Ihre Kehle. Ihren Mund. Und sie schmeckte sich auf seinen Lippen und zog ihn zu sich und sagte nichts.
+
+Er legte sich neben sie.
+
+Einen Moment — sein Körper neben ihrem, und er lag auf dem Rücken und sah an die Decke und der Nachmittag lag auf seiner Brust und auf seinem Gesicht und er war sichtbar, vollständig, und es tat nicht weh. Es tat nicht weh.
+
+Sie rollte sich auf die Seite, eine Hand auf seiner Brust, und küsste seinen Hals, sein Schlüsselbein, und dann waren ihre Hände an seinem Hosenbund und seine an ihren und sie streiften den Rest ab, zusammen, unkoordiniert und ehrlich, Stoffe die auf den Boden fielen, und dann waren sie nackt nebeneinander in ihrem Bett im Samstaglicht, und er sah sie an und sie sah ihn an.
+
+Keine Maske. Bei keinem von beiden.
+
+Sie kam über ihn.
+
+Wie auf dem Küchenboden, aber anders — nicht im Dunkeln, nicht aus dem Weinen heraus, nicht auf hartem Linoleum mit dem Kühlschrank summend neben ihnen. Im Licht. Auf ihrem Bett. Mit offenen Augen.
+
+Sie nahm ihn in sich, langsam, und sein Kopf fiel nicht nach hinten — er sah sie an, und sie sah ihn an, und das Sonnenlicht lag auf ihren Schultern und auf ihren Brüsten und auf ihrem Gesicht, und er sah ihr Gesicht, die Ernsthaftigkeit darin, das Fehlen jeder Performance und legte seine Hände auf ihre Hüften, nicht führend, nicht haltend, nur: da.
+
+Sie bewegte sich.
+
+Langsam. Er spürte sie, ganz, und sein Atem kam in kurzen Stößen, seine Finger an ihren Hüften griffen fester. Er ließ es zu — ließ die Kontrolle, die er sechzehn Jahre lang als Identität getragen hatte. Sie bewegte sich auf ihm, er bewegte sich mit ihr; ihre Hände fanden seine, Finger verschränkt, und sie hielten einander fest, auf dem ungemachten Bett im Nachmittagslicht.
+
+„Sieh mich an", sagte sie.
+
+Leise, und er sah sie an, und da war nichts zwischen ihnen — keine Glaswand, keine Dunkelheit, kein PS in dem man die Wahrheit verstecken konnte. Nur ihre Augen und seine, und das Licht, das alles zeigte, und der Rhythmus ihrer Körper, der sich beschleunigte, und sein Atem der nicht mehr sein war, und ihre Hand die seine hielt, und die Wärme die sich in ihm aufbaute, tiefer als Haut, tiefer als Knochen, an einer Stelle die er sechzehn Jahre lang zugemauert hatte.
+
+Sie legte die Stirn gegen seine.
+
+Ihr Atem auf seinen Lippen, seine Hände in ihrem Haar. Sie bewegten sich zusammen, und er spürte, wie sie sich zusammenzog, wie ihr Atem stockte, wie ihre Finger sich in seine krallten. Er sah sie an und sie sah ihn an und sie kam, und er sah es — in ihren Augen, auf ihrem Gesicht, in ihrem ganzen Körper — und er kam mit ihr, und sein Körper ergab sich, und er ließ einen Laut los, der aus einer Tiefe kam, die er nicht kannte. Sie hielt ihn. Er hielt sie. Das Licht blieb.
+
+---
+
+Danach.
+
+Ihr Atem. Seiner. Das Geräusch des Samstags vor dem Fenster — eine Straßenbahn in der Ferne, Stimmen von unten, das Leben das weiterging während sie stilllagen.
+
+Sie lag auf ihm, ihr Kopf auf seiner Brust, ihre Hand über seinem Herzen. Ihr Herzschlag gegen seinen, beide noch schnell. Die Luft roch nach ihr und nach dem Basilikum vom Fensterbrett (der bis hierher nicht reichte, aber er roch ihn trotzdem, weil alles an dieser Wohnung nach ihr roch).
+
+Er lag still.
+
+Nicht die Stille des Glaskastens — die kontrollierte, die methodische, _weiter, nächster Schritt, erledigt._ Das hier war etwas anderes. Ruhe, die nichts wollte und nichts verlangte.
+
+Sein Daumen bewegte sich auf ihrem Rücken. Langsam, über ihre Wirbelsäule, und er dachte an den Küchenboden in der Agentur und an den Küchenboden seines Elternhauses und an die sechzehn Jahre dazwischen. Er dachte an seinen Vater, der gesagt hatte: _Einer von uns muss es noch schaffen._ Er dachte an Carla, die gesagt hatte: _Irgendwann musst du dich umdrehen._ Er dachte an Nils, der gesagt hatte: _Du auch, weißt du._
+
+Nora hob den Kopf.
+
+Sah ihn an, und das Licht fiel schräg jetzt, die Sonne war weitergewandert, und ihr Gesicht war halb in Gold und halb in Schatten, und sie sah ihn an, ohne zu lächeln, ohne ihm etwas abzunehmen.
+
+„Bleibst du?", fragte sie.
+
+Nicht wie beim Küchenboden. Nicht als Test. Nur die Frage.
+
+Er sah sie an, im Nachmittag, in ihrem Bett. _Am Tag irgendwo stehen. Ohne Vorwand._ Das war der Anfang. Nicht die Lösung, nicht die Heilung in einer Szene. Nur ein Anfang.
+
+„Ja", sagte er.
+
+Nora legte den Kopf zurück auf seine Brust.
+
+Er legte den Arm um sie.
+
+Nicht zögernd, nicht nach fünf Atemzügen Erlaubnis — sofort, und seine Hand lag auf ihrem Rücken, und er hielt sie, und das Licht wanderte über die Wand und über das Bett und über sie beide, und er blieb.
+
+# Kapitel 24 — Brötchen
+
+_Leon, Woche 11_
+
+Das Treppenhaus roch nach Bohnerwachs.
+
+Derselbe Geruch wie immer — zwanzig Jahre alte Dielen, die jemand einmal die Woche wischte, obwohl der Teppichläufer das Meiste abfing. Drittes Obergeschoss, kein Aufzug. Leon kannte die Stufen, kannte den Handlauf der ab dem zweiten Stock wackelte, kannte das Licht das sich automatisch einschaltete und nach genau drei Minuten wieder ausging. Er hatte es nie so genau gezählt, aber er wusste es trotzdem.
+
+Seine Schritte auf dem Teppich waren leise. Die Tüte in seiner Hand raschelte bei jedem Absatz — Brötchen, acht Stück, die Bäckerei an der Eppendorfer Landstraße. Er hatte nicht darüber nachgedacht. Er war an der Bäckerei vorbeigegangen und hatte acht Brötchen bestellt, und die Frau hinter der Tresen hatte gefragt ob er eine Tüte wolle, und er hatte ja gesagt, und das war es gewesen.
+
+Werners Tür stand einen Spalt offen. Stimmen dahinter, gedämpft — Jakobs Lachen, heller als die anderen, und darunter das Klirren von Porzellan.
+
+Leon drückte die Klinke.
+
+Werner stand am Kopfende des Tisches und schenkte Kaffee ein. Die dunkelrote Fliege von heute saß auf einem hellblauen Hemd, und Werners Hände waren ruhig an der Kanne, der Reihe nach, wie immer — erst Matthias, dann die nächste Tasse, dann die nächste. Das alte Porzellan mit der blauen Randlinie und dem Golddekor, einige Tassen randlos, die Lücken dazwischen wie leise Zugeständnisse.
+
+„Leon." Werner sah auf.
+
+Keine Überraschung. Werners Gesicht überraschte sich nie.
+
+„Du bist früh."
+
+Das stimmte. Leon war zehn Minuten vor der Zeit, die er sich selbst gesetzt hatte, und fünfzehn Minuten vor der Zeit, die alle anderen als pünktlich definierten. Er hängte die Jacke über den Stuhl neben Carla, stellte die Tüte auf den Tisch, und setzte sich.
+
+„Brötchen." Er schob die Tüte in Werners Richtung.
+
+„Hast du." Werner öffnete die Tüte, sah hinein, nickte einmal. Nicht dankbar, nicht erstaunt. Ein Mann, der seit vierzig Jahren Dinge zur Kenntnis nahm und daraus seine Schlüsse zog, die er nie mitteilte.
+
+Carla saß an ihrem üblichen Platz, die Hände um ihre Tasse, die Haare strenger zurückgebunden als unter der Woche. Sie trug die graue Bluse, die sie für Anlässe reservierte, die nicht offiziell genug für die weiße und nicht privat genug für ein T-Shirt waren. Sonntagsbrunch bei Werner war beides und keins von beiden.
+
+„Du bringst Brötchen mit", sagte sie.
+
+Keine Frage. Eine Feststellung, die mehr wog als die sechs Wörter, aus denen sie bestand.
+
+„Ich bin an der Bäckerei vorbeigekommen."
+
+Carla sah ihn eine Sekunde an. Dann wandte sie sich wieder ihrem Kaffee zu, und etwas an der Art wie sie die Tasse hob — ruhiger als sonst, der kleine Finger leicht abgespreizt, ein Zeichen das nur Leon kannte — sagte ihm, dass sie verstanden hatte. Was genau sie verstanden hatte, war unklar, und das war in Ordnung.
+
+Nils kam als nächster. Die Tür ging auf ohne Klopfen, Sneakers auf Werners Teppich, die tintenverschmierten Finger an der Türklinke. Er trug ein schwarzes T-Shirt unter einer offenen Jacke, die er über die Stuhllehne warf, und seine Haare sahen aus als hätte er sie nicht gekämmt — was so war, was immer so war, was Nils zum Prinzip erhoben hatte.
+
+„Morgen."
+
+Er setzte sich an seinen Platz an der Ecke, dort wo Zweig eins endete und der Tisch in eine Kurve ging, die es nicht gab, weil der Tisch rechteckig war. Nils saß immer am Rand. Das war keine Aussage. Das war Nils.
+
+Sein Blick fiel auf die Brötchentüte.
+
+„Werner ist unter die Delegierer gegangen?"
+
+„Leon." Werner goss Nils' Kaffee ein. „Leon hat Brötchen mitgebracht."
+
+Nils sah zu Leon. Eine Sekunde — länger als ein Blick, kürzer als eine Frage. Dann griff er nach der Tüte und zog ein Brötchen heraus.
+
+„Roggen?" Er drehte es. „Du weißt welche ich mag."
+
+Leon wusste es nicht. Er hatte acht Stück genommen, gemischt, ohne Bestellung, und dass zwei davon Roggen waren, war Zufall. Aber er sagte nichts, und Nils biss ab, und das war das Ende dieses Gesprächs.
+
+Die Tür ging wieder auf.
+
+Jakob füllte den Rahmen aus, wie er jeden Rahmen ausfüllte — nicht physisch, sondern atmosphärisch. Er brachte Luft mit und Bewegung und eine Bäckertüte, die er halb hinter dem Rücken versteckte, als er Leons Tüte auf dem Tisch sah.
+
+„Du auch?" Ein halbes Grinsen, das Jakob als ganzes verkaufte.
+
+Leon sah auf die zweite Tüte. „Zimtschnecken?"
+
+„Croissants." Jakob stellte sie neben die Brötchentüte, zog den Stuhl raus, setzte sich. „Ich war bei Henrik's."
+
+Niemand am Tisch verzog eine Miene bei dem Namen. Es war eine Bäckerei. Hieß so. Das war alles.
+
+Maren kam hinter Jakob, die Kamera um den Hals, wie immer. Die kleine schwarze, die Leon erst bemerkte wenn der Auslöser bereits geklackt hatte. Sie trug Jeans und eine weite Bluse und ihre Haare waren kürzer als letztes Mal — wann hatte sie sich die Haare geschnitten? Er wusste es nicht. Es fiel ihm auf, dass er es nicht wusste.
+
+Sie setzte sich auf ihre Seite. Zweig zwei.
+
+Der Tisch sah aus wie immer: Werners Porzellan, die blaue Randlinie, die Tassen mit dem fehlenden Goldrand, die Lücken die er nicht ersetzte. Butter, Aufschnitt, Käse. Das Glas Erdbeermarmelade, das Leon nie anrührte und das Werner trotzdem jedes Mal hinstellte. Acht Plätze.
+
+Matthias kam als Letzter.
+
+Leon hörte die Schritte im Flur bevor er die Tür sah — schwer, bedächtig, als brauche jeder Schritt eine eigene Entscheidung. Die Tür ging auf, und Matthias stand im Rahmen, den Mantel schon ausgezogen, über dem Arm gefaltet, die Krawatte die er sonntags nicht trug durch einen offenen Hemdkragen ersetzt, der ihn kleiner aussehen ließ. Schmaler. Älter als sechzig, obwohl er erst Mitte sechzig war.
+
+„Matthias." Werner.
+
+Matthias nickte. Legte den Mantel über die Kommode im Flur — Leon hörte den Stoff — und kam an den Tisch. Sein Platz: rechts von Werner. Immer rechts von Werner.
+
+Er setzte sich.
+
+Sein Blick ging über den Tisch, über das Porzellan, über die Brötchentüte — Leons Tüte — und blieb einen Moment an Leons Händen hängen, die auf der Tischkante lagen. Dann hob er den Blick.
+
+Leon sah ihn an.
+
+Nicht lang. Nicht mit einer Botschaft. Ohne die Anstrengung, die es normalerweise kostete, in diese Richtung zu schauen — das Wegdrehen, das Nicht-Sehen, das Lesen der Handschrift auf Verträgen, ohne den Mann dahinter zu sehen. Er sah seinen Vater an, und sein Vater sah ihn an, und es war kein Moment der Vergebung, kein Moment der Erkenntnis — nichts, das irgendein Erzähler hätte benennen können.
+
+Matthias senkte den Blick.
+
+Seine Hände schlossen sich um die Kaffeetasse, die Werner ihm schon eingeschenkt hatte. Die weiße Keramik mit dem fehlenden Goldrand. Er hob sie nicht. Er hielt sie.
+
+Leon wandte sich ab. Nahm ein Brötchen, schnitt es auf, legte Butter drauf.
+
+Am Tisch lief die Konversation an — Jakobs Maschine, die nie ausfiel. „Wer war gestern bei der Eröffnung in der Schanze? Maren, du warst da, oder?"
+
+„Kurz." Maren hob die Kamera vom Hals und legte sie neben ihren Teller. „Bis zehn."
+
+„Bis zehn ist nicht kurz, das ist ein ganzer Abend." Jakobs Stimme trug das Gespräch mühelos, wie ein Strom der alles mittrug was sich nicht dagegen wehrte. „Nils, du auch?"
+
+„Nein."
+
+„Du weißt nicht mal welche Eröffnung."
+
+„Trotzdem nein."
+
+Carla lächelte. Nicht für den Tisch — für sich. Ein halbes Ding, das verschwand bevor es jemand hätte benennen können, und Leon sah es trotzdem, weil er fünfzehn Jahre lang gelernt hatte, Carlas Halbzeichen zu lesen.
+
+Werner setzte sich. Er hatte die Runde gemacht, alle Tassen gefüllt, die Kanne auf dem Stövchen abgestellt, und jetzt saß er an seinem Kopfende und ließ den Blick über den Tisch gehen. Acht Menschen. Sein Porzellan. Sein Sonntag.
+
+Tom saß neben Werner, wie immer. Sein Platz — wenn man das Platz nennen konnte, was sich über Jahre aus dem Restprinzip ergeben hatte, immer dort wo noch Raum war, immer am Rand, immer neben dem Einzigen der ihn nicht übersah. Tom trug einen grauen Pullover und hielt seine Tasse mit beiden Händen, und sein Blick ging über den Tisch wie Marens Kamera: ruhig, aufmerksam, ohne Anspruch auf das, was er sah.
+
+Leon griff nach der Brötchentüte.
+
+Er zog ein Brötchen heraus — ein helles Weizenbrötchen, das letzte in der Tüte — und schob es über die Tischfläche. Nicht weit. Nicht dramatisch. Über die blaue Randlinie des Tischsets, vorbei an der Butterdose, bis es vor Toms Teller zum Stehen kam.
+
+„Willst du auch eins?"
+
+Drei Wörter. Der Tisch wurde ruhig, aber nicht auf die Art, wenn alle gleichzeitig beschlossen, in eine andere Richtung zu schauen — auf die andere Art. Wenn etwas zum ersten Mal passierte und alle gleichzeitig beschlossen, es nicht kaputtzumachen.
+
+Tom sah auf das Brötchen. Dann hoch.
+
+Sein Blick traf Leons — hellblau auf dunkelbraun, der Jüngste und der Älteste der Enkel, der den alle übersahen und der der durch alle durchsah — und Tom sagte: „Danke."
+
+Nicht leise. Nicht laut. In der Stimme, die Tom hatte wenn er nicht versuchte, noch weniger Platz einzunehmen als er ohnehin schon beanspruchte.
+
+Leon nickte.
+
+Werner sah zu. Seine Hände lagen um seinen Kaffee, die Falten um seine Augen vertieften sich um einen Millimeter, und er sagte nichts. Nicht jetzt. Leon kannte diesen Blick — Werner der sammelte, Werner der Sätze in sich aufnahm wie Belichtungszeiten und sie später entwickelte, wenn niemand damit rechnete.
+
+Tom nahm das Brötchen. Schnitt es auf, langsam, den Blick wieder auf dem Tisch, wieder ruhig. Butter, Aufschnitt, Käse. Die Bewegungen eines Menschen, der gelernt hatte, alles leise zu tun.
+
+Das Gespräch kam zurück. Jakob erzählte von einem Kunden — einem neuen Kontakt, irgendeine Brauerei, Maren kannte den Inhaber — und Nils warf ein dass er die Corporate Identity furchtbar fand, und Jakob sagte dass das ja genau der Punkt sei, und Carla sagte dass das Branding sechs Wochen bedeuten würde, mindestens. Die Agentur-Sprache, die sich zwischen Croissants und Erdbeermarmelade ihren Weg bahnte, wie sie es immer tat.
+
+Matthias saß an seinem Platz und hörte zu. Seine Tasse stand vor ihm, halb leer jetzt — er hatte getrunken, irgendwann, Leon hatte den Moment verpasst. Matthias' Blick lag auf der Tischfläche, knapp links von Werner, wie immer. Aber seine Schultern saßen einen halben Zentimeter tiefer als am letzten Brunch, und ob das Erschöpfung oder etwas Anderes war, konnte Leon nicht sagen und versuchte es nicht.
+
+Maren hob die Kamera.
+
+Der Auslöser klackte.
+
+Leon sah nicht hin. Nicht weil es ihn nicht kümmerte — weil es ihn nicht mehr störte. Maren fotografierte den Tisch, das Licht auf dem Porzellan, Werners Hände. Sie fotografierte die Brötchentüte, Jakobs Croissants, Toms Teller mit dem halben Brötchen. Leon ließ es. Werner hatte gesagt: _Lass sie_, und Leon hatte es gelassen, und irgendwann zwischen dem ersten Brunch und diesem hier hatte sich das Lassen in etwas verwandelt, das keine Anstrengung mehr kostete.
+
+Die Kamera klackte. Noch einmal.
+
+Das Fenster hinter Werner zeigte auf den Innenhof. Dieselbe Kastanie wie im Februar, aber anders jetzt — Blätter, junges Grün, das Licht das durch die Krone fiel und Muster auf den Boden zeichnete, die sich bei jedem Windstoß verschoben. Die Wäscheleine war leer, aber die Kastanie war nicht mehr nackt, und der Innenhof sah aus als hätte jemand das Bild von Februar genommen und eine Schicht Farbe drübergelegt.
+
+Leon sah auf sein Handy.
+
+Zehn Uhr zweiundzwanzig. Kein Grund aufzustehen. Keine Konzepte in der Cloud die nicht bis Montag warten konnten. Keine Pitch-Vorbereitung, die er als Vorwand hätte benutzen können — Brinkmann lief, der Rebrand stand, die nächste Phase war Jakobs Kunden-Pflege und nicht Leons Nachtschichten.
+
+Er steckte das Handy zurück in die Tasche.
+
+Nils sah es. Sagte nichts. Biss in sein zweites Brötchen.
+
+„Werner." Carla lehnte sich vor. „Die Rechnung von dem Druckerservice —"
+
+„Nicht sonntags." Werner hob die Kaffeetasse. „Sonntags reden wir über Dinge die wichtig sind."
+
+„Das IST —"
+
+„Über Dinge die wirklich wichtig sind." Werner sah Carla an, und sein Blick war der Blick eines Mannes der seine Enkel so gut kannte, dass er sich die Mühe des Widerspruchs sparen konnte.
+
+Carla schloss den Mund. Lehnte sich zurück. Nahm ihre Tasse.
+
+Werner stand auf.
+
+Nicht abrupt, nicht feierlich — er stand auf wie er alles tat, in seinem eigenen Tempo, das sich an nichts und niemanden anpasste. Seine Hand ging zu seinem Kaffee, nicht zum Glas — es gab kein Glas, es gab Kaffee und Porzellan und Sonntagmorgen, und Werner hob seine Tasse und wartete.
+
+Der Tisch wurde leiser.
+
+Nicht still. Leiser. Jakobs Stimme brach ab, Nils legte das Brötchen hin, Marens Kamera sank auf den Tisch. Carla sah auf. Tom sah auf. Matthias sah auf — nicht auf Werner, neben Werner, wie immer, aber sein Kopf war gehoben und seine Augen waren offen.
+
+„Die beste Werbung", sagte Werner, „ist die, an die man sich erinnert."
+
+Er sah über den Tisch. Über das Porzellan mit den fehlenden Rändern und die Brötchentüte und die Croissants und die acht Menschen, die jeden Sonntag an seinen Tisch kamen, manche aus Pflicht und manche aus Gewohnheit und manche — vielleicht — aus etwas, das keinen Namen brauchte.
+
+„Nicht die lauteste." Werner trank. Stellte die Tasse ab. „Nicht die teuerste. Die an die man sich erinnert."
+
+Er setzte sich.
+
+Stille. Die gute Art.
+
+Dann griff Jakob nach einem Croissant und fragte Maren, ob sie nächste Woche den Brauereibesuch begleiten wolle, und Maren sagte, sie schaue mal, und Nils sagte etwas Sarkastisches über Jakobs Networking-Frequenz, und der Tisch war wieder da, laut genug zum Leben, leise genug zum Atmen.
+
+Leon saß an seinem Platz.
+
+Er hatte das Brötchen aufgegessen. Den Kaffee halb getrunken. Er hatte zugehört und nicht gesprochen und sein Handy war in seiner Jackentasche und sein Blick ging über die Menschen an diesem Tisch — Carla, die etwas auf ihrem Telefon tippte und es dann weglegte. Nils, der die Serviette zerknüllte statt sie zu falten. Jakob, der Marens Kamerawinkel korrigierte, was sie mit einem Blick beantwortete der keine Worte brauchte. Tom, der sein Brötchen aufgegessen hatte und jetzt Butter auf die zweite Hälfte strich, die zweite Hälfte die Leon nicht gezählt hatte als er sie über den Tisch geschoben hatte.
+
+Werner an seinem Kopfende, die Hände um die Tasse, die Augen die nichts verpassten.
+
+Matthias, der seine zweite Tasse Kaffee trank — trank, nicht hielt. Immer noch knapp links.
+
+Leon schob den Stuhl nicht zurück.
+
+Er saß da, und das Licht vom Innenhof fiel durch die Kastanienblätter und zeichnete Muster auf Werners Teppich, und der Kaffee wurde kalt, und er blieb.
+
+Keine Pitch-Vorbereitung. Kein _Ich muss dann mal_. Keine Jacke von der Stuhllehne.
+
+Es war Viertel vor elf, und er saß am Tisch seines Großvaters, zwischen Brötchenkrümeln und altem Porzellan und einer Familie, die er nicht reparieren konnte und die trotzdem hier war. Jeden Sonntag. Ob er wollte oder nicht.
+
+Er wollte.
+
+Nicht weil sich alles verändert hatte — der Küchenboden von vor sechzehn Jahren existierte noch. Und sein Vater hatte ihn angesehen, aber da lag nichts Neues darin. Nur ein Blick, der eine Sekunde länger gewesen war als die letzten fünfhundert Male.
+
+Sondern weil es Sonntag war. Und weil Nils Roggen mochte und Tom die zweite Hälfte aß und Carla ihn angesehen und verstanden hatte und Werner einen Spruch gesagt hatte, der nach Agentur klang und nach Familie schmeckte. Und weil sein Handy in der Tasche lag und er es dort ließ.
+
+Neben ihm legte Carla die Hand kurz auf seinen Unterarm. Nicht lang. Nicht mit Druck. Dann war die Hand wieder weg, und Carla trank ihren Kaffee, und Leon sah auf die Stelle wo ihre Finger gelegen hatten und dachte an nichts.
+
+Werner räumte die erste Tasse ab. Tom stand auf und half ihm — ohne Absprache, Henkel in eine Richtung, die kaputten Tassen zuletzt. Carla nahm die Aufschnittplatte.
+
+Leon blieb sitzen.
+
+Er hatte am Samstag bei Nora auf dem Bett gelegen und gesagt: _Ja._ Er würde sie nächsten Sonntag fragen, ob sie mitkommen wolle. Nicht heute. Heute war der Tisch voll genug.
+
+Durch das Fenster sah er die Kastanie, die sich im Wind bewegte, das Licht, das durch die Blätter fiel. Irgendwo fuhr eine Bahn.
+
+Er blieb.
+

@@ -12,8 +12,8 @@
 | Phase 0.5: Cover & Figuren-Optik | ✅ Fertig | `cover_tests/` |
 | Phase 1: Ending | ✅ Fertig | `01_ending.md` |
 | Phase 2+3: Outline + Kapitelplan | ✅ Fertig | `02_outline.md` |
-| Phase 4: Schreiben | ⏳ Nächster Schritt | `05_manuscript.md` |
-| Phase 5: Lektorat | ⬜ | — |
+| Phase 4: Schreiben | ✅ Fertig (24/24 Kapitel) | `05_manuscript.md` |
+| Phase 5: Lektorat | ⏳ Nächster Schritt | — |
 | Phase 6: Testleserin | ⬜ | — |
 | Phase 7: KDP Listing + Cover | ⬜ | — |
 | Phase 8: Abschluss | ⬜ | — |
@@ -57,4 +57,9 @@ Phase 4: Schreiben — Session A (Kapitel 1–5, Akt 1: Setup)
 → Kapitel 18 fertig (~2.500 W, Leon POV, „Umdrehen" — Carla-Konfrontation)
 → Kapitel 19 fertig (~3.000 W, Nora POV, „Renate" — Tage danach + Renate-Telefonat)
 → Kapitel 20 fertig (~3.000 W, Leon POV, „Du zeichnest auch wie sie" — Nils-Nacht)
-→ **Nächster Schritt:** Kapitel 21 — „Küchenboden" (Leon POV, Allein + Mail-PS)
+→ Kapitel 21 fertig (~2.900 W, Leon POV, „Küchenboden" — Allein + Mail-PS, finaler „Er hat es sich gemerkt" Payoff)
+→ Kapitel 22 fertig (~2.900 W, Nora POV, „Für Ilse" — Nora schreibt über Oma (für sich), Leons Mail-PS, Leon an der Tür im Tageslicht)
+→ Kapitel 23 fertig (~3.000 W, Nora→Leon POV, Steamy #3 — Tageslicht, bewusst, offene Augen)
+→ Kapitel 24 fertig (~2.600 W, Leon POV, „Brötchen" — Brunch-Epilog, Tom-Brötchen, Matthias-Blick, Werner-Spruch #4)
+→ **PHASE 4 ABGESCHLOSSEN — Manuskript komplett (24/24 Kapitel)**
+→ **Nächster Schritt:** Phase 5/6 — Testleserin + Lektorat
