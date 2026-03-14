@@ -3747,3 +3747,199 @@ _[Szene 19.2 — Ende]_
 _Ende Kapitel 19_
 
 _Wörter: ca. 3.000_
+
+---
+
+## Kapitel 20 — Du zeichnest auch wie sie
+
+_Leon, Woche 11_
+
+### Szene 20.1 — Allein + Nils kommt
+
+Die Zahlen stimmten nicht.
+
+Leon scrollte zurück zum Anfang der Tabelle, ließ den Blick über die Spalten laufen, und die Zahlen stimmten, natürlich stimmten sie, er hatte sie dreimal geprüft, und trotzdem saßen sie falsch auf dem Bildschirm, als wären sie nicht seine, als hätte jemand anderes sie dort abgelegt und vergessen sie abzuholen.
+
+Zwei Uhr dreizehn.
+
+Die Monitore warfen ihr Licht auf den Schreibtisch, auf die Stifte — rot links, schwarz rechts —, auf die weiße Tasse, die seit Stunden leer war. Er hätte aufstehen können. Den Siebträger anwerfen, die vertrauten Handgriffe, Bohnen, Druck, das Zischen, und danach zurückkommen mit einer vollen Tasse und weiterarbeiten, wie er es immer tat, wie er es seit sechzehn Jahren tat, seit er zum ersten Mal um zwei Uhr nachts allein in diesem Büro gesessen hatte, damals noch im alten Gebäude, damals noch mit Werners Schreibtisch neben seinem, damals noch mit dem Gefühl, dass er etwas zusammenhielt.
+
+Er stand nicht auf.
+
+Das Serverbrummen aus dem Nebenraum. Irgendwo auf dem Schulterblatt ein Taxi, das über Kopfsteinpflaster fuhr und dann nicht mehr. Die Glaswand zu seiner Linken zeigte den Großraum, die leeren Schreibtische in Reihen, die dunklen Bildschirme, die Stühle, die die Kolleginnen in verschiedenen Winkeln zurückgeschoben hatten, als sie um sechs, um sieben, um halb acht gegangen waren.
+
+Zuletzt Janneke. Die Tür, ein gerufenes Tschüss, Stille.
+
+Er starrte auf die Tabelle und sah den Küchenboden. Nicht den in der Agentur. Den anderen. Fliesen, beige, ein Muster das aussah wie Blätter, wenn man die Augen zusammenkniff, und sein Vater, der auf diesem Boden saß, Rücken an den Unterschrank gelehnt, und etwas sagte, das Leon seitdem jeden Tag gehört hatte, in Meetings und beim Einschlafen und unter der Dusche und —
+
+Er schloss die Tabelle. Öffnete sie wieder. Schloss sie.
+
+Sein Stuhl knarrte, als er sich zurücklehnte. Die Decke über ihm war weiß, ein paar graue Stellen dort wo der Wasserschaden von 2024 durchgeschlagen hatte, und er kannte jeden dieser Flecken, weil er öfter hier saß als in seiner Wohnung, weil dieses Büro sein Zuhause war und seine Wohnung der Ort an dem er schlief, wenn er schlief, wenn er nicht hier war und auf Tabellen starrte die stimmten und sich trotzdem falsch anfühlten.
+
+*Ich will dich nicht nur um zwei Uhr nachts.*
+
+Er setzte sich auf. Griff nach der leeren Tasse, drehte sie zwischen den Händen. Stellte sie ab. Genau auf den Ring den sie auf dem Schreibtisch hinterlassen hatte, den er normalerweise sofort wegwischte, der seit Freitag dort war.
+
+Seit Freitag war vieles dort wo es nicht hingehörte.
+
+Das Licht im Flur ging an.
+
+Bewegungsmelder.
+
+Leon hob den Blick. Durch die Glaswand sah er den Schatten zuerst — lang, verzerrt von der Neonröhre —, dann die Gestalt. Dunkles Haar, das in mehrere Richtungen gleichzeitig stand. Schwarzes T-Shirt, zu dünn für März. Eine Tasche über der Schulter, aus der etwas ragte das wie ein Zeichenblock aussah.
+
+Nils blieb stehen.
+
+Sie sahen sich an durch zwei Scheiben Glas und sechzehn Jahre, und Leon sah wie Nils' Schultern sich hoben, ein halbes Zentimeter vielleicht, der Reflex den er kannte, der Reflex den er selbst in ihn hineintrainiert hatte ohne es zu wollen, der Reflex der sagte: *ich bin schon wieder dort wo ich nicht sein soll.*
+
+Nils hob die Hand. Halb. Keine Welle, eher ein Zeigen auf die eigene Anwesenheit, ein kurzes *ja, ich bin's, ich geh schon.*
+
+Er drehte sich zur Tür.
+
+»Bleib.«
+
+Das Wort war draußen bevor Leon wusste dass es kam, und es hing in der Stille zwischen dem Serverbrummen und dem Ticken der Heizung und es war ein einziges Wort und es kostete ihn mehr als die Sonntagsmail die er letzte Woche an alle geschickt hatte, mehr als jede Präsentation die er je gehalten hatte, mehr als sechzehn Jahre Funktionieren, weil es kein Funktionieren war.
+
+Es war eine Bitte.
+
+Nils stand still. Halb gedreht, eine Hand noch an der Tasche, und Leon konnte sein Gesicht nicht richtig sehen, nur das Profil, den Kiefer, der sich bewegte als würde er etwas kauen das nicht da war. Dann ließ Nils die Tasche von der Schulter gleiten. Langsam. Als könnte sie explodieren.
+
+Er kam nicht in Leons Büro. Er ging zum Schreibtisch gegenüber der Glaswand — Marens Platz tagsüber — und zog den Stuhl zurück, nicht leise, nicht laut, und setzte sich. Öffnete die Tasche. Der Zeichenblock. Stifte in einem Lederetui das an den Kanten abgewetzt war. Er klappte den Block auf und Leon sah Seiten die nicht leer waren, Seiten voller Linien und Schatten und Formen die er von hier nicht erkennen konnte, und Nils blätterte sie um ohne sie anzuschauen, eine nach der anderen, bis er eine leere Seite fand.
+
+Er begann zu zeichnen.
+
+Leon sah ihm zu. Durch die Glaswand, im Licht seiner Monitore, sah er wie Nils' Hand sich über das Papier bewegte, schnell und sicher, und er sah die Tinte an seinen Fingern, dunkle Flecken auf Zeigefinger und Mittelfinger der rechten Hand, und er fragte sich seit wann Nils diese Flecken hatte und wusste die Antwort sofort: seit immer. Seit er fünf war und mit Mamas Tuschkasten den Küchentisch ruiniert hatte, seit er acht war und Leon ein Bild zum Geburtstag gemalt hatte das Leon noch irgendwo haben musste, seit er elf war und seine Mutter starb und niemand ihn fragte wie es ihm ging.
+
+*Seit immer.*
+
+Leon öffnete die Tabelle. Starrte sie an. Die Zahlen stimmten und sagten ihm nichts. Er scrollte nach unten, nach oben, markierte eine Zelle, löschte die Markierung. In seinem peripheren Blickfeld bewegte sich Nils' Hand über das Papier, gleichmäßig, und das Geräusch des Stifts auf dem Block war leise genug um fast nicht da zu sein und laut genug um alles zu verändern.
+
+Draußen fuhr die erste Straßenbahn. Oder die letzte, je nachdem wie man zählte.
+
+Er griff nach seiner Tasse und erinnerte sich dass sie leer war und stellte sie zurück auf den Ring.
+
+Nils zeichnete. Leon saß. Die Glaswand zwischen ihnen war durchsichtig und unsichtbar und da, wie sie es seit Jahren war, nur dass er zum ersten Mal wünschte, sie wäre es nicht.
+
+Er stand auf.
+
+Nils' Stift stoppte. Ein Sekundenbruchteil, nicht länger, dann zeichnete er weiter, aber Leon hatte es gesehen, das Innehalten, das Warten auf — was? Dass Leon ging? Dass Leon etwas sagte? Dass Leon tat was Leon immer tat, nämlich so tun als wäre Nils ein Mitarbeiter und kein Bruder?
+
+Leon ging in die Küche. Machte den Siebträger an. Wartete bis die Maschine aufgeheizt war, und das Zischen und Brummen füllte den Raum und seine Hände taten etwas und das war gut, das war besser als Tabellen die stimmten und nichts sagten. Er holte seine Tasse. Dann stand er vor dem Schrank und überlegte und griff nach einer zweiten. Blau, Henkel angeschlagen. Er hatte keine Ahnung wem sie gehörte.
+
+Zwei Espressi. Schwarz. Kein Zucker.
+
+Er wusste nicht ob Nils Zucker nahm und er wusste nicht seit wann er das nicht wusste und er wusste dass die Antwort war: er hatte es nie gewusst.
+
+Er trug beide Tassen durch den Flur. Nils saß über seinem Block gebeugt, der Stift zwischen den Fingern, und als Leon die blaue Tasse auf Marens Schreibtisch stellte — nicht nah genug um den Block zu berühren, nicht weit genug weg um Distanz zu markieren —, sah Nils hoch. Einen Moment lang war da etwas in seinem Gesicht das Leon nicht benennen konnte und nicht benennen wollte und das trotzdem da war, hinter dem Sarkasmus den Nils normalerweise trug wie einen Mantel, hinter der Schärfe die Leon kannte und die er selbst geschliffen hatte, Jahr für Jahr, indem er wegsah.
+
+»Danke«, sagte Nils.
+
+Leon nickte. Ging zurück in seinen Glaskasten. Setzte sich. Öffnete die Tabelle.
+
+Nils zeichnete.
+
+Leon arbeitete nicht.
+
+Er saß in seinem Büro um zwei Uhr siebenundvierzig nachts und hielt eine warme Tasse in beiden Händen und auf der anderen Seite der Glaswand saß sein jüngster Bruder und zeichnete, und das Kratzen des Stifts auf dem Papier war das einzige Geräusch zwischen ihnen und es war genug.
+
+Es war nicht Versöhnung. Es war nicht Verstehen. Es war ein Raum und zwei Menschen und Kaffee und Stille.
+
+Es war mehr als in sechzehn Jahren.
+
+_[Szene 20.1 — Ende]_
+
+---
+
+### Szene 20.2 — Du zeichnest wie Mama
+
+Das Kratzen hörte auf.
+
+Leon wusste nicht, wie lange sie so gesessen hatten. Die Zahlen auf seinem Bildschirm hatten sich irgendwann in Formen aufgelöst, Linien, die nichts mehr bedeuteten, und seine Finger hatten angefangen, was sie immer taten, wenn sein Kopf aufhörte zu rechnen — der Kugelschreiber über den gelben Rand eines Post-its, Striche, die kein Ziel hatten und trotzdem irgendwo ankamen. Er hatte nicht hingesehen. Er sah nie hin.
+
+Das Kratzen auf der anderen Seite der Glaswand setzte wieder ein. Leiser jetzt, als würde Nils den Stift kaum noch aufdrücken, als würde er etwas Feines machen, etwas das Vorsicht brauchte. Leon kannte den Unterschied. Die groben Striche am Anfang, wenn die Hand noch suchte, und dann das Leiserwerden, wenn sie fand.
+
+Er kannte den Unterschied, weil er ihn selbst kannte.
+
+Nils saß mit angezogenem Bein auf Marens Stuhl, den Block gegen das Knie gelehnt, und im bläulichen Licht der Notbeleuchtung konnte Leon seine Hände sehen — die Art wie der kleine Finger den Rand des Papiers hielt, wie das Handgelenk locker blieb, wie der Stift sich drehte zwischen Zeige- und Mittelfinger, eine Bewegung die man nicht lernte. Die hatte man oder man hatte sie nicht.
+
+Katrin Hartmann hatte sie gehabt.
+
+Leon hatte sie an Samstagnachmittagen gesehen, wenn seine Mutter am Küchentisch saß und Entwürfe skizzierte, während der Kaffee kalt wurde und sein Vater im Büro war und die Agentur rettete oder ruinierte, je nachdem welches Jahr man fragte. Er hatte neben ihr gesessen und zugesehen und irgendwann hatte sie ihm einen Stift gegeben und gesagt, *Probier mal*, und seine Hand hatte genau das Gleiche getan. Dieselbe Drehung. Dieselbe Lockerheit. Er war neun gewesen.
+
+Nils war damals drei. Nils hatte keine Samstagnachmittage am Küchentisch gehabt. Nils hatte sich das allein beigebracht, oder es war nie beigebracht worden, es war einfach da gewesen, in seinen Händen, von Anfang an, ein Erbe das keiner bestellt hatte.
+
+Das Kratzen hörte auf. Nils blätterte um. Neues Blatt. Das Kratzen begann wieder.
+
+Leons Kugelschreiber lag still auf dem Post-it. Er sah auf seine eigene Zeichnung hinunter — ein Auge, halb fertig, mit Wimpern die zu lang waren und einer Braue die er kannte, weil er sie jeden Tag sah wenn er in den Spiegel schaute. Sein eigenes Auge. Oder das seiner Mutter. Der Unterschied war kleiner als er jemals zugegeben hatte.
+
+Er drehte das Post-it um. Legte den Kugelschreiber hin. Nahm ihn wieder auf.
+
+Auf der anderen Seite der Glaswand drehte Nils den Block, betrachtete seine Zeichnung aus einem anderen Winkel, und seine tintenverschmierten Finger strichen über die Ecke des Papiers, und Leon sah die Geste und sie traf ihn irgendwo unterhalb der Rippen, an einer Stelle die er vor sechzehn Jahren zugemacht hatte wie einen Raum in dem man nicht mehr wohnte.
+
+Seine Mutter hatte das gemacht. Den Block drehen. Die Ecke berühren. Den Kopf schief legen.
+
+Genau so.
+
+Er hätte es nicht sagen sollen. Es war nicht geplant und es war nicht gewollt und es kam trotzdem, wie Dinge kamen die zu lange in einem Raum ohne Luft gewesen waren.
+
+»Du zeichnest wie Mama.«
+
+Seine eigene Stimme in der Stille der leeren Agentur, und sie klang anders als er sich kannte — leiser, rauer, ohne die Kontrolle die er in jeden Satz legte wie eine Unterschrift.
+
+Nils' Hand hielt inne.
+
+Der Stift hing über dem Papier, einen Zentimeter über der Fläche, und Nils bewegte sich nicht. Nicht den Kopf. Nicht die Schultern. Nur die Hand, die aufgehört hatte, und in der Stille konnte Leon das Summen der Notbeleuchtung hören und das ferne Rauschen der Stadt und seinen eigenen Atem und sonst nichts.
+
+Er hatte ihren Namen gesagt. Er sagte ihren Namen nie. Nicht in der Agentur, nicht zu Hause, nicht in den Sonntagsmails, nicht in Gesprächen mit Werner, nicht zu Carla. *Mama.* Nicht *unsere Mutter*, nicht *Katrin*, nicht eine Umschreibung die das Wort vermied. Mama. Wie ein Kind. Wie der Sechzehnjährige, der aufgehört hatte zu zeichnen an dem Tag, an dem sein Vater ihm gesagt hatte, dass jemand die Agentur übernehmen musste und dass Carla erst vierzehn war.
+
+Nils sah nicht auf. Seine Hand senkte sich wieder auf das Papier.
+
+Er zeichnete weiter.
+
+Leon wartete auf etwas — eine Antwort, einen Satz, eine von Nils' scharfen Bemerkungen die immer trafen und nie heilten. Aber Nils zeichnete, und die Stille zwischen ihnen war nicht mehr die Stille von vorhin, sie war dichter, sie hatte Gewicht, sie drückte gegen die Glaswand wie etwas das Platz brauchte.
+
+Nils zeichnete und Leon sah ihm zu und die Minuten vergingen und keiner von ihnen sprach und das war richtig so, das war das Einzige was richtig war, weil jedes Wort jetzt zu viel gewesen wäre oder zu wenig.
+
+Irgendwann — fünf Minuten, zehn, Leon wusste es nicht — klappte Nils den Block zu. Schob den Stift in die Spiralbindung. Stand auf, und der Stuhl rollte leise zurück über den Teppichboden.
+
+Leon sah auf seinen Bildschirm. Zahlen, die er nicht gelesen hatte.
+
+Nils ging zur Tür. Sein Schritt war leise, fast geräuschlos, und Leon dachte, dass er das von niemandem in dieser Familie kannte, dieses lautlose Gehen, als wolle man keine Spuren hinterlassen. Als hätte man früh gelernt, dass Unsichtbarkeit sicherer war.
+
+An der Tür blieb Nils stehen.
+
+Leon sah nicht auf. Er spürte es trotzdem — das Zögern, die halbe Drehung, den Moment in dem Nils etwas abwog, und Leon wartete darauf, dass er ging, weil Gehen das war, was sie taten, alle Hartmanns, immer, Türen hinter sich schließen und so tun als wäre der Raum dahinter leer.
+
+»Du auch, weißt du.«
+
+Nils' Stimme. Ruhig. Ohne Kante. Ohne Sarkasmus. Ohne alles, was Leon von ihm kannte.
+
+»Du zeichnest auch wie sie.«
+
+Leon hob den Kopf.
+
+Aber Nils sah ihn schon nicht mehr an. Er ging durch die Tür und sie fiel ins Schloss, ein leises Klicken in der leeren Agentur, und seine Schritte auf dem Flur wurden leiser und dann waren sie weg.
+
+Leon saß in seinem Glaskasten.
+
+Vor ihm der Bildschirm mit den Zahlen. Neben der Tastatur drei Post-its, umgedreht. In der Schublade unter dem Schreibtisch eine Zeichnung, nach unten gelegt, die er vor zwei Wochen nicht weggeworfen hatte. Auf dem Post-it, das er gerade umgedreht hatte, ein halbes Auge, das seines war oder das seiner Mutter.
+
+*Du zeichnest auch wie sie.*
+
+Nils hatte es gesehen. Die Post-its auf Leons Schreibtisch, die Ränder vollgekritzelt, die Gesichter die er zeichnete und wegwarf, die Hände, die Augen, die Linien die nirgendwohin führten außer zurück zu einer Frau die seit sechzehn Jahren tot war. Nils hatte es gesehen und nichts gesagt. Nicht heute. Nicht letzte Woche. Nicht letztes Jahr.
+
+Er hatte es die ganze Zeit gesehen.
+
+Leon drehte das Post-it wieder um. Das halbe Auge sah ihn an. Er legte den Kugelschreiber daneben, parallel zur Kante, und dann nahm er ihn wieder auf und zeichnete die zweite Braue und die Linie der Nase und er sah nicht hin und seine Hand wusste trotzdem wohin.
+
+Die Agentur war still. Die Straßenbahn fuhr nicht mehr um diese Zeit. Irgendwo in Hamburg lief sein jüngster Bruder durch die Nacht mit einem Zeichenblock unter dem Arm und tintenverschmierten Fingern und einem Satz, den er sechzehn Jahre lang nicht gesagt hatte.
+
+Leon zeichnete.
+
+Er warf das Post-it nicht weg.
+
+_[Szene 20.2 — Ende]_
+
+_Ende Kapitel 20_
+
+_Wörter: ca. 3.000_

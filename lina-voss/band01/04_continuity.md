@@ -8,11 +8,11 @@
 
 | Figur | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 |-------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-----|
-| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | (x) | | | | | | |
+| Leon | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | (x) | | x | | | | |
 | Nora | x | x | x | | x | x | x | x | x | x | x | x | x | x | x | x | x | x | | | | | | |
 | Carla | x | x | | x | x | x | x | x | x | x | x | | x | x | | (x) | x | | | | | | | |
 | Werner | | x | | x | | | | | | | (x) | | | (x) | | | | | | | | | | |
-| Nils | x | x | x | x | x | | x | | x | | x | | | x | | | | (x) | | | | | | |
+| Nils | x | x | x | x | x | | x | | x | | x | | | x | | | | (x) | | x | | | | |
 | Jakob | | x | x | x | x | x | x | x | x | x | x | | | x | | | | (x) | | | | | | |
 | Maren | | x | | x | | | x | | x | x | x | | | | | | | | | | | | | |
 | Tom | | x | | x | x | x | x | x | x | | x | | | x | | | | (x) | | | | | | |
@@ -48,7 +48,7 @@
 | 17 | Do + Fr | Nachmittag + Abend (19:12) | Woche 10 | 17.1: Donnerstag, Muster-Erkennung. 17.2: Freitag 19:12, Agentur leer, Glaskasten-Konfrontation. „Ich will dich nicht nur um zwei Uhr nachts." + „Ich muss aufhören zu glauben, dass mein Licht dich retten kann." Nora geht. Tür-Klick. Licht brennt. |
 | 18 | Freitag | Abend (19:28–22:15) | Woche 10 | Selber Freitag wie Kap 17. 18.1: Leon allein nach Noras Abgang (19:28). Monitore an, kann nicht arbeiten. Folie 4 = Reflex versagt. Glaskasten als Käfig (nicht Schutz). „Menschen gehen lassen. Darin war er gut." 18.2: Carla kommt ~22 Uhr (Mappe vergessen). Sieht Leon im Dunkeln (Monitore runtergefahren). „Deine Monitore sind aus, Leon." „Weißt du eigentlich, dass ich da bin?" → „Ich halte dir den Rücken frei. Seit ich fünfzehn bin." → „Irgendwann musst du dich umdrehen und es sehen." Carla schluckt (einmal, nie). Leon kann nicht antworten. Carla nickt — reicht für heute. „Fahr nach Hause, Leon." Schluss: „Er konnte nichts. Und zum ersten Mal seit sechzehn Jahren war das die Wahrheit." |
 | 19 | Mo–Do | Ganztags + Abend | Woche 10–11 | 19.1: Montag–Donnerstag nach dem Bruch. Professionelle Distanz — „Morgen" ohne Blick. Kein Performance-Lächeln mehr, aber Nicht-Performen ≠ Freiheit. Mittwoch: erstmals vor 18 Uhr nach Hause, an der Küche vorbei. Donnerstag: sachliche Stiftungs-Mail von Leon (cc Werner, kein PS). Nora antwortet sachlich (kein PS). Abends Küchentisch → scrollt zu „Mama". 19.2: Dienstag-Anruf (nicht Sonntag). Renate redet: Nachbarshund, Wetter, Krokusse, Kochsendung. Fragt nie. Omas Kartoffelrezept (Rosmarin) → Oma-Erinnerung (Lokstedt, gelbe Fliesen). „Omas Geschichten hatten Hände. Renates hatten Vorhänge." Nora will sagen: „Frag mich wie es mir geht" — sagt „Nichts." Danach: „Ich will nicht mehr Sonne sein für Menschen die nicht fragen." Öffnet leeres Dokument. Schreibt nicht. Lässt es offen. |
-| 20 | | Nacht (2 Uhr) | Woche 11 | Nils-Nacht |
+| 20 | Di/Mi | Nacht (2:13–ca. 3:30) | Woche 11 | Leon allein, Tabellen sinnlos, Küchenboden-Erinnerung. Nils kommt mit Zeichenblock (zeichnet hier manchmal nachts — Leon wusste es nicht). „Bleib." — ein Wort, eine Bitte. Nebeneinander durch Glaswand. Kaffee für Nils (weiß nicht ob er Zucker nimmt — hat es nie gewusst). Leon zeichnet unbewusst auf Post-it (halbes Auge). Nils' Stiftdrehung = Mamas Geste. „Du zeichnest wie Mama." Stille. Nils zeichnet weiter. Geht. An der Tür: „Du auch, weißt du. Du zeichnest auch wie sie." Leon zeichnet weiter. Wirft Post-it nicht weg. |
 | 21 | Freitag | Abend (bis 22 Uhr) | Woche 11 | Küchenboden + Mail-PS |
 | 22 | Samstag | Nachmittag | Woche 11 | Nora schreibt + Leon an der Tür |
 | 23 | Samstag | Nachmittag | Woche 11 | Steamy #3 — Tageslicht |
@@ -209,7 +209,7 @@
 | Sonntagsmail-Motiv | 2 | 21 | ⬜ | Leons Charakter (Arbeitssucht). Payoff Kap 21: er hört auf — seine Entwicklung, kein Geschenk an Nora. Nora bekommt die Sonntagsmail wie alle anderen. |
 | Noras Mama-Muster (Leuchten) | 1 (gesät), 3 (explizit) | 17, 19 | ✏️ | Kap 1: Performer-Maske (Maklerin). Kap 3: Muster GEZEIGT — Zettel für Mama, Brötchen für Nachbarin, Kaffee für Leon. „Sie gab. Immer." Nora verbindet es nicht. |
 | Küchenboden-Parallele | Backstory | 21 | ✏️ | Leon mit 16 → Leon jetzt. Kap 15: Küchenboden als Ort der Verletzlichkeit etabliert (Steamy #2, er bleibt). Payoff Kap 21: Küchenboden = Erinnerung an den Moment wo er echt war. Er sitzt allein dort, atmet, steht auf. |
-| Nils zeichnet wie Mama | 4 | 20 | ⬜ | „Du zeichnest auch wie sie" |
+| Nils zeichnet wie Mama | 4 | 20 | ✅ | „Du zeichnest auch wie sie" |
 | Leon zeichnet Nora (Post-it) | 6 | — | ✏️ | Tom sieht es durch Glaswand, sagt nichts. Maren war im Außendreh (Wellberg-Auftrag). |
 | Carla-Leon: 15 Jahre Loyalität | 2 | 18 | ✏️ | Kap 2: Rückblende — Carla überstimmt Leon mit Zahlen, wortloses System, „fünfzehn Jahre eingespielt". Payoff Kap 16: „Irgendwann musst du dich umdrehen" |
 | Carla-Stich: Ausnahme für Nora | 8 | 14 | ✅ | Unausgesprochener Gedanke. Kap 14: „Mit Referenzen." Carla sieht, dass Leon für Nora Arbeit investiert, die er in 15 Jahren für sie nie geleistet hat. Kunden-Lächeln statt wortloses System. Leon sieht den Riss, versteht ihn nicht. |
@@ -278,6 +278,9 @@
 | Leons Post-it-Zeichnungen | | Noras Profil, zerknüllt |
 | Nils' Servietten-Zeichnungen | | Klappt zu wenn jemand schaut |
 | Nils' tintenverschmierte Finger | 1 | Etabliert bei erster Begegnung |
+| Nils' Zeichenblock + Lederetui | 20 | Block voller Zeichnungen (Linien, Schatten, Formen). Lederetui abgewetzt an den Kanten. Stift in Spiralbindung. |
+| Blaue Tasse (Henkel angeschlagen) | 20 | Leon nimmt sie aus dem Schrank für Nils. Weiß nicht wem sie gehört. |
+| Leons Post-it-Auge | 20 | Halbes Auge — seins oder das der Mutter. Zeichnet unbewusst weiter. Wirft es NICHT weg (Kontrast zu Kap 6). |
 | Nils' Notizbuch + Stift | 1 | „Kratzen von Nils' Stift der etwas in sein Notizbuch schrieb" — nachmittags |
 | Maren-Foto (Leon→Nora) | | Existiert, wird nicht besprochen |
 | Sonntagsmail (Aufgaben-Dokument) | | Ganzes Team bekommt es, Nora nicht |
@@ -334,7 +337,7 @@
 | 17 | ~3.000 | Outline-treu. 17.1: Donnerstag, Muster-Erkennung — Nora sieht: auch Pünktlichkeit um 18 Uhr ist Ausrichtung auf Leon. Stiftungstexte (Edith, Kirchenglocke 1962). Mama-Parallele explizit (Renate, Zettel, Vorhänge). Entscheidung: nicht warten, sondern sagen und gehen. 17.2: Freitag 19:12. Agentur leer (Reihenfolge: Elena, Jan, Nils, Jakob, Carla). Carla sieht Nora, sagt „Geh nach Hause" — Nora: „Gleich." Geht in Glaskasten, schließt Tür. „Ich will dich nicht nur um zwei Uhr nachts." Leon erstarrt. Fast hätte sie aufgehört (Hand ausstrecken, Mama-Reflex). Zweiter Satz: „Und ich muss aufhören zu glauben, dass mein Licht dich retten kann." Leon: „Nora —" / „Nein. Nicht jetzt. Nicht so." Tür-Klick (klein, nicht dramatisch). Schulterblatt, Licht brennt noch. | Noras Climax. Doppel-Break: Satz 1 bricht Tag/Nacht-Muster, Satz 2 bricht Mama-Muster. Carla als Letzte in der Agentur (kommt in Kap 18 zurück). Stifte parallel (rot links, schwarz rechts) = Callback Kap 2. Leerer Becher aus 16.2 jetzt halb voll. Blätter Schrift-nach-unten noch neben Monitor. |
 | 18 | ~2.500 | Outline-treu + erweitert. 18.1 kürzer (~1.200 W, Stillstand — Leon kann nicht arbeiten). 18.2: Carla-Konfrontation mit neuem Einstieg „Weißt du eigentlich, dass ich da bin?" (nicht in Outline, stärker). Outline-Satz „Irgendwann musst du dich umdrehen" kommt als Höhepunkt NACH der Einstiegsfrage. Carla schluckt = einmaliges Zeichen. Nicken als Akzeptanz. „Fahr nach Hause" spiegelt Carlas „Geh nach Hause, Nora" aus 17.2. | Carla-Szene #6 (Konfrontation) ✅ geliefert. Fünfzehn-Jahre-Rückblick (Carla mit 15/20/25). Matthias-Referenz (Papa aufgehört). Monitore-aus als Beweis dass Fassade gefallen. Zwei-Frauen-eine-Nacht als Struktur-Element. |
 | 19 | | | |
-| 20 | | | |
+| 20 | ~3.000 | Outline-treu. 20.1: Leon allein + Nils kommt + „Bleib" + Kaffee. 20.2: Mama-Erinnerung (Samstagnachmittage, Stiftdrehung, Katrin). „Du zeichnest wie Mama" + „Du auch, weißt du." Post-it nicht weggeworfen. | Nils-Nacht als Bruder-Szene, nicht Agentur-Szene. Janneke als letzte Kollegin erwähnt. Blaue Tasse (Henkel angeschlagen). Nils sitzt an Marens Platz. Lederetui abgewetzt. Kugelschreiber statt Rotstift für Post-it-Zeichnung. „Seit immer" als Nils-Tintenflecken-Erkennung. Mama nie beim Namen genannt (immer Umschreibung) — hier erstmals „Mama" laut ausgesprochen. |
 | 21 | | | |
 | 22 | | | |
 | 23 | | | |
