@@ -13,9 +13,9 @@
 | Phase 1: Ending | ✅ Fertig | `01_ending.md` |
 | Phase 2+3: Outline + Kapitelplan | ✅ Fertig | `02_outline.md` |
 | Phase 4: Schreiben | ✅ Fertig (24/24 Kapitel) | `05_manuscript.md` |
-| Phase 5: Lektorat | ⏳ Nächster Schritt | — |
-| Phase 6: Testleserin | ⬜ | — |
-| Phase 7: KDP Listing + Cover | ⬜ | — |
+| Phase 5: Lektorat | ✅ Fertig (~120 Eingriffe) | `06_editing_report.md` |
+| Phase 6: Testleserin | ✅ Fertig (Svenja ⭐⭐⭐⭐⭐) | `06_beta_svenja.md` |
+| Phase 7: KDP Listing + Cover | ⏳ Nächster Schritt | — |
 | Phase 8: Abschluss | ⬜ | — |
 
 ## Entscheidungen
@@ -35,7 +35,9 @@
 
 ## Nächster Schritt
 
-Phase 4: Schreiben — Session A (Kapitel 1–5, Akt 1: Setup)
+Phase 7: KDP Listing + Cover finalisieren
+
+## Kapitel-Log (Phase 4, abgeschlossen)
 → Szene-für-Szene-Workflow: jedes Kapitel in 2–4 Szenen à ~1.000–1.800 Wörter
 → Kapitel 1 fertig (~3.200 W, Nora POV)
 → Kapitel 2 fertig (~3.100 W, Leon POV)
@@ -62,4 +64,7 @@ Phase 4: Schreiben — Session A (Kapitel 1–5, Akt 1: Setup)
 → Kapitel 23 fertig (~3.000 W, Nora→Leon POV, Steamy #3 — Tageslicht, bewusst, offene Augen)
 → Kapitel 24 fertig (~2.600 W, Leon POV, „Brötchen" — Brunch-Epilog, Tom-Brötchen, Matthias-Blick, Werner-Spruch #4)
 → **PHASE 4 ABGESCHLOSSEN — Manuskript komplett (24/24 Kapitel)**
-→ **Nächster Schritt:** Phase 5/6 — Testleserin + Lektorat
+→ Beta-Reading Svenja: ⭐⭐⭐⭐⭐ — Feedback eingearbeitet (6 Punkte)
+→ Lektorat komplett (~120 Eingriffe): KI-Muster, Absatz-Rhythmus, Wortwiederholungen, Stilbrüche
+→ Meta-Marker entfernt — liest sich als durchgehender Roman
+→ **Nächster Schritt:** Phase 7 — KDP Listing + Cover finalisieren

@@ -194,36 +194,35 @@ Jeder Cousin hat einen Bogen der sich durch die gesamte Serie zieht — nicht nu
 
 ```
 lina-voss/
-├── serie/
+├── hartmann-serie/
 │   ├── 00_serien_bibel.md          ← diese Datei
 │   ├── agentur_rollen.md          ← Referenz: Rollen & Alltag in der Agentur
-│   └── figuren/
-│       ├── matthias.md               ← Vater Zweig 1
-│       ├── katrin.md                ← Matthias' Frau (†), Mutter Zweig 1
-│       ├── henrik.md                ← Vater Zweig 2 (abwesend, Rückkehr Band 5/6)
-│       ├── leon.md                  ← Protagonist Band 1
-│       ├── leon_li_nora.md          ← Love Interest Band 1
-│       ├── carla.md
-│       ├── carla_li_lasse.md        ← Love Interest Band 3
-│       ├── jakob.md
-│       ├── jakob_li_pia.md          ← Love Interest Band 2
-│       ├── maren.md
-│       ├── maren_li_finn.md         ← Love Interest Band 4
-│       ├── nils.md
-│       ├── nils_li_janna.md         ← Love Interest Band 5
-│       ├── tom.md
-│       ├── tom_li_annika.md         ← Love Interest Band 6
-│       └── werner.md
-├── band01/
-│   ├── briefing.json
-│   ├── 01_niche_analysis.md
-│   ├── 02_ending.md
-│   ├── 03_characters.md            ← kopiert aus serie/figuren/
-│   ├── 04_outline.md
-│   ├── 05_manuscript.md
-│   └── ...
-├── band02/
-│   └── ...
+│   ├── figuren/
+│   │   ├── matthias.md               ← Vater Zweig 1
+│   │   ├── katrin.md                ← Matthias' Frau (†), Mutter Zweig 1
+│   │   ├── henrik.md                ← Vater Zweig 2 (abwesend, Rückkehr Band 5/6)
+│   │   ├── leon.md                  ← Protagonist Band 1
+│   │   ├── leon_li_nora.md          ← Love Interest Band 1
+│   │   ├── carla.md
+│   │   ├── carla_li_lasse.md        ← Love Interest Band 3
+│   │   ├── jakob.md
+│   │   ├── jakob_li_pia.md          ← Love Interest Band 2
+│   │   ├── maren.md
+│   │   ├── maren_li_finn.md         ← Love Interest Band 4
+│   │   ├── nils.md
+│   │   ├── nils_li_janna.md         ← Love Interest Band 5
+│   │   ├── tom.md
+│   │   ├── tom_li_annika.md         ← Love Interest Band 6
+│   │   └── werner.md
+│   ├── band01/
+│   │   ├── 01_niche_analysis.md
+│   │   ├── 02_ending.md
+│   │   ├── 03_characters.md            ← kopiert aus figuren/
+│   │   ├── 04_outline.md
+│   │   ├── 05_manuscript.md
+│   │   └── ...
+│   ├── band02/
+│   │   └── ...
 ```
 
 **Hinweis:** Die Love-Interest-Dateien enthalten jeweils eine Sektion **Hintergrund-Figuren** mit ausgearbeiteten Nebenfiguren die für die Wunde/Backstory relevant sind (z.B. Pias Mentor Christian Kroll, Lasses Ex-Partner Kai Mertens + Eltern + Ex-Freundin Sinje, Finns Vater Ernst Callsen, Jannas Eltern Sven & Britta Lindgren, Annikas Krause-Brüder). Noras Datei enthält ihre Mutter Renate und Großmutter Ilse.

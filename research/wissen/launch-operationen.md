@@ -1,5 +1,5 @@
 # Launch-Operationen
-*Letzte Aktualisierung: 2026-02-25 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann), Instagram-Profil-Optimierung Transkript, Kindlepreneur: ARC Launch Team, Kindlepreneur: Editorial Reviews*
+*Letzte Aktualisierung: 2026-03-14 | Quellen: 7 Video-Transkripte, Rocket-Analysen, Keyword Research for Beginners, Reverse Engineer a Bestseller, Sapphire Club Video Guide, Booktok-Checkliste (Riedel/Hegermann), Bookstagram-Guide (Hegermann), Instagram-Profil-Optimierung Transkript, Kindlepreneur: ARC Launch Team, Kindlepreneur: Editorial Reviews, Sean Dollwet (2× YouTube)*
 
 ---
 
@@ -381,10 +381,44 @@ Ads sind kein Nice-to-have — sie katapultieren das Buch auf Seite 1 der Sucher
 3. Product Targeting: Top-5-Konkurrenz-ASINs der eigenen Kategorie targeten
 4. Schlechte Keywords (viele Klicks, 0 Käufe) negativ listen
 
+### Diagnose: Klicks ohne Käufe?
+
+Wenn eine Kampagne viele Klicks generiert aber kaum Verkäufe (hohe CTR, niedrige Conversion), liegt das Problem nicht bei der Ad selbst, sondern bei:
+- Cover passt nicht zur Erwartung (falscher Genre-Eindruck)
+- Beschreibung überzeugt nicht
+- Preis zu hoch für die Nische
+- Falsche Keywords → falsches Publikum angelockt
+
+Wenn Ads gut konvertieren → Budget schrittweise erhöhen.
+[Quelle: 7 Easy Ways to Increase Your KDP Book Sales, 2026-03-14, Sean Dollwet/YouTube]
+
 ### Für Lina Voss
 - Ads erst wenn 10 Reviews vorhanden (Launch-Ziel Woche 1)
 - Budget-Start: 5€/Tag Auto → nach 14 Tagen auf manuelle Kampagne umstellen
 - Wichtigste Basis-Keywords für manuelle Kampagne: aus `keywords-lina-voss.md`
+
+---
+
+## Launch-Preis-Strategie
+
+In der Launch-Phase kann ein reduzierter Preis die Kaufschwelle senken und schneller Social Proof aufbauen. Nach 10-15 Reviews und stabiler Conversion schrittweise auf Zielpreis erhöhen.
+
+⚠️ Für Romance-eBooks bei 4,99 € (70%-Royalty-Schwelle) gibt es kaum Spielraum nach unten — unter 2,99 € fällt die Royalty auf 35%. Taktik eher relevant für Taschenbuch-Preisgestaltung.
+[Quelle: 7 Easy Ways to Increase Your KDP Book Sales, 2026-03-14, Sean Dollwet/YouTube]
+
+---
+
+## Back Matter: CTA-Struktur im Buch
+
+Am Ende jedes Buches (nach dem letzten Kapitel, vor dem Impressum) eine CTA-Seite einbauen:
+
+1. **Review-Bitte** — Kurz, persönlich, mit Direktlink (eBook) oder QR-Code (Taschenbuch)
+2. **Nächstes Buch** — Teaser + Vorbestellungslink für den Folgeband
+3. **E-Mail-Liste** — Lead-Magnet (Bonusszene) + Anmeldelink/QR-Code
+4. **Social Media** — Instagram/TikTok-Handle für Lina Elise Voss
+
+Reihenfolge bewusst: Review zuerst (höchste Priorität), dann Bindung.
+[Quelle: 7 Easy Ways to Increase Your KDP Book Sales, 2026-03-14, Sean Dollwet/YouTube]
 
 ---
 

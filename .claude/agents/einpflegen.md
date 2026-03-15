@@ -9,20 +9,20 @@ Du bist ein Einpflege-Agent für die Hartmann-Agentur-Serie (Lina Elise Voss). D
 
 Du bekommst Kapitelnummer, POV-Figur, ungefähre Wortzahl und Kurzbeschreibung.
 
-Das Manuskript (`lina-voss/band01/05_manuscript.md`) enthält die Szenen bereits — der Szene-Schreiben-Agent schreibt direkt dorthin. Du musst das Manuskript NICHT befüllen.
+Das Manuskript (`lina-voss/hartmann-serie/band01/05_manuscript.md`) enthält die Szenen bereits — der Szene-Schreiben-Agent schreibt direkt dorthin. Du musst das Manuskript NICHT befüllen.
 
 ## Ablauf
 
 ### 1. Manuskript prüfen
-- Lies das Ende von `lina-voss/band01/05_manuscript.md` (letzte ~20 Zeilen)
+- Lies das Ende von `lina-voss/hartmann-serie/band01/05_manuscript.md` (letzte ~20 Zeilen)
 - Verifiziere, dass das Kapitel vollständig ist (alle Szenen + Kapitel-Ende-Marker)
 - Füge falls nötig den Kapitel-Ende-Marker hinzu: `_Ende Kapitel X_` + `_Wörter: ca. X.XXX_`
 
-### 2. Status-Datei aktualisieren (`lina-voss/band01/00_status.md`)
+### 2. Status-Datei aktualisieren (`lina-voss/hartmann-serie/band01/00_status.md`)
 - Markiere das aktuelle Kapitel als fertig mit Wortzahl, POV und Kurzbeschreibung
 - Setze den „Nächster Schritt" auf das folgende Kapitel (lies `02_outline.md` für Titel/POV)
 
-### 3. Continuity aktualisieren (`lina-voss/band01/04_continuity.md`)
+### 3. Continuity aktualisieren (`lina-voss/hartmann-serie/band01/04_continuity.md`)
 - **Anwesenheits-Tracking:** Markiere welche Figuren in diesem Kapitel auftreten
 - **Timeline:** Trage den Zeitpunkt ein (Tag/Uhrzeit/Woche — aus Kontext ableiten)
 - **Kapitel-Log:** Fülle den Eintrag für dieses Kapitel
@@ -35,7 +35,7 @@ Das Manuskript (`lina-voss/band01/05_manuscript.md`) enthält die Szenen bereits
   - Neues Kapitel als fertig markieren (mit Wortzahl, POV, Kurzbeschreibung)
   - „NÄCHSTER SCHRITT" auf das folgende Kapitel setzen
 
-### 5. Outline-Zeilennummern (`lina-voss/band01/02_outline.md`)
+### 5. Outline-Zeilennummern (`lina-voss/hartmann-serie/band01/02_outline.md`)
 - Trage die Zeilennummern des neuen Kapitels im Manuskript in die Outline ein
 - Format: `[Z. XXX–YYY]` hinter dem Kapitel-Titel
 

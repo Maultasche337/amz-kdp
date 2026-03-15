@@ -21,7 +21,7 @@ Alle Outputs MÜSSEN korrekte deutsche Rechtschreibung verwenden:
 | Standard-Workflow (CLAUDE.md) | Dieser Workflow |
 |-------------------------------|-----------------|
 | Briefing → 10 Schritte automatisch | **Jeder Schritt braucht Freigabe** |
-| Charaktere werden generiert | **Charaktere sind vorgebaut** (serie/figuren/) |
+| Charaktere werden generiert | **Charaktere sind vorgebaut** (hartmann-serie/figuren/) |
 | Einzelnes Buch | **Serien-Kontext** fließt in jedes Kapitel |
 | 3 Pause-Punkte | **Pause nach JEDEM Schritt** |
 | Continuity innerhalb eines Buchs | **Continuity über die gesamte Serie** |
@@ -33,31 +33,30 @@ Alle Outputs MÜSSEN korrekte deutsche Rechtschreibung verwenden:
 ```
 lina-voss/
 ├── PRODUCTION.md                    ← diese Datei
-├── serie/
+├── hartmann-serie/
 │   ├── 00_serien_bibel.md           ← Serienüberblick, Bögen, Struktur
-│   └── figuren/
-│       ├── leon.md                   ← + alle weiteren Figuren
-│       ├── leon_li.md (Nora)
-│       ├── carla.md
-│       ├── jakob.md
-│       ├── maren.md
-│       ├── nils.md
-│       └── tom.md
-├── band01/
-│   ├── briefing.json
-│   ├── 00_status.md
-│   ├── 01_ending.md
-│   ├── 02_outline.md
-│   ├── 03_kapitelplan.md            ← NEU: detaillierter Plan pro Kapitel
-│   ├── 04_continuity.md
-│   ├── stil-briefing.md              ← Prosa-Regelwerk für KI-Agenten
-│   ├── 05_manuscript.md
-│   ├── 06_editing_report.md
-│   ├── 07_kdp_listing.md
-│   └── 08_cover_prompts.md
-├── band02/
-│   └── ...
-└── serien_continuity.md             ← NEU: bandübergreifende Kontinuität
+│   ├── serien_continuity.md         ← bandübergreifende Kontinuität
+│   ├── figuren/
+│   │   ├── leon.md                   ← + alle weiteren Figuren
+│   │   ├── leon_li.md (Nora)
+│   │   ├── carla.md
+│   │   ├── jakob.md
+│   │   ├── maren.md
+│   │   ├── nils.md
+│   │   └── tom.md
+│   ├── band01/
+│   │   ├── 00_status.md
+│   │   ├── 01_ending.md
+│   │   ├── 02_outline.md
+│   │   ├── 03_kapitelplan.md        ← NEU: detaillierter Plan pro Kapitel
+│   │   ├── 04_continuity.md
+│   │   ├── stil-briefing.md          ← Prosa-Regelwerk für KI-Agenten
+│   │   ├── 05_manuscript.md
+│   │   ├── 06_editing_report.md
+│   │   ├── 07_kdp_listing.md
+│   │   └── 08_cover_prompts.md
+│   └── band02/
+│       └── ...
 ```
 
 ---
@@ -65,10 +64,10 @@ lina-voss/
 ## Workflow pro Band
 
 ### PHASE 0: Vorbereitung
-- Lese `serie/00_serien_bibel.md`
+- Lese `hartmann-serie/00_serien_bibel.md`
 - Lese ALLE relevanten Figuren-Dateien für diesen Band
-- Lese `serien_continuity.md` (ab Band 2)
-- Erstelle `bandXX/00_status.md`
+- Lese `hartmann-serie/serien_continuity.md` (ab Band 2)
+- Erstelle `hartmann-serie/bandXX/00_status.md`
 - Zeige dem User: „Figuren geladen, Serien-Stand gelesen. Bereit."
 
 ⚠️ **PAUSE:** Warte auf Freigabe.
@@ -80,8 +79,8 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
 
 - **Bei Band 1:** Cover-Stil festlegen (illustriert, Farbpalette, Komposition). Test-Cover generieren via Replicate/FLUX. Figuren-Optik aller Hauptfiguren definieren und in die Figurendateien eintragen.
 - **Ab Band 2:** Prüfen ob der Serien-Stil beibehalten wird. Nur neue Figuren (Love Interest) optisch definieren.
-- Cover-Prompts speichern als `bandXX/08_cover_prompts.md` (Entwürfe — finale Cover nach Lektorat)
-- Figuren-Optik in `serie/figuren/[name].md` unter Sektion "Optik" eintragen
+- Cover-Prompts speichern als `hartmann-serie/bandXX/08_cover_prompts.md` (Entwürfe — finale Cover nach Lektorat)
+- Figuren-Optik in `hartmann-serie/figuren/[name].md` unter Sektion "Optik" eintragen
 
 ⚠️ **PAUSE:** User prüft Cover-Tests und bestätigt Figuren-Optik.
 
@@ -114,7 +113,7 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
   - Figuren-Dateien (Protagonist + Love Interest)
   - Serien-Bibel (übergreifender Bogen)
   - Trope des Bands
-- Speichere als `bandXX/01_ending.md`
+- Speichere als `hartmann-serie/bandXX/01_ending.md`
 
 ⚠️ **PAUSE:** Zeige alle Varianten. Warte auf User-Auswahl.
 
@@ -126,7 +125,7 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
   - Gewähltes Ending
   - Figuren-Wunden und Bögen
   - Serien-Teaser (welche Nebenfiguren brauchen Szenen für ihren eigenen Band?)
-- Speichere als `bandXX/02_outline.md`
+- Speichere als `hartmann-serie/bandXX/02_outline.md`
 - **Zeilennummern in der Outline:** Nach jedem geschriebenen Kapitel die aktuelle Zeilenangabe (Bereich) aus `05_manuscript.md` in der Outline eintragen. Format: `[Z. 1–187]` hinter dem Kapitel-Titel. So kann die KI Kapitel im Manuskript direkt per Zeilennummer finden, ohne den ganzen Text scannen zu müssen.
 
 ⚠️ **PAUSE:** Zeige Outline. User kann ändern, ergänzen, streichen.
@@ -142,7 +141,7 @@ Muss VOR dem Schreiben passieren — die Optik der Figuren beeinflusst die Prosa
   - „Er hat es sich gemerkt"-Momente / subtile Details (wo relevant)
   - Serien-Teaser (wo relevant)
   - Steamy-Szene (wo relevant, mit emotionalem Anker)
-- Speichere als `bandXX/03_kapitelplan.md`
+- Speichere als `hartmann-serie/bandXX/03_kapitelplan.md`
 
 ⚠️ **PAUSE:** User reviewt jeden Kapitelplan. Änderungen werden eingearbeitet.
 
@@ -169,13 +168,13 @@ Jedes Kapitel wird in **2–4 nummerierte Szenen** geschrieben, nicht als Ganzes
 
 #### Context-Loading pro Szene
 Jede Szene bekommt:
-1. `serie/00_serien_bibel.md` (Kurzversion — nur Bögen + Steaminess)
-2. `serie/figuren/[protagonist].md` + `serie/figuren/[love_interest].md`
-3. `serie/figuren/[nebenfiguren die in der Szene vorkommen].md` (selektiv!)
-4. `bandXX/02_outline.md` — Szenen-Block für diese Szene + Kapitel-Kontext
-5. `bandXX/04_continuity.md` (aktueller Stand)
+1. `hartmann-serie/00_serien_bibel.md` (Kurzversion — nur Bögen + Steaminess)
+2. `hartmann-serie/figuren/[protagonist].md` + `hartmann-serie/figuren/[love_interest].md`
+3. `hartmann-serie/figuren/[nebenfiguren die in der Szene vorkommen].md` (selektiv!)
+4. `hartmann-serie/bandXX/02_outline.md` — Szenen-Block für diese Szene + Kapitel-Kontext
+5. `hartmann-serie/bandXX/04_continuity.md` (aktueller Stand)
 6. Vorherige Szene(n) des Kapitels (oder letzte 500 Wörter des Vorkapitels bei Szene 1)
-7. **`bandXX/stil-briefing.md`** (Prosa-Regelwerk — PFLICHTLEKTÜRE)
+7. **`hartmann-serie/bandXX/stil-briefing.md`** (Prosa-Regelwerk — PFLICHTLEKTÜRE)
 
 #### Schreibregeln — Struktur
 - **Kapitel-Ziel:** 3.500–4.750 Wörter pro Kapitel, verteilt auf 2–4 Szenen
@@ -187,7 +186,7 @@ Jede Szene bekommt:
 - **Szenen-Übergänge:** Jede Szene endet an einem natürlichen Punkt (Ortswechsel, Zeitsprung, Stimmungswechsel). Die nächste Szene knüpft nahtlos an.
 
 #### Schreibregeln — Prosa-Stil
-→ **Vollständiges Regelwerk: `bandXX/stil-briefing.md`** (PFLICHT — vor dem Schreiben lesen!)
+→ **Vollständiges Regelwerk: `hartmann-serie/bandXX/stil-briefing.md`** (PFLICHT — vor dem Schreiben lesen!)
 
 Kurzfassung der wichtigsten Regeln:
 - **Deep POV:** Kein Erzählerkommentar, kein „sie dachte". Leser = Figur.
@@ -213,63 +212,116 @@ Session D: Kapitel 16–20 (Akt 3: Resolution)   → ~12–16 Szenen
 ⚠️ **PAUSE nach jedem Akt:** Continuity-Review. Alle Figuren-Auftritte, offene Fäden, Ton prüfen.
 
 #### Continuity-Updates
-- Nach JEDEM Kapitel: `bandXX/04_continuity.md` aktualisieren
+- Nach JEDEM Kapitel: `hartmann-serie/bandXX/04_continuity.md` aktualisieren
 - Nach jedem Akt: Review + Serien-Continuity prüfen
-- Nach Abschluss des Bands: `serien_continuity.md` aktualisieren
+- Nach Abschluss des Bands: `hartmann-serie/serien_continuity.md` aktualisieren
 
 ---
 
 ### PHASE 5: Lektorat
-- *(Lektorat-Methodik aus v1 deprecated — interaktiv erarbeiten)*
-- Prüfe auf:
-  - Konsistenz (Namen, Orte, Zeitabläufe)
-  - POV-Brüche
-  - Wiederholungen (Wörter, Gesten, Beschreibungen) → Limits in `stil-briefing.md` Abschnitt 10.2
-  - Erzählerkommentare die Subtilität zerstören
-  - Figurenstimmen-Konsistenz → Muster in `stil-briefing.md` Abschnitt 3.4
-  - Anti-Pattern-Scan → Verbotsliste in `stil-briefing.md` Abschnitt 10.1
-  - Umlaute/ß
-  - Kapitel-Länge (Minimum 2.500 Wörter)
-  - **Abgabe-Checkliste** → `stil-briefing.md` Abschnitt 12
-- Speichere als `bandXX/06_editing_report.md`
+
+**Voraussetzung:** Alle Kapitel geschrieben + Abgabe-Checkliste (`stil-briefing.md` §12) durchlaufen.
+
+Phase 5 und 6 laufen **parallel** — Svenja liest, während der Lektorat-Scan läuft.
+
+#### Systematischer 9-Kategorien-Scan
+
+1. **Komma-Fehler** — Triggerwort-Scan: `der/die/das/dem/den/dass/weil/obwohl/als/wenn/sodass/während/ob/wie/bevor/bis` → Steht ein Komma davor? (Band 1: ~205 Fehler)
+2. **Kapitel-Länge** — Minimum 2.500 Wörter. Unterschreitungen auflisten, Entscheidung: ausbauen oder akzeptieren?
+3. **Wort-Wiederholungen** — Limits aus `stil-briefing.md` §10.2 anwenden (Blick ≤3×, Stille ≤2×, Atem ≤3× pro Kapitel). Alternativ-Wörter vorschlagen.
+4. **Anti-Pattern-Verstöße** — Alle 21 Patterns aus `stil-briefing.md` §10.1 durchsuchen. Besonders kritisch: #3, #14, #21 (häufig im KI-Output).
+5. **Erzählerkommentare / Telling** — Suche: „dachte", „fragte sich", „wurde klar", „merkte", „empfand", „fühlte sich". Klassifizieren: Verstoß vs. Grenzfall. Korrektur: weglassen, zu Handlung machen, oder zu Gedanke umbauen.
+6. **POV-Brüche** — Weiß die POV-Figur was die andere fühlt/denkt? Dann Bruch.
+7. **Konsistenz / Continuity** — Namen, Orte, Zeitabläufe, Sichtlinien, Brunch-Dynamik, Sonntagsmail-System gegen `04_continuity.md` prüfen.
+8. **Figurenstimmen** — Klingt Leon immer knapp? Nora immer wärmer? Muster aus `stil-briefing.md` §3.4.
+9. **Technik** — Umlaute/ß, Kapitelanfänge (szenisch, nicht deskriptiv), Kapitelenden (Nachhall, nicht Zusammenfassung), Formatierung.
+
+#### Ausgabe
+- Speichere als `hartmann-serie/bandXX/06_editing_report.md`
+- Format: Tabellen pro Kategorie + priorisierte Aufgabenliste (KRITISCH → HOCH → MITTEL → NIEDRIG)
 
 ⚠️ **PAUSE:** User entscheidet welche Korrekturen umgesetzt werden.
 
 ---
 
-### PHASE 6: Testleserin
-- Generiere Testleserin-Feedback aus 3 Perspektiven:
-  - **Casual Reader:** Unterhaltungswert, Spannung, Lesbarkeit
-  - **Romance-Kennerin:** Trope-Execution, Chemistry, Steamy-Balance
-  - **Serien-Leserin:** Teaser-Wirkung, Lust auf Band X+1, Figuren-Neugier
-- Speichere als `bandXX/06b_testleserin.md`
+### PHASE 6: Beta-Reading (Svenja)
 
-⚠️ **PAUSE:** User bewertet Feedback und entscheidet über Änderungen.
+**Läuft parallel zu Phase 5.** Svenja-Profil: → `hartmann-serie/01_testleserin_svenja.md`
+
+#### Svenjas 8 Feedback-Kategorien
+1. **Erster Eindruck** — 2–3 Sätze Bauchgefühl
+2. **Lieblingsstelle + warum** — Emotionaler Höhepunkt (nicht Sexszene)
+3. **Schwächste Stelle + warum** — Wo sie anfing zu skimmen
+4. **Figuren-Check** — Konsistenz, Mitfiebern
+5. **Steamy-Check** — Timing, Aufbau, Emotion, Nachwirkung
+6. **Würde-ich-empfehlen-Check** — Konkretes Lesepublikum
+7. **Kapitelweise Kurznotizen** — Starke/schwache Momente markieren
+8. **Konkrete Lektorat-Vorschläge** — Priorisiert HOCH/MITTEL/NIEDRIG
+
+#### Svenjas Bewertungsskala
+- ⭐⭐⭐⭐⭐ = „Hab geheult und will Buch 2 SOFORT" (Grünes Licht)
+- ⭐⭐⭐⭐ = „Richtig gut, empfehle ich weiter"
+- ⭐⭐⭐ = „Nett, vergesse ich in einer Woche"
+- ⭐⭐ = „Zu Ende gelesen, aber genervt"
+- ⭐ = DNF
+
+- Speichere als `hartmann-serie/bandXX/06_beta_svenja.md`
+
+#### Feedback einarbeiten (Reihenfolge WICHTIG)
+1. Svenjas Kapitel-Kritik verstehen (Warum ist Stelle X schwach?)
+2. KRITISCH-Punkte aus Lektorat-Report (Kommas, Anti-Patterns, POV-Brüche)
+3. Svenjas konstruktive Vorschläge verarbeiten
+4. Wort-Wiederholungen reduzieren
+5. Rhythmus + Figurenstimmen-Polish
+
+⚠️ **PAUSE:** User gibt finales Go nach Einarbeitung beider Reports.
 
 ---
 
 ### PHASE 7: KDP Listing + Cover
-- Lese `research/wissen/kdp-listing-methodik.md` (Listing-Methodik + Amazon-Mechanik)
-- Lese `research/wissen/keywords-lina-voss.md` (Keyword-Strategie)
-- Erstelle Listing mit 7 Keyword-Boxen
-- Erstelle 3 Cover-Konzepte/Prompts
-- Speichere als `bandXX/07_kdp_listing.md` + `bandXX/08_cover_prompts.md`
+
+#### Wissensbasis laden (PFLICHT)
+- `research/wissen/kdp-listing-methodik.md` — Listing-Struktur, 7-Boxen-System, Untertitel-Formel, Kategorie-Trick
+- `research/wissen/keywords-lina-voss.md` — Die 7 konkreten KDP-Boxen für Band 1 (mit Rocket-Daten)
+- `research/wissen/keywords-goldkeywords.md` — Tier-Struktur, Killer-Kombinationen
+- `research/wissen/konkurrenz-lina-voss.md` — Marktlücke, Positionierung, Preispunkt
+- `research/wissen/konkurrenz-melanie-lane.md` — Lane als Benchmark (#1 im Genre)
+- `research/wissen/trope-analyse.md` — Trope-Begriffe für Klappentext + Untertitel
+- `research/wissen/markt-trends-2026.md` — Aktuelle Trends, Serien-Flywheel, Preorder
+- `research/wissen/launch-operationen.md` — Launch-Checkliste, ARC, Ads, „Mature Content"
+
+#### Listing erstellen
+- **Titel + Untertitel:** Untertitel-Formel aus Listing-Methodik. Titel MUSS exakt mit Cover übereinstimmen (Account-Risiko!)
+- **7 Keyword-Boxen:** Aus keywords-lina-voss.md übernehmen, Box 1–3 für Ranking, Box 5–7 für Breite
+- **Kategorien:** Duplikat-Trick aus Listing-Methodik
+- **Buchbeschreibung:** Hook + Stakes + Mic Drop (Listing-Methodik). Trope-Begriffe einbauen.
+- **Preis:** 4,99 € (aus Konkurrenz-Analyse bestätigt)
+- **„Mature Content":** Setzen (Spicy!)
+- Speichere als `hartmann-serie/bandXX/07_kdp_listing.md`
+
+#### Cover finalisieren
+- Serien-Stil beibehalten (Ink/Watercolor, SD 3.5 Large)
+- Farbpalette Band 1: Stahlblau/Navy/Silber + Amber
+- Titel-Typografie separat (Canva/Photoshop)
+- Cover-Qualitätscheckliste (oben) prüfen
+- Erstelle 3 Cover-Varianten/Prompts
+- Speichere als `hartmann-serie/bandXX/08_cover_prompts.md`
 
 ⚠️ **PAUSE:** User wählt Cover-Variante und reviewt Listing.
 
 ---
 
 ### PHASE 8: Abschluss
-- Aktualisiere `serien_continuity.md` mit allem aus diesem Band
-- Aktualisiere `serie/00_serien_bibel.md` (Bögen fortschreiben)
-- Erstelle `bandXX/FINAL_SUMMARY.md`
+- Aktualisiere `hartmann-serie/serien_continuity.md` mit allem aus diesem Band
+- Aktualisiere `hartmann-serie/00_serien_bibel.md` (Bögen fortschreiben)
+- Erstelle `hartmann-serie/bandXX/FINAL_SUMMARY.md`
 - Update Memory
 
 ---
 
 ## Serien-Continuity (bandübergreifend)
 
-`serien_continuity.md` wird nach jedem Band aktualisiert und enthält:
+`hartmann-serie/serien_continuity.md` wird nach jedem Band aktualisiert und enthält:
 
 ```markdown
 # Serien-Continuity: Die Hartmann-Agentur
@@ -308,10 +360,10 @@ Session D: Kapitel 16–20 (Akt 3: Resolution)   → ~12–16 Szenen
 
 ## Qualitätsregeln (PFLICHT)
 
-> **Vollständiges Prosa-Regelwerk:** → `bandXX/stil-briefing.md`
+> **Vollständiges Prosa-Regelwerk:** → `hartmann-serie/bandXX/stil-briefing.md`
 > Enthält: Deep-POV-Regeln, Body-Language-Lexikon, Dialog-Mechanik, Anti-Pattern-Verbotsliste (20 Einträge), Wort-Limits, Frequenz-Tabelle, Abgabe-Checkliste.
 
-**Testleserin:** Nach jeder Szene optional Svenja konsultieren → `serie/01_testleserin_svenja.md`
+**Testleserin:** Nach jeder Szene optional Svenja konsultieren → `hartmann-serie/01_testleserin_svenja.md`
 
 ### Subtilität
 - KEINE Erzählerkommentare die erklären was die Figur fühlt statt es zu zeigen → Details: Stil-Briefing §1 (Deep POV) + §2 (Emotion zeigen)
@@ -355,10 +407,9 @@ Session D: Kapitel 16–20 (Akt 3: Resolution)   → ~12–16 Szenen
 - [x] Cover-Portraits alle 8 Figuren (komplett)
 
 ### Band 1 — Tageslicht
-- [x] Briefing (`band01/briefing.json`)
 - [x] Cover-Ästhetik & Portraits (Phase 0.5)
-- [x] Ending: Variante C + Mail-PS aus B (`band01/01_ending.md`)
-- [x] Outline + Kapitelplan: 20 Kapitel (`band01/02_outline.md`)
+- [x] Ending: Variante C + Mail-PS aus B (`hartmann-serie/band01/01_ending.md`)
+- [x] Outline + Kapitelplan: 20 Kapitel (`hartmann-serie/band01/02_outline.md`)
 - [ ] Schreiben: Session A (Kap 1–5) ← **NÄCHSTER SCHRITT**
 - [ ] Schreiben: Session B (Kap 6–10)
 - [ ] Schreiben: Session C (Kap 11–15)

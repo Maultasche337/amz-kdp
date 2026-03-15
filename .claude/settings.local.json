@@ -34,7 +34,8 @@
       "Bash(pip3 install:*)",
       "Bash(gh run list:*)",
       "Bash(brew list:*)",
-      "Bash(ssh:*)"
+      "Bash(ssh:*)",
+      "Bash(mv:*)"
     ]
   }
 }

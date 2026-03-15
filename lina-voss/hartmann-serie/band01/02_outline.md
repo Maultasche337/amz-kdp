@@ -700,4 +700,4 @@ Akt:    |——— Akt 1 ———|  |——— Akt 2a ———|  |——— Ak
 - **Kap 16 „Woher wusstest du das"** — konkretes Detail festlegen (aus welcher Mail genau?)
 - **Pitch-Kunde** — ✅ Brinkmann Getränke (Hamburger Traditions-Getränkemarke, 3. Generation, nationaler Rebrand)
 - **Stiftungsname** — ✅ Stiftung Lebenserinnerungen e.V.
-- **Continuity-Datei** — `band01/04_continuity.md` wird ab Kap 1 mitgeführt
+- **Continuity-Datei** — `04_continuity.md` wird ab Kap 1 mitgeführt

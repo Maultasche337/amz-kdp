@@ -1,5 +1,5 @@
 # Wissensbasis: KDP-Produktion
-*Letzte Aktualisierung: 2026-02-25*
+*Letzte Aktualisierung: 2026-03-14*
 
 ---
 
@@ -16,14 +16,14 @@
 
 | Thema | Datei | Stand | Status |
 |-------|-------|-------|--------|
-| Markt & Trends 2026 | [wissen/markt-trends-2026.md](wissen/markt-trends-2026.md) | 2026-02-23 | ✅ Aktuell |
+| Markt & Trends 2026 | [wissen/markt-trends-2026.md](wissen/markt-trends-2026.md) | 2026-03-14 | ✅ Aktuell |
 | Goldkeywords (alle) | [wissen/keywords-goldkeywords.md](wissen/keywords-goldkeywords.md) | 2026-02-23 | ✅ Aktuell |
 | Keywords Lina Voss | [wissen/keywords-lina-voss.md](wissen/keywords-lina-voss.md) | 2026-02-23 | ✅ Aktuell |
 | Keywords Maja Sternberg | [wissen/keywords-maja-sternberg.md](wissen/keywords-maja-sternberg.md) | 2026-02-23 | ⏸️ Geparkt |
 | Konkurrenz-Autorinnen | [wissen/konkurrenz-autorinnen.md](wissen/konkurrenz-autorinnen.md) | 2026-02-24 | ✅ Aktuell |
 | Konkurrenz Melanie Lane | [wissen/konkurrenz-melanie-lane.md](wissen/konkurrenz-melanie-lane.md) | 2026-02-24 | ✅ Neu |
 | Konkurrenz Lina Voss | [wissen/konkurrenz-lina-voss.md](wissen/konkurrenz-lina-voss.md) | 2026-02-24 | ✅ Aktuell |
-| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-02-25 | ✅ Erweitert (Amazon Ads) |
+| Launch-Operationen | [wissen/launch-operationen.md](wissen/launch-operationen.md) | 2026-03-14 | ✅ Erweitert (Ads-Diagnostik, Launch-Preis, Back Matter CTA) |
 | Regionale Settings | [wissen/regionale-settings.md](wissen/regionale-settings.md) | 2026-02-23 | ⏸️ Geparkt (Maja) |
 | Trope-Analyse | [wissen/trope-analyse.md](wissen/trope-analyse.md) | 2026-02-24 | ✅ Aktuell |
 | KDP Listing-Methodik | [wissen/kdp-listing-methodik.md](wissen/kdp-listing-methodik.md) | 2026-02-25 | ✅ Aktuell |
@@ -41,7 +41,7 @@
 - [x] Amazon Ads / KWT Grundstrategie (aus Heike Paschke Checkliste) → ✅ in launch-operationen.md
 - [ ] Amazon Ads vertieft: Bidding, ACoS-Ziele, Budget-Ramp (noch offen)
 - [ ] E-Mail-Liste / Newsletter-Strategie
-- [ ] Audiobook-Markt (ACX)
+- [~] Audiobook-Markt (ACX) — Grundinfo vorhanden, DE-Markt-Detail ausstehend
 
 ### Niedrig (irgendwann)
 - [ ] Regionen in Rocket: Sächsische Schweiz, Berchtesgaden, Salzkammergut

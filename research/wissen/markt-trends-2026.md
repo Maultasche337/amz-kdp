@@ -1,5 +1,5 @@
 # Markt & Trends 2026
-*Letzte Aktualisierung: 2026-02-23 | Quellen: Launch-Wissen, Rocket-Analysen, Trend-Auswertung*
+*Letzte Aktualisierung: 2026-03-14 | Quellen: Launch-Wissen, Rocket-Analysen, Trend-Auswertung, Sean Dollwet/YouTube*
 
 ---
 
@@ -57,9 +57,32 @@ Trope-Label im Untertitel
 - **BookTok/Bookstagram treibt Verkäufe massiv** — 576 Reviews in 19 Tagen (Tate)
 - **Schnelle Release-Kadenz wird belohnt** — Buck: 1 Buch alle 40 Tage
 
+## Format-Diversifizierung
+
+Jedes Buch in möglichst vielen Formaten veröffentlichen — mehrere Einkommensströme aus demselben Inhalt:
+
+| Format | Nutzen | Zusatzaufwand |
+|--------|--------|---------------|
+| **eBook** | Primärformat, höchste Marge (70% bei 4,99 €) | — |
+| **Taschenbuch** | Eigenes Amazon-Listing, Sichtbarkeit, Geschenkkäufe | Umschlag (Rücken + Rückseite) + Innenformat anpassen |
+| **Hardcover** | Premium-Segment, höherer Preispunkt | Gering — seit 2023 direkt über KDP möglich |
+| **Hörbuch** | Wachsender Markt, zusätzliche Zielgruppe | Narrator beauftragen (ACX/Audible) |
+
+### Hörbuch-Produktion
+
+- Plattform: **ACX** (Amazon/Audible) — auch auf amazon.de verfügbar
+- Kosten: Narrator mit Per-Finished-Hour-Rate, ca. 50-70 $/Stunde
+- Beispielrechnung: 8-Stunden-Roman ≈ 400-560 $ Produktionskosten
+- ⚠️ Deutschsprachige Narrator-Landschaft kleiner als EN. Alternative: **Findaway Voices** für breitere Distribution (Spotify, Apple Books, Kobo etc.)
+- Detail-Recherche für den deutschen Markt steht noch aus
+
+[Quelle: 7 Easy Ways to Increase Your KDP Book Sales, 2026-03-14, Sean Dollwet/YouTube]
+
+---
+
 ## Wissenslücken
 
-- [ ] Audiobook-Markt (ACX) nicht analysiert
+- [~] Audiobook-Markt (ACX) — Grundinfo vorhanden, Detail-Recherche für DE-Markt ausstehend
 - [ ] Deutsche BookTok-Community-Größe unbekannt
 - [ ] KDP Select vs. Wide Distribution nicht verglichen
 

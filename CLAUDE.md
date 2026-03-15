@@ -23,11 +23,11 @@ amz-kdp/
 │
 ├── lina-voss/                       ← AKTIV — Spicy Contemporary Romance
 │   ├── PRODUCTION.md                ← Produktions-Workflow (HIER lesen vor jedem Schritt!)
-│   ├── serie/
+│   ├── hartmann-serie/
 │   │   ├── 00_serien_bibel.md       ← Serienüberblick, Bögen, Struktur
 │   │   ├── agentur_rollen.md        ← Agentur-Referenz
-│   │   └── figuren/                 ← Alle Figurenprofile (Cousins + Love Interests)
-│   └── band01/                      ← Produktion Band 1 (Leon × Nora)
+│   │   ├── figuren/                 ← Alle Figurenprofile (Cousins + Love Interests)
+│   │   └── band01/                  ← Produktion Band 1 (Leon × Nora)
 │
 ├── research/                        ← Wissensbasis & Recherche
 │   ├── WISSENSBASIS.md              ← Master-Index aller Wissens-Themen

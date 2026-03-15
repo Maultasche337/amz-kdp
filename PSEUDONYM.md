@@ -414,8 +414,8 @@ Henrik verschwand nach dem Restaurant-Scheitern. Schulden. Seine drei Kinder lan
 - Agentur-Nachfolge als Finale: nicht Ein-Mann-Show, sondern Führungsteam
 - Jeder Band: eigenständige Liebesgeschichte + Serien-Fortschritt
 
-**Vollständige Serien-Bibel:** `lina-voss/serie/00_serien_bibel.md`
-**Alle Figurenprofile:** `lina-voss/serie/figuren/`
+**Vollständige Serien-Bibel:** `lina-voss/hartmann-serie/00_serien_bibel.md`
+**Alle Figurenprofile:** `lina-voss/hartmann-serie/figuren/`
 
 ---
 
@@ -500,9 +500,9 @@ Zum Vergleich: Layla Hagen macht ~9.353 €/Mo mit 10 Büchern bei 0,99 €. Bei
 - [x] Konkurrenzanalyse abschließen → **Hagen, Tate, Buck, Stone, Smith, Albert, Thorn**
 - [x] ALLE 17 Figurenprofile fertig (6 Cousins + Werner + Matthias + Katrin + Henrik + 6 Love Interests)
 - [x] Hintergrund-Figuren in alle LI-Dateien eingebettet
-- [x] Serien-Bibel komplett → `lina-voss/serie/00_serien_bibel.md`
-- [x] Agentur-Referenz → `lina-voss/serie/agentur_rollen.md`
-- [x] Briefing Band 1 → `lina-voss/band01/briefing.json`
+- [x] Serien-Bibel komplett → `lina-voss/hartmann-serie/00_serien_bibel.md`
+- [x] Agentur-Referenz → `lina-voss/hartmann-serie/agentur_rollen.md`
+- [x] Briefing Band 1 → `lina-voss/hartmann-serie/band01/briefing.json`
 - [ ] Cover-Stil testen (AI-generiert, illustriert) → Figuren-Optik daran anpassen
 - [ ] Figuren-Optik definieren (Haarfarbe, Statur, Stil — abhängig von Cover-Tests)
 - [ ] Produktion Band 1 starten (Phase 0–1)
